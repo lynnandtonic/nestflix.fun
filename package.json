@@ -1,0 +1,27 @@
+{
+  "name": "nestflix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "strict-npm-engines",
+    "prebuild": "strict-npm-engines",
+    "start": "",
+    "build": "mkdir -p _site && echo hello > _site/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynnandtonic/nestflix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lynnandtonic/nestflix/issues"
+  },
+  "homepage": "https://github.com/lynnandtonic/nestflix#readme",
+  "engines": {
+    "node": ">=14",
+    "npm": ">=6.14"
+  },
+  "devDependencies": {
+    "strict-npm-engines": "0.0.1"
+  }
+}
