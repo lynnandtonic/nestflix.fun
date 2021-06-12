@@ -1,0 +1,29 @@
+.entry
+    display flex
+    flex-flow row wrap
+
+    .entry-info
+        flex 4
+    
+    .entry-image
+        flex 6
+
+        img
+            width 100%
+
+.card-list
+    margin 0
+    padding 0
+
+    display grid
+    grid-gap 16px
+    grid-template-columns repeat(6, 200px)
+
+    li
+        list-style none
+        position relative
+
+        p
+            position absolute
+            bottom 0
+            left 0

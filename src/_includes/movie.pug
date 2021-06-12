@@ -1,0 +1,44 @@
+---
+layout: skeleton.pug
+---
+header
+    | NESTFLIX
+section.entry
+    div.entry-info
+        h1 !{title}
+        h2 !{description}
+        h3 !{betterName1}
+        button Details
+    div.entry-image
+        img(src=image)
+
+section
+    h2 !{tags[0]}
+    ul.card-list
+        each entry in collections[tags[0]]
+            li
+                a(href=entry.data.page.url)
+                    img(src=entry.data.shortImage)
+                    p !{entry.data.title}
+
+section.entry
+    div.entry-info
+        h1 !{title}
+        h2 !{description}
+        h3 !{betterName1}
+        button Details
+    div.entry-image
+        img(src=image)
+
+each otherTag in tags.slice(1)
+    section
+        h2 !{otherTag}
+        ul.card-list
+            each entry in collections[otherTag]
+                li
+                    a(href=entry.data.page.url) 
+                        img(src=entry.data.tallImage)
+                        p !{entry.data.title}
+
+footer
+    | Footer

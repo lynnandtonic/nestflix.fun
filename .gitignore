@@ -1,0 +1,11 @@
+*~
+.idea
+.project
+.settings
+*.sublime-workspace/
+.DS_Store
+
+*.log
+
+node_modules
+_site
