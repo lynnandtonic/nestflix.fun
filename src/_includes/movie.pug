@@ -2,8 +2,12 @@
 layout: skeleton.pug
 ---
 header
-    | NESTFLIX
-section.entry
+    nav
+        a.nav-home(href='/') NESTFLIX
+        a(href='#') Movies
+        a(href='#') TV
+        input.search(type='text' name='search' autocomplete='off' autocorrect='off')
+section.entry.hero
     div.entry-info
         h1 !{title}
         h2 !{description}
@@ -12,7 +16,7 @@ section.entry
     div.entry-image
         img(src=image)
 
-section
+section.list.short
     h2 !{tags[0]}
     ul.card-list
         each entry in collections[tags[0]]
@@ -21,7 +25,7 @@ section
                     img(src=entry.data.shortImage)
                     p !{entry.data.title}
 
-section.entry
+section.entry.feature
     div.entry-info
         h1 !{title}
         h2 !{description}
@@ -31,7 +35,7 @@ section.entry
         img(src=image)
 
 each otherTag in tags.slice(1)
-    section
+    section.list.tall
         h2 !{otherTag}
         ul.card-list
             each entry in collections[otherTag]

@@ -1,0 +1,72 @@
+/*--------------------------------------------------------------------
+* $ENTRY INFO
+--------------------------------------------------------------------*/
+
+$entry-h = 580px
+
+.entry
+  position: relative
+  min-height: $entry-h
+  height: 80vh
+  background-color: var(--gradient)
+
+  &.hero
+    --gradient: $pink-med
+  &.feature
+    --gradient: $teal
+    margin: 2em
+
+  @media screen and (max-width: 650px)
+    display: flex
+    flex-direction: column-reverse
+
+    .entry-info
+      width: 100%
+
+    .entry-image
+      width: 100%
+      position: relative
+      &:after
+        background-image: linear-gradient(to top, var(--gradient) 1%, transparent 40%)
+
+  @media screen and (min-width: 651px)
+
+    .entry-info
+      width: 40%
+      height: 100%
+
+    .entry-image
+      width: 70%
+      height: 100%
+      right: 0
+      &:after
+        background-image: linear-gradient(to right, var(--gradient) 1%, transparent 40%)
+
+  .entry-info
+    padding: 2em
+    position: relative
+    z-index: 2
+    display: flex
+    flex-direction: column
+    justify-content: flex-end
+
+    h3
+      font-size: 80%
+
+  .entry-image
+    position: absolute
+    top: 0
+    z-index: 1
+
+    &:after
+      content: ''
+      width: 100%
+      height: 100%
+      position: absolute
+      top: 0
+
+    img
+      object-fit: cover
+      width: 100%
+      height: 100%
+      display: block

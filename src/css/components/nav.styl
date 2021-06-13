@@ -1,0 +1,30 @@
+/*--------------------------------------------------------------------
+* $NAV
+--------------------------------------------------------------------*/
+
+$header-h = 70px
+
+header
+  width: 100%
+  position: absolute
+  padding: 1em 2em
+  z-index: 10
+  background-image: linear-gradient(to bottom, black(.4) 30%, black(0))
+
+  nav
+    height: $header-h
+    display: flex
+    // align-items: center
+    justify-content: flex-end
+    gap: 2em
+
+  .nav-home
+    margin-right: auto
+
+  .search
+    align-self: flex-start
+    background-color: transparent
+    border: 1px solid white
+    border-radius: 3px
+    color: white
+    font-size: 100%

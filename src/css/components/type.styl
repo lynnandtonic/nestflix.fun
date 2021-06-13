@@ -1,0 +1,99 @@
+/*--------------------------------------------------------------------
+* $TYPE
+--------------------------------------------------------------------*/
+
+h1, h2, h3, p, ul, pre
+  margin-bottom: 1.4em
+
+h1, h2, h3
+  line-height: 1.3
+  // font-weight: $font-weight-medium
+
+h1
+  @media screen and (max-width: $bp-xs - 1)
+    font-size: 1.4em
+  @media screen and (min-width: $bp-xs)
+    font-size: 1.8em
+
+h2
+  font-size: 1.24em
+
+h3
+  font-size: 1.1em
+
+em
+  font-style: italic
+
+strong
+  font-weight: $font-weight-medium
+
+small,
+figcaption
+  font-size: 80%
+
+p code,
+ul code
+  // background-color: var(--code-bg, alpha($teal,.4))
+  padding: 3px 5px
+  font-size: inherit
+  font-weight: $font-weight-medium
+
+pre, code
+  font-family: monospace
+  border-radius: 3px
+
+.no-js pre
+  padding: 0 .5em
+  background-color: $grey-drk
+  color: white
+
+a
+  background: no-repeat
+  background-image: $gradient-links
+  background-size: 100% 1px
+  background-position: center bottom
+  // font-weight: $font-weight-medium
+  text-decoration: none
+  color: inherit
+  position: relative
+
+  // &:hover
+  //   background-color: var(--text-color, $grey-drk)
+  //   color: var(--background, white)
+
+  &:focus:focus-visible
+    outline: 3px solid $pink
+    background-image: none
+    background-color: white
+    color: $grey-drk
+
+  &:focus:not(:focus-visible)
+    outline: none
+
+  &:active
+    transform: translateY(1px)
+
+link-alt()
+  background-image: none
+  &:hover
+    background-color: transparent
+    background-image: $gradient-links
+    color: inherit
+  &:focus-visible:hover
+    background-color: white
+    background-image: none
+    color: $grey-drk
+
+hr
+  margin: 1em 0 1.8em
+  height: 2px
+  background-color: $teal
+  border: none
+  &.thin
+    height: 1px
+
+.big-text
+  @media screen and (min-width: $bp-xs + 1)
+    font-size: 1.2em
+  @media screen and (min-width: $bp-sm + 1)
+    font-size: 1.4em

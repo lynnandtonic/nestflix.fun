@@ -1,0 +1,62 @@
+/*--------------------------------------------------------------------
+* $BASE
+--------------------------------------------------------------------*/
+
+*, *:before, *:after
+  box-sizing: border-box
+
+::selection
+  background: $gold
+  color: black
+
+html,
+body
+  max-width: 100vw
+  position: relative
+  overflow-x: hidden
+
+body
+  min-height: 100vh
+  height: 100%
+  // font-family: $font-family-rubik
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif
+  font-weight: $font-weight-light
+  line-height: 1.4
+  color: white
+  background-color: $grey-drk
+  @media screen and (max-width: 320px)
+    font-size: 100%
+  @media screen and (min-width: 321px)
+    font-size: 112.5%
+
+.visually-hidden,
+.screenreader
+  height: 1px
+  width: 1px
+  position: absolute
+  display: block
+  overflow: hidden
+  clip: rect(1px 1px 1px 1px)
+  clip: rect(1px, 1px, 1px, 1px)
+  clip-path: inset(1px)
+  white-space: nowrap
+
+img
+  max-width: 100%
+  height: auto
+
+.preload *
+  -webkit-transition: none !important
+  -moz-transition: none !important
+  -ms-transition: none !important
+  -o-transition: none !important
+  transition: none !important
+
+//-----------------------------
+// helpers
+
+.center
+  text-align: center
+
+.hidden
+  display: none

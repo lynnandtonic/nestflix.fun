@@ -1,29 +1,48 @@
-.entry
-    display flex
-    flex-flow row wrap
+/*--------------------------------------------------------------------
+*
+* Nestflix
+*
+--------------------------------------------------------------------*/
 
-    .entry-info
-        flex 4
+@import 'globals/_variables'
+@import 'globals/_reset'
+@import 'globals/_fonts'
+
+@import 'components/base'
+@import 'components/type'
+@import 'components/buttons'
+@import 'components/nav'
+@import 'components/footer'
+
+@import 'components/entry'
+@import 'components/card-list'
+
+// .entry
+//     display flex
+//     flex-flow row wrap
+
+//     .entry-info
+//         flex 4
     
-    .entry-image
-        flex 6
+//     .entry-image
+//         flex 6
 
-        img
-            width 100%
+//         img
+//             width 100%
 
-.card-list
-    margin 0
-    padding 0
+// .card-list
+//     margin 0
+//     padding 0
 
-    display grid
-    grid-gap 16px
-    grid-template-columns repeat(6, 200px)
+//     display grid
+//     grid-gap 16px
+//     grid-template-columns repeat(6, 200px)
 
-    li
-        list-style none
-        position relative
+//     li
+//         list-style none
+//         position relative
 
-        p
-            position absolute
-            bottom 0
-            left 0
+//         p
+//             position absolute
+//             bottom 0
+//             left 0

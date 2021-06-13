@@ -1,0 +1,36 @@
+/*--------------------------------------------------------------------
+* $LIST
+--------------------------------------------------------------------*/
+
+.list
+  margin: 2em
+  margin-bottom: 0
+
+  h2
+    text-transform: uppercase
+    font-weight: $font-weight-medium
+    font-size: 90%
+    // letter-spacing: 1px
+
+  .card-list
+    margin-bottom: 0
+
+  li
+    display: inline-block
+
+    a
+      display: block
+
+      img
+        width: 100%
+
+      p
+        margin-top: .5em
+
+      :last-child
+        margin-bottom: 0
+
+  &.short li
+    width: 300px
+  &.tall li
+    width: 250px
