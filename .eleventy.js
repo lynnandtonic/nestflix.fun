@@ -165,7 +165,7 @@
  
 //    eleventyConfig.addCollection("tagList", require("./src/_11ty/getTagList"));
  
-   eleventyConfig.addPassthroughCopy("img");
+   eleventyConfig.addPassthroughCopy("./src/img");
    eleventyConfig.addPassthroughCopy("css");
    // We need to copy cached.js only if GA is used
    eleventyConfig.addPassthroughCopy(GA_ID ? "js" : "js/*[!cached].*");
