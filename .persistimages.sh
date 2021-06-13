@@ -1,7 +1,7 @@
 #!/bin/sh
 
-cp _site/img/remote/* img/remote/
-cp _site/img/* img/
+cp _site/img/remote/* src/img/remote/
+cp _site/img/* src/img/
 git status
-git add img/
+git add src/img/
 git commit -m "Persist images"
