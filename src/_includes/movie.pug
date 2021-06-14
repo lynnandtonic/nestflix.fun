@@ -25,14 +25,15 @@ section.list.short
                     img(src=entry.data.shortImage)
                     p !{entry.data.title}
 
-section.entry.feature
-    div.entry-info
-        h1 !{title}
-        h2 !{description}
-        h3 !{betterName1}
-        button Details
-    div.entry-image
-        img(src=image)
+if featuredTitle
+    section.entry.feature
+        div.entry-info
+            h1 !{collections.byTitle[featuredTitle].data.title}
+            h2 !{collections.byTitle[featuredTitle].data.description}
+            h3 !{collections.byTitle[featuredTitle].data.betterName1}
+            button Details
+        div.entry-image
+            img(src=collections.byTitle[featuredTitle].data.image)
 
 each otherTag in tags.slice(1)
     section.list.tall
