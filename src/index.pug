@@ -1,13 +1,33 @@
 ---
-title: Movie Title
-description: Description text lorem ipsum dolor sit amet lorpem ispum dolor sit amet lorem ipsum.
-betterName1: Some other meta info maybe
-layout: movie.pug
-image: https://placekitten.com/600/400
-tallImage: https://placekitten.com/200/300
-shortImage: https://placekitten.com/200/100
-featuredTitle: "Test Movie #2"
-tags:
-    - drama
-    - some other category
+layout: skeleton.pug
 ---
+section.entry.hero
+    div.entry-info
+        h1 Nestflix
+        h2 Here’s some intro text about this site.
+        h3 Something else here!
+        //- button Details
+    div.entry-image
+        img(src='https://placekitten.com/600/400')
+
+//- I want to generate a list like this for each category that is set in the movie1.pug, movie2.pug, etc. files and it is fine for it to be manual
+//- So I'd like to say something like...
+//- If a movie has the tag 'drama' add it as an item to this list:
+//- section.list.short
+//-     h2 Drama
+//-     ul.card-list
+//-         each entry in collections[tags[drama]]
+//-             li
+//-                 a(href=entry.data.page.url)
+//-                     img(src=entry.data.shortImage)
+//-                     p !{entry.data.title}
+
+//- If a movie has the tag 'comedy' add it as an item to this list:
+//- section.list.short
+//-     h2 Comedy
+//-     ul.card-list
+//-         each entry in collections[tags[comedy]]
+//-             li
+//-                 a(href=entry.data.page.url)
+//-                     img(src=entry.data.shortImage)
+//-                     p !{entry.data.title}
