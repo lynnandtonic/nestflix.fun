@@ -164,6 +164,13 @@
    });
  
 //    eleventyConfig.addCollection("tagList", require("./src/_11ty/getTagList"));
+
+   eleventyConfig.addCollection("byTitle", function(collectionApi) {
+     return collectionApi.getAll().reduce(function (acc, post) {
+       acc[post.data.title] = post;
+       return acc;
+     }, {});
+   });
  
    eleventyConfig.addPassthroughCopy("./src/img");
    eleventyConfig.addPassthroughCopy("css");
