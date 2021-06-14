@@ -1,12 +1,7 @@
 ---
 layout: skeleton.pug
 ---
-header
-    nav
-        a.nav-home(href='/') NESTFLIX
-        a(href='#') Movies
-        a(href='#') TV
-        input.search(type='text' name='search' autocomplete='off' autocorrect='off')
+
 section.entry.hero
     div.entry-info
         h1 !{title}
@@ -44,6 +39,3 @@ each otherTag in tags.slice(1)
                     a(href=entry.data.page.url) 
                         img(src=entry.data.tallImage)
                         p !{entry.data.title}
-
-footer
-    | Footer

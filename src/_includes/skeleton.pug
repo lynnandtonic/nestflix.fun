@@ -4,4 +4,17 @@ html
     head
         link(rel="stylesheet", type="text/css", href="/css/main.css")
         title !{title}
-    body !{content}
+
+    body
+
+        header
+            nav
+                a.nav-home(href='/') NESTFLIX
+                a(href='#') Movies
+                a(href='#') TV
+                input.search(type='text' name='search' autocomplete='off' autocorrect='off')
+
+        main !{content}
+
+        footer
+            | Footer
