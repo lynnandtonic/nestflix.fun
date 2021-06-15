@@ -32,12 +32,38 @@ section.entry.hero
 //-                     img(src=entry.data.shortImage)
 //-                     p !{entry.data.title}
 
-//- I'd like to manually specify which movie to feature here.. like movie3.pug
-//- section.entry.feature
-//-     div.entry-info
-//-         h1 !{collections.byTitle[featuredTitle].data.title}
-//-         h2 !{collections.byTitle[featuredTitle].data.description}
-//-         h3 !{collections.byTitle[featuredTitle].data.betterName1}
-//-         button Details
-//-     div.entry-image
-//-         img(src=collections.byTitle[featuredTitle].data.image)
+//- We can iterate over all of the collection entries and ignore special collections that we've added custom logic around: 
+
+- var tags = Object.keys(collections).filter(function(it) { return !collections.ignoredTags.includes(it.toLowerCase()); });
+
+each tag in tags.slice(0, 2)
+    unless collections.ignoredTags.includes(tag.toLowerCase())
+        section.list.short
+            h2 !{tag}
+            ul.card-list
+                each entry in collections[tag]
+                    li
+                        a(href=entry.data.page.url)
+                            img(src=entry.data.tallImage)
+                            p !{entry.data.title}
+
+//- You should be able to reference specific movies by title since we have byTitle now:
+section.entry.feature
+    div.entry-info
+        h1 !{collections.byTitle["Test Movie #3"].data.title}
+        h2 !{collections.byTitle["Test Movie #3"].data.description}
+        h3 !{collections.byTitle["Test Movie #3"].data.betterName1}
+        button Details
+    div.entry-image
+        img(src=collections.byTitle["Test Movie #3"].data.image)
+
+each tag in tags.slice(2)
+    unless collections.ignoredTags.includes(tag.toLowerCase())
+        section.list.short
+            h2 !{tag}
+            ul.card-list
+                each entry in collections[tag]
+                    li
+                        a(href=entry.data.page.url)
+                            img(src=entry.data.tallImage)
+                            p !{entry.data.title}
