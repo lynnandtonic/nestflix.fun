@@ -171,6 +171,15 @@
        return acc;
      }, {});
    });
+
+   eleventyConfig.addCollection("ignoredTags", function (collectionApi) {
+    return [
+      'all',
+      'byTitle',
+      'ignoredTags',
+      'movie',
+    ].map((it) => it.toLowerCase());
+   });
  
    eleventyConfig.addPassthroughCopy("./src/img");
    eleventyConfig.addPassthroughCopy("css");
