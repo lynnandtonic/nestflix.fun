@@ -36,7 +36,7 @@ section.list
 //-         each entry in collections[tags[0]]
 //-             li
 //-                 a(href=entry.data.page.url)
-//-                     img(src=entry.data.shortImage)
+//-                     img(src=entry.data.thumb)
 //-                     p !{entry.data.title}
 
 //- if featuredTitle
@@ -56,6 +56,6 @@ each otherTag in tags.slice(1)
             each entry in collections[otherTag]
                 li
                     a(href=entry.data.page.url) 
-                        img(src=entry.data.shortImage, alt=entry.data.title)
+                        img(src=entry.data.thumb, alt=entry.data.title)
                         //- p !{entry.data.title}
                         p !{entry.data.description}

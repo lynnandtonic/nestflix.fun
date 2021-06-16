@@ -27,7 +27,7 @@ section.entry.hero
 //-         each entry in collections[tags[drama]]
 //-             li
 //-                 a(href=entry.data.page.url)
-//-                     img(src=entry.data.shortImage)
+//-                     img(src=entry.data.thumb)
 //-                     p !{entry.data.title}
 
 //- If a movie has the tag 'comedy' add it as an item to this list:
@@ -37,7 +37,7 @@ section.entry.hero
 //-         each entry in collections[tags[comedy]]
 //-             li
 //-                 a(href=entry.data.page.url)
-//-                     img(src=entry.data.shortImage)
+//-                     img(src=entry.data.thumb)
 //-                     p !{entry.data.title}
 
 //- We can iterate over all of the collection entries and ignore special collections that we've added custom logic around: 
@@ -52,7 +52,7 @@ each tag in tags.slice(0, 2)
                 each entry in collections[tag]
                     li
                         a(href=entry.data.page.url)
-                            img(src=entry.data.shortImage, alt=entry.data.title)
+                            img(src=entry.data.thumb, alt=entry.data.title)
                             //- p !{entry.data.title}
 
 //- You should be able to reference specific movies by title since we have byTitle now:
@@ -73,5 +73,5 @@ each tag in tags.slice(2)
                 each entry in collections[tag]
                     li
                         a(href=entry.data.page.url)
-                            img(src=entry.data.shortImage, alt=entry.data.title)
+                            img(src=entry.data.thumb, alt=entry.data.title)
                             //- p !{entry.data.title}
