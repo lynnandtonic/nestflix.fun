@@ -1,41 +1,61 @@
 ---
 layout: skeleton.pug
+bodyClass: detail
 ---
 
 section.entry.hero
     div.entry-info
         h1 !{title}
-        h2 !{description}
-        h3 !{betterName1}
-        button Details
+        small.meta
+            span !{rating}
+            span !{runtime}
+            span !{tags[0]}, !{tags[1]}
+        p !{description}
+        blockquote !{quote}
+        hr
+        small.meta #[strong Cast:] !{starring}
+        if director
+            small.meta #[strong Director:] !{director}
+        small.meta #[strong As seen in:] !{parent} (!{parentYear})
+        //- button Details
     div.entry-image
         img(src=image)
+        small courtesy of !{studio}
 
 section.list.short
-    h2 !{tags[0]}
+    h2 Stills
     ul.card-list
-        each entry in collections[tags[0]]
-            li
-                a(href=entry.data.page.url)
-                    img(src=entry.data.shortImage)
-                    p !{entry.data.title}
+        li: img(src=still1)
+        li: img(src=still2)
+        li: img(src=still3)
+        li: img(src=still4)
 
-if featuredTitle
-    section.entry.feature
-        div.entry-info
-            h1 !{collections.byTitle[featuredTitle].data.title}
-            h2 !{collections.byTitle[featuredTitle].data.description}
-            h3 !{collections.byTitle[featuredTitle].data.betterName1}
-            button Details
-        div.entry-image
-            img(src=collections.byTitle[featuredTitle].data.image)
+//- section.list.short
+//-     h2 !{tags[0]}
+//-     ul.card-list
+//-         each entry in collections[tags[0]]
+//-             li
+//-                 a(href=entry.data.page.url)
+//-                     img(src=entry.data.shortImage)
+//-                     p !{entry.data.title}
+
+//- if featuredTitle
+//-     section.entry.feature
+//-         div.entry-info
+//-             h1 !{collections.byTitle[featuredTitle].data.title}
+//-             h2 !{collections.byTitle[featuredTitle].data.description}
+//-             h3 !{collections.byTitle[featuredTitle].data.quote}
+//-             button Details
+//-         div.entry-image
+//-             img(src=collections.byTitle[featuredTitle].data.image)
 
 each otherTag in tags.slice(1)
-    section.list.tall
-        h2 !{otherTag}
+    section.list.short.recommend
+        h2 You might also like
         ul.card-list
             each entry in collections[otherTag]
                 li
                     a(href=entry.data.page.url) 
-                        img(src=entry.data.tallImage)
-                        p !{entry.data.title}
+                        img(src=entry.data.shortImage, alt=entry.data.title)
+                        //- p !{entry.data.title}
+                        p !{entry.data.description}

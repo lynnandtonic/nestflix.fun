@@ -10,19 +10,22 @@
     text-transform: uppercase
     font-weight: $font-weight-medium
     font-size: 90%
-    // letter-spacing: 1px
 
   .card-list
     margin-bottom: 0
+    display: grid
+    // grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
+    grid-template-columns: repeat(4,1fr)
+    grid-gap: .3em
 
   li
-    display: inline-block
 
     a
       display: block
 
       img
         width: 100%
+        border-radius: 3px
 
       p
         margin-top: .5em
@@ -30,7 +33,10 @@
       :last-child
         margin-bottom: 0
 
-  &.short li
-    width: 300px
-  &.tall li
-    width: 250px
+  &.recommend p
+    font-size: 90%
+
+  // &.short li
+  //   width: 300px
+  // &.tall li
+  //   width: 250px

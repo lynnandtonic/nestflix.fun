@@ -1,14 +1,22 @@
 ---
 layout: skeleton.pug
+title: "Nestflix"
+description: "Fictional movies inside other movies."
+bodyClass: landing
 ---
 section.entry.hero
     div.entry-info
-        h1 Nestflix
-        h2 Here’s some intro text about this site.
-        h3 Something else here!
+        h1 Welcome to Nestflix
+        p The only platform for your favorite nested films. Fictional movies inside other movies? Got ‘em. Fake TV shows inside other tv shows? You bet. Browse our selection of stories within stories.
+        p Don’t see your fave? Tell us!
         //- button Details
-    div.entry-image
-        img(src='https://placekitten.com/600/400')
+    div.entry-image#slideshow
+        div
+            img(src='/img/angels-with-filthy-souls.jpg')
+            small Angels with Filthy Souls
+        div
+            img(src='https://placekitten.com/200/300')
+            small Movie Title
 
 //- I want to generate a list like this for each category that is set in the movie1.pug, movie2.pug, etc. files and it is fine for it to be manual
 //- So I'd like to say something like...
@@ -44,8 +52,8 @@ each tag in tags.slice(0, 2)
                 each entry in collections[tag]
                     li
                         a(href=entry.data.page.url)
-                            img(src=entry.data.tallImage)
-                            p !{entry.data.title}
+                            img(src=entry.data.shortImage, alt=entry.data.title)
+                            //- p !{entry.data.title}
 
 //- You should be able to reference specific movies by title since we have byTitle now:
 section.entry.feature
@@ -65,5 +73,5 @@ each tag in tags.slice(2)
                 each entry in collections[tag]
                     li
                         a(href=entry.data.page.url)
-                            img(src=entry.data.tallImage)
-                            p !{entry.data.title}
+                            img(src=entry.data.shortImage, alt=entry.data.title)
+                            //- p !{entry.data.title}
