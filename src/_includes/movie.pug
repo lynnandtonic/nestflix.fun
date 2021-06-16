@@ -22,7 +22,7 @@ section.entry.hero
         img(src=image)
         small courtesy of !{studio}
 
-section.list.short
+section.list
     h2 Stills
     ul.card-list
         li: img(src=still1)
@@ -50,7 +50,7 @@ section.list.short
 //-             img(src=collections.byTitle[featuredTitle].data.image)
 
 each otherTag in tags.slice(1)
-    section.list.short.recommend
+    section.list.recommend
         h2 You might also like
         ul.card-list
             each entry in collections[otherTag]
