@@ -18,28 +18,6 @@ section.entry.hero
             img(src='https://placekitten.com/200/300')
             small Movie Title
 
-//- I want to generate a list like this for each category that is set in the movie1.pug, movie2.pug, etc. files and it is fine for it to be manual
-//- So I'd like to say something like...
-//- If a movie has the tag 'drama' add it as an item to this list:
-//- section.list.short
-//-     h2 Drama
-//-     ul.card-list
-//-         each entry in collections[tags[drama]]
-//-             li
-//-                 a(href=entry.data.page.url)
-//-                     img(src=entry.data.thumb)
-//-                     p !{entry.data.title}
-
-//- If a movie has the tag 'comedy' add it as an item to this list:
-//- section.list.short
-//-     h2 Comedy
-//-     ul.card-list
-//-         each entry in collections[tags[comedy]]
-//-             li
-//-                 a(href=entry.data.page.url)
-//-                     img(src=entry.data.thumb)
-//-                     p !{entry.data.title}
-
 //- We can iterate over all of the collection entries and ignore special collections that we've added custom logic around: 
 
 - var tags = Object.keys(collections).filter(function(it) { return !collections.ignoredTags.includes(it.toLowerCase()); });
@@ -52,18 +30,18 @@ each tag in tags.slice(0, 2)
                 each entry in collections[tag]
                     li
                         a(href=entry.data.page.url)
-                            img(src=entry.data.thumb, alt=entry.data.title)
+                            img(src=src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
                             //- p !{entry.data.title}
 
 //- You should be able to reference specific movies by title since we have byTitle now:
 section.entry.feature
     div.entry-info
-        h1 !{collections.byTitle["Test Movie #3"].data.title}
-        h2 !{collections.byTitle["Test Movie #3"].data.description}
-        h3 !{collections.byTitle["Test Movie #3"].data.betterName1}
+        h1 !{collections.byTitle["Satan’s Alley"].data.title}
+        h2 !{collections.byTitle["Satan’s Alley"].data.description}
+        h3 !{collections.byTitle["Satan’s Alley"].data.betterName1}
         button Details
     div.entry-image
-        img(src=collections.byTitle["Test Movie #3"].data.image)
+        img(src='/img/' + collections.byTitle["Satan’s Alley"].data.slug + '.jpg')
 
 each tag in tags.slice(2)
     unless collections.ignoredTags.includes(tag.toLowerCase())
@@ -73,5 +51,5 @@ each tag in tags.slice(2)
                 each entry in collections[tag]
                     li
                         a(href=entry.data.page.url)
-                            img(src=entry.data.thumb, alt=entry.data.title)
+                            img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
                             //- p !{entry.data.title}

@@ -19,36 +19,17 @@ section.entry.hero
         small.meta #[strong As seen in:] !{parent} (!{parentYear})
         //- button Details
     div.entry-image
-        img(src=image)
+        img(src='/img/' + slug + '.jpg')
         small !{studio}
 
-if still1
+if stills
     section.list
         h2 Stills
         ul.card-list
-            li: img(src=still1)
-            li: img(src=still2)
-            li: img(src=still3)
-            li: img(src=still4)
-
-//- section.list.short
-//-     h2 !{tags[0]}
-//-     ul.card-list
-//-         each entry in collections[tags[0]]
-//-             li
-//-                 a(href=entry.data.page.url)
-//-                     img(src=entry.data.thumb)
-//-                     p !{entry.data.title}
-
-//- if featuredTitle
-//-     section.entry.feature
-//-         div.entry-info
-//-             h1 !{collections.byTitle[featuredTitle].data.title}
-//-             h2 !{collections.byTitle[featuredTitle].data.description}
-//-             h3 !{collections.byTitle[featuredTitle].data.quote}
-//-             button Details
-//-         div.entry-image
-//-             img(src=collections.byTitle[featuredTitle].data.image)
+            li: img(src='/img/' + slug + '-still1.jpg')
+            li: img(src='/img/' + slug + '-still2.jpg')
+            li: img(src='/img/' + slug + '-still3.jpg')
+            li: img(src='/img/' + slug + '-still4.jpg')
 
 each otherTag in tags.slice(1)
     section.list.recommend
@@ -57,6 +38,6 @@ each otherTag in tags.slice(1)
             each entry in collections[otherTag]
                 li
                     a(href=entry.data.page.url) 
-                        img(src=entry.data.thumb, alt=entry.data.title)
+                        img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
                         //- p !{entry.data.title}
                         p !{entry.data.description}
