@@ -20,15 +20,16 @@ section.entry.hero
         //- button Details
     div.entry-image
         img(src=image)
-        small courtesy of !{studio}
+        small !{studio}
 
-section.list
-    h2 Stills
-    ul.card-list
-        li: img(src=still1)
-        li: img(src=still2)
-        li: img(src=still3)
-        li: img(src=still4)
+if still1
+    section.list
+        h2 Stills
+        ul.card-list
+            li: img(src=still1)
+            li: img(src=still2)
+            li: img(src=still3)
+            li: img(src=still4)
 
 //- section.list.short
 //-     h2 !{tags[0]}

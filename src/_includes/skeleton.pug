@@ -6,6 +6,21 @@ html
         title !{title}
         script(src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous")
 
+        meta(content='@lynnandtonic', name='twitter:site')
+        meta(content='@lynnandtonic', name='twitter:creator')
+        meta(content=title + ' — Nestflix', name='twitter:title', property='og:title')
+        //- TODO: maybe a better description for the actual page
+        meta(content=description, name='twitter:description', property='og:description')
+        meta(name='twitter:card', content='summary_large_image')
+        meta(property='og:type',  content='website')
+        //- TODO: replace URL with final domain
+        meta(content='https://nestflix.co/' + slug, property='og:url')
+        meta(content='https://nestflix.co/' + slug, property='twitter:url')
+        meta(content='https://nestflix.co' + thumb, property='og:image')
+        meta(content='https://nestflix.co' + thumb, name='twitter:image')
+        meta(property='og:image:width', content='1200')
+        meta(property='og:image:height', content='630')
+
     body(class=bodyClass)
 
         header
