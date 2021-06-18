@@ -42,7 +42,7 @@ $entry-h = 580px
       height: 100%
       font-size: 110%
 
-      p, blockquote, hr
+      p, blockquote, hr, h2
         max-width: 500px
 
     .entry-image
@@ -65,6 +65,9 @@ $entry-h = 580px
 
     :last-child
       margin-bottom: 0
+
+    h1 + h2
+      margin-top: -10px
 
   .meta
     & + p
