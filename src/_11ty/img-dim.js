@@ -114,9 +114,10 @@
    img.setAttribute("srcset", await srcset(src, format));
    img.setAttribute(
      "sizes",
-     img.getAttribute("align")
-       ? "(max-width: 608px) 50vw, 187px"
-       : "(max-width: 608px) 100vw, 608px"
+     "(max-width: 320px) 320px, (max-width: 640px) 640px, (max-width: 1280px) 1280px, 100vw",
+    //  img.getAttribute("align")
+    //    ? "(max-width: 608px) 50vw, 187px"
+    //    : "(max-width: 608px) 100vw, 608px"
    );
  }
  
