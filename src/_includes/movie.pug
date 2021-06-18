@@ -36,8 +36,9 @@ each otherTag in tags.slice(1)
         h2 You might also like
         ul.card-list
             each entry in collections[otherTag]
-                li
-                    a(href=entry.data.page.url) 
-                        img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
-                        //- p !{entry.data.title}
-                        p !{entry.data.description}
+                if entry.data.title !== title
+                    li
+                        a(href=entry.data.page.url)
+                            img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+                            //- p !{entry.data.title}
+                            p !{entry.data.description}
