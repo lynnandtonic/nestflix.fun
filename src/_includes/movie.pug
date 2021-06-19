@@ -11,7 +11,8 @@ section.entry.hero
             span !{runtime}
             span !{tags[0]}, !{tags[1]}
         p !{description}
-        blockquote !{quote}
+        if quote
+            blockquote !{quote}
         hr
         small.meta #[strong Cast:] !{starring}
         if director

@@ -178,6 +178,7 @@
       'byTitle',
       'ignoredTags',
       'movie',
+      'tv series'
     ].map((it) => it.toLowerCase());
    });
  
