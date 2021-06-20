@@ -2,17 +2,16 @@
 * $ENTRY INFO
 --------------------------------------------------------------------*/
 
-$entry-h = 580px
+@media screen and (min-width: 751px)
+  .entry
+    height: 80vh
+    min-height: 580px
 
-.entry
-  height: 80vh
-
-.detail .hero
-  height: 90vh
+  .detail .hero
+    height: 90vh
 
 .entry
   position: relative
-  min-height: $entry-h
   background-color: var(--gradient)
 
   &.hero
@@ -21,42 +20,8 @@ $entry-h = 580px
     --gradient: $teal
     margin: 2em
 
-  @media screen and (max-width: 750px)
-    display: flex
-    flex-direction: column-reverse
-
-    .entry-info
-      width: 100%
-
-    .entry-image
-      width: 100%
-      height: 60%
-      position: relative
-      &:after
-        background-image: linear-gradient(to top, var(--gradient) 1%, transparent 40%)
-
-  @media screen and (min-width: 751px)
-
-    .entry-info
-      width: 50%
-      height: 100%
-      font-size: 110%
-
-      p, blockquote, hr, h2
-        max-width: 500px
-
-    .entry-image
-      width: 70%
-      height: 100%
-      &:after
-        background-image: linear-gradient(to right, var(--gradient) 1%, transparent 40%),
-                          repeating-linear-gradient(to right, black(.1),
-                                                              black(.1) 2px,
-                                                              black(0) 2px,
-                                                              black(0) 4px)
-
   .entry-info
-    padding: 2em
+    padding: var(--body-padding)
     position: relative
     z-index: 2
     display: flex
@@ -124,3 +89,48 @@ $entry-h = 580px
       text-shadow: 0 1px 10px black(.5)
       font-size: 70%
       font-weight: $font-weight-medium
+
+  @media screen and (max-width: $bp-sm )
+    display: flex
+    flex-direction: column-reverse
+
+    .entry-info
+      width: 100%
+      margin-top: -50px
+      
+      .logo
+        max-width: 90%
+
+    .entry-image
+      width: 100%
+      height: 350px
+      position: relative
+      &:after
+        background-image: linear-gradient(to top, var(--gradient) 1%, transparent 40%)
+      small
+        z-index: 100
+        bottom: 4em
+        font-weight: $font-weight-light
+
+  @media screen and (min-width: $bp-sm + 1)
+
+    .entry-info
+      width: 50%
+      height: 100%
+      font-size: 110%
+
+      p, blockquote, hr, h2
+        max-width: 500px
+
+    .entry-image
+      width: 70%
+      height: 100%
+      &:after
+        background-image: linear-gradient(to right, var(--gradient) 1%, transparent 40%),
+                          repeating-linear-gradient(to right, black(.1),
+                                                              black(.1) 2px,
+                                                              black(0) 2px,
+                                                              black(0) 4px)
+
+      small
+        bottom: .8em

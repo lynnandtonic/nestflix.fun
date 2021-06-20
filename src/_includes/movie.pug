@@ -5,7 +5,7 @@ bodyClass: detail
 
 section.entry.hero
     div.entry-info
-        h1 !{title}
+        h1.logo: img(src='/img/_logos/logo-' + slug + '.svg', alt=title)
         small.meta
             span !{rating}
             span !{runtime}
@@ -23,7 +23,7 @@ section.entry.hero
         //- button Details
     div.entry-image
         img(src='/img/' + slug + '.jpg')
-        small courtesy of !{credit}
+        small !{credit}
 
 if stills
     section.list
@@ -33,6 +33,16 @@ if stills
             li: img(src='/img/' + slug + '-still2.jpg')
             li: img(src='/img/' + slug + '-still3.jpg')
             li: img(src='/img/' + slug + '-still4.jpg')
+
+if submovies
+    section.list
+        h2 Films in the collection
+        ul.card-list.submovies
+            li: img(src='/img/' + slug + '-submovie1.jpg')
+            li: img(src='/img/' + slug + '-submovie2.jpg')
+            li: img(src='/img/' + slug + '-submovie3.jpg')
+            li: img(src='/img/' + slug + '-submovie4.jpg')
+            li: img(src='/img/' + slug + '-submovie5.jpg')
 
 section.list.recommend
     h2 You might also like

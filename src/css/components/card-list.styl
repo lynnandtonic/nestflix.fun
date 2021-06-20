@@ -3,7 +3,7 @@
 --------------------------------------------------------------------*/
 
 .list
-  margin: 2em
+  margin: var(--body-padding)
   margin-bottom: 0
 
   h2
@@ -14,25 +14,32 @@
   .card-list
     margin-bottom: 0
     display: grid
+    grid-gap: .5em
     // grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
-    grid-template-columns: repeat(4,1fr)
-    grid-gap: 1.5em .3em
+    @media screen and (max-width: $bp-sm) and (min-width: 320px)
+      grid-template-columns: repeat(2,1fr)
+    @media screen and (min-width: $bp-sm  + 1)
+      grid-template-columns: repeat(4,1fr)
+  
+    &.submovies
+      @media screen and (min-width: $bp-sm  + 1)
+        grid-template-columns: repeat(3,1fr)
 
   li
 
-    a
+    a, picture
       display: block
 
       img
         width: 100%
         border-radius: 3px
 
-      p
-        margin-top: .5em
+      // p
+      //   margin-top: .5em
 
-      :last-child
-        margin-bottom: 0
+      // :last-child
+      //   margin-bottom: 0
 
-  &.recommend p
-    font-size: 88%
-    padding-right: 10%
+  // &.recommend p
+  //   font-size: 88%
+  //   padding-right: 10%
