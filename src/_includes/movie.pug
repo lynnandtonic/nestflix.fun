@@ -9,7 +9,7 @@ section.entry.hero
         small.meta
             span !{rating}
             span !{runtime}
-            span !{tags[0]}, !{tags[1]}
+            span !{tags[1]}, !{tags[2]}
         p !{description}
         if quote
             blockquote !{quote}
@@ -49,17 +49,13 @@ section.list.recommend
     ul.card-list
         each sameMovie in tags.slice(0,1)
             each entry in collections[sameMovie]
-                if entry.data.parent == parent && entry.data.title !== title
+                if entry.data.title !== title && entry.data.parent == parent
                     li
                         a(href=entry.data.page.url)
                             img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
-                            //- p !{entry.data.title}
-                            //- p !{entry.data.description}
-        each otherTag in tags.slice(1)
+        each otherTag in tags.slice(2)
             each entry in collections[otherTag]
                 if entry.data.title !== title && entry.data.parent !== parent
                     li
                         a(href=entry.data.page.url)
                             img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
-                            //- p !{entry.data.title}
-                            //- p !{entry.data.description}
