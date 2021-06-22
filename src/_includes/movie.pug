@@ -10,7 +10,8 @@ section.entry.hero
             span !{rating}
             span !{runtime}
             span !{tags[1]}, !{tags[2]}
-        p !{description}
+        if description
+            p !{description}
         if quote
             blockquote !{quote}
         hr

@@ -177,8 +177,10 @@
       'all',
       'byTitle',
       'ignoredTags',
+      'entry',
       'movie',
-      'tv series'
+      'tv series',
+      'tv special'
     ].map((it) => it.toLowerCase());
    });
  
