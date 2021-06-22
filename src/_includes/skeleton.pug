@@ -6,6 +6,8 @@ html
         title !{title}
         script(src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous")
 
+        link(rel='shortcut icon', href='/img/_icons/favicon.png')
+
         meta(content='@lynnandtonic', name='twitter:site')
         meta(content='@lynnandtonic', name='twitter:creator')
         meta(content=title + ' — Nestflix', name='twitter:title', property='og:title')
@@ -25,7 +27,8 @@ html
 
         header
             nav
-                a.nav-home(href='/') NESTFLIX
+                a.nav-home(href='/')
+                    img(src='/img/_logos/logo-nestflix.svg' alt='Nestflix')
                 input.search(type='text' name='search' autocomplete='off' autocorrect='off')
 
         main !{content}
