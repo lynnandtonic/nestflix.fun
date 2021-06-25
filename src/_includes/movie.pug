@@ -15,7 +15,8 @@ section.entry.hero
         if quote
             blockquote !{quote}
         hr
-        small.meta #[strong Cast:] !{starring}
+        if starring
+            small.meta #[strong Cast:] !{starring}
         if director
             small.meta #[strong Director:] !{director}
         if studio
