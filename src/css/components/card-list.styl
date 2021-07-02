@@ -4,26 +4,31 @@
 
 .list
   margin: var(--body-padding)
-  margin-bottom: 0
+  margin-bottom: calc(var(--body-padding)*1.6)
 
   h2
     text-transform: uppercase
     font-weight: $font-weight-medium
-    font-size: 90%
+    font-size: 93%
 
   .card-list
     margin-bottom: 0
     display: grid
     grid-gap: .75em
-    // grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
-    @media screen and (max-width: $bp-sm) and (min-width: 320px)
-      grid-template-columns: repeat(2,1fr)
+
+    // 2 across for mid screens
+    &:not(.wide)
+      @media screen and (max-width: $bp-sm) and (min-width: 320px)
+        grid-template-columns: repeat(2,1fr)
+
+    // 4 across for big screens
     @media screen and (min-width: $bp-sm  + 1)
       grid-template-columns: repeat(4,1fr)
 
-    // &.submovies
-    //   @media screen and (min-width: $bp-sm  + 1)
-    //     grid-template-columns: repeat(4,1fr)
+    // 2 across for big screens
+    &.wide
+      @media screen and (min-width: $bp-sm  + 1)
+        grid-template-columns: repeat(2,1fr)
 
   li
 
@@ -38,7 +43,7 @@
       position: relative
       box-shadow: black(0) 0 20px 25px -10px,
                   black(0) 0 12px 8px -10px
-      transform: scale(1, 1) translateZ(0px)
+      transform: scale(1, 1) translateZ(0px) translate3d(0px, 0px, 0px)
       transition-duration: 200ms
       transition-property: transform, box-shadow
       transition-timing-function: ease-out
@@ -47,8 +52,6 @@
         box-shadow: black(.7) 0 20px 40px -16px,
                     black(.5) 0 10px 10px -10px
         transform: scale(1.04, 1.04) translateZ(0px) translate3d(0px, 0px, 0px)
-        transition-duration: 200ms
-        transition-property: transform, box-shadow
 
         &:after
           border-color: white(.3)
@@ -62,4 +65,4 @@
         left: 0
         border: 2px solid white(0)
         border-radius: 3px
-        transition: border 200ms ease-out 0s
+        transition: border 200ms ease-out

@@ -1,0 +1,37 @@
+---
+layout: skeleton.pug
+bodyClass: detail
+---
+
+//- This is a special template for 22 Jump Street collection
+
+include hero
+
+if submovies
+    section.list
+        h2 Films in the collection
+        ul.card-list.submovies.wide
+            li: img(src='/img/' + slug + '-submovie1.jpg')
+            li: img(src='/img/' + slug + '-submovie2.jpg')
+            li: img(src='/img/' + slug + '-submovie3.jpg')
+            li: img(src='/img/' + slug + '-submovie4.jpg')
+            li: img(src='/img/' + slug + '-submovie5.jpg')
+            li: img(src='/img/' + slug + '-submovie6.jpg')
+            li: img(src='/img/' + slug + '-submovie7.jpg')
+            li: img(src='/img/' + slug + '-submovie8.jpg')
+            li: img(src='/img/' + slug + '-submovie9.jpg')
+            li: img(src='/img/' + slug + '-submovie10.jpg')
+            li: img(src='/img/' + slug + '-submovie11.jpg')
+            li: img(src='/img/' + slug + '-submovie12.jpg')
+            li: img(src='/img/' + slug + '-submovie13.jpg')
+            li: img(src='/img/' + slug + '-submovie14.jpg')
+            li: img(src='/img/' + slug + '-submovie15.jpg')
+            li: img(src='/img/' + slug + '-submovie16.jpg')
+            li: img(src='/img/' + slug + '-submovie17.jpg')
+            li: img(src='/img/' + slug + '-submovie18.jpg')
+            li: img(src='/img/' + slug + '-submovie19.jpg')
+            li: img(src='/img/' + slug + '-submovie20.jpg')
+            li: img(src='/img/' + slug + '-submovie21.jpg')
+            li: img(src='/img/' + slug + '-submovie22.jpg')
+
+include recommend

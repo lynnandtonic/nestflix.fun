@@ -8,7 +8,7 @@
     min-height: 580px
 
   .detail .hero
-    height: 90vh
+    height: 87vh
 
 .entry
   position: relative
@@ -68,6 +68,11 @@
       height: 100%
       position: absolute
       top: 0
+      background-image: linear-gradient(var(--gradient-direction), var(--gradient) 1%, transparent 40%),
+                        repeating-linear-gradient(to right, black(.1),
+                                                            black(.1) 2px,
+                                                            black(0) 2px,
+                                                            black(0) 4px)
 
     & > div
       width: 100%
@@ -86,7 +91,9 @@
       position: absolute
       bottom: .8em
       right: 1em
-      text-shadow: 0 1px 10px black(.5)
+      text-shadow: 0 1px 2px black(.9),
+                   0 0 4px black(.6),
+                   0 0 8px black(.3)
       font-size: 70%
       font-weight: $font-weight-medium
 
@@ -106,7 +113,8 @@
       height: 350px
       position: relative
       &:after
-        background-image: linear-gradient(to top, var(--gradient) 1%, transparent 40%)
+        --gradient-direction: to top
+
       small
         z-index: 100
         bottom: 4em
@@ -126,11 +134,7 @@
       width: 70%
       height: 100%
       &:after
-        background-image: linear-gradient(to right, var(--gradient) 1%, transparent 40%),
-                          repeating-linear-gradient(to right, black(.1),
-                                                              black(.1) 2px,
-                                                              black(0) 2px,
-                                                              black(0) 4px)
+        --gradient-direction: to right
 
       small
         bottom: .8em

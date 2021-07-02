@@ -3,29 +3,7 @@ layout: skeleton.pug
 bodyClass: detail
 ---
 
-section.entry.hero
-    div.entry-info
-        h1.logo: img(src='/img/_logos/logo-' + slug + '.svg', alt=title)
-        small.meta
-            span !{rating}
-            span !{runtime}
-            span !{tags[1]}, !{tags[2]}
-        if description
-            p !{description}
-        if quote
-            blockquote !{quote}
-        hr
-        if starring
-            small.meta #[strong Cast:] !{starring}
-        if director
-            small.meta #[strong Director:] !{director}
-        if studio
-            small.meta #[strong Studio:] !{studio}
-        small.meta #[strong As seen in:] !{parent} (!{parentYear})
-        //- button Details
-    div.entry-image
-        img(src='/img/' + slug + '.jpg')
-        small !{credit}
+include hero
 
 if stills
     section.list
@@ -45,18 +23,4 @@ if submovies
             li: img(src='/img/' + slug + '-submovie3.jpg')
             li: img(src='/img/' + slug + '-submovie4.jpg')
 
-section.list.recommend
-    h2 You might also like
-    ul.card-list
-        each sameMovie in tags.slice(0,1)
-            each entry in collections[sameMovie]
-                if entry.data.title !== title && entry.data.parent == parent
-                    li
-                        a(href=entry.data.page.url)
-                            img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
-        each otherTag in tags.slice(2)
-            each entry in collections[otherTag]
-                if entry.data.title !== title && entry.data.parent !== parent
-                    li
-                        a(href=entry.data.page.url)
-                            img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+include recommend

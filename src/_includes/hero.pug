@@ -1,0 +1,23 @@
+section.entry.hero
+    div.entry-info
+        h1.logo: img(src='/img/_logos/logo-' + slug + '.svg', alt=title)
+        small.meta
+            span !{rating}
+            span !{runtime}
+            span !{tags[1]}, !{tags[2]}
+        if description
+            p !{description}
+        if quote
+            blockquote !{quote}
+        hr
+        if starring
+            small.meta #[strong Cast:] !{starring}
+        if director
+            small.meta #[strong Director:] !{director}
+        if studio
+            small.meta #[strong Studio:] !{studio}
+        small.meta #[strong As seen in:] !{parent} (!{parentYear})
+        //- button Details
+    div.entry-image
+        img(src='/img/' + slug + '.jpg')
+        small !{credit}

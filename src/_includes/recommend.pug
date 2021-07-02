@@ -1,0 +1,15 @@
+section.list.recommend
+    h2 You might also like
+    ul.card-list
+        each sameMovie in tags.slice(0,1)
+            each entry in collections[sameMovie]
+                if entry.data.title !== title && entry.data.parent == parent
+                    li
+                        a(href=entry.data.page.url)
+                            img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+        each otherTag in tags.slice(2)
+            each entry in collections[otherTag]
+                if entry.data.title !== title && entry.data.parent !== parent
+                    li
+                        a(href=entry.data.page.url)
+                            img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
