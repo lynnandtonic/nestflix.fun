@@ -180,7 +180,8 @@
       'entry',
       'movie',
       'tv series',
-      'tv special'
+      'tv special',
+      'web series'
     ].map((it) => it.toLowerCase());
    });
  

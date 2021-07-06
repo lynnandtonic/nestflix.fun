@@ -17,6 +17,8 @@ section.entry.hero
         if studio
             small.meta #[strong Studio:] !{studio}
         small.meta #[strong As seen in:] !{parent} (!{parentYear})
+            if parent2
+                span &nbsp;and !{parent2} (!{parent2Year})
         //- button Details
     div.entry-image
         img(src='/img/' + slug + '.jpg')
