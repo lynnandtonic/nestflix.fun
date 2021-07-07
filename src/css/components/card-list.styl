@@ -54,7 +54,7 @@
         transform: scale(1.04, 1.04) translateZ(0px) translate3d(0px, 0px, 0px)
 
         &:after
-          border-color: white(.3)
+          opacity: 1
 
       &:after
         content: ''
@@ -63,6 +63,7 @@
         position: absolute
         top: 0
         left: 0
-        border: 2px solid white(0)
+        border: 2px solid white(.3)
         border-radius: 3px
-        transition: border 200ms ease-out
+        opacity: 0
+        transition: opacity 200ms ease-out
