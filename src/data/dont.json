@@ -1,0 +1,22 @@
+{
+  "slug": "dont",
+  "title": "Don’t",
+  "featuredTitle": "Don’t",
+  "description": "Bad things happen when you do things. So don’t.",
+  "quote": "Don’t look anywhere.",
+  "parent": "Grindhouse",
+  "parentYear": "2007",
+  "rating": "R",
+  "runtime": "1h 46m",
+  "director": "Edgar Wright",
+  "studio": "Ichorus Pictures",
+  "labels": "horror",
+  "credit": "Dimension Films",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}

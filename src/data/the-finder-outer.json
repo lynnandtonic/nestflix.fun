@@ -1,0 +1,20 @@
+{
+  "slug": "the-finder-outer",
+  "title": "The Finder Outer",
+  "featuredTitle": "The Finder Outer",
+  "description": "Some cops can read minds, some cops can see the past, and some cops get help from angels. There’s still one cop with no special abilities whatsoever. Detective Klaus Mandela is The Finder Outer.",
+  "quote": "There’s only one way to know who commited this crime. I’ll just have to... find out.",
+  "parent": "Futurama",
+  "parentYear": "1999-2013",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": "drama, crime",
+  "credit": "20th Century Fox Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows"
+  ]
+}

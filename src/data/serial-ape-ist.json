@@ -1,0 +1,19 @@
+{
+  "slug": "serial-ape-ist",
+  "title": "Serial Ape-ist",
+  "featuredTitle": "Serial Ape-ist",
+  "description": "The police finally caught that psychotic, genetically engineered ape. Or so they thought...",
+  "parent": "The Big Bang Theory",
+  "parentYear": "2007-2019",
+  "rating": "R",
+  "runtime": "1h 24m",
+  "starring": "Penny Hofstadter (as Penny)",
+  "labels": "horror, monster",
+  "credit": "Warner Bros. Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}

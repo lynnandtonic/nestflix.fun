@@ -1,0 +1,23 @@
+{
+  "slug": "somethins-cookin",
+  "title": "Somethin’s Cookin’",
+  "featuredTitle": "Somethin’s Cookin’",
+  "description": "Roger babysits Baby Herman, who is determined to get to the cookie jar on top of the refrigerator. Roger better keep that baby safe or he’s going back to the science lab!",
+  "quote": "Boy, it’s dark in here. Don’t they pay the electricity?",
+  "parent": "Who Framed Roger Rabbit",
+  "parentYear": "1988",
+  "rating": "G",
+  "runtime": "47m",
+  "starring": "Roger Rabbit, Baby Herman",
+  "director": "Raoul J Raoul",
+  "studio": "Maroon Cartoons",
+  "labels": "kids",
+  "credit": "Touchstone Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "kids movies"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "all-my-circuits-the-movie",
+  "title": "All My Circuits: The Movie",
+  "featuredTitle": "All My Circuits: The Movie",
+  "description": "A fight has broken out in the special effects warehouse, but should Calculon race to the lasergun battle in a hover Ferrari or double check his paperwork? You choose what happens next!",
+  "parent": "Futurama",
+  "parentYear": "1999-2013",
+  "rating": "M-14",
+  "runtime": "2h 12m",
+  "starring": "Calculon, Monique",
+  "director": "Directing Unit 4",
+  "labels": "action, espionage",
+  "credit": "20th Century Fox Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "spy movies"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "the-box",
+  "title": "The Box",
+  "featuredTitle": "The Box",
+  "description": "Seven people, seventeen weeks, only one will beat The Box. Contestants answer questions to gain advantages or to give disadvantages to their competitors.",
+  "quote": "Release the bugs!",
+  "parent": "Episodes",
+  "parentYear": "2011-2017",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": "Matt LeBlanc",
+  "labels": "game show",
+  "credit": "Showtime",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "game shows"
+  ]
+}

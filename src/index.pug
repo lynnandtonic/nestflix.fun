@@ -1,52 +1,43 @@
----
-layout: skeleton.pug
-title: "Nestflix"
-description: "Fictional movies inside other movies."
-bodyClass: landing
----
-section.hero
-    div.hero-info
-        h1 Welcome to Nestflix
-        p The only platform for your favorite nested films.
-        p Fictional movies inside other movies? Got ‘em. Fake TV shows inside other tv shows? You bet. Browse our selection of stories within stories.
-        //- p Don’t see your fave? Tell us!
-        //- button Details
-    div.hero-image
-        div
-        //-     img(src='/img/angels-with-filthy-souls.jpg')
-        //-     small Angels with Filthy Souls
+extends _includes/skeleton
 
-//- We can iterate over all of the collection entries and ignore special collections that we've added custom logic around: 
+block vars 
+    - var title = "Nestflix";
+    - var description = "Fictional movies inside other movies";
+    - var bodyClass = "landing";
 
-- var tags = Object.keys(collections).filter(function(it) { return !collections.ignoredTags.includes(it.toLowerCase()); });
+block content
+    section.hero
+        div.hero-info
+            h1 Welcome to Nestflix
+            p The only platform for your favorite nested films.
+            p Fictional movies inside other movies? Got ‘em. Fake TV shows inside other tv shows? You bet. Browse our selection of stories within stories.
+            //- p Don’t see your fave? Tell us!
+            //- button Details
+        div.hero-image
+            div
+            //-     img(src='/img/angels-with-filthy-souls.jpg')
+            //-     small Angels with Filthy Souls
 
-each tag in tags.slice(0, 2)
-    unless collections.ignoredTags.includes(tag.toLowerCase())
-        section.list.short
-            h2 !{tag}
-            ul.card-list
-                each entry in collections[tag]
-                    li
-                        a(href=entry.data.page.url)
-                            img(src=src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+    //- We can iterate over all of the collection entries and ignore special collections that we've added custom logic around: 
 
-//- You should be able to reference specific movies by title since we have byTitle now:
-//- TODO: Lynn add this back and style better
-//- section.entry.feature
-//-     div.entry-info
-//-         h1 !{collections.byTitle["Satan’s Alley"].data.title}
-//-         h2 !{collections.byTitle["Satan’s Alley"].data.description}
-//-         h3 !{collections.byTitle["Satan’s Alley"].data.betterName1}
-//-         button Details
-//-     div.entry-image
-//-         img(src='/img/' + collections.byTitle["Satan’s Alley"].data.slug + '.jpg')
+    - var tags = Object.keys(collections).filter(function(it) { return !collections.ignoredTags.includes(it.toLowerCase()); });
 
-each tag in tags.slice(2)
-    unless collections.ignoredTags.includes(tag.toLowerCase())
-        section.list.short
-            h2 !{tag}
-            ul.card-list
-                each entry in collections[tag]
-                    li
-                        a(href=entry.data.page.url)
-                            img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+    each tag in tags.slice(0, 2)
+        unless collections.ignoredTags.includes(tag.toLowerCase())
+            section.list.short
+                h2 !{tag}
+                ul.card-list
+                    each entry in collections[tag]
+                        li
+                            a(href=entry.data.page.url)
+                                img(src=src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+
+    each tag in tags.slice(2)
+        unless collections.ignoredTags.includes(tag.toLowerCase())
+            section.list.short
+                h2 !{tag}
+                ul.card-list
+                    each entry in collections[tag]
+                        li
+                            a(href=entry.data.page.url)
+                                img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)

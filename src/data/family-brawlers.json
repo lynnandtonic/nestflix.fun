@@ -1,0 +1,21 @@
+{
+  "slug": "family-brawlers",
+  "title": "Family Brawlers",
+  "featuredTitle": "Family Brawlers",
+  "description": "What happens when you put a retired NBA point guard in a house with the multiple mothers of his children?",
+  "quote": "Here comes damn Carmen, talkin’ outta side of her neck.",
+  "parent": "Being Mary Jane",
+  "parentYear": "2013-2019",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "starring": "Mercedes",
+  "labels": "reality",
+  "credit": "Black Entertainment Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "reality tv"
+  ]
+}

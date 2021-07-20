@@ -1,0 +1,20 @@
+{
+  "slug": "the-girl-who-stole-the-eiffel-tower",
+  "title": "The Girl Who Stole the Eiffel Tower",
+  "featuredTitle": "The Girl Who Stole the Eiffel Tower",
+  "description": "Gaby and Rick fall for each other through ever changing scenery, plot, and adventure.",
+  "quote": "What fun! Both of us having giraffes as children.",
+  "parent": "Paris When It Sizzles",
+  "parentYear": "1964",
+  "rating": "PG",
+  "runtime": "2h 4m",
+  "labels": "comedy, adventure, romance",
+  "credit": "Paramount Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies"
+  ]
+}

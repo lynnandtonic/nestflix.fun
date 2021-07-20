@@ -1,0 +1,22 @@
+{
+  "slug": "the-case",
+  "title": "The Case",
+  "featuredTitle": "The Case",
+  "description": "Detective Hathaway investigates a series of attacks at Romero Chemical and uncovers a secret that won’t be contained.",
+  "quote": "Could zombies be real?",
+  "parent": "Super 8",
+  "parentYear": "2011",
+  "rating": "PG-13",
+  "runtime": "5m",
+  "starring": "Martin Read, Joe Lamb, Preston Scott, Alice Dainard, Cary McCarthy, Charles Kaznyk",
+  "director": "Charles Kaznyk",
+  "labels": "sci-fi, zombie",
+  "credit": "Paramount Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ]
+}

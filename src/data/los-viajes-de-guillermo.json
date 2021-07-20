@@ -1,0 +1,22 @@
+{
+  "slug": "los-viajes-de-guillermo",
+  "title": "Los Viajes de Guillermo",
+  "featuredTitle": "Los Viajes de Guillermo",
+  "description": "‘Gulliver’s Travels’ meets ‘Honey, I Shrunk the Kids.’ Guillermo and his travel companion Hector must find a way to return to normal size and put their faith in the scientist they both love. ",
+  "quote": "Neither of us will have the lady scientist if we stay small.",
+  "parent": "Jane the Virgin",
+  "parentYear": "2014-2019",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": "Rogelio De La Vega, Esteban Santiago, Fabian Regalo del Cielo",
+  "studio": "Telemasivo Studios",
+  "labels": "telenovela",
+  "credit": "Warner Bros. Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "telenovelas"
+  ]
+}

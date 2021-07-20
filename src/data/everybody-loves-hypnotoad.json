@@ -1,0 +1,20 @@
+{
+  "slug": "everybody-loves-hypnotoad",
+  "title": "Everybody Loves Hypnotoad",
+  "featuredTitle": "Everybody Loves Hypnotoad",
+  "description": "All glory to the Hypnotoad.",
+  "parent": "Futurama",
+  "parentYear": "1999-2013",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": "Hypnotoad",
+  "labels": "drama",
+  "credit": "20th Century Fox Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "sitcoms"
+  ]
+}

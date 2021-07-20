@@ -1,0 +1,19 @@
+{
+  "slug": "banjo",
+  "title": "Banjo",
+  "featuredTitle": "Banjo",
+  "description": "A classic Spaghetti Western about a man who shoots bullets from his banjo.",
+  "quote": "There’s only gonna be two shots: me shooting you and then me drinking this shot of whiskey.",
+  "parent": "Bob’s Burgers",
+  "parentYear": "2011-Present",
+  "rating": "PG-13",
+  "runtime": "2h 21m",
+  "labels": "western",
+  "credit": "Disney-ABC Domestic Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "westerns"
+  ]
+}

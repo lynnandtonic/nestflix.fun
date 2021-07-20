@@ -1,0 +1,23 @@
+{
+  "slug": "threat-level-midnight",
+  "title": "Threat Level Midnight",
+  "featuredTitle": "Threat Level Midnight",
+  "description": "Secret agent Michael Scarn comes out of retirement to help the President stop Goldenface from bombing the NHL All-Star Game.",
+  "quote": "On your marks. Get set. Die!",
+  "parent": "The Office",
+  "parentYear": "2005-2013",
+  "rating": "PG-13",
+  "runtime": "2h 33m",
+  "starring": "Michael Scott, Dwight Schrute, Jim Halpert, Creed Bratton, Darryl Philbin, Troy Underbridge, Ryan Howard, Andy Bernard, Jan Levinson, Oscar Martinez, Stanley Hudson, Roy Anderson, Pam Beesley, Kevin Malone, Kelly Kapoor, Toby Flenderson, Meredith Palmer, Angela Martin, Phyllis Vance, Karen Filippelli, Todd Packer",
+  "director": "Michael Scott",
+  "studio": "Great Scott Film Industries",
+  "labels": "action, espionage",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "spy movies"
+  ]
+}

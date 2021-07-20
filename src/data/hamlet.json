@@ -1,0 +1,21 @@
+{
+  "slug": "hamlet",
+  "title": "Hamlet",
+  "featuredTitle": "Hamlet",
+  "description": "Something is rotten in the state of Denmark. And Hamlet is taking out the trash.",
+  "quote": "Hey, Claudius. You killed my father. Big mistake.",
+  "parent": "Last Action Hero",
+  "parentYear": "1993",
+  "rating": "PG-13",
+  "runtime": "2h 35m",
+  "starring": "Arnold Schwarzenegger",
+  "labels": "action, shakespeare",
+  "credit": "Columbia Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "dickies-gang",
+  "title": "Dickie’s Gang",
+  "featuredTitle": "Dickie’s Gang",
+  "description": "Based on the life and exploits of former child star, Dickie Roberts.",
+  "quote": "Brick wall, waterfall, Danny thinks he’s got it all, but he don’t.",
+  "parent": "Dickie Roberts: Former Child Star",
+  "parentYear": "2003",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": "Leif Garrett, Dustin Diamond, Corey Feldman, Danny Bonaduce, Barry Williams",
+  "labels": "comedy",
+  "credit": "Paramount Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "sitcoms"
+  ]
+}

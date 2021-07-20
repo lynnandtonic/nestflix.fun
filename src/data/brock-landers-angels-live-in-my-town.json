@@ -1,0 +1,23 @@
+{
+  "slug": "brock-landers-angels-live-in-my-town",
+  "title": "Brock Landers: Angels Live in My Town",
+  "featuredTitle": "Brock Landers: Angels Live in My Town",
+  "description": "Brock Landers is a classy, world-traveled kind of detective. He and his partner Chest Rockwell kick butt and solve crimes.",
+  "quote": "Let’s go get some of that Saturday-night beaver.",
+  "parent": "Boogie Nights",
+  "parentYear": "1997",
+  "rating": "Unrated",
+  "runtime": "1h 35m",
+  "starring": "Dirk Diggler, Reed Rothchild",
+  "director": "Jack Horner",
+  "studio": "The Colonel James",
+  "labels": "adult, espionage",
+  "credit": "New Line Cinema",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "adult films"
+  ]
+}

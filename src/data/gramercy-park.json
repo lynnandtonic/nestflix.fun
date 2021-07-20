@@ -1,0 +1,21 @@
+{
+  "slug": "gramercy-park",
+  "title": "Gramercy Park",
+  "featuredTitle": "Gramercy Park",
+  "description": "A couple in the city works through their differences.",
+  "quote": "I’ve got nothing to smile about.",
+  "parent": "Notting Hill",
+  "parentYear": "1999",
+  "rating": "PG-13",
+  "runtime": "1h 37m",
+  "starring": "Anna Scott, Matthew Modine",
+  "labels": "drama, romance",
+  "credit": "Universal Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "the-rainbow-randolph-show",
+  "title": "The Rainbow Randolph Show",
+  "featuredTitle": "The Rainbow Randolph Show",
+  "description": "America’s favorite kid-show host, the friendliest friend on earth, Rainbow Randolph! Featuring Angelo Pike and the Krinkle Kids.",
+  "quote": "Friends come in all sizes!",
+  "parent": "Death to Smoochy",
+  "parentYear": "2002",
+  "rating": "TV-Y",
+  "runtime": "5 seasons",
+  "starring": "Randolph Smiley",
+  "studio": "Kidnet Television",
+  "labels": "kids",
+  "credit": "Warner Bros. Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids tv"
+  ]
+}

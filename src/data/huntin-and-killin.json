@@ -1,0 +1,22 @@
+{
+  "slug": "huntin-and-killin",
+  "title": "Huntin’ and Killin’",
+  "featuredTitle": "Huntin’ and Killin’",
+  "description": "Jimbo and Ned discuss huntin’ and killin’ animals. Favorite segments include Jimbo’s Corner and Jimbo’s Mysteries of the Unexplained.",
+  "quote": "We have to kill animals or else they’ll die.",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": "Jimbo Kern, Ned Gerblansky",
+  "studio": "South Park Public Access",
+  "labels": "talk show",
+  "credit": "Comedy Central",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "talk shows"
+  ]
+}

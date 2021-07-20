@@ -1,0 +1,21 @@
+{
+  "slug": "coming-up-daisy",
+  "title": "Coming Up Daisy",
+  "featuredTitle": "Coming Up Daisy",
+  "description": "Based on the bestselling book by Cormac McCarthy, Daisy finds herself unable to commit over and over and over.",
+  "quote": "Would you come down from there?",
+  "parent": "Burn After Reading",
+  "parentYear": "2008",
+  "rating": "PG-13",
+  "runtime": "1h 36m",
+  "starring": "Claire Danes, Dermot Mulroney",
+  "director": "Sam Raimi",
+  "labels": "romance, comedy",
+  "credit": "Universal Pictures",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies"
+  ]
+}

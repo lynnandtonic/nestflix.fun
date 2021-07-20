@@ -1,0 +1,21 @@
+{
+  "slug": "tears-of-love",
+  "title": "Tears of Love",
+  "featuredTitle": "Tears of Love",
+  "description": "Romance and adventure in darkest Africa.",
+  "quote": "Farewell Norma, I never loved you.",
+  "parent": "The Artist",
+  "parentYear": "2011",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "starring": "George Valentin, Jack the dog",
+  "labels": "adventure, romance",
+  "credit": "Warner Bros. Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "the-alan-brady-show-christmas-special",
+  "title": "The Alan Brady Show Christmas Special",
+  "featuredTitle": "The Alan Brady Show Christmas Special",
+  "description": "The 1963 Christmas episode of the Alan Brady Show, featuring comedy musical performances by the show’s writing team.",
+  "quote": "You’re no Santa Claus, you’re a lady!",
+  "parent": "The Dick Van Dyke Show",
+  "parentYear": "1961-1966",
+  "rating": "TV-G",
+  "runtime": "54m",
+  "starring": "Alan Brady, Robert Petrie, Maurice Sorrell, Sally Rogers, Melvin Cooley, Laura Petrie",
+  "studio": "Jeff Greg Barb Lou Ben Ray Polly Productions",
+  "labels": "comedy, holiday",
+  "credit": "CBS Enterprises",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv special",
+    "for the holidays"
+  ]
+}

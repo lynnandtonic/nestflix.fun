@@ -1,0 +1,21 @@
+{
+  "slug": "love-it-hate-it",
+  "title": "Love It Hate It",
+  "featuredTitle": "Love It Hate It",
+  "description": "Ben Lilly loves the movie and David van Zyverdan hates it. Discuss!",
+  "quote": "You know, this film reminds me of your wife and her ceramic turtle collection.",
+  "parent": "For Your Consideration",
+  "parentYear": "2006",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "starring": "Ben Lilly, David van Zyverdan",
+  "labels": "talk show, entertainment",
+  "credit": "Warner Independent Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "talk shows"
+  ]
+}

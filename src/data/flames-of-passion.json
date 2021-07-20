@@ -1,0 +1,18 @@
+{
+  "slug": "flames-of-passion",
+  "title": "Flames of Passion",
+  "featuredTitle": "Flames of Passion",
+  "description": "Stupendous! Colossal!! Gigantic!!! Epoch-Making!!!",
+  "parent": "Brief Encounter",
+  "parentYear": "1945",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "labels": "romance",
+  "credit": "Eagle-Lion Films",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age"
+  ]
+}

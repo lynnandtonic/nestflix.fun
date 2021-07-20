@@ -1,0 +1,22 @@
+{
+  "slug": "cleaver",
+  "title": "Cleaver",
+  "featuredTitle": "Cleaver",
+  "description": "Michael is a young wiseguy, assassin betrayed by his people, chopped up and left in dumpsters around New York City. He’s put back together and gets his payback as The Butcher.",
+  "quote": "Welcome to the chop shop, cugine.",
+  "parent": "The Sopranos",
+  "parentYear": "1999-2007",
+  "rating": "R",
+  "runtime": "2h 4m",
+  "starring": "Jonathan LaPaglia, Daniel Baldwin, George Pogatsia, Lenny Ligotti",
+  "director": "Morgan Yam",
+  "labels": "slasher, mafia",
+  "credit": "HBO Entertainment",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}

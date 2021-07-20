@@ -1,0 +1,21 @@
+{
+  "slug": "dierdre-and-margaret",
+  "title": "Dierdre and Margaret",
+  "featuredTitle": "Dierdre and Margaret",
+  "description": "Two women from very different worlds who become friends.",
+  "quote": "I don’t know bugger about a chaise. I’ve been using this as a bloody toilet, I have!",
+  "parent": "The Good Place",
+  "parentYear": "2016-2020",
+  "rating": "TV-14",
+  "runtime": "16 series",
+  "studio": "BBC",
+  "labels": "comedy",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "sitcoms"
+  ]
+}

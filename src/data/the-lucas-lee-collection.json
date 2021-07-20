@@ -1,0 +1,22 @@
+{
+  "slug": "the-lucas-lee-collection",
+  "title": "The Lucas Lee Collection",
+  "featuredTitle": "The Lucas Lee Collection",
+  "description": "Before releasing his iconic film Talk to the Fist, Lucas Lee proved he’s an action star like no other in favorites like Action Doctor, and took a dramatic turn as romantic lead in Let’s Hope There’s a Heaven.",
+  "quote": "Listen close and listen hard, bucko.",
+  "parent": "Scott Pilgrim vs. the World",
+  "parentYear": "2010",
+  "rating": "PG-13",
+  "runtime": "8h 24m",
+  "starring": "Lucas Lee",
+  "studio": "Action Picture Classics & Oscar Wright Studios",
+  "labels": "collection, action",
+  "credit": "Universal Pictures",
+  "layout": "movie.pug",
+  "submovies": 4,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}

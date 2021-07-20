@@ -1,0 +1,22 @@
+{
+  "slug": "smoke-jumpers",
+  "title": "Smoke Jumpers",
+  "featuredTitle": "Smoke Jumpers",
+  "description": "Watch the previously unfinished film by Verner Vollstedt about a team of firefighters battling the biggest fire of their lives.",
+  "quote": "There are no more men to bring in.",
+  "parent": "Entourage",
+  "parentYear": "2004-2011",
+  "rating": "PG-13",
+  "runtime": "1h 54m",
+  "starring": "Vincent Chase, Edward Norton, Jason Patric, Brian Van Holt",
+  "director": "Verner Vollstedt",
+  "labels": "thriller, drama",
+  "credit": "HBO Entertainment",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers"
+  ]
+}

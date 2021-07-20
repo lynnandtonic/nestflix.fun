@@ -1,0 +1,21 @@
+{
+  "slug": "gazorpazorpfield",
+  "title": "Gazorpazorpfield",
+  "featuredTitle": "Gazorpazorpfield",
+  "description": "Follow the lives of Jon and his sarcastic cat Gazorpazorpfield.",
+  "quote": "I hate Mumunmunundsdays. And I really could go for some enchiladas.",
+  "parent": "Rick and Morty",
+  "parentYear": "2013-Present",
+  "rating": "TV-14",
+  "runtime": "7 seasons",
+  "starring": "Lorenzo Music",
+  "studio": "Interdimensional Cable",
+  "labels": "comedy",
+  "credit": "Warner Bros. Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "sitcoms"
+  ]
+}

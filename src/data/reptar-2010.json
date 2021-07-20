@@ -1,0 +1,20 @@
+{
+  "slug": "reptar-2010",
+  "title": "Reptar 2010",
+  "featuredTitle": "Reptar 2010",
+  "description": "An underwater volcano erupts off the coast of Rhode Island and a secret is revealed. Reptar! 50,000 years frozen at the Earth’s core.",
+  "quote": "These nuclear containment rings are the strongest force field known to man.",
+  "parent": "Rugrats",
+  "parentYear": "1991-2005",
+  "rating": "MGR",
+  "runtime": "2h 9m",
+  "labels": "horror, monster",
+  "credit": "Nickelodeon Animation Studio",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "simple-jack",
+  "title": "Simple Jack",
+  "featuredTitle": "Simple Jack",
+  "description": "The heart-wrenching story of Jack, a mentally impaired farmhand who can talk to animals.",
+  "quote": "You make me happy.",
+  "parent": "Tropic Thunder",
+  "parentYear": "2008",
+  "rating": "PG",
+  "runtime": "2h 3m",
+  "starring": "Tugg Speedman, Christine Taylor",
+  "labels": "drama",
+  "credit": "DreamWorks Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}

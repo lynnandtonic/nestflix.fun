@@ -1,0 +1,22 @@
+{
+  "slug": "jules-and-mimi",
+  "title": "Jules and Mimi",
+  "featuredTitle": "Jules and Mimi",
+  "description": "Jules is from Brixton and Mimi is from Hampstead Heath. They connect when he rents a flat above her hat shop.",
+  "quote": "It’s definitely balmy in here...",
+  "parent": "Sex and the City",
+  "parentYear": "1998-2004",
+  "rating": "TV-MA",
+  "runtime": "2 series",
+  "starring": "Andrew Stewart-Jones, Vicky Cunningham",
+  "studio": "BBC America",
+  "labels": "soap opera, romance",
+  "credit": "HBO Entertainment",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "soap operas"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "the-manny",
+  "title": "The Manny",
+  "featuredTitle": "The Manny",
+  "description": "He’s a handsome man and also a nanny.",
+  "quote": "Baby say whaaat!?",
+  "parent": "This Is Us",
+  "parentYear": "2016-Present",
+  "rating": "TV-PG",
+  "runtime": "6 seasons",
+  "starring": "Kevin Pearson",
+  "labels": "comedy",
+  "credit": "Disney-ABC Domestic Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "sitcoms"
+  ]
+}
