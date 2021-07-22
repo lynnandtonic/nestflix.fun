@@ -1,0 +1,20 @@
+{
+  "slug": "hearts-and-pearls",
+  "title": "Hearts and Pearls",
+  "featuredTitle": "Hearts and Pearls",
+  "description": "Intrigue! A stolen pearl necklace, a plethora of suspects, and a budding romance will make you feel like you’re in the film.",
+  "parent": "Sherlock Jr.",
+  "parentYear": "1924",
+  "rating": "PG",
+  "runtime": "47m",
+  "studio": "Veronal Film Co",
+  "labels": "mystery, romance",
+  "credit": "Universal Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age"
+  ]
+}

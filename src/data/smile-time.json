@@ -1,0 +1,21 @@
+{
+  "slug": "smile-time",
+  "title": "Smile Time",
+  "featuredTitle": "Smile Time",
+  "description": "Musical education from a team of magical puppets. Join Polo, Flora, Groofus, and Ratio Hornblower for a song!",
+  "quote": "Every day is a new beginning!",
+  "parent": "Angel",
+  "parentYear": "1999-2004",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "studio": "KTCE Television",
+  "labels": "kids",
+  "credit": "20th Century Fox Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids tv"
+  ]
+}

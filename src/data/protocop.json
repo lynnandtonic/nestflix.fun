@@ -1,0 +1,19 @@
+{
+  "slug": "protocop",
+  "title": "Protocop",
+  "featuredTitle": "Protocop",
+  "description": "Protocop, protector of man. He protects men.",
+  "parent": "Kiss Kiss Bang Bang",
+  "parentYear": "2005",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": "Jeff Neal",
+  "labels": "sci-fi, action",
+  "credit": "Warner Bros. Pictures",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "sci-fi films"
+  ]
+}

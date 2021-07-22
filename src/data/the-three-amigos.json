@@ -1,0 +1,22 @@
+{
+  "slug": "the-three-amigos",
+  "title": "The Three Amigos",
+  "featuredTitle": "The Three Amigos",
+  "description": "In the village there is trouble and only The Three Amigos can save them and serve justice.",
+  "quote": "We will not die like dogs, we will fight like lions!",
+  "parent": "Three Amigos",
+  "parentYear": "1986",
+  "rating": "PG",
+  "runtime": "32m",
+  "starring": "Lucky Day, Dusty Bottoms, Ned Nederlander",
+  "studio": "Goldsmith Pictures",
+  "labels": "adventure, western",
+  "credit": "Orion Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "westerns"
+  ]
+}

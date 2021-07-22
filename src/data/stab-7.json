@@ -1,0 +1,21 @@
+{
+  "slug": "stab-7",
+  "title": "Stab 7",
+  "featuredTitle": "Stab 7",
+  "description": "Meta meta commentary on the slasher genre, but with a twist.",
+  "quote": "Did that surprise you?",
+  "parent": "Scream 4",
+  "parentYear": "2011",
+  "rating": "R",
+  "runtime": "1h 38m",
+  "starring": "Anna Paquin, Kristen Bell",
+  "labels": "horror, slasher",
+  "credit": "Universal Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks"
+  ]
+}

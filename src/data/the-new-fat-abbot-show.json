@@ -1,0 +1,21 @@
+{
+  "slug": "the-new-fat-abbot-show",
+  "title": "The New Fat Abbot Show",
+  "featuredTitle": "The New Fat Abbot Show",
+  "description": "Fat Abbot and his friends are taking a new, more real approach to solving problems in their neighborhood.",
+  "quote": "Hey hey hey! What’s going on?",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "rating": "TV-MA",
+  "runtime": "8 seasons",
+  "starring": "Bill Cosby",
+  "labels": "comedy",
+  "credit": "Comedy Central",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "sitcoms"
+  ]
+}

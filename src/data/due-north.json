@@ -1,0 +1,21 @@
+{
+  "slug": "due-north",
+  "title": "Due North",
+  "featuredTitle": "Due North",
+  "description": "‘Underground’ meets ‘Scandal’ in this historical drama. Master Turnfellow begins a secret affair with a slave named Ninny.",
+  "quote": "She only trimmed the tree. I let you tend the bush.",
+  "parent": "Insecure",
+  "parentYear": "2016-Present",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "starring": "Regina Hall, Scott Foley, Michael Jai White, Sarah Chaney, Nija Okoro",
+  "labels": "drama",
+  "credit": "HBO Entertainment",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "tv dramas"
+  ]
+}

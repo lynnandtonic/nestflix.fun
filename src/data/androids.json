@@ -1,0 +1,23 @@
+{
+  "slug": "androids",
+  "title": "Androids",
+  "featuredTitle": "Androids",
+  "description": "Drama, romance, and betrayal between robot friends. ",
+  "quote": "Androids have feelings too.",
+  "parent": "Red Dwarf",
+  "parentYear": "1988-1999",
+  "rating": "TV-14",
+  "runtime": "2h 4m",
+  "starring": "Android 14762/E, Android 9542/P, Android 442/53/2, Android 72264/Y, Android 24/A, Android 980612/L",
+  "director": "Kylie Gwenlyn",
+  "studio": "Groovy Channel 27",
+  "labels": "soap opera",
+  "credit": "BBC Two",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "soap operas"
+  ]
+}

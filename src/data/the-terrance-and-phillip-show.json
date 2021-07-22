@@ -1,0 +1,22 @@
+{
+  "slug": "the-terrance-and-phillip-show",
+  "title": "The Terrance and Phillip Show",
+  "featuredTitle": "The Terrance and Phillip Show",
+  "description": "The pride of Canadian comedy, Terrance and Phillip bring more than just fart humor.",
+  "quote": "You FAH-ted!",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "rating": "TV-MA",
+  "runtime": "16 seasons",
+  "starring": "Sir Phillip Niles Argyle, Sir Terrance Henry Stoot",
+  "studio": "Cartoon Central, The Canada Channel",
+  "labels": "comedy",
+  "credit": "Comedy Central",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "sitcoms"
+  ]
+}

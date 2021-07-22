@@ -1,0 +1,21 @@
+{
+  "slug": "cash-wheel",
+  "title": "Cash Wheel",
+  "featuredTitle": "Cash Wheel",
+  "description": "Contestants guess letters to complete phrases and spin the wheel to win cash prizes.",
+  "quote": "You can go home a thousandaire!",
+  "parent": "Gravity Falls",
+  "parentYear": "2012-2016",
+  "rating": "TV-G",
+  "runtime": "10 seasons",
+  "starring": "Rich, Carla",
+  "labels": "game show",
+  "credit": "Disney Television Animation",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "game shows"
+  ]
+}

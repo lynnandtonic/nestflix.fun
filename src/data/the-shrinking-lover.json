@@ -1,0 +1,21 @@
+{
+  "slug": "the-shrinking-lover",
+  "title": "The Shrinking Lover",
+  "featuredTitle": "The Shrinking Lover",
+  "description": "The Shrinking Lover tells the story of Alfredo, who begins to shrink in size after ingesting his lover Amparo’s weight loss experiment.",
+  "quote": "¿Y si te aplasto al moverme?",
+  "parent": "Talk to Her",
+  "parentYear": "2002",
+  "rating": "R",
+  "runtime": "2h 4m",
+  "director": "Hilario Muñoz",
+  "labels": "drama, romance",
+  "credit": "Warner Sogefilms",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas"
+  ]
+}

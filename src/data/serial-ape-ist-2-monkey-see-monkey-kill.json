@@ -1,0 +1,21 @@
+{
+  "slug": "serial-ape-ist-2-monkey-see-monkey-kill",
+  "title": "Serial Ape-ist 2: Monkey See, Monkey Kill",
+  "featuredTitle": "Serial Ape-ist 2: Monkey See, Monkey Kill",
+  "description": "He was trying to save her life. He mixed her DNA with that of a killer gorilla. Now it’s the girl who goes bananas.",
+  "quote": "What gave you the right to mix my DNA with that of a killer gorilla?",
+  "parent": "The Big Bang Theory",
+  "parentYear": "2007-2019",
+  "rating": "R",
+  "runtime": "1h 48m",
+  "starring": "Wil Wheaton, Penny Hofstadter (as Penny)",
+  "labels": "horror, monster",
+  "credit": "Warner Bros. Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}

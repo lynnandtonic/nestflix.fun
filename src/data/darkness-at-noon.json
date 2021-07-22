@@ -1,0 +1,22 @@
+{
+  "slug": "darkness-at-noon",
+  "title": "Darkness at Noon",
+  "featuredTitle": "Darkness at Noon",
+  "description": "A man who dances on the line between cop and criminal finally breaks bad.",
+  "quote": "People just think there are black hats and white hats. There are black hats with white linings. White hats with black linings. And there are hats that change back and forth between white and black. There are striped hats.",
+  "parent": "The Good Wife",
+  "parentYear": "2009-2016",
+  "rating": "TV-MA",
+  "runtime": "5 seasons",
+  "starring": "Charlie Pollock, Marta Reiman",
+  "studio": "AMC",
+  "labels": "drama, crime",
+  "credit": "CBS Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "tv dramas"
+  ]
+}

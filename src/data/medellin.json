@@ -1,0 +1,21 @@
+{
+  "slug": "medellin",
+  "title": "Medellin",
+  "featuredTitle": "Medellin",
+  "description": "The life of notorious Colombian drug lord Pablo Escobar.",
+  "parent": "Entourage",
+  "parentYear": "2004-2011",
+  "rating": "R",
+  "runtime": "2h 43m",
+  "starring": "Vincent Chase",
+  "director": "Billy Walsh",
+  "labels": "drama, biography",
+  "credit": "HBO Entertainment",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "historical dramas"
+  ]
+}

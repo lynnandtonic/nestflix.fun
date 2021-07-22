@@ -1,0 +1,21 @@
+{
+  "slug": "angels-with-filthy-souls",
+  "title": "Angels with Filthy Souls",
+  "featuredTitle": "Angels with Filthy Souls",
+  "description": "Crime in the city is at an all-time high. Rookie gangster Snakes pays a visit to notorious mob boss Johnny, whose patience is running out.",
+  "quote": "Keep the change, ya filthy animal.",
+  "parent": "Home Alone",
+  "parentYear": "1990",
+  "rating": "R",
+  "runtime": "1h 47m",
+  "starring": "Ralph Foody, Michael Guido",
+  "labels": "drama, mafia",
+  "credit": "20th Century Fox",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "gangster flicks"
+  ]
+}

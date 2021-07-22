@@ -1,0 +1,22 @@
+{
+  "slug": "expose",
+  "title": "Exposé",
+  "featuredTitle": "Exposé",
+  "description": "Crystal and Autum are strippers turned crime-fighters and they’re tracking The Cobra with the help of Mr. LaShade, suave, smooth-talking club owner.",
+  "quote": "Razzle dazzle!",
+  "parent": "Lost",
+  "parentYear": "2004-2010",
+  "rating": "TV-MA",
+  "runtime": "7 seasons",
+  "starring": "Billy Dee Williams, Kimber Andrews, Alissa Jean Scott, Johnny C., Rick Lapidus, Nikki Fernandez",
+  "director": "Stephen Williams",
+  "labels": "action, drama, crime",
+  "credit": "Universal Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows"
+  ]
+}

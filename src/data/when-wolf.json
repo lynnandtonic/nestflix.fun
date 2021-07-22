@@ -1,0 +1,20 @@
+{
+  "slug": "when-wolf",
+  "title": "When Wolf",
+  "featuredTitle": "When Wolf",
+  "description": "The adventures of a time traveling werewolf named Ian.",
+  "quote": "Crosses are baby teeth to me now! I got out!",
+  "parent": "Rick and Morty",
+  "parentYear": "2013-Present",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "studio": "Interdimensional Cable",
+  "labels": "sci-fi, fantasy",
+  "credit": "Warner Bros. Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "sci-fi tv"
+  ]
+}

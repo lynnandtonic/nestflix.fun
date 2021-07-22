@@ -1,26 +1,25 @@
----
-layout: skeleton.pug
-bodyClass: detail
----
+extends skeleton.pug
 
-include hero
+block vars
+    - var bodyClass = "detail";
 
-if stills
-    section.list
-        h2 Stills
-        ul.card-list
-            li: img(src='/img/' + slug + '-still1.jpg')
-            li: img(src='/img/' + slug + '-still2.jpg')
-            li: img(src='/img/' + slug + '-still3.jpg')
-            li: img(src='/img/' + slug + '-still4.jpg')
+block content
+    include hero
 
-if submovies
-    section.list
-        h2 Films in the collection
-        ul.card-list.submovies
-            li: img(src='/img/' + slug + '-submovie1.jpg')
-            li: img(src='/img/' + slug + '-submovie2.jpg')
-            li: img(src='/img/' + slug + '-submovie3.jpg')
-            li: img(src='/img/' + slug + '-submovie4.jpg')
+    if stills
+        section.list
+            h2 Stills
+            ul.card-list
+                li: img(src='/img/' + slug + '-still1.jpg')
+                li: img(src='/img/' + slug + '-still2.jpg')
+                li: img(src='/img/' + slug + '-still3.jpg')
+                li: img(src='/img/' + slug + '-still4.jpg')
 
-include recommend
+    if submovies
+        section.list
+            h2 Films in the collection
+            ul.card-list.submovies
+                each _, counter in Array(submovies)
+                    li: img(src='/img/' + slug + '-submovie' + (counter + 1) + '.jpg')
+
+    include recommend

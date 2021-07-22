@@ -1,0 +1,21 @@
+{
+  "slug": "pasion-intergalactica",
+  "title": "Pasión Intergalactica",
+  "featuredTitle": "Pasión Intergalactica",
+  "description": "Love, adventure, and intrigue... in space!",
+  "quote": "I thought I was a goner when that asteroid severed my whole body. Thank goodness for space science!",
+  "parent": "Jane the Virgin",
+  "parentYear": "2014-2019",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": "Esteban Santiago, Rogelio De La Vega",
+  "studio": "Telemasivo Studios",
+  "labels": "telenovela",
+  "credit": "Warner Bros. Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "telenovelas"
+  ]
+}

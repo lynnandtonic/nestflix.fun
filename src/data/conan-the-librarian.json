@@ -1,0 +1,21 @@
+{
+  "slug": "conan-the-librarian",
+  "title": "Conan the Librarian",
+  "featuredTitle": "Conan the Librarian",
+  "description": "Never before in the history of motion pictures has there been a screen presence so commanding so powerful, so deadly. He’s Conan the Librarian!",
+  "quote": "Don’t you know... THE DEWEY DECIMAL SYSTEM?",
+  "parent": "UHF",
+  "parentYear": "1989",
+  "rating": "PG-13",
+  "runtime": "54m",
+  "starring": "Roger Callard",
+  "studio": "Channel 62",
+  "credit": "Orion Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}

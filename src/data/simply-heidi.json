@@ -1,0 +1,19 @@
+{
+  "slug": "simply-heidi",
+  "title": "Simply Heidi",
+  "featuredTitle": "Simply Heidi",
+  "description": "Heidi speaks with special guests about all kinds of important topics like online bullying.",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": "Heidi",
+  "labels": "talk show",
+  "credit": "Comedy Central",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "talk shows"
+  ]
+}

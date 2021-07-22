@@ -1,0 +1,21 @@
+{
+  "slug": "white-people-renovating-houses",
+  "title": "White People Renovating Houses",
+  "featuredTitle": "White People Renovating Houses",
+  "description": "Randy and Sharon Marsh are a husband and wife team renovating houses in their neighborhood.",
+  "quote": "What we’re thinking here is taking out the wall between the kitchen and the living room to give you an open concept with space to entertain.",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": "Randy Marsh, Sharon Marsh",
+  "labels": "reality, diy",
+  "credit": "Comedy Central",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "reality tv"
+  ]
+}

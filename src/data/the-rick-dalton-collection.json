@@ -1,0 +1,20 @@
+{
+  "slug": "the-rick-dalton-collection",
+  "title": "The Rick Dalton Collection",
+  "featuredTitle": "The Rick Dalton Collection",
+  "description": "Rick Dalton, star of Bounty Law, defined his career with the Spaghetti Western film.",
+  "parent": "Once Upon a Time in Hollywood",
+  "parentYear": "2019",
+  "rating": "R",
+  "runtime": "2h 26m",
+  "starring": "Rick Dalton",
+  "labels": "action, western",
+  "credit": "Columbia Pictures",
+  "layout": "movie.pug",
+  "submovies": 4,
+  "tags": [
+    "entry",
+    "movie",
+    "westerns"
+  ]
+}

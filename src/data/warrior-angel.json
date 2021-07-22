@@ -1,0 +1,20 @@
+{
+  "slug": "warrior-angel",
+  "title": "Warrior Angel",
+  "featuredTitle": "Warrior Angel",
+  "description": "Warrior Angel takes on Devilicus to protect Stephen Swift’s hometown.",
+  "parent": "Smallville",
+  "parentYear": "2001-2011",
+  "rating": "PG-13",
+  "runtime": "2h 12m",
+  "starring": "Rachel Davenport",
+  "labels": "action, superhero",
+  "credit": "Warner Bros. Domestic Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "superhero movies"
+  ]
+}

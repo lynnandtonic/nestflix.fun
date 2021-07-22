@@ -1,0 +1,23 @@
+{
+  "slug": "the-royal-rascal",
+  "title": "The Royal Rascal",
+  "featuredTitle": "The Royal Rascal",
+  "description": "In the biggest picture of 1927, Don Lockwood plays Philippe who fights (quite literally) for his one true love.",
+  "quote": "Philippe!",
+  "parent": "Singin’ in the Rain",
+  "parentYear": "1952",
+  "rating": "PG",
+  "runtime": "1h 13m",
+  "starring": "Don Lockwood, Lina Lamont",
+  "director": "Roscoe Dexter",
+  "studio": "Monumental Pictures",
+  "labels": "adventure, romance",
+  "credit": "Metro-Goldwyn-Mayer",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age"
+  ]
+}

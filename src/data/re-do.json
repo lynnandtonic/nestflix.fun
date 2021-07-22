@@ -1,0 +1,21 @@
+{
+  "slug": "re-do",
+  "title": "Re-do",
+  "featuredTitle": "Re-do",
+  "description": "When you ask a wizard to make you younger, try to be more specific.",
+  "quote": "Get the Baby Bjorn. We’re going to go find that wizard!",
+  "parent": "Funny People",
+  "parentYear": "2009",
+  "rating": "PG-13",
+  "runtime": "1h 48m",
+  "starring": "George Simmons, Justin Long",
+  "labels": "comedy",
+  "director": "Judd Apatow",
+  "credit": "Universal Pictures",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}

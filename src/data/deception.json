@@ -1,0 +1,21 @@
+{
+  "slug": "deception",
+  "title": "Deception",
+  "featuredTitle": "Deception",
+  "description": "Rebecca Green was just your average 20 year old, until the father she never knew left her something she never expected.",
+  "quote": "How do you happen to have two guns?",
+  "parent": "The Holiday",
+  "parentYear": "2006",
+  "rating": "PG-13",
+  "runtime": "1h 51m",
+  "starring": "Lindsay Lohan, James Franco",
+  "labels": "action, thriller",
+  "credit": "Columbia Pictures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers"
+  ]
+}
