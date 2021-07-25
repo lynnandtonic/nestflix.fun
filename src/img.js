@@ -36,7 +36,7 @@ function isThumbnail(filename) {
 }
 
 const heroWidths = [1280, 640];
-const thumbWidths = [320, 160];
+const thumbWidths = [640, 320];
 
 const extension = {
     jpeg: "jpg",
