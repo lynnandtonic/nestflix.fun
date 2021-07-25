@@ -1,0 +1,22 @@
+{
+  "slug": "martin-luther-king-day",
+  "title": "Martin Luther King Day",
+  "featuredTitle": "Martin Luther King Day",
+  "description": "On this very special holiday, somewhere between black and white is love and stuff.",
+  "quote": "Sounds like you... have a dream.",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "PG-13",
+  "runtime": "1h 54m",
+  "starring": "Liam Neeson, Amy Adams, Hugh Grant, Vince Vaughn, Emma Stone, Nick Cannon, Kristen Bell, John Krasinski, Andrew Samberg, Jenna Maroney, Matthew McConaughey, Ian McKellan, Lynndie, England, Plinko from The Price Is Right, Inflatable Tube Man, The 1995 Quebec Nordiques, R2-D2, That Flight Attendant That Went Crazy, Mankind",
+  "director": "Garry Marshall",
+  "labels": "comedy, romance",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies"
+  ]
+}

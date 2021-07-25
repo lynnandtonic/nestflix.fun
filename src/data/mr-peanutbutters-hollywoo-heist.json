@@ -1,0 +1,21 @@
+{
+  "slug": "mr-peanutbutters-hollywoo-heist",
+  "title": "Mr. Peanutbutter’s Hollywoo Heist",
+  "featuredTitle": "Mr. Peanutbutter’s Hollywoo Heist",
+  "description": "The amazing story of Mr. Peanutbutter stealing the D from the Hollywood sign as a surprise for his girlfriend.",
+  "quote": "We bring out the best in each other. I’m the chocolate and you’re Mr. Peanutbutter!",
+  "parent": "BoJack Horseman",
+  "parentYear": "2014-2020",
+  "rating": "PG-13",
+  "runtime": "1h 48m",
+  "starring": "BoJack Horseman, Naomi Watts, Wallace Shawn",
+  "director": "Quentin Tarantulino",
+  "labels": "comedy, romance",
+  "credit": "Netflix",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies"
+  ]
+}

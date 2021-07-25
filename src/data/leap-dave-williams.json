@@ -1,0 +1,21 @@
+{
+  "slug": "leap-dave-williams",
+  "title": "Leap Dave Williams",
+  "featuredTitle": "Leap Dave Williams",
+  "description": "Uptight lawyer Dave Williams turns into the real Leap Day William after an ice fishing trip gone awry.",
+  "quote": "Nothing that happens on Leap Day counts!",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "PG",
+  "runtime": "1h 52m",
+  "starring": "Jim Carrey, Andie MacDowell",
+  "labels": "comedy",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}

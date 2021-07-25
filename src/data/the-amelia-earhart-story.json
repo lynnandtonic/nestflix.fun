@@ -1,0 +1,20 @@
+{
+  "slug": "the-amelia-earhart-story",
+  "title": "The Amelia Earhart Story",
+  "featuredTitle": "The Amelia Earhart Story",
+  "description": "The amazing life of Amelia Earhart, the first female aviator to fly solo across the Atlantic Ocean.",
+  "quote": "You were made for the sky. Why do you think they named you Amelia Earhart? It’s because you heart belongs in the air.",
+  "parent": "BoJack Horseman",
+  "parentYear": "2014-2020",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "studio": "MMM",
+  "labels": "drama, biography",
+  "credit": "Netflix",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "historical dramas"
+  ]
+}

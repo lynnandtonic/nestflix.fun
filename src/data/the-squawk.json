@@ -1,0 +1,20 @@
+{
+  "slug": "the-squawk",
+  "title": "The Squawk",
+  "featuredTitle": "The Squawk",
+  "description": "A talk show featuring four birds of different backgrounds and different opinions.",
+  "parent": "BoJack Horseman",
+  "parentYear": "2014-2020",
+  "rating": "TV-14",
+  "runtime": "24 seasons",
+  "starring": "Paloma Munoz-Liebowitz, Marylin Macaw",
+  "labels": "talk show",
+  "credit": "Netflix",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "talk shows"
+  ]
+}

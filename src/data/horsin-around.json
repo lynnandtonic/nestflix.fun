@@ -1,0 +1,22 @@
+{
+  "slug": "horsin-around",
+  "title": "Horsin’ Around",
+  "featuredTitle": "Horsin’ Around",
+  "description": "A young bachelor horse is forced to re-evaluate his priorities when he agrees to raise three human children.",
+  "quote": "I’ve learned that when you’re in a loving family, there’s nothing wrong with a little horsin’ around.",
+  "parent": "BoJack Horseman",
+  "parentYear": "2014-2020",
+  "rating": "TV-G",
+  "runtime": "9 seasons",
+  "starring": "BoJack Horseman, Joelle Clarke, Bradley Hitler-Smith, Sarah Lynn",
+  "studio": "Parrotmount Studios",
+  "labels": "comedy, family",
+  "credit": "Netflix",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "sitcoms"
+  ]
+}
