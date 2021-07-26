@@ -1,0 +1,22 @@
+{
+  "slug": "gold-case",
+  "title": "Gold Case",
+  "featuredTitle": "Gold Case",
+  "description": "Deal or No Deal meets Millionaire! Ten models each hold an identical suitcase, but one of them is filled with $1,000,000 worth of solid gold.",
+  "quote": "You struck gold on Gold Case!",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "TV-G",
+  "runtime": "1 episode",
+  "starring": "John McEnroe",
+  "studio": "NBC",
+  "labels": "game show",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "game shows"
+  ]
+}

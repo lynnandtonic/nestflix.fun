@@ -1,0 +1,22 @@
+{
+  "slug": "jefferson",
+  "title": "Jefferson",
+  "featuredTitle": "Jefferson",
+  "description": "Jefferson is ‘Norbit’ meets the Founding Fathers. Tracy Jordan takes on the American Revolution and the third U.S. president.",
+  "quote": "Eat that, King George!",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "starring": "Tracy Jordan, Kenneth Parcell",
+  "director": "Tracy Jordan",
+  "labels": "drama, history",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "historical dramas"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "honkey-grandma-be-trippin",
+  "title": "Honkey Grandma Be Trippin’",
+  "featuredTitle": "Honkey Grandma Be Trippin’",
+  "description": "Tracy Jordan goes undercover as a white grandma.",
+  "quote": "Goodness gracious! You hooligans better watch out, cuz this honkey grandma be trippin’!",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "starring": "Tracy Jordan",
+  "labels": "comedy",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}

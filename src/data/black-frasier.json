@@ -1,0 +1,20 @@
+{
+  "slug": "black-frasier",
+  "title": "Black Frasier",
+  "featuredTitle": "Black Frasier",
+  "description": "Dr. Frasier Crane hosts a radio talk show in Seattle and navigates life with his father and brother.",
+  "quote": "That’s not the only thing around here that’s fruity and precocious.",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "TV-PG",
+  "runtime": "11 seasons",
+  "studio": "BET",
+  "labels": "comedy",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "sitcoms"
+  ]
+}

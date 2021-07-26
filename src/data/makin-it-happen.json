@@ -1,0 +1,21 @@
+{
+  "slug": "makin-it-happen",
+  "title": "Makin It Happen!",
+  "featuredTitle": "Makin It Happen!",
+  "description": "The original 10-second internet sitcom!",
+  "quote": "Honey, I’m home!” “Oh, great.",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": "Maulik Pancholy, Kay Cannon, Dave Finkel, Matt Dickinson, Evan Harrington, Stu Rickel",
+  "studio": "NBC",
+  "labels": "comedy",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "web series",
+    "web shows"
+  ]
+}
