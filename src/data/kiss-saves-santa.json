@@ -1,0 +1,21 @@
+{
+  "slug": "kiss-saves-santa",
+  "title": "KISS Saves Santa",
+  "featuredTitle": "KISS Saves Santa",
+  "description": "Mrs. Claus calls on KISS to save Christmas and find out what happened to Santa.",
+  "quote": "Someone stole Santa? That does not rock!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "PG",
+  "runtime": "1h 32m",
+  "starring": "Gene Simmons, Paul Stanley, Tommy Thayer, Eric Singer",
+  "labels": "holiday",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "rolling-courage-the-joe-swanson-story",
+  "title": "Rolling Courage: The Joe Swanson Story",
+  "featuredTitle": "Rolling Courage: The Joe Swanson Story",
+  "description": "Once a man at his physical peak, brought down by a cruel twist of fate. The story of police officer turned olympian, Joe Swanson.",
+  "quote": "Why don’t you ask me to lay down and die?",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-14",
+  "runtime": "1h 46m",
+  "starring": "Tony Danza, Valerie Bertinelli, Bea Arthur",
+  "studio": "ABC",
+  "labels": "drama, biography",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv special",
+    "dramas"
+  ]
+}

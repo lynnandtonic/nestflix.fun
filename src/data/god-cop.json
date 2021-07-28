@@ -1,0 +1,21 @@
+{
+  "slug": "god-cop",
+  "title": "God Cop",
+  "featuredTitle": "God Cop",
+  "description": "A New York City detective solves crime with the help of his new partner, God. Crime just got a new worst friend.",
+  "quote": "If there’s one thing I have realized from being God, it’s that the more you know the more you realize you do not know.",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": "Jack Donaghy, Karl Malone",
+  "studio": "NBC",
+  "labels": "drama, crime",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows"
+  ]
+}

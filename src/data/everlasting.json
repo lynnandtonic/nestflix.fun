@@ -1,0 +1,19 @@
+{
+  "slug": "everlasting",
+  "title": "Everlasting",
+  "featuredTitle": "Everlasting",
+  "description": "An eligible suitor dates several women over eight weeks in hopes of finding his perfect match.",
+  "parent": "Unreal",
+  "parentYear": "2015-2018",
+  "rating": "TV-MA",
+  "runtime": "15 seasons",
+  "labels": "reality, competition",
+  "credit": "Lifetime",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "reality tv"
+  ]
+}

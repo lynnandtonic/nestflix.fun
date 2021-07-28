@@ -1,0 +1,20 @@
+{
+  "slug": "maniac-pope-2-thou-shall-not-live",
+  "title": "Maniac Pope 2: Thou Shall Not Live",
+  "featuredTitle": "Maniac Pope 2: Thou Shall Not Live",
+  "description": "The long-awaited sequel to Maniac Pope. Watch your back, there’s a Pontiff behind you.",
+  "quote": "May the sword be with you. And also with you!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "R",
+  "runtime": "1h 56m",
+  "labels": "horror, slasher",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "the-passion-of-the-christ-2-crucify-this",
+  "title": "The Passion of the Christ 2: Crucify This",
+  "featuredTitle": "The Passion of the Christ 2: Crucify This",
+  "description": "Let he who is without sin, kick the first ass.",
+  "quote": "For the son of God, you sure are a son of a... whoooaa!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "R",
+  "runtime": "2h 22m",
+  "starring": "Chris Tucker, Jim Caviziel",
+  "director": "Mel Gibson",
+  "labels": "action, comedy",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}

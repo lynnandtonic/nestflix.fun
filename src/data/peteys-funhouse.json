@@ -1,0 +1,22 @@
+{
+  "slug": "peteys-funhouse",
+  "title": "Petey’s Funhouse",
+  "featuredTitle": "Petey’s Funhouse",
+  "description": "Join Petey for songs, story time, and visits from his grumpy neighbor, Saggy Naggy.",
+  "quote": "What makes you special? The fact that you are special. But if everybody’s special, that kind of waters it down.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-Y7",
+  "runtime": "1 season",
+  "starring": "Peter Griffin",
+  "studio": "Quahog Public Access",
+  "labels": "kids",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids tv"
+  ]
+}

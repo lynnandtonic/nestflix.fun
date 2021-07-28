@@ -1,0 +1,23 @@
+{
+  "slug": "icarly",
+  "title": "iCarly",
+  "featuredTitle": "iCarly",
+  "description": "Carly and Sam are best friends streaming from their loft studio. Recipes, costumes, dancing, asking tough questions, special guests, and more.",
+  "quote": "That’s why I say the potato is superior to the sports bra.",
+  "parent": "iCarly",
+  "parentYear": "2007-2012",
+  "rating": "Unrated",
+  "runtime": "6 seasons",
+  "starring": "Carly Shay, Sam Puckett",
+  "director": "Freddie Benson",
+  "studio": "icarly.com",
+  "labels": "variety",
+  "credit": "Nickelodeon Productions",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "web shows"
+  ]
+}

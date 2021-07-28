@@ -1,0 +1,20 @@
+{
+  "slug": "bitch-hunter",
+  "title": "Bitch Hunter",
+  "featuredTitle": "Bitch Hunter",
+  "description": "The poorly received pilot episode of Bitch Hunter, which is exactly what it sounds like.",
+  "quote": "Happy birthday, bitches!",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "TV-MA",
+  "runtime": "1 episode",
+  "studio": "NBC",
+  "labels": "action",
+  "credit": "NBCUniversal Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "action tv"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "condensation",
+  "title": "Condensation",
+  "featuredTitle": "Condensation",
+  "description": "What happens when you stop to ponder the moisture collecting on the outside of your glass.",
+  "quote": "It’s not fog, Johnny. It too is called condensation.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "studio": "BBC Four",
+  "labels": "drama",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "british tv"
+  ]
+}
