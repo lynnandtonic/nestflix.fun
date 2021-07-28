@@ -11,13 +11,13 @@
   "starring": "Roger Rabbit, Baby Herman",
   "director": "Raoul J Raoul",
   "studio": "Maroon Cartoons",
-  "labels": "kids",
+  "labels": "comedy, family",
   "credit": "Touchstone Pictures",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "kids movies"
+    "family films"
   ]
 }

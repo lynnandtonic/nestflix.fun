@@ -1,0 +1,21 @@
+{
+  "slug": "diane",
+  "title": "Diane!",
+  "featuredTitle": "Diane!",
+  "description": "Host Diane Simmons speaks with guests to air dirty secrets and mend relationships.",
+  "quote": "Actually, I’m not really a horse. I’m a broom.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": "Diane Simmons",
+  "labels": "talk show",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "talk shows"
+  ]
+}

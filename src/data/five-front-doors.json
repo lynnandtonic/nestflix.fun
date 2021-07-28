@@ -1,0 +1,22 @@
+{
+  "slug": "five-front-doors",
+  "title": "Five Front Doors",
+  "featuredTitle": "Five Front Doors",
+  "description": "The follow-up to the hugely popular ‘Kitchen House.’ Just like a house can’t have enough kitchens, you can never have too many front entryways.",
+  "quote": "The first thing I think when I look at this house is not enough front doors.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": "Peter Griffin, Cleveland Brown, Glenn Quagmire, Joe Swanson",
+  "director": "Peter Griffin",
+  "labels": "reality, home improvement",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "home and diy"
+  ]
+}

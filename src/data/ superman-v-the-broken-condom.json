@@ -1,0 +1,20 @@
+{
+  "slug": "superman-v-the-broken-condom",
+  "title": "Superman V: The Broken Condom",
+  "featuredTitle": "Superman V: The Broken Condom",
+  "description": "Superman and Lois are finally happy, but something unexpected puts Clark’s commitment into question.",
+  "quote": "I think we should see other people.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "PG-13",
+  "runtime": "1h 46m",
+  "labels": "superhero",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "superhero movies"
+  ]
+}

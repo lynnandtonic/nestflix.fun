@@ -10,13 +10,13 @@
   "runtime": "1h 43m",
   "starring": "Candace Van der Shark",
   "studio": "Lifetime",
-  "labels": "drama",
+  "labels": "drama, biography",
   "credit": "NBCUniversal Television",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "dramas"
+    "emotional biopics"
   ]
 }

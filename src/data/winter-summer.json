@@ -1,0 +1,21 @@
+{
+  "slug": "winter-summer",
+  "title": "Winter Summer",
+  "featuredTitle": "Winter Summer",
+  "description": "Korean drama about American Johnny finding love and loss while visiting on business.",
+  "quote": "That new female work person from work has beauty that is beautiful.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": "Glen Quagmire, Hee-Sun",
+  "labels": "soap opera, k-drama",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "soap operas"
+  ]
+}

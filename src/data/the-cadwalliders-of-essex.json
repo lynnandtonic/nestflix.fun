@@ -1,0 +1,22 @@
+{
+  "slug": "the-cadwalliders-of-essex",
+  "title": "The Cadwalliders of Essex",
+  "featuredTitle": "The Cadwalliders of Essex",
+  "description": "A wealthy family in Essex learns to deal with slight change.",
+  "quote": "Everything I’ve ever heard is vexing.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": "Penelope Westworth Harrington",
+  "studio": "BBC",
+  "labels": "drama",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "british tv"
+  ]
+}

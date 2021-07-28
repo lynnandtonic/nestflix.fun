@@ -1,0 +1,22 @@
+{
+  "slug": "kitchen-house",
+  "title": "Kitchen House",
+  "featuredTitle": "Kitchen House",
+  "description": "The Kitchen Boys take on 4 bed, 3 bath craftsman homes and change them into nonsense 7 kitch / no baths.",
+  "quote": "First thing I do is take down this wall to open up the kitchen. Just make this whole room a kitchen. Then I’m gonna gut this bathroom, pull out all the toilets, and make it a kitchen.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": "Peter Griffin, Cleveland Brown, Glenn Quagmire, Joe Swanson",
+  "director": "Peter Griffin",
+  "labels": "reality, home improvement",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "home and diy"
+  ]
+}

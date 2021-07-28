@@ -1,0 +1,22 @@
+{
+  "slug": "cereal-killer",
+  "title": "Cereal Killer",
+  "featuredTitle": "Cereal Killer",
+  "description": "Four friends accidentally kill an innocent man while visiting an abandoned asylum and the secret threatens to tear them apart.",
+  "quote": "It doesn’t feel like a Wednesday.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "R",
+  "runtime": "1h 41m",
+  "starring": "John Goodman, Charlie Sheen, Samuel L. Jackson, Dwayne Johnson",
+  "director": "Peter Griffin",
+  "labels": "horror",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
