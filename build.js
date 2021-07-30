@@ -45,7 +45,13 @@ function readAllJsonFiles() {
     const jsonFileDir = './src/data';
     const jsonFiles = fs.readdirSync('./src/data');
     for (const jsonFile of jsonFiles) {
-        const json = JSON.parse(fs.readFileSync(`${jsonFileDir}/${jsonFile}`, {encoding: 'utf8'}));
+        let json;
+        try {
+            json = JSON.parse(fs.readFileSync(`${jsonFileDir}/${jsonFile}`, {encoding: 'utf8'}));
+        } catch (e) {
+            console.error(`failed to parse ${jsonFile}: ${e}`);
+            throw e;
+        }
         const eleventyData = {
             ...json,
             data: {
