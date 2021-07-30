@@ -1,0 +1,19 @@
+{
+  "slug": "el-amor-prohibido",
+  "title": "El Amor Prohibido",
+  "featuredTitle": "El Amor Prohibido",
+  "description": "A nurse lives a happy life until a forbidden love makes her question everything.",
+  "parent": "Arrested Development",
+  "parentYear": "2003-2006",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": "Marta Estrella, Guillermo Ortiz",
+  "labels": "telenovela",
+  "credit": "20th Television, Netflix",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "telenovelas"
+  ]
+}

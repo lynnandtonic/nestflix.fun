@@ -1,0 +1,19 @@
+{
+  "slug": "a-thoroughly-polite-dustup",
+  "title": "A Thoroughly Polite Dustup",
+  "featuredTitle": "A Thoroughly Polite Dustup",
+  "description": "1941 British war film about a connection between soldier and nurse.",
+  "quote": "Reggie, fighting for your country, you’re such a pussy.",
+  "parent": "Arrested Development",
+  "parentYear": "2003-2006",
+  "rating": "PG-13",
+  "runtime": "2h 13m",
+  "labels": "drama, war",
+  "credit": "20th Television, Netflix",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "war movies"
+  ]
+}

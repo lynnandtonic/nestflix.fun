@@ -1,0 +1,20 @@
+{
+  "slug": "gangie",
+  "title": "Gangie",
+  "featuredTitle": "Gangie",
+  "description": "A town is terrorized by a blood sucker monster. Terror has a new face.",
+  "quote": "I’m thirsty!",
+  "parent": "Arrested Development",
+  "parentYear": "2003-2006",
+  "rating": "R",
+  "runtime": "1h 56m",
+  "studio": "Tantamount Studios",
+  "labels": "horror",
+  "credit": "20th Television, Netflix",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "les-cousins-dangereux",
+  "title": "Les Cousins Dangereux",
+  "featuredTitle": "Les Cousins Dangereux",
+  "description": "A French film centers around a budding but forbidden romance between two cousins. A ‘relative’ masterpiece of complex eroticism.",
+  "quote": "Aimerais-tu jouer?",
+  "parent": "Arrested Development",
+  "parentYear": "2003-2006",
+  "rating": "R",
+  "runtime": "1h 47m",
+  "director": "Francois and Gerard Sauterne",
+  "labels": "drama, romance",
+  "credit": "20th Television, Netflix",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas"
+  ]
+}
