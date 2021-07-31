@@ -26,7 +26,7 @@ block content
         unless collections.ignoredTags.includes(tag.toLowerCase())
             section.list.short
                 h2 !{tag}
-                ul.card-list
+                ul.card-list.thumbs
                     each entry in collections[tag]
                         li
                             a(href=entry.data.page.url)
@@ -36,7 +36,7 @@ block content
         unless collections.ignoredTags.includes(tag.toLowerCase())
             section.list.short
                 h2 !{tag}
-                ul.card-list
+                ul.card-list.thumbs
                     each entry in collections[tag]
                         li
                             a(href=entry.data.page.url)

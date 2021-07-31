@@ -1,0 +1,21 @@
+{
+  "slug": "the-chances-of-natesville",
+  "title": "The Chances of Natesville",
+  "featuredTitle": "The Chances of Natesville",
+  "description": "A simple family is surprised when their son returns home with a baby whose mother was a (now dead) serial killer. How will they raise a baby when they can barely keep themselves alive?",
+  "quote": "I don’t know why people wait for their toast to come out to butter it.",
+  "parent": "Raising Hope",
+  "parentYear": "2010-2014",
+  "rating": "PG-13",
+  "runtime": "1h 45m",
+  "starring": "Zoë Larrabure, John Holiday",
+  "labels": "comedy",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}

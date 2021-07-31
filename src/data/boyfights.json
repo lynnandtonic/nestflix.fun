@@ -1,0 +1,21 @@
+{
+  "slug": "boyfights",
+  "title": "Boyfights",
+  "featuredTitle": "Boyfights",
+  "description": "The sort of popular video series by George Bluth showcasing his sons fighting in various locales. Includes ‘A Boyfights Cookout’ and ‘Backseat Boyfights: The Trip To Uncle Jack's 70th.’ Bonus Baby Buster footage!",
+  "parent": "Arrested Development",
+  "parentYear": "2003-2006",
+  "rating": "PG",
+  "runtime": "4 episodes",
+  "starring": "Michael Bluth, George Oscar Bluth",
+  "director": "George Bluth",
+  "labels": "reality",
+  "credit": "20th Television, Netflix",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "reality tv"
+  ]
+}

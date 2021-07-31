@@ -1,0 +1,21 @@
+{
+  "slug": "mock-trial-with-j-reinhold",
+  "title": "Mock Trial with J. Reinhold",
+  "featuredTitle": "Mock Trial with J. Reinhold",
+  "description": "J. Reinhold presides over mock court cases. *Judge Reinhold is neither a real judge, nor has he received acting’s highest honor.",
+  "quote": "Well it looks like we’ve got a mistrial. But on the plus side, we’ve also got a Hung Jury. Hit it!",
+  "parent": "Arrested Development",
+  "parentYear": "2003-2006",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": "Judge Reinhold",
+  "labels": "reality",
+  "credit": "20th Television, Netflix",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "reality tv"
+  ]
+}

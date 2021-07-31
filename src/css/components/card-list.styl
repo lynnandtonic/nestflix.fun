@@ -14,7 +14,7 @@
   .card-list
     margin-bottom: 0
     display: grid
-    grid-gap: .75em
+    grid-gap: 1em
 
     // 2 across for mid screens
     @media screen and (max-width: $bp-sm) and (min-width: 320px)
@@ -22,6 +22,11 @@
 
     // 4 across for big screens
     @media screen and (min-width: $bp-sm  + 1)
+      // &.stills,
+      // &.submovies
+      //   grid-template-columns: repeat(4,1fr)
+      // &.thumbs
+      //   grid-template-columns: repeat(5,1fr)
       grid-template-columns: repeat(4,1fr)
 
     // 2 across for big screens
@@ -40,16 +45,16 @@
     a
       display: flex
       position: relative
-      box-shadow: black(0) 0 20px 25px -10px,
-                  black(0) 0 12px 8px -10px
+      box-shadow: black(.7) 0 15px 25px -10px,
+                  black(.5) 0 9px 8px -10px
       transform: scale(1, 1) translateZ(0px) translate3d(0px, 0px, 0px)
       transition-duration: 200ms
       transition-property: transform, box-shadow
       transition-timing-function: ease-out
 
       &:hover
-        box-shadow: black(.7) 0 20px 40px -16px,
-                    black(.5) 0 10px 10px -10px
+        box-shadow: black(.9) 0 20px 40px -16px,
+                    black(.7) 0 10px 10px -10px
         transform: scale(1.04, 1.04) translateZ(0px) translate3d(0px, 0px, 0px)
 
         &:after
