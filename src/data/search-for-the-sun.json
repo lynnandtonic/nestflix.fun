@@ -1,0 +1,20 @@
+{
+  "slug": "search-for-the-sun",
+  "title": "Search for the Sun",
+  "featuredTitle": "Search for the Sun",
+  "description": "The interwoven lives of Jack, Brandi, Margarita, Father McGrath, and Mr. Avery Devereaux. Comas, affairs, the undead, and last wills and testaments! Filthy. But genuinely arousing.",
+  "quote": "Jack, I think the baby might be yours.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "labels": "soap opera",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "soap operas"
+  ]
+}

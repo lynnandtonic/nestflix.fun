@@ -1,0 +1,20 @@
+{
+  "slug": "space-mutants",
+  "title": "Space Mutants",
+  "featuredTitle": "Space Mutants",
+  "description": "All twelve Space Mutants films in one place. No person necking in a parked car is safe!",
+  "quote": "I think I hear something… not human!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "R",
+  "runtime": "25h 23m",
+  "labels": "horror, sci-fi",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}

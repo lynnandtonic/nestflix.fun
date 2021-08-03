@@ -1,0 +1,22 @@
+{
+  "slug": "the-krusty-the-clown-show",
+  "title": "The Krusty the Clown Show",
+  "featuredTitle": "The Krusty the Clown Show",
+  "description": "Krusty the Clown hosts his long-running variety kids show featuring physical jokes, comedy sketches, and special guests.",
+  "quote": "Hey, Hey Kids!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-Y7",
+  "runtime": "60 seasons",
+  "starring": "Krusty the Clown, Mr. Teeny, Sideshow Mel, Tina Ballerina, Sideshow Raheem, Sideshow Bob, Sideshow Cassandra",
+  "studio": "Channel 6, HBOWTIME",
+  "labels": "kids",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids tv"
+  ]
+}

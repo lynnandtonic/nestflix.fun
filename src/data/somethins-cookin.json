@@ -7,17 +7,17 @@
   "parent": "Who Framed Roger Rabbit",
   "parentYear": "1988",
   "rating": "G",
-  "runtime": "47m",
+  "runtime": "22m",
   "starring": "Roger Rabbit, Baby Herman",
   "director": "Raoul J Raoul",
   "studio": "Maroon Cartoons",
-  "labels": "comedy, family",
+  "labels": "comedy, animation",
   "credit": "Touchstone Pictures",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "family films"
+    "animated shorts"
   ]
 }
