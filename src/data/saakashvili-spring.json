@@ -1,0 +1,19 @@
+{
+  "slug": "saakashvili-spring",
+  "title": "Saakashvili Spring",
+  "featuredTitle": "Saakashvili Spring",
+  "description": "Oscar-nominated short about the destruction of war and the lasting impact felt by our youth.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG-13",
+  "runtime": "16m",
+  "labels": "drama, animation",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts"
+  ]
+}

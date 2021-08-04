@@ -1,0 +1,22 @@
+{
+  "slug": "do-you-want-lies-with-that",
+  "title": "Do You Want Lies With That?",
+  "featuredTitle": "Do You Want Lies With That?",
+  "description": "Filmmaker Declan Desmond investigates Krusty Burger. Watch Desmond eat Krusty Burger every single day and see the effects of meat that may contain monkey ass-hair.",
+  "quote": "Look, I give people a meat-like burger and some kind of cola, and they still get change back from their $50.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "3h 43m",
+  "starring": "Declan Desmond",
+  "director": "Declan Desmond",
+  "labels": "documentary",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries"
+  ]
+}

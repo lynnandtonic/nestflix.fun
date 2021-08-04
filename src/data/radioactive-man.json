@@ -1,0 +1,21 @@
+{
+  "slug": "radioactive-man",
+  "title": "Radioactive Man",
+  "featuredTitle": "Radioactive Man",
+  "description": "Radioactive Man, hero of comics and television, makes it to the big screen for this origin story of his trusty sidekick, Fallout Boy.",
+  "quote": "Jiminy jillickers, Radioactive Man!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "1h 38m",
+  "starring": "Rainier Wolfcastle, Milhouse Van Houten, Krusty the Clown",
+  "labels": "action, superhero",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "superhero movies"
+  ]
+}

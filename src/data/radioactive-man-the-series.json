@@ -1,0 +1,20 @@
+{
+  "slug": "radioactive-man-the-series",
+  "title": "Radioactive Man: The Series",
+  "featuredTitle": "Radioactive Man: The Series",
+  "description": "The original 1970s series featuring Radioactive Man and Falloutboy protecting the innocent from all kinds of villains, including th elusive Scoutmaster.",
+  "quote": "Up and atom!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": "action, superhero",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "action tv"
+  ]
+}

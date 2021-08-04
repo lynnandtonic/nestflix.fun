@@ -1,0 +1,22 @@
+{
+  "slug": "angry-dad",
+  "title": "Angry Dad",
+  "featuredTitle": "Angry Dad",
+  "description": "The semi-autobiographical web cartoon created by Bart Simpson. Later turned into an Oscar-winning animated short.",
+  "quote": "That’s opinion! Not news!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "director": "Bart Simpson",
+  "studio": "BetterThanTV.com, Ay Carumba Entertainment",
+  "labels": "comedy",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "web shows"
+  ]
+}

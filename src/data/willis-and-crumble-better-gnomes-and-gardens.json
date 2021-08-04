@@ -1,0 +1,21 @@
+{
+  "slug": "willis-and-crumble-better-gnomes-and-gardens",
+  "title": "Willis and Crumble: Better Gnomes and Gardens",
+  "featuredTitle": "Willis and Crumble: Better Gnomes and Gardens",
+  "description": "In this Oscar-nominated short, Willis and Crumble try out their garden gnome restoration machine with a new customer.",
+  "quote": "You must come in for a spot of tea and a homemade marmite sandwich!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "G",
+  "runtime": "8m",
+  "director": "Nick Park",
+  "labels": "comedy, animation",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts"
+  ]
+}

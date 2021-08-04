@@ -1,0 +1,21 @@
+{
+  "slug": "cosmic-wars-holiday-special",
+  "title": "Cosmic Wars: Holiday Special",
+  "featuredTitle": "Cosmic Wars: Holiday Special",
+  "description": "The now infamous 1978 Cosmic Wars TV holiday special. Some call it the worst half hour of television ever.",
+  "quote": "May the sauce be with you.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-G",
+  "runtime": "30m",
+  "director": "Randall Curtis",
+  "labels": "sci-fi, holiday",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv special",
+    "for the holidays"
+  ]
+}

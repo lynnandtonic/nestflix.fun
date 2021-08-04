@@ -9,13 +9,13 @@
   "rating": "TV-MA",
   "runtime": "1 season",
   "starring": "Rose Cranberry",
-  "labels": "documentary",
+  "labels": "true crime, documentary",
   "credit": "HBO Entertainment",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "tv series",
-    "documentaries"
+    "documentary series"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "slug": "condiments",
+  "title": "Condiments",
+  "featuredTitle": "Condiments",
+  "description": "When Timmy is away, the condiments come out to play. Oscar-nominated short that questions the futility of life.",
+  "quote": "My god! I’m empty! Don’t let him put pencils in me!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "17m",
+  "studio": "Mixar",
+  "labels": "animation",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "angry-dad-the-movie",
+  "title": "Angry Dad: The Movie",
+  "featuredTitle": "Angry Dad: The Movie",
+  "description": "Web cartoon turned Oscar-winning animated short from the twisted mind of Bart Simpson.",
+  "quote": "No free refills!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "12m",
+  "starring": "Homer Simpson",
+  "director": "Bart Simpson",
+  "studio": "Nickel ‘n’ Dime Animation Studio",
+  "labels": "comedy, animation",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "pandora-strain",
+  "title": "Pandora Strain",
+  "featuredTitle": "Pandora Strain",
+  "description": "General William Sullivan reports from the CDC clean zone that there’s been an outbreak of deadly Pandora virus.",
+  "quote": "Humanity must endure.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "R",
+  "runtime": "2h 13m",
+  "starring": "Treat Williams",
+  "labels": "thriller",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers"
+  ]
+}

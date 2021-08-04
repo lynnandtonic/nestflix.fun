@@ -1,0 +1,21 @@
+{
+  "slug": "mcbain",
+  "title": "McBain",
+  "featuredTitle": "McBain",
+  "description": "All seven McBain films! Not just another shoot-em-up, push em through the plate glass window, splatter fest from the Hollywood cookie cutter.",
+  "quote": "Meeting adjourned.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "R",
+  "runtime": "16h 12m",
+  "starring": "Rainier Wolfcastle, Clara Hosenfrauen, Skoey",
+  "labels": "action",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}

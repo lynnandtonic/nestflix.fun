@@ -1,0 +1,21 @@
+{
+  "slug": "the-itchy-and-scratchy-movie",
+  "title": "The Itchy & Scratchy Movie",
+  "featuredTitle": "The Itchy & Scratchy Movie",
+  "description": "Your favorite animated dueling duo! Suspense! Romance! 53% new footage.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "1h 12m",
+  "starring": "June Bellamy",
+  "studio": "I&S Studios",
+  "labels": "comedy, animation",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}

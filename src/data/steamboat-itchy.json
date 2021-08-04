@@ -1,0 +1,20 @@
+{
+  "slug": "steamboat-itchy",
+  "title": "Steamboat Itchy",
+  "featuredTitle": "Steamboat Itchy",
+  "description": "In 1928 and with credit to Chester Lampwick and Roger Meyers, Sr., Itchy and Scratchy star in their first cartoon together.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "8m",
+  "studio": "I&S Studios",
+  "labels": "comedy, animation",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "the-bloodening",
+  "title": "The Bloodening",
+  "featuredTitle": "The Bloodening",
+  "description": "Forty years ago, a film appeared that was so shocking, so terrifying, it was sealed in a concrete vault deep beneath the earth. But even the new management at Sony TriStar could not contain the pure evil of The Bloodening!",
+  "quote": "But you’re the one that’s been bad. You’ve been sneaking puddings.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "R",
+  "runtime": "1h 43m",
+  "studio": "Sony TriStar Productions",
+  "labels": "horror",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
