@@ -10,13 +10,13 @@
   "runtime": "60 seasons",
   "starring": "Krusty the Clown, Mr. Teeny, Sideshow Mel, Tina Ballerina, Sideshow Raheem, Sideshow Bob, Sideshow Cassandra",
   "studio": "Channel 6, HBOWTIME",
-  "labels": "kids",
+  "labels": "kids, variety",
   "credit": "20th Television",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "tv series",
-    "kids tv"
+    "kids variety shows"
   ]
 }

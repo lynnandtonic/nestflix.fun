@@ -9,12 +9,12 @@
   "runtime": "2 seasons",
   "starring": "Haggis MacHaggis",
   "director": "Haggis MacHaggis",
-  "labels": "variety, comedy",
+  "labels": "comedy",
   "credit": "ViacomCBS Domestic Media",
   "layout": "movie.pug",
   "tags": [
     "entry",
     "tv series",
-    "variety shows"
+    "comedy tv"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "slug": "cosmic-wars-the-gathering-shadow",
+  "title": "Cosmic Wars: The Gathering Shadow",
+  "featuredTitle": "Cosmic Wars: The Gathering Shadow",
+  "description": "The saga continues. It is a time of uncertainty. The empire’s ambiguous tariff statutes mandate close re-examination of galactic export quotas. Interim Princess Agoomba has co-chaired a subcommittee to draft amendments to existing trade policies.",
+  "quote": "The decision is final. Tabled, this motion is. …Or is it?",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "2h 34m",
+  "director": "Randall Curtis",
+  "labels": "sci-fi",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ]
+}

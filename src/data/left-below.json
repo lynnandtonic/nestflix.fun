@@ -1,0 +1,21 @@
+{
+  "slug": "left-below",
+  "title": "Left Below",
+  "featuredTitle": "Left Below",
+  "description": "Mr. Thompson doesn’t believe in religion, won’t go to church, and is having an affair. He dismisses his wife when she says the rapture is near…",
+  "quote": "Where did my Christian limo driver go?!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "G",
+  "runtime": "1h 30m",
+  "studio": "He Is Risen Productions",
+  "labels": "drama, religion",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "religious programming"
+  ]
+}

@@ -1,6 +1,6 @@
 section.list.recommend
     h2 You might also like
-    ul.card-list
+    ul.card-list.recommendations
         each sameMovie in tags.slice(0,1)
             each entry in collections[sameMovie]
                 if entry.data.title !== title && entry.data.parent == parent

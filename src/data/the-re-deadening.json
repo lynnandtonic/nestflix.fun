@@ -1,0 +1,21 @@
+{
+  "slug": "the-re-deadening",
+  "title": "The Re-Deadening",
+  "featuredTitle": "The Re-Deadening",
+  "description": "As the prophecy foretold, something truly evil has awoken.",
+  "quote": "What is that Baby Button Eyes? You want me to kill mummy?",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "R",
+  "runtime": "1h 56m",
+  "starring": "Donald Sutherland, Lenny Leonard",
+  "labels": "horror",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}

@@ -9,13 +9,13 @@
   "rating": "Unrated",
   "runtime": "46m",
   "starring": "Phoebe Buffay",
-  "labels": "adult",
+  "labels": "adult, fantasy",
   "credit": "Warner Bros. Television",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "adult films"
+    "18+"
   ]
 }

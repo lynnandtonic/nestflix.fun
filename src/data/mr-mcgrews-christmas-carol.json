@@ -1,0 +1,20 @@
+{
+  "slug": "mr-mcgrews-christmas-carol",
+  "title": "Mr. McGrew’s Christmas Carol",
+  "featuredTitle": "Mr. McGrew’s Christmas Carol",
+  "description": "America’s favorite near-sighted retiree takes on the Charles Dickens holiday classic as Ebenezer McGrew.",
+  "quote": "Sir, I’m over here.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "57m",
+  "labels": "holiday",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ]
+}

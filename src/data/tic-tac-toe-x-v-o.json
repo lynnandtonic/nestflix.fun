@@ -1,0 +1,20 @@
+{
+  "slug": "tic-tac-toe-x-v-o",
+  "title": "Tic-Tac-Toe X v. O",
+  "featuredTitle": "Tic-Tac-Toe X v. O",
+  "description": "In a conflict as old as pencil and paper, two mighty armies square off in a battle between cross and circle. Two lovers, Rome-O and Juli-X, are caught in the middle.",
+  "quote": "Remember my son, the one who controls the center controls the board.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG-13",
+  "runtime": "2h 9m",
+  "labels": "sci-fi, romance",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ]
+}

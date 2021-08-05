@@ -1,0 +1,20 @@
+{
+  "slug": "the-new-adventures-of-gravey-and-jobriath",
+  "title": "The New Adventures of Gravey and Jobriath",
+  "featuredTitle": "The New Adventures of Gravey and Jobriath",
+  "description": "Join Gravey and Jobriath for adventures in faith and friendship. Approved by a council of Presbylutheran ministers.",
+  "quote": "It’s a pipe bomb, forto blow up Planned Parenthood!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "G",
+  "runtime": "2 seasons",
+  "labels": "kids, religion",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "religious programming"
+  ]
+}

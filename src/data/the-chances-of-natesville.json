@@ -9,13 +9,13 @@
   "rating": "PG-13",
   "runtime": "1h 45m",
   "starring": "Zoë Larrabure, John Holiday",
-  "labels": "comedy",
+  "labels": "comedy, family",
   "credit": "20th Television",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "comedies"
+    "family comedies"
   ]
 }

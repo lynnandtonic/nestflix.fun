@@ -11,13 +11,13 @@
   "starring": "Frank Jackson",
   "director": "Dusty Wong",
   "studio": "Marty Wolf Pictures",
-  "labels": "action, fantasy",
+  "labels": "comedy, fantasy",
   "credit": "Universal Pictures",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "action movies"
+    "family comedies"
   ]
 }

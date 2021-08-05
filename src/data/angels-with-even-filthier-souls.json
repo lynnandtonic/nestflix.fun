@@ -9,13 +9,13 @@
   "rating": "R",
   "runtime": "1h 36m",
   "starring": "Ralph Foody, Clare Hoak",
-  "labels": "drama, mafia",
+  "labels": "drama, thriller",
   "credit": "20th Century Fox",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "gangster flicks"
+    "thrillers"
   ]
 }

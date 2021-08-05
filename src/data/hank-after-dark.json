@@ -1,0 +1,19 @@
+{
+  "slug": "hank-after-dark",
+  "title": "Hank After Dark",
+  "featuredTitle": "Hank After Dark",
+  "description": "Animal Choice Award winner Hank Hippopopalous hosts fascinating conversations with guests of all stripes.",
+  "parent": "BoJack Horseman",
+  "parentYear": "2014-2020",
+  "rating": "TV-PG",
+  "runtime": "6 seasons",
+  "starring": "Hank Hippopopalous",
+  "labels": "talk show",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "late night talk shows"
+  ]
+}

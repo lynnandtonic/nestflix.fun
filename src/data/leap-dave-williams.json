@@ -9,13 +9,13 @@
   "rating": "PG",
   "runtime": "1h 52m",
   "starring": "Jim Carrey, Andie MacDowell",
-  "labels": "comedy",
+  "labels": "comedy, family",
   "credit": "NBCUniversal Television",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "comedies"
+    "family comedies"
   ]
 }

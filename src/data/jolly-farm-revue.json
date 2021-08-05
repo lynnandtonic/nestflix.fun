@@ -10,13 +10,13 @@
   "runtime": "5 seasons",
   "starring": "Karina Smirnoff",
   "studio": "BBC",
-  "labels": "kids",
+  "labels": "kids, variety",
   "credit": "20th Television",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "tv series",
-    "kids tv"
+    "kids variety shows"
   ]
 }

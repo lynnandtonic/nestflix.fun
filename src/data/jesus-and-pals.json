@@ -10,13 +10,13 @@
   "runtime": "5 seasons",
   "starring": "Jesus Christ",
   "studio": "South Park Public Access",
-  "labels": "talk show",
+  "labels": "talk show, religion",
   "credit": "Comedy Central",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "tv series",
-    "talk shows"
+    "religious programming"
   ]
 }

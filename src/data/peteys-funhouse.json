@@ -10,13 +10,13 @@
   "runtime": "1 season",
   "starring": "Peter Griffin",
   "studio": "Quahog Public Access",
-  "labels": "kids",
+  "labels": "kids, variety",
   "credit": "20th Television",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "tv series",
-    "kids tv"
+    "kids variety shows"
   ]
 }
