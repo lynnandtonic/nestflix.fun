@@ -1,0 +1,21 @@
+{
+  "slug": "me-wantee",
+  "title": "Me Wantee!",
+  "featuredTitle": "Me Wantee!",
+  "description": "Join the question-asking guy Virgil Sinclair as contestants answer trivia questions to win big money.",
+  "quote": "Is that your ultimate response?",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-G",
+  "runtime": "12 seasons",
+  "starring": "Virgil Sinclair",
+  "labels": "game show",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "game shows"
+  ]
+}

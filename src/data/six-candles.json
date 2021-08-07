@@ -1,0 +1,23 @@
+{
+  "slug": "six-candles",
+  "title": "Six Candles",
+  "featuredTitle": "Six Candles",
+  "description": "Abed Nadir’s student film exploring the end of his parents’ marriage, the relationship with his father, and his own place in the world.",
+  "quote": "I think you are weird, Abed.",
+  "parent": "Community",
+  "parentYear": "2009-2015",
+  "rating": "Unrated",
+  "runtime": "5m",
+  "starring": "Jeff Winger, Britta Perry, Abed Nadir",
+  "director": "Abed Nadir",
+  "studio": "Abed is Awesome Productions, Cool Abed Films, A.B.E.D. Pictures Entertainment",
+  "labels": "drama, amateur",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "christmas-with-the-california-prunes",
+  "title": "Christmas with the California Prunes",
+  "featuredTitle": "Christmas with the California Prunes",
+  "description": "The 1986 classic holiday special featuring those cool singing dried fruits.",
+  "quote": "We are the fruit that your grandmother loves.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-G",
+  "runtime": "46m",
+  "labels": "holiday",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv special",
+    "for the holidays"
+  ]
+}

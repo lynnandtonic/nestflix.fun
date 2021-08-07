@@ -10,13 +10,13 @@
   "runtime": "1h 12m",
   "starring": "Doug McKenzie, Bob McKenzie",
   "director": "Doug McKenzie",
-  "labels": "sci-fi, monster",
+  "labels": "amateur, sci-fi, monster",
   "credit": "MGM Pictures",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "sci-fi films"
+    "amateur filmmakers"
   ]
 }

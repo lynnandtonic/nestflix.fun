@@ -1,0 +1,19 @@
+{
+  "slug": "cops-with-banana-guns",
+  "title": "COPS with Banana Guns",
+  "featuredTitle": "COPS with Banana Guns",
+  "description": "A series that imagines a world where police officers don’t use guns. They weild bananas.",
+  "quote": "Is that… is that a banana?",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "labels": "crime",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows"
+  ]
+}

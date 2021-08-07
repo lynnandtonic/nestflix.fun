@@ -1,0 +1,19 @@
+{
+  "slug": "stabbed-in-the-butt",
+  "title": "Stabbed in the Butt",
+  "featuredTitle": "Stabbed in the Butt",
+  "description": "The only game show where if you get the answer wrong, you get stabbed in the butt.",
+  "quote": "Get him, guys! Stab him in the butt!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "labels": "game show",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "game shows with a bit of danger!"
+  ]
+}

@@ -10,13 +10,13 @@
   "runtime": "16m",
   "starring": "Barney Gumble",
   "director": "Barney Gumble",
-  "labels": "drama",
+  "labels": "amateur, drama",
   "credit": "20th Television",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "dramas"
+    "amateur filmmakers"
   ]
 }

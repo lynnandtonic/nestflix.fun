@@ -1,0 +1,22 @@
+{
+  "slug": "dial-b-for-burger",
+  "title": "Dial “B” for Burger",
+  "featuredTitle": "Dial “B” for Burger",
+  "description": "One of the earliest films from prolific amateur filmmaker, Katie Mitchell. What do we really know about our food?",
+  "quote": "I’m alive now! Even though I’m a hamburger.",
+  "parent": "The Mitchells vs. the Machines",
+  "parentYear": "2021",
+  "rating": "Unrated",
+  "runtime": "5m",
+  "starring": "Katie Mitchell, Monchi",
+  "director": "Katie Mitchell",
+  "labels": "comedy, amateur",
+  "credit": "Netflix",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}

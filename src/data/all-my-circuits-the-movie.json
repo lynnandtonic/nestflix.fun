@@ -9,13 +9,13 @@
   "runtime": "2h 12m",
   "starring": "Calculon, Monique",
   "director": "Directing Unit 4",
-  "labels": "action, espionage",
+  "labels": "action",
   "credit": "20th Century Fox Television",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "spy movies"
+    "action movies"
   ]
 }

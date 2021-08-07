@@ -10,13 +10,13 @@
   "runtime": "54m",
   "starring": "Roger Callard",
   "studio": "Channel 62",
-  "labels": "action",
+  "labels": "action, fantasy",
   "credit": "Orion Pictures",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
     "entry",
     "movie",
-    "action movies"
+    "mighty movie heroes"
   ]
 }

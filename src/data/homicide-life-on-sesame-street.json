@@ -1,0 +1,20 @@
+{
+  "slug": "homicide-life-on-sesame-street",
+  "title": "Homicide Life on Sesame Street",
+  "featuredTitle": "Homicide Life on Sesame Street",
+  "description": "The dark side of Sesame Street you never saw before. Brought to you by the letter H.",
+  "quote": "Bert, I wish you wouldn’t drink so much, Bert.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "labels": "drama, crime",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows"
+  ]
+}

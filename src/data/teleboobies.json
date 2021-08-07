@@ -1,0 +1,20 @@
+{
+  "slug": "teleboobies",
+  "title": "Teleboobies",
+  "featuredTitle": "Teleboobies",
+  "description": "Brazil’s favorite kids variety show! Join Xoxchitla, Flamenco Flamingo, and the whole gang in some educational fun.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": "Xoxchitla",
+  "labels": "kids, variety",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids variety shows"
+  ]
+}

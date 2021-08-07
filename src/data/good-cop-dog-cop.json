@@ -1,0 +1,22 @@
+{
+  "slug": "good-cop-dog-cop",
+  "title": "Good Cop Dog Cop",
+  "featuredTitle": "Good Cop Dog Cop",
+  "description": "A dog who’s a cop and wants to live out his greatest dream.",
+  "quote": "I may be sweating like a dog, but I’m not rolling over!",
+  "parent": "The Mitchells vs. the Machines",
+  "parentYear": "2021",
+  "rating": "Unrated",
+  "runtime": "7m",
+  "starring": "Aaron Mitchell, Monchi",
+  "director": "Katie Mitchell",
+  "labels": "comedy, amateur",
+  "credit": "Netflix",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}

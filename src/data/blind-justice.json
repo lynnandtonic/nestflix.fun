@@ -1,0 +1,19 @@
+{
+  "slug": "blind-justice",
+  "title": "Blind Justice",
+  "featuredTitle": "Blind Justice",
+  "description": "A detective who lost his sight… but not his vision.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "director": "Steven Bochco",
+  "labels": "drama, crime",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows"
+  ]
+}

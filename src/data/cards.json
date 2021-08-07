@@ -1,0 +1,22 @@
+{
+  "slug": "cards",
+  "title": "Cards",
+  "featuredTitle": "Cards",
+  "description": "DreamWorks brings playing cards to life and 52 jokers play the game of their lives. The house is full and the deuces are wild.",
+  "quote": "You can’t handle the twos.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "1h 54m",
+  "starring": "Eddie Murphy",
+  "studio": "DreamWorks",
+  "labels": "comedy, family",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}

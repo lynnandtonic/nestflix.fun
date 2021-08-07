@@ -1,0 +1,21 @@
+{
+  "slug": "ya-hoo",
+  "title": "Ya Hoo!",
+  "featuredTitle": "Ya Hoo!",
+  "description": "Hold on to your pitchforks, everybody. It’s time again for Ya Hoo! Your favorite country-western variety show featuring jokes, comedy sketches, and musical performances.",
+  "quote": "You bitter?” “Yup. Bit him too.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": "Pip Diddler, Yodelin’ Zeke, Butterball Jackson, Freddy-Boy and Yuma, Cloris Mozelle, Big Shirtless Ron, Orville and Hurley, Cathy May, Rooney, The Ya Hoo! Recovering Alcoholic Jug Band, Lurleen Lumpkin",
+  "labels": "variety, music",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "variety shows"
+  ]
+}

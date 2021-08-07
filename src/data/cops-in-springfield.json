@@ -1,0 +1,21 @@
+{
+  "slug": "cops-in-springfield",
+  "title": "COPS: in Springfield",
+  "featuredTitle": "COPS: in Springfield",
+  "description": "The cops of Springfield are out on the streets and doing mostly an ok job?",
+  "quote": "Put out an APB for a male suspect driving a car of some sort. Heading in the direction of the, ya know, the place that sells chili. The suspect is hatless.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": "Clancy Wiggum",
+  "labels": "reality, crime",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "criminal justice reality tv"
+  ]
+}

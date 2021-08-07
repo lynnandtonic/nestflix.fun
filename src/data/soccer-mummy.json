@@ -1,0 +1,21 @@
+{
+  "slug": "soccer-mummy",
+  "title": "Soccer Mummy",
+  "featuredTitle": "Soccer Mummy",
+  "description": "Justin’s soccer team was in last place, until they dug up a new player. ",
+  "quote": "Go soccer mummy! You taught me to believe in myself!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "1h 46m",
+  "starring": "Ed O’Neill",
+  "labels": "comedy, family",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}

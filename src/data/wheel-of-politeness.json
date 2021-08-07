@@ -1,0 +1,19 @@
+{
+  "slug": "wheel-of-politeness",
+  "title": "Wheel of Politeness",
+  "featuredTitle": "Wheel of Politeness",
+  "description": "Britain’s most popular game show.",
+  "quote": "Join us same time tomorrow if it’s not entirely inconvenient for you. If so, of course, we do understand and we do apologize in advance. This has all been an imposition. I’m so dreadfully sorry.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-G",
+  "runtime": "20 seasons",
+  "labels": "game show",
+  "credit": "20th Television",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "british tv"
+  ]
+}
