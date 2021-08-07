@@ -21,12 +21,12 @@ block content
     //- We can iterate over all of the collection entries and ignore special collections that we've added custom logic around: 
 
     //- TODO: Remove this part
-    - var tags = Object.keys(collections).filter(function(it) { return !collections.ignoredTags.includes(it.toLowerCase()); });
+    //- - var tags = Object.keys(collections).filter(function(it) { return !collections.ignoredTags.includes(it.toLowerCase()); });
 
     //- TODO: Manually order tags
-    //- - var tags = ['tag1', 'tag2', 'tag3'];
+    - var tags = ['dramas', 'comedies', 'action movies', 'post-apocalyptic action movies', 'war and historical dramas', 'dramatic biopics', 'thrillers', 'crime shows', 'buddy cops', 'spy movies', 'westerns', 'sci-fi films', 'monster movies', 'documentaries', 'documentary series', 'sci-fi tv', 'aliens!', 'romantic dramas', 'romantic comedies', 'horror movies', 'slasher flicks', 'action tv', 'tv dramas', 'reality tv', 'reality competition shows', 'criminal justice reality tv', 'home and diy', 'animals on tv', 'animated shorts', 'mighty movie heroes', 'hollywood’s golden age', 'game shows', 'game shows with a bit of danger!', 'variety shows', 'amateur filmmakers', 'web shows', 'comedy tv', 'sitcoms', 'family sitcoms', 'family films', 'kids tv', 'kids variety shows', 'british tv', 'religious programming', 'for the holidays', 'soap operas', 'telenovelas', 'adults 18+', 'talk shows', 'public-access talk shows', 'entertainment commentary', 'late night talk shows'];
 
-    each tag in tags
+    each tag in tags.slice(0,2)
         unless collections.ignoredTags.includes(tag.toLowerCase())
             section.list.short
                 h2 !{tag}
@@ -36,12 +36,12 @@ block content
                             a(href=entry.data.page.url)
                                 img(src=src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
 
-    //- each tag in tags.slice(2)
-    //-     unless collections.ignoredTags.includes(tag.toLowerCase())
-    //-         section.list.short
-    //-             h2 !{tag}
-    //-             ul.card-list.thumbs
-    //-                 each entry in collections[tag]
-    //-                     li
-    //-                         a(href=entry.data.page.url)
-    //-                             img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+    each tag in tags.slice(2)
+        unless collections.ignoredTags.includes(tag.toLowerCase())
+            section.list.short
+                h2 !{tag}
+                ul.card-list.thumbs
+                    each entry in collections[tag]
+                        li
+                            a(href=entry.data.page.url)
+                                img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
