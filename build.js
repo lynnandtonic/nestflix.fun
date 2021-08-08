@@ -42,6 +42,7 @@ function readAllJsonFiles() {
                 'tv special',
                 'web series',
                 'video series',
+                'search',
             ].map((it) => it.toLowerCase()),
         },
     };
@@ -71,8 +72,32 @@ function readAllJsonFiles() {
             globalData.collections[tag] = globalData.collections[tag] || [];
             globalData.collections[tag].push(eleventyData);
         });
-
+        
         globalData.collections.byTitle[eleventyData.data.title] = eleventyData;
+
+        globalData.collections.search = {
+            fields: [
+                'title',
+                'description',
+                'parent',
+                'director',
+                'credit',
+                'slug',
+                'labels',
+            ]
+        };
+
+        globalData.collections.search.data = globalData.collections.all.map(function mapper(entry) {
+            const output = {};
+            for (const key of globalData.collections.search.fields) {
+                if (entry[key]) {
+                    output[key] = entry[key].toLowerCase
+                    ? entry[key].toLowerCase()
+                    : entry[key]
+                }
+            }
+            return output;
+        });
     }
 }
 
