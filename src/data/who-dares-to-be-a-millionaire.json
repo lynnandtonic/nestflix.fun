@@ -11,6 +11,11 @@
   "starring": "Morbo the Annihilator",
   "labels": "game show",
   "credit": "20th Century Fox Television",
+  "altHero": "Philip J. Fry and Morbo sit on a game show stage",
+  "alt1": "Morbo talking",
+  "alt2": "the Planet Express crew in the audience",
+  "alt3": "Fry struggles with the trivia question “What tool is used to hammer a nail?” given the following choices: a hammer or a nail",
+  "alt4": "the set lights are red and Fry’s chair has lifted off the ground to head out of frame",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

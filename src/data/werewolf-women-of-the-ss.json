@@ -12,6 +12,11 @@
   "director": "Rob Zombie",
   "labels": "horror, monster",
   "credit": "Dimension Films",
+  "altHero": "a werewolf in a Nazi uniform holding a large gun",
+  "alt1": "Udo Kier as a Nazi officer",
+  "alt2": "Sheri Moon Zombie as a lounge singer",
+  "alt3": "a werewolf plays the piano",
+  "alt4": "Nicolas Cage as Fu Manchu",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

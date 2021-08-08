@@ -10,6 +10,11 @@
   "starring": "Rachel Davenport",
   "labels": "action, superhero",
   "credit": "Warner Bros. Domestic Television",
+  "altHero": "a superhero flies through the sky",
+  "alt1": "a woman in a dress is topped by someone pointing a gun at her",
+  "alt2": "a comic book villain in a hood pointing the gun",
+  "alt3": "a side closeup of the gun",
+  "alt4": "Warrior Angel shows up and stands between the girl and the villain",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

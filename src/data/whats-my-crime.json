@@ -11,6 +11,11 @@
   "starring": "The Quizmaster, Inspector Graves, Miss Birdwell, Mr. Simpkins",
   "labels": "reality, game show",
   "credit": "Disney Animation Studios",
+  "altHero": "the Quizmaster, a slender mustached man with glasses",
+  "alt1": "a hopeful contestant in handcuffs sits with the Quizmaster",
+  "alt2": "the panel of experts",
+  "alt3": "a clock with a sign below “On the air”",
+  "alt4": "the contestant looks disappointed as a hand rests on his shoulder",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

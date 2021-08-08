@@ -12,6 +12,11 @@
   "studio": "Gravity Falls Public Access TV",
   "labels": "talk show",
   "credit": "Disney Television Animation",
+  "altHero": "Sassica sits with a teenage guest, the crowd cheers",
+  "alt1": "Sassica being sassy with her teen guest",
+  "alt2": "Sassica being sassy with a guest in a wedding dress eating a whole turkey",
+  "alt3": "Sassica being sassy with a woman carving “Love me” into a tree trunk with a chainsaw",
+  "alt4": "Sassica being sassy with an older woman with five cats dressed in human clothes",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

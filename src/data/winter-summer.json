@@ -11,6 +11,11 @@
   "starring": "Glen Quagmire, Hee-Sun",
   "labels": "soap opera, k-drama",
   "credit": "20th Television",
+  "altHero": "Glen Quagmire and Hee-Sun sitting on a bench holding hands",
+  "alt1": "Quagmire as American Johnny, wearing an American flag jacket and sitting in a bar with Japanese coworkers",
+  "alt2": "American Johnny chatting with a woman at the bar",
+  "alt3": "Johnny getting married in a traditional Japanese ceremony",
+  "alt4": "Johnny holding his dead fiance on the ground",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

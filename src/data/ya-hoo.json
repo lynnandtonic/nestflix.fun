@@ -11,6 +11,11 @@
   "starring": "Pip Diddler, Yodelin’ Zeke, Butterball Jackson, Freddy-Boy and Yuma, Cloris Mozelle, Big Shirtless Ron, Orville and Hurley, Cathy May, Rooney, The Ya Hoo! Recovering Alcoholic Jug Band, Lurleen Lumpkin",
   "labels": "variety, music",
   "credit": "20th Television",
+  "altHero": "a donkey in overalls and a straw hat has crossed out eyes and smoke escapes from his ears",
+  "alt1": "two farmers in a field of corn",
+  "alt2": "a smiling woman with big hair and a missing tooth",
+  "alt3": "a jug band",
+  "alt4": "country singer Lurleen Lumpkin performs",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

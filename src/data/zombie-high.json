@@ -11,6 +11,11 @@
   "starring": "Wyatt Carver, Kell Guthrie",
   "labels": "action, sci-fi, zombie",
   "credit": "Warner Bros. Television",
+  "altHero": "a teen girl runs past two school buses, zombies following close behind",
+  "alt1": "two teen boys kick zombies out a set of double doors",
+  "alt2": "two teens console the girl who narrowly escaped the zombies",
+  "alt3": "two teens look serious",
+  "alt4": "one teen boy points a gun at another boy",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

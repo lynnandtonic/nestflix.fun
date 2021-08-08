@@ -12,6 +12,11 @@
   "studio": "Marty Wolf Pictures",
   "labels": "action, comedy, buddy cop",
   "credit": "Universal Pictures",
+  "altHero": "a chicken, Whitaker, in a cop’s uniform",
+  "alt1": "a man, Fowl sitting in a cop car with coffee cups on the dash",
+  "alt2": "Whitaker sitting in the passenger seat",
+  "alt3": "Fowl giving a strong talking to Whitaker",
+  "alt4": "Fowl holding out a donut for Whitaker",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

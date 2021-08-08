@@ -13,6 +13,11 @@
   "studio": "Bighead Studios",
   "labels": "comedy",
   "credit": "MTV Networks",
+  "altHero": "a happy bologna with hair and bow in a crudely drawn deli",
+  "alt1": "a crudely drawn store with sign “Wacky Delly”",
+  "alt2": "a grumpy salami and wedge of cheese",
+  "alt3": "a meatloaf type dish garnished with pineapple on a picnic table",
+  "alt4": "the cheese screams in front of the bologna",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -12,6 +12,11 @@
   "studio": "BBC One",
   "labels": "comedy",
   "credit": "BBC Two",
+  "altHero": "Andy Millman as Ray Stokes, an awkward man with curly hair and large-framed, red glasses",
+  "alt1": "the employees of the factory sit at a table in the break room",
+  "alt2": "Millman looks embarrassed with a Japanese business man",
+  "alt3": "the employees chatting in the break room",
+  "alt4": "Chris Martin from Coldplay stops by, wearing one of the factory jumpsuits",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

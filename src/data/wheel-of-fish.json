@@ -11,7 +11,11 @@
   "studio": "Channel 62",
   "labels": "reality, game show",
   "credit": "Orion Pictures",
-  "layout": "movie.pug",
+  "altHero": "a woman reaches up to spin big game show wheel that is covered in various fish",
+  "alt1": "show hostess presents a Wheel of Fish game board with differently colored rows of fish iconography",
+  "alt2": "host Kuni in front of three contestants",
+  "alt3": "show hostess brings out a giant dead fish",
+  "alt4": "Kuni speaks to a contestant",
   "stills": true,
   "tags": [
     "entry",

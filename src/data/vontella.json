@@ -10,6 +10,11 @@
   "starring": "Vontella",
   "labels": "talk show",
   "credit": "NBCUniversal Television",
+  "altHero": "talk show host Vontella in front of her studio audience",
+  "alt1": "Vontella gets serious",
+  "alt2": "Jenna Maroney fighting another woman",
+  "alt3": "Vontella puts her hand up while talking to a guest",
+  "alt4": "Vontella claps next to Liz Lemon",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

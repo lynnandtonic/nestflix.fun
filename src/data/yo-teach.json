@@ -12,6 +12,11 @@
   "studio": "NBC",
   "labels": "comedy",
   "credit": "Universal Pictures",
+  "altHero": "Mark Taylor Jackson as Mr. Radford, a young high school teacher with shaggy hair in a tie and corduroy jacket",
+  "alt1": "Mr. Radford talks with the principal",
+  "alt2": "Bo Burnham as a student sitting in class",
+  "alt3": "Mr. Radford talks with another teacher in the teacher’s lounge",
+  "alt4": "Leo Koenig in a bright sweatshirt in the teacher’s lounge",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -12,6 +12,11 @@
   "studio": "Cable 10, Oliver Communications",
   "labels": "talk show",
   "credit": "Paramount Pictures",
+  "altHero": "Wayne and Garth in their basement studio",
+  "alt1": "Wayne and Garth are joined by Ron Paxton, inventor of the Suck Kut",
+  "alt2": "Wayne and Garth do a schwing at a picture of Cindy Crawford",
+  "alt3": "Wayne talking with Noah Vanderhoff, Wayne’s index card says “Sphincter Boy” and points at Vanderhoff",
+  "alt4": "Cassandra and Crucial Taunt perform",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

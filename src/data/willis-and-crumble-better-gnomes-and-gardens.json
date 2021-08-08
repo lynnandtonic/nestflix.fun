@@ -11,6 +11,11 @@
   "director": "Nick Park",
   "labels": "comedy, animation",
   "credit": "20th Television",
+  "altHero": "claymation-style characters, a man (Willis), a woman, and a dog (Crumble) dressed up as a garden gnome",
+  "alt1": "Willis talks with a woman at her home, his van “Tip Top Gnome Restoration” is parked out front",
+  "alt2": "Crumble drives a machine over a garden gnome",
+  "alt3": "Crumble takes a break to eat lunch and a bird is messing with the machine behind him",
+  "alt4": "Willis and the woman are having tea and Marmite sandwiches inside while out the window Crumble is being worked on by the gnome machine",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

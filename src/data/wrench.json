@@ -11,6 +11,11 @@
   "studio": "Tantamount Studios",
   "labels": "drama, crime",
   "credit": "20th Television, Netflix",
+  "altHero": "Moses Taylor as Frank Wrench",
+  "alt1": "Wrench runs down a residential street carrying a woman in his arms",
+  "alt2": "Wrench runs down a residential street carrying a small puppy in his hands",
+  "alt3": "Wrench grits his teeth from the driver seat of a car",
+  "alt4": "Wrench runs whole holding a girl who is holding a dog",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

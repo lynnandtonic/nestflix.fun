@@ -11,6 +11,11 @@
   "starring": "Paul Watson, Stan Marsh",
   "labels": "reality",
   "credit": "Comedy Central",
+  "altHero": "a ship in the ocean",
+  "alt1": "Paul Watson on his ship",
+  "alt2": "Watson’s team wearing matching shirts and goggles on a smaller speed boat",
+  "alt3": "man climbs a rope down into an inflatable boat below",
+  "alt4": "the crew in the ship’s control room looking through binocolars",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

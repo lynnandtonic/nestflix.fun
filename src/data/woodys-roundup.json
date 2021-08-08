@@ -11,6 +11,11 @@
   "starring": "Sheriff Woody, Jessie, Stinky Pete the Prospector, Bullseye",
   "labels": "kids, western",
   "credit": "Pixar Animation Studios",
+  "altHero": "Sheriff Woody in black and white",
+  "alt1": "Woody rides Bullseye, both clearly being puppeted with strings",
+  "alt2": "Jessie, also a puppet",
+  "alt3": "Jessie and the Prospector try to extinguish a lit fuse leading to a barrel of TNT",
+  "alt4": "Woody and Bullseye leaping across a cloudy sky",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

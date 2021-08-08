@@ -11,6 +11,11 @@
   "starring": "Randy Marsh, Sharon Marsh",
   "labels": "reality, diy",
   "credit": "Comedy Central",
+  "altHero": "Randy Marsh with toolbelt and goggles describing his vision to clients in their kitchen",
+  "alt1": "Randy and Sharon Marsh standing outside a house that has recently sold",
+  "alt2": "Randy taking a sledge-hammer to a house post",
+  "alt3": "Randy sharing his vision with another set of clients in their kitchen",
+  "alt4": "a couple look on as Randy sledge-hammers a hole in their ceiling",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
