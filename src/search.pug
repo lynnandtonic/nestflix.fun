@@ -1,0 +1,39 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Nestflix";
+    - var description = "Fictional movies inside other movies";
+    - var bodyClass = "landing";
+
+block content
+    script.
+        const searchData = !{JSON.stringify(collections.search.data)};
+        const searchFields = !{JSON.stringify(collections.search.fields)};
+        function onSearchChange() {
+            const search = document.location.search.split('=')[1];
+            const entries = [];
+            searchData.forEach(function (entry) {
+                for (const field of searchFields) {
+                    if ((entry[field] || "").indexOf(search) > -1) {
+                        entries.push(entry);
+                        break;
+                    }
+                }
+            });
+            const $ul = document.querySelector('ul.card-list.thumbs');
+            entries.forEach(function (entry) {
+                const $img = document.createElement('img');
+                $img.setAttribute('alt', entry.title);
+                $img.setAttribute('src', '/img/' + entry.slug + '-thumb-640w.jpg');
+                const $a = document.createElement('a');
+                $a.setAttribute('href', '/' + entry.slug + '/');
+                $a.appendChild($img);
+                const $li = document.createElement('li');
+                $li.appendChild($a);
+                $ul.appendChild($li);
+            });
+        }
+        document.addEventListener('DOMContentLoaded', onSearchChange);
+
+    section.list.short
+        ul.card-list.thumbs
