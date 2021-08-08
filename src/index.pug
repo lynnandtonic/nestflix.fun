@@ -36,14 +36,14 @@ block content
                             a(href=entry.data.page.url)
                                 img(src=src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
 
-    section.entry.feature 
-        div.entry-info 
-            h1 !{collections.byTitle["Satan’s Alley"].data.title} 
-            h2 !{collections.byTitle["Satan’s Alley"].data.description} 
-            h3 !{collections.byTitle["Satan’s Alley"].data.betterName1} 
+    section.entry.feature
+        div.entry-info
+            h2.logo
+              img(src='/img/_logos/logo-' + collections.byTitle["Satan’s Alley"].data.slug + '.svg', alt=collections.byTitle["Satan’s Alley"].data.title)
+            p !{collections.byTitle["Satan’s Alley"].data.description}
             a.button(href=collections.byTitle["Satan’s Alley"].data.slug) Details
         div.entry-image 
-            img(src='/img/' + collections.byTitle["Satan’s Alley"].data.slug + '.jpg') 
+            img(src='/img/' + collections.byTitle["Satan’s Alley"].data.slug + '.jpg')
 
     each tag in tags.slice(2)
         unless collections.ignoredTags.includes(tag.toLowerCase())

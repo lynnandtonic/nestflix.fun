@@ -2,8 +2,6 @@
 * $NAV
 --------------------------------------------------------------------*/
 
-$header-h = 70px
-
 header
   width: 100%
   position: absolute
@@ -11,15 +9,29 @@ header
   z-index: 10
   background-image: linear-gradient(to bottom, black(.4) 30%, black(0))
 
+  @media screen and (max-width: $bp-md)
+    padding-bottom: 2em
+    background-image: linear-gradient(to bottom, black(.6) 40%,
+                                                 black(.1) 85%,
+                                                 black(0) 100%)
+
   nav
-    height: $header-h
     display: flex
-    justify-content: flex-end
-    gap: 2em
+    align-items: center
+    gap: 1.2em
+    font-size: 80%
+
+    a
+      color: white
+
+  .nav-user
+    margin-left: auto
 
   .nav-home
-    margin-right: auto
-    max-width: 140px
+    @media screen and (max-width: $bp-md)
+      max-width: 100px
+    @media screen and (min-width: $bp-md + 1)
+      max-width: 140px
 
   //- maybe add this back in, but it might just be a link to the search page
   // .search

@@ -11,9 +11,9 @@ h1, h2, h3
 h1
   margin-bottom: .5em
   font-weight: $font-weight-medium
-  @media screen and (max-width: $bp-xs - 1)
-    font-size: 1.5em
-  @media screen and (min-width: $bp-xs)
+  @media screen and (max-width: $bp-sm - 1)
+    font-size: 1.5
+  @media screen and (min-width: $bp-sm)
     font-size: 1.9em
 
 h2
@@ -32,42 +32,17 @@ small,
 figcaption
   font-size: 70%
 
-p code,
-ul code
-  // background-color: var(--code-bg, alpha($teal,.4))
-  padding: 3px 5px
-  font-size: inherit
-  font-weight: $font-weight-medium
-
-pre, code
-  font-family: monospace
-  border-radius: 3px
-
-.no-js pre
-  padding: 0 .5em
-  background-color: $grey-drk
-  color: white
-
 a
-  background: no-repeat
-  background-image: $gradient-links
-  background-size: 100% 1px
-  background-position: center bottom
-  // font-weight: $font-weight-medium
   text-decoration: none
   color: $gold
   position: relative
 
   &:hover
     text-decoration: underline
-    // background-color: var(--text-color, $grey-drk)
-    // color: var(--background, white)
 
   &:focus:focus-visible
-    outline: 3px solid $pink
-    background-image: none
-    background-color: white
-    color: $grey-drk
+    outline: 2px solid white
+    box-shadow: 0 2px 5px black(.1)
 
   &:focus:not(:focus-visible)
     outline: none
@@ -75,25 +50,19 @@ a
   &:active
     transform: translateY(1px)
 
-link-alt()
-  background-image: none
-  &:hover
-    background-color: transparent
-    background-image: $gradient-links
-    color: inherit
-  &:focus-visible:hover
-    background-color: white
-    background-image: none
-    color: $grey-drk
+// link-alt()
+//   background-image: none
+//   &:hover
+//     background-color: transparent
+//     background-image: $gradient-links
+//     color: inherit
+//   &:focus-visible:hover
+//     background-color: white
+//     background-image: none
+//     color: $grey-drk
 
 hr
   margin: .5em 0 1em
   height: 1px
   background-color: white(.2)
   border: none
-
-.big-text
-  @media screen and (min-width: $bp-xs + 1)
-    font-size: 1.2em
-  @media screen and (min-width: $bp-sm + 1)
-    font-size: 1.4em
