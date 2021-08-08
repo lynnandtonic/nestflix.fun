@@ -41,7 +41,7 @@ block content
             h1 !{collections.byTitle["Satan’s Alley"].data.title} 
             h2 !{collections.byTitle["Satan’s Alley"].data.description} 
             h3 !{collections.byTitle["Satan’s Alley"].data.betterName1} 
-            button Details 
+            a.button(href=collections.byTitle["Satan’s Alley"].data.slug) Details
         div.entry-image 
             img(src='/img/' + collections.byTitle["Satan’s Alley"].data.slug + '.jpg') 
 

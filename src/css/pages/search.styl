@@ -1,0 +1,35 @@
+/*--------------------------------------------------------------------
+* $SEARCH
+--------------------------------------------------------------------*/
+
+.search
+
+  header
+    position: static
+
+  .search-form
+    margin: 0 var(--body-padding) calc(var(--body-padding)*2)
+    display: flex
+
+  .search-input
+    width: 100%
+    padding: 1rem
+    background-color: transparent
+    border: none
+    border: 1px solid white(.5)
+    font-size: 200%
+    color: white
+
+    &:focus
+      outline: none
+      border-color: white
+
+  .search-submit
+    align-self: stretch
+    font-size: 150%
+    border-top-left-radius: 0
+    border-bottom-left-radius: 0
+
+  ul.card-list:empty + div
+    font-size: 140%
+    margin-left: 1rem

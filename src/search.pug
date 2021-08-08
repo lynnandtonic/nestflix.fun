@@ -2,8 +2,8 @@ extends _includes/skeleton
 
 block vars 
     - var title = "Nestflix";
-    - var description = "Fictional movies inside other movies";
-    - var bodyClass = "landing";
+    - var description = "Search titles on Nestflix";
+    - var bodyClass = "search";
 
 block content
     script.
@@ -35,5 +35,14 @@ block content
         }
         document.addEventListener('DOMContentLoaded', onSearchChange);
 
+    //- Added the form to this page. I was thinking the search in the nav could just link to this page? Or could someone type in a search term on the landing page and it would go here?
+    form.search-form
+        input.search-input(type='text' name='search' autocomplete='off' autocorrect='off' placeholder='Search Nestflix')
+        button.search-submit Submit
+
     section.list.short
         ul.card-list.thumbs
+        //- Maybe this could show only once a search term has been submitted I dunno. I’ll style this better in a bit
+        div
+            p Couldn’t find anything. Try searching something else!
+            p Or #[a(href='') submit a title] to be added.
