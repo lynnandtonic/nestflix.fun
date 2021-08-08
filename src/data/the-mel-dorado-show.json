@@ -11,6 +11,11 @@
   "starring": "Mel Dorado",
   "labels": "talk show",
   "credit": "Pixar Animation Studios",
+  "altHero": "host Mel Dorado, an yellow Cadillac with glasses",
+  "alt1": "Dorado",
+  "alt2": "Miles Axlerod, a Land Rover type car",
+  "alt3": "racing car Francesco Bernoulli",
+  "alt4": "Dorado",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

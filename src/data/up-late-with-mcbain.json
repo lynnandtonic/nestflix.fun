@@ -12,6 +12,11 @@
   "studio": "FOX",
   "labels": "talk show",
   "credit": "20th Television",
+  "altHero": "McBain in a suit, in front of a curtain",
+  "alt1": "Obergruppenfuhrer Wolfcastle, German general, announcing the show",
+  "alt2": "McBain touches fingers with Scoey",
+  "alt3": "McBain points at the audience",
+  "alt4": "Scoey leads the band",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

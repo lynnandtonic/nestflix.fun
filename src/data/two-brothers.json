@@ -10,6 +10,11 @@
   "studio": "Interdimensional Cable",
   "labels": "action, sci-fi",
   "credit": "Warner Bros. Television",
+  "altHero": "two cool brothers wearing sunglasses can’t believe what’s going on",
+  "alt1": "two huge cats with sharp teeth attack the brothers",
+  "alt2": "spaceships shaped like sombreros approach Earth",
+  "alt3": "elderly women in warrior armor",
+  "alt4": "the moon crashes into the Earth on fire",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

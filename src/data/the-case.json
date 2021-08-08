@@ -12,6 +12,11 @@
   "director": "Charles Kaznyk",
   "labels": "amateur, sci-fi, zombie",
   "credit": "Paramount Pictures",
+  "altHero": "a teen boy and girl in a field, the boy raises a gun",
+  "alt1": "teen boy dressed as an investigator taking notes on a pad of paper",
+  "alt2": "teen boy investigating a dark room with a flashlight, a zombie sneaking up on him in the background",
+  "alt3": "a teen boy dressed as a zombie with white eyes",
+  "alt4": "another teen boy dressed as a doctor who is turning into a zombie",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

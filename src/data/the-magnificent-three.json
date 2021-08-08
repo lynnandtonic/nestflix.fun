@@ -12,6 +12,11 @@
   "director": "Harold Zoid",
   "labels": "drama",
   "credit": "20th Century Fox Television",
+  "altHero": "Harold Zoid as the President, stands with Calculon in the Oval Office",
+  "alt1": "Calculon speaks with Zoid",
+  "alt2": "Calculon splash a glass of water in Zoid’s face",
+  "alt3": "in the rain, Calculon hands Zoid a piece of paper",
+  "alt4": "still in the rain, Calculon falls to his knees and yells “Noo!” while Zoidberg watches from a nearby hatch ",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

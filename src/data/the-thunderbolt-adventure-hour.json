@@ -10,6 +10,11 @@
   "starring": "Paul Frees",
   "labels": "kids, western",
   "credit": "Walt Disney Animation Studios",
+  "altHero": "Thunderbolt, a german sheperd-like dog, pokes his head out from some desert rocks",
+  "alt1": "Thunderbolt running",
+  "alt2": "Dirty Dawson on a horse running away and pointing a gun behind him",
+  "alt3": "Thunderbolt pretending to be unconscious but giving a sly look",
+  "alt4": "Dawson and Thunderbolt wrestling in the river near the edge of a waterfall",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

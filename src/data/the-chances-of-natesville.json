@@ -11,6 +11,11 @@
   "starring": "Zoë Larrabure, John Holiday",
   "labels": "comedy, family",
   "credit": "20th Television",
+  "altHero": "an overwhelmed young man with a baby in his arms",
+  "alt1": "an unkempt house with junk outside and a Santa decoration on the roof",
+  "alt2": "an angry woman",
+  "alt3": "a grandma in her brassiere eats pickles out of the jar",
+  "alt4": "a man holding butter and a knife looks at a toaster",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

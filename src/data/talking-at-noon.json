@@ -12,6 +12,11 @@
   "studio": "AMC",
   "labels": "talk show, entertainment",
   "credit": "CBS Television",
+  "altHero": "host Tom Cotter",
+  "alt1": "Tom Cotter, Joseph Weisberg, and Carmen Lynch in a living room-like set",
+  "alt2": "Weisberg making a point",
+  "alt3": "Cotton discussing with hand gestures",
+  "alt4": "Lynch talking excitedly",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

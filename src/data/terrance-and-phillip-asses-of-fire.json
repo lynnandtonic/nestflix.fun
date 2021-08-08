@@ -11,6 +11,11 @@
   "starring": "Terrance Henry Stoot, Phillip Niles Argyle",
   "labels": "comedy",
   "credit": "Paramount Pictures",
+  "altHero": "Terrance stands on the couch next to Phillip",
+  "alt1": "Terrance and Phillip, two Canadians",
+  "alt2": "Terrance and Phillip near an open doorway",
+  "alt3": "Terrance and Phillip raising their arms in front of a bunch of folks standing on their cars in the street, also raising their arms",
+  "alt4": "Canadians celebrating in the street",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

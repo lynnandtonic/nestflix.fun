@@ -12,6 +12,11 @@
   "director": "SpongeBob SquarePants",
   "labels": "action, superhero",
   "credit": "Nickelodeon Animation Studio",
+  "altHero": "elderly Mermaid Man and Barnacle Boy",
+  "alt1": "a homemade Kelp-Thing hangs from wires in a vault full of Krabby Patties",
+  "alt2": "Mermaid Man and Barnacle Boy stand at the entrance of the vault",
+  "alt3": "Mermaid Man",
+  "alt4": "a gloved fist pound with starbursts",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

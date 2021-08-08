@@ -13,6 +13,7 @@
   "labels": "drama",
   "credit": "Netflix",
   "layout": "movie.pug",
+  "altHero": "a young man and woman sit solemnly on the curb outside a diner",
   "tags": [
     "entry",
     "movie",

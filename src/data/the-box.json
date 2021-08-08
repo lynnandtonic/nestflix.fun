@@ -11,6 +11,11 @@
   "starring": "Matt LeBlanc",
   "labels": "game show",
   "credit": "Showtime",
+  "altHero": "a row of large glass boxes, illuminated in different colors, each with a person inside",
+  "alt1": "Matt LeBlanc smiles outside one of the boxes, a half-naked man stands inside",
+  "alt2": "a contestant covers his face in frustration as a man in lederhosen plays a tuba behind him",
+  "alt3": "LeBlanc points at a big display labeled “Disadvantages” and the option “Gilbert Gottfried” is illuminated",
+  "alt4": "a man is dressed as a giant baby with diaper and bonnet",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

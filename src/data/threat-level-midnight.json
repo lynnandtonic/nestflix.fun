@@ -13,6 +13,11 @@
   "studio": "Great Scott Film Industries",
   "labels": "action, espionage",
   "credit": "NBCUniversal Television",
+  "altHero": "Michael Scott is Michael Scarn, shooting two guns",
+  "alt1": "Scarn talks with his robot butler Samuel L. Chang (Schrute) in the Oval Office",
+  "alt2": "Goldenface (Halpert) gives an evil laugh",
+  "alt3": "Scarn prepares for an ice race next to a man in a hockey mask",
+  "alt4": "Goldenface follows Scarn in an ice skating gun chase",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

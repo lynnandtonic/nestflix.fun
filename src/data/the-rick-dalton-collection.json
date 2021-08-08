@@ -10,6 +10,11 @@
   "starring": "Rick Dalton",
   "labels": "action, western",
   "credit": "Columbia Pictures",
+  "altHero": "Rick Dalton in a cowboy hat",
+  "alt1": "Nebraska Jim",
+  "alt2": "Uccidimi Subito Ringo, Disse Il Gringo",
+  "alt3": "Red Blood, Red Skin",
+  "alt4": "Comanche Uprising",
   "layout": "movie.pug",
   "submovies": 4,
   "tags": [

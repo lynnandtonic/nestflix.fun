@@ -11,6 +11,11 @@
   "studio": "Interdimensional Cable",
   "labels": "reality",
   "credit": "Warner Bros. Television",
+  "altHero": "Stealy, a long-armed man wearing a vest with many pockets, stands in front of an office cubicle",
+  "alt1": "Stealy putting objects in his pockets",
+  "alt2": "Stealy stealing office supplies from an office as his boss yells at him",
+  "alt3": "Stealy walking down the sidewalk with his boss slung over his shoulder, unconscious",
+  "alt4": "Stealy at a display counter with shelves of goodies behind him",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

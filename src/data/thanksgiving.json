@@ -12,6 +12,11 @@
   "director": "Eli Roth",
   "labels": "horror, slasher",
   "credit": "Dimension Films",
+  "altHero": "a Thanksgiving turkey with a knife stuck in it",
+  "alt1": "a man dressed as a turkey dressed as a Pilgrim",
+  "alt2": "two men crouch near a body with severed head",
+  "alt3": "a man wearing a black boot pulls an axe from a stump",
+  "alt4": "an older woman in an apron screams in fear",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

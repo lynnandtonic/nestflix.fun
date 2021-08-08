@@ -11,6 +11,11 @@
   "starring": "Al Gore",
   "labels": "drama, action",
   "credit": "20th Television",
+  "altHero": "a majestic ship",
+  "alt1": "two men with binoculars in a crow’s nest point with concerned looks",
+  "alt2": "the ship is approaching an iceberg",
+  "alt3": "the ship is gaining speed",
+  "alt4": "the ship breaks through the tiny iceberg with no problem",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

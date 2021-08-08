@@ -12,6 +12,11 @@
   "studio": "Telemasivo Studios",
   "labels": "soap opera",
   "credit": "Warner Bros. Television",
+  "altHero": "Steve and Brenda wearing space jumpsuits in a futuristic Oval Office on Mars",
+  "alt1": "Steve and Brenda by a red sandy lake, a shark swims in the lake, and Steve has a dinosaur tail",
+  "alt2": "closeup of Steve",
+  "alt3": "Brenda and Steve in the Oval Office",
+  "alt4": "Steve is wearing an astronaut’s suit and Brenda holds up an exotic flower",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

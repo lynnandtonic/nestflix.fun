@@ -9,6 +9,11 @@
   "runtime": "12m",
   "labels": "animation",
   "credit": "20th Television",
+  "altHero": "a middle-aged French man brings a tray of cheese and grapes to a table with two other men",
+  "alt1": "one of the men shoots little cheese cubes out of his nose",
+  "alt2": "another man shoots wine out of his nose into a glass",
+  "alt3": "the third man snorts a box of toothpicks into his nose",
+  "alt4": "toothpick nose man runs around the table, blood streaming from his nose, a chubby dog inspects the blood",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

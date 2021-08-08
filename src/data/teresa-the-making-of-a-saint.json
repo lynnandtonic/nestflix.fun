@@ -12,6 +12,11 @@
   "director": "Mel Cohen",
   "labels": "drama, biography",
   "credit": "Paramount Pictures",
+  "altHero": "Sophie Maes, a young beautiful white woman, as Teresa dressed in a nun’s habit",
+  "alt1": "priest touches the face of Teresa through an iron gate",
+  "alt2": "Teresa sobs in the lap of an older nun",
+  "alt3": "Teresa’s sillouhette walking in the desert against a beautiful clouded sky",
+  "alt4": "Teresa running a church corridor as light streams in through the windows",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

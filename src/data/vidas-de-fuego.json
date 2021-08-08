@@ -10,6 +10,11 @@
   "starring": "Marlene Favela, Eduardo Rodríguez, Sebastián Rulli, Ninel Conde, Helena Rojo",
   "labels": "telenovela",
   "credit": "Disney-ABC Domestic Television",
+  "altHero": "a woman, Esmeralda, in a pink dress outside a church",
+  "alt1": "Esmeralda kisses Pedro, a priest",
+  "alt2": "Esmeralda reveals a pregnant belly",
+  "alt3": "Esmeralda, now a nun, speaks with a football player",
+  "alt4": "Esmeralda shows a news clipping to Pedro who looks stunned",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

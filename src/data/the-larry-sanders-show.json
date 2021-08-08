@@ -11,6 +11,11 @@
   "starring": "Larry Sanders, Hank Kingsley",
   "labels": "talk show",
   "credit": "20th Television",
+  "altHero": "Larry Sanders at his talk show desk",
+  "alt1": "Sanders with sidekick Hank Kingsley",
+  "alt2": "Sanders and Kingsley cracking up during a pie eating contest",
+  "alt3": "Elvis Costello performs",
+  "alt4": "guest Jim Carrey kisses a mug of coffee",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

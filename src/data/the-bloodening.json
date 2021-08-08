@@ -11,6 +11,11 @@
   "studio": "Sony TriStar Productions",
   "labels": "horror",
   "credit": "20th Television",
+  "altHero": "four creepy children with white hair and glowing blue eyes",
+  "alt1": "three dogs growl, showing their teeth",
+  "alt2": "man screams and runs away from the creepy children",
+  "alt3": "townspeople have torches and pitchforks as they approach the children",
+  "alt4": "a man chokes himself",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

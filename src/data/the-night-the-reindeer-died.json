@@ -11,6 +11,11 @@
   "starring": "Lee Majors, Al “Red Dog” Weber, Jean Speegle Howard",
   "labels": "action, christmas",
   "credit": "Paramount Pictures",
+  "altHero": "Mrs. Claus screams next to a concerned elf",
+  "alt1": "the North Pole",
+  "alt2": "Mrs. Claus and the elves grab guns off the wall",
+  "alt3": "the elves holding guns behind a barricade",
+  "alt4": "Lee Majors holds a gatling gun and talks with Santa and Mrs. Claus",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

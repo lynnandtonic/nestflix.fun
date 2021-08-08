@@ -10,6 +10,11 @@
   "runtime": "1h",
   "labels": "holiday, musical",
   "credit": "20th Television",
+  "altHero": "three goblins in striped shirts stand next to a concerned Santa",
+  "alt1": "Santa talks with an elf next to two reindeer cardboard cutouts",
+  "alt2": "three goblins dance walk in unison",
+  "alt3": "a goblin pushes over a stool and toy an elf was working on",
+  "alt4": "the goblin woos a Little Bo Peep type woman, a man with tray of coffees is stunned in the background realizing he’s in the shot",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

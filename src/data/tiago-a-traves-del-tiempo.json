@@ -12,6 +12,11 @@
   "studio": "Telemasivo Studios",
   "labels": "telenovela",
   "credit": "Warner Bros. Television",
+  "altHero": "Tiago as a Frenchman during Marie Antoinette’s reign",
+  "alt1": "Tiago raises a brick at the Stonewall rebellion",
+  "alt2": "Tiago as a champion of women’s right to vote",
+  "alt3": "Tiago with King Fernando",
+  "alt4": "Tiago as an officer in the CIA",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

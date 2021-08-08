@@ -11,6 +11,11 @@
   "starring": "George Valentin, Jack the dog",
   "labels": "adventure, romance",
   "credit": "Warner Bros. Pictures",
+  "altHero": "man and woman embrace in the jungle, a dog sits nearby",
+  "alt1": "woman reaches for man who is sinking in quick sand",
+  "alt2": "dog is upset!",
+  "alt3": "man is sad he’s still sinking",
+  "alt4": "woman looks helpless",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

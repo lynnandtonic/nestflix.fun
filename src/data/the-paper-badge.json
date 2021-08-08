@@ -11,6 +11,11 @@
   "starring": "John Krasinski, Paul Dooley",
   "labels": "drama, buddy cop",
   "credit": "Warner Independent Pictures",
+  "altHero": "John Krasinski as Maricich and Paul Dooley as Devol, cops looking over paperwork",
+  "alt1": "Devol talks with Maricich",
+  "alt2": "Maricich considers something",
+  "alt3": "Devol talks",
+  "alt4": "Maricich is annoyed with Devol",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

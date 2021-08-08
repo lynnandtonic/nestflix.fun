@@ -12,6 +12,11 @@
   "studio": "Kidnet Television",
   "labels": "kids, variety",
   "credit": "Warner Bros. Pictures",
+  "altHero": "Rainbow Randolph in his signature sparkly bowtie and rainbow jacket",
+  "alt1": "Randolph dancing with the Krinkle Kids on a rainbow set",
+  "alt2": "closeup of the Krinkle Kids",
+  "alt3": "Randolph singing with a studio audience of kids",
+  "alt4": "Randolph singing with two kids on his lap",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

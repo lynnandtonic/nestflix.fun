@@ -11,6 +11,11 @@
   "starring": "Mickey",
   "labels": "reality, game show",
   "credit": "Sony Pictures",
+  "altHero": "host Mickey with cash stuck to his palms",
+  "alt1": "two women paint honey on a contestant",
+  "alt2": "the contestant giggles as they brush honey on his neck",
+  "alt3": "another excited contestant",
+  "alt4": "honey contestant in a glass box with money flying around and sticking to his body",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

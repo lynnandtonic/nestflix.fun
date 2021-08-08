@@ -11,6 +11,11 @@
   "director": "Judd Apatow",
   "labels": "collection, comedy",
   "credit": "Universal Pictures",
+  "altHero": "George Simmons doing standup",
+  "alt1": "Little by Little",
+  "alt2": "My Best Friend is a Robot",
+  "alt3": "Sayonara Davey!",
+  "alt4": "Astro-naut",
   "layout": "movie.pug",
   "submovies": 4,
   "tags": [

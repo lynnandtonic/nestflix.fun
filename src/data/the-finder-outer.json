@@ -10,6 +10,11 @@
   "runtime": "2 seasons",
   "labels": "drama, crime",
   "credit": "20th Century Fox Television",
+  "altHero": "Detective Klaus Mandela on the street firing his gun",
+  "alt1": "Klaus interrogates a suspect",
+  "alt2": "Klaus kneels next to a murder victim with a knife stuck in him",
+  "alt3": "Klaus in line at a hot dog cart and questions an angel who wants nothing to do with him",
+  "alt4": "Klaus thinks in front of an evidence bulletin board",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

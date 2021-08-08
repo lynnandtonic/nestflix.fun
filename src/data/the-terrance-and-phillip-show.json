@@ -12,6 +12,11 @@
   "studio": "Cartoon Central, The Canada Channel",
   "labels": "comedy",
   "credit": "Comedy Central",
+  "altHero": "dramatic shot of Terrance and Phillip against black",
+  "alt1": "Terrance and Phillip on the couch",
+  "alt2": "Terrance and Phillip as astronauts in space",
+  "alt3": "Terrance and Phillip as janitors cleaning a gross bathroom",
+  "alt4": "Terrance and Phillip as vikings",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

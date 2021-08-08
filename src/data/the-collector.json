@@ -10,6 +10,11 @@
   "starring": "Anne Laurent",
   "labels": "thriller",
   "credit": "Artificial Eye",
+  "altHero": "Anne Laurent in a white blazer looks back at the camera in front of a large window",
+  "alt1": "Laurent stands with a man in a suit who lights a cigarette",
+  "alt2": "closeup of Laurent looking surprised",
+  "alt3": "at a public pool, a young boy points in the air and Laurent looks",
+  "alt4": "Laurent and a man embrace, still wet from the pool",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

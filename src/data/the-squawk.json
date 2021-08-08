@@ -10,6 +10,11 @@
   "starring": "Paloma Munoz-Liebowitz, Marylin Macaw",
   "labels": "talk show",
   "credit": "Netflix",
+  "altHero": "BoJack Horseman on a talk show with four women bird hosts",
+  "alt1": "one of the bird hosts raises her arms in excitement",
+  "alt2": "BoJack Horseman",
+  "alt3": "chickens in the audience",
+  "alt4": "one bird host looks annoyed as another talks",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

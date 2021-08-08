@@ -10,6 +10,11 @@
   "runtime": "1h 34m",
   "labels": "comedy, family",
   "credit": "Universal Pictures",
+  "altHero": "a woman and a man with a gun look at a shopping cart",
+  "alt1": "two robbers wearing striped shirts and eye masks point guns at the couple",
+  "alt2": "the woman holds up her hands in fear and smacks the man in the face",
+  "alt3": "the shopping cart zooming down the street",
+  "alt4": "one of the robbers covered in paint",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -13,6 +13,11 @@
   "studio": "Monumental Pictures",
   "labels": "adventure, romance",
   "credit": "Metro-Goldwyn-Mayer",
+  "altHero": "Lockwood and Lamont in a romantic embrace",
+  "alt1": "Lockwood and Lamont with faces close",
+  "alt2": "Lamont as Philippe listens for a noise",
+  "alt3": "Philippe draws his sword",
+  "alt4": "Lamont calls out for Philippe",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

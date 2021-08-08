@@ -12,6 +12,11 @@
   "director": "Amber Waves",
   "labels": "directory, biography",
   "credit": "New Line Cinema",
+  "altHero": "Dirk Diggler looks pensive while standing on a bridge",
+  "alt1": "Diggler in sunglasses giving an interview",
+  "alt2": "Reed Rothchild talking, making animated hand gestures",
+  "alt3": "Rollergirl",
+  "alt4": "Diggler with director Jack Horner in the editing room",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "Kevin Pearson",
   "labels": "comedy",
   "credit": "Disney-ABC Domestic Television",
+  "altHero": "a shirtless Kevin Pearson holds a baby",
+  "alt1": "Alan Thicke talks with the Manny",
+  "alt2": "the Manny",
+  "alt3": "the Manny wears a giant diaper",
+  "alt4": "the Manny comforts a baby with a bottle",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -12,6 +12,11 @@
   "studio": "Channel 6, HBOWTIME",
   "labels": "kids, variety",
   "credit": "20th Television",
+  "altHero": "Krusty the Clown laughing",
+  "alt1": "Krusty driving a litle circus car",
+  "alt2": "Side Show Bob passionately reading a book",
+  "alt3": "Krusty and Side Show Mel playing his slide whistle",
+  "alt4": "Krusty smiling wide and holding an axe",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "Bill Cosby",
   "labels": "comedy",
   "credit": "Comedy Central",
+  "altHero": "Fat Abbot",
+  "alt1": "Fat Abbot talks with a friend",
+  "alt2": "Fat Abbot with more friends",
+  "alt3": "closeup of one of the friends",
+  "alt4": "Fat Abbot and a woman with a black eye",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

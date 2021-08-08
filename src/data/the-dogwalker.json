@@ -11,6 +11,11 @@
   "starring": "Daniel Radcliffe, Marisa Tomei",
   "labels": "drama",
   "credit": "Universal Pictures",
+  "altHero": "Daniel Radcliffe sits at a cafe table in the park with several dogs leashed nearby",
+  "alt1": "Radcliffe walks down the street tethered at the waist to several dogs",
+  "alt2": "Marisa Tomei sits at a cafe table in the park, holding a small lap dog",
+  "alt3": "Radcliffe sitting at the table, a golden retriever draped over his lap",
+  "alt4": "closeup of Radcliffe smoking a cigarette",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

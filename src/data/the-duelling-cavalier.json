@@ -13,6 +13,11 @@
   "studio": "Monumental Pictures",
   "labels": "drama, romance",
   "credit": "Metro-Goldwyn-Mayer",
+  "altHero": "Lina Lamont as Yvonne in French dress with Don Lockwood in the background as the courting Count Pierre",
+  "alt1": "Yvonne walks with a handful of other women, also in elaborate dress",
+  "alt2": "Count Pierre kisses Yvonne hand",
+  "alt3": "Count Pierre is stunned after reading a letter",
+  "alt4": "Yvonne is upset, facing away from another man who looks sinister",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

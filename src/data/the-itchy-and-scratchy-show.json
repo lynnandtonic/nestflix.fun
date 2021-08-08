@@ -12,6 +12,11 @@
   "studio": "I&S Studios",
   "labels": "kids",
   "credit": "20th Television",
+  "altHero": "Itchy sticks a vacuum hose in Scratchy’s mouth, some bees are buzzing about",
+  "alt1": "Itchy is blowing glass and Scratchy is inside the glass bubble",
+  "alt2": "Itchy injects a big syringe of steroids into Scratchy’s butt",
+  "alt3": "Scratch is parade float sized, floating in the air and Itchy aims a flaming arrow at him",
+  "alt4": "Itchy, mad scientist, holds a brain in his hand, Scratchy is a Frankenstein’s monster on a table with his head flap open",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

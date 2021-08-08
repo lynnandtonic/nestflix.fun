@@ -11,6 +11,11 @@
   "starring": "Troy McClure, Dyan Cannon",
   "labels": "comedy, family",
   "credit": "20th Television",
+  "altHero": "Troy McClure woos Miss Piggy on a stone balcony",
+  "alt1": "Kermit in knight’s armor holding a sword",
+  "alt2": "Miss Piggy draped in McClure’s arms",
+  "alt3": "a sword swings toward Kermit",
+  "alt4": "a closeup of Troy McClure’s wrinkly face",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

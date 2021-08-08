@@ -11,6 +11,11 @@
   "director": "Hilario Muñoz",
   "labels": "drama, romance",
   "credit": "Warner Sogefilms",
+  "altHero": "a woman, Amparo, lies in bed and talks with a tiny man, Alfredo",
+  "alt1": "Alfredo watching Amparo work in her science lab",
+  "alt2": "an uncertain Amparo watches Alfredo drink a sample from a beaker",
+  "alt3": "Alfredo, already shrinking to the size of a child, leaves with two suitcases that are very large for him to carry",
+  "alt4": "closeup of mini Alfredo looking guilty, Amparo is sleeping in the background",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

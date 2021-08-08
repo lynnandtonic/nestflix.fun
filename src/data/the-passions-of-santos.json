@@ -12,6 +12,11 @@
   "studio": "Telemasivo Studios",
   "labels": "telenovela",
   "credit": "Warner Bros. Television",
+  "altHero": "Santos and Blanca on a romantic rowboat",
+  "alt1": "Santos proposes",
+  "alt2": "Santos as a priest embracing a nun",
+  "alt3": "President Santos has been stabbed",
+  "alt4": "Santos on the beach, wet and confused",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

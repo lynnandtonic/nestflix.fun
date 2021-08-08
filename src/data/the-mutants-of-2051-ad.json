@@ -12,6 +12,11 @@
   "director": "Doug McKenzie",
   "labels": "amateur, sci-fi, monster",
   "credit": "MGM Pictures",
+  "altHero": "Doug McKenzie wearing a helmet and inspecting a broken model of the Statue of Liberty",
+  "alt1": "Doug standing on some rocks by the water, wearing a helmet and underwear over his pants",
+  "alt2": "Doug driving a van",
+  "alt3": "Doug talking into a walkie talkie",
+  "alt4": "Doug points a laser at a man dressed as a mutant",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

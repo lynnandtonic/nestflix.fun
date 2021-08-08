@@ -12,6 +12,11 @@
   "studio": "Goldsmith Pictures",
   "labels": "adventure, western",
   "credit": "Orion Pictures",
+  "altHero": "the Three Amigos on horses, hands on their hips",
+  "alt1": "the Amigos ride in to the city",
+  "alt2": "a bad guy with epic mustache",
+  "alt3": "Lucky Day mouth open wide",
+  "alt4": "Ned Nederlander holding a big bag of money",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

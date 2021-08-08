@@ -12,6 +12,11 @@
   "studio": "New Line Cinema",
   "labels": "comedy",
   "credit": "DreamWorks Pictures",
+  "altHero": "Jeff Portnoy holding a fork, wearing a bright yellow suit with a dorky blonde bowl cut",
+  "alt1": "Portnoy as an older grandma-type",
+  "alt2": "Portnoy as a teen girl with pink and black pigtails and hot pink goth aesthetic",
+  "alt3": "Portnoy as a redhead boy wearing a shirt that says “I @#%! on the first date”",
+  "alt4": "Portnoy as a whole family dancing around the dinner table",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

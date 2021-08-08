@@ -12,6 +12,11 @@
   "labels": "drama, romance",
   "studio": "RKO Radio Pictures",
   "credit": "Orion Pictures",
+  "altHero": "Tom Baxter in archaeologist clothing holding a lantern",
+  "alt1": "Henry dressed in a tuxedo smoking a cigarette at a grand piano",
+  "alt2": "Baxter, still holding the lantern, talking to Henry and his friends",
+  "alt3": "Baxter looking impressed",
+  "alt4": "Kitty Haynes singing in front of an orchestra",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

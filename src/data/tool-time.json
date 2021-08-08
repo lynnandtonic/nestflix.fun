@@ -11,6 +11,11 @@
   "starring": "Tim Taylor, Al Borland, Heidi Keppert",
   "labels": "reality, diy",
   "credit": "Buena Vista Television",
+  "altHero": "Tim Taylor and Al Borland",
+  "alt1": "Heidi introduces the show",
+  "alt2": "Tim tries to poke Al in the eyes",
+  "alt3": "Al and Tim are wearing powered stilts and Tim has shot through the fake ceiling",
+  "alt4": "Tim accidentally glues his head to a piece of wood",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

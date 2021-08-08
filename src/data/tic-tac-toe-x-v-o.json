@@ -10,6 +10,11 @@
   "runtime": "2h 9m",
   "labels": "sci-fi, romance",
   "credit": "20th Television",
+  "altHero": "a wizard speaks with Rome-O",
+  "alt1": "in space, two giant ships shaped like an X and an O release smaller X and O ships",
+  "alt2": "Rome-O looks helpless while talking with the wizard",
+  "alt3": "Rome-O embraces with his lover Juli-X",
+  "alt4": "the X spaceship lands on Rome-O and Juli-X screams",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

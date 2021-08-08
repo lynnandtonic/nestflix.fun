@@ -12,6 +12,11 @@
   "studio": "ICS",
   "labels": "reality, game show",
   "credit": "TriStar Pictures",
+  "altHero": "host Damon Killian surrounded by women",
+  "alt1": "Killian raises his arms up excitedly",
+  "alt2": "a new contestant is presented",
+  "alt3": "Dynamo shoots electricity",
+  "alt4": "Buzzsaw uses his chainsaw on a piece of the set, setting off sparks",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

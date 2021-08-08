@@ -12,6 +12,11 @@
   "director": "Christof",
   "labels": "reality",
   "credit": "Paramount Pictures",
+  "altHero": "Truman looking into his bathroom mirror",
+  "alt1": "Truman as a child at the beach",
+  "alt2": "Truman as a kid answering a question in class",
+  "alt3": "Truman laughing at his front door",
+  "alt4": "Truman taking a bow against the painted blue of the dome and an open exit door",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

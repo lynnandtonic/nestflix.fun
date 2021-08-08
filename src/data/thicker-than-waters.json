@@ -11,6 +11,11 @@
   "starring": "Digby Sheridan",
   "labels": "comedy",
   "credit": "20th Television",
+  "altHero": "a family portrait of the Waters: mom, dad, young son, and teen daughter",
+  "alt1": "Patrick Waters the dentist is sprayed with water by his son",
+  "alt2": "Mrs. Waters shrugs and eats cookies while she works out",
+  "alt3": "Patrick offers a fistful of lollipops to his daughter",
+  "alt4": "Patrick talks to his son in the kitchen",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

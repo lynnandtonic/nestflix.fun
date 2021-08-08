@@ -10,6 +10,11 @@
   "runtime": "2 seasons",
   "labels": "action, adventure",
   "credit": "Buena Vista Television",
+  "altHero": "the Red Badger of Courage superhero",
+  "alt1": "the Red Badger of Courage is hanging on to the back of a small airplane",
+  "alt2": "the guy flying the plane leaps from the cockpit",
+  "alt3": "the Red Badger of Courage jumps and follows",
+  "alt4": "the Red Badger of Courage catches up to the guy in the air and grabs him",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

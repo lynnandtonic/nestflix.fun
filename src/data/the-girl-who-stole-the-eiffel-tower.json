@@ -10,6 +10,11 @@
   "runtime": "2h 4m",
   "labels": "comedy, adventure, romance",
   "credit": "Paramount Pictures",
+  "altHero": "Gaby sitting at a cafe wearing a straw sun hat",
+  "alt1": "Tony Curtis shrugs",
+  "alt2": "Rick gives Gaby a flower",
+  "alt3": "Rick talks with two men drinking coffee",
+  "alt4": "Gaby reclines on a bed, cigarette in mouth, pointing a gun at Rick",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

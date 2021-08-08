@@ -11,6 +11,11 @@
   "studio": "Kinograph Studios",
   "labels": "comedy, romance",
   "credit": "Warner Bros. Pictures",
+  "altHero": "Peppy Miller",
+  "alt1": "Guardian Angel",
+  "alt2": "Shadows",
+  "alt3": "Young and Pretty",
+  "alt4": "Sparkle of Love",
   "layout": "movie.pug",
   "submovies": 4,
   "tags": [

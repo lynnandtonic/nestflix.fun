@@ -11,6 +11,11 @@
   "starring": "Jim Beyman, Cynthia Chapman",
   "labels": "drama, history",
   "credit": "Warner Independent Pictures",
+  "altHero": "two Pilgrims, a man and a woman, talk with the ocean in the background",
+  "alt1": "a wider shot of the Pilgrims on a snowy beach, their boat nearby",
+  "alt2": "the Pilgrims",
+  "alt3": "closeup of the woman",
+  "alt4": "closeup of the man",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

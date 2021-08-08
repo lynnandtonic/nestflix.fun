@@ -10,6 +10,11 @@
   "runtime": "10 seasons",
   "labels": "kids",
   "credit": "Disney-ABC Domestic Television",
+  "altHero": "three colorful horses in armor and one tiny horse have a picnic under a rainbow",
+  "alt1": "four colorful horses graze in a field outside a barn",
+  "alt2": "Xander’s head, an evil sorcerer type, appears in the sky as dark clouds form",
+  "alt3": "the horses run toward the barn",
+  "alt4": "Peggy-sis (the winged horse) suiting up in her armor",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

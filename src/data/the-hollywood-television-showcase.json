@@ -10,6 +10,11 @@
   "starring": "Troy Chesterfield",
   "labels": "variety, entertainment",
   "credit": "20th Century Fox",
+  "altHero": "host Troy Chesterfield introduces an act",
+  "alt1": "Chesterfield surrounded by dancers",
+  "alt2": "Chesterfield talks with a NASA astronaut",
+  "alt3": "a man spins plates",
+  "alt4": "rock band the Wonders perform",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

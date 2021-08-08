@@ -12,6 +12,11 @@
   "studio": "BBC",
   "labels": "drama",
   "credit": "20th Television",
+  "altHero": "a huge estate with decorative fountain outside",
+  "alt1": "a large dining room with fancily-dressed people sitting at a long table, many butlers stand at the edges of the room",
+  "alt2": "at the table, a serious woman wearing pearls dabs a napkin to her mouth",
+  "alt3": "two other diners, not smiling, look at the woman",
+  "alt4": "two other diners also not smiling",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

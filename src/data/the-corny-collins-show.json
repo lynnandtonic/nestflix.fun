@@ -12,6 +12,11 @@
   "studio": "WZZT-TV",
   "labels": "variety, music",
   "credit": "New Line Cinema",
+  "altHero": "Corny Collins in front of his microphone with a stack of records nearby",
+  "alt1": "the set of the show filled with teens dancing",
+  "alt2": "Collins chats with two teens in a booth",
+  "alt3": "more teens dancing",
+  "alt4": "Collins talks with teen Tracy Turnblad",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

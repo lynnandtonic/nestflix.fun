@@ -11,6 +11,11 @@
   "starring": "P. Ninny, Sylk Weavey",
   "labels": "reality",
   "credit": "Netflix",
+  "altHero": "P. Ninny",
+  "alt1": "a closeup of headphones and a hat embroidered P. Ninny",
+  "alt2": "P. Ninny in the studio",
+  "alt3": "Sylk Weavey visits P. Ninny in the studio",
+  "alt4": "music producer eating hot Cheetos",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

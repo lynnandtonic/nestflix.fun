@@ -12,6 +12,11 @@
   "studio": "Telemasivo Studios",
   "labels": "soap opera",
   "credit": "Warner Bros. Television",
+  "altHero": "River Fields as Brenda, a woman who can rock a pantsuit",
+  "alt1": "Brenda and Steve talk",
+  "alt2": "Brend leans on a bed and talks with Steve",
+  "alt3": "Steve stands by the bed making fart noises with his mouth",
+  "alt4": "Brenda’s profile with Steve in the background",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

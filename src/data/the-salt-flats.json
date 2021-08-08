@@ -10,6 +10,11 @@
   "starring": "Valerie Page",
   "labels": "drama",
   "credit": "Warner Bros. Pictures",
+  "altHero": "Valerie Page works in a field and adjusts her hair",
+  "alt1": "Page walks, carrying a basket",
+  "alt2": "Page sees something and blocks the sun from her eyes",
+  "alt3": "a woman in a suit walks between hanging laundry, a romantic scene",
+  "alt4": "the two women face each other for a kiss, with the sun setting in the background",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -12,6 +12,11 @@
   "director": "Damien Cockburn",
   "labels": "action, war",
   "credit": "DreamWorks Pictures",
+  "altHero": "Tugg Speedman, dirty and torn from war, raises his arms in exhaustion as the jungle behind him burns",
+  "alt1": "American soldiers walking through the Vietnam jungle",
+  "alt2": "Speedman shirtless and covered in dirt and bloody warpaint, wears a panda’s head as a hat",
+  "alt3": "Speedman running from an explosion",
+  "alt4": "Kirk Lazarus looks relieved but exhausted",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

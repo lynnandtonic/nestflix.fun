@@ -12,6 +12,11 @@
   "studio": "Black and White Period Piece Old Lady Boring Movie Channel",
   "labels": "drama, history",
   "credit": "Disney Television Animation",
+  "altHero": "a black and white shot of a woman in a droopy hat, her eyes tearing up",
+  "alt1": "woman stands defiantly in front of an older woman",
+  "alt2": "the older woman is the Queen",
+  "alt3": "the younger woman reaches up to pull off her hat",
+  "alt4": "she lets her hair fly free with gritted teeth",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

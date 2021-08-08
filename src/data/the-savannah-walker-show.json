@@ -10,6 +10,11 @@
   "starring": "Savannah Walker",
   "labels": "talk show",
   "credit": "CBS Television",
+  "altHero": "show host Savannah Walker in her studio",
+  "alt1": "Walker getting surfing lessons in Hawaii",
+  "alt2": "Walker doing her live shows on location in Hawaii, wearing a lei and flower in her hair",
+  "alt3": "Walker speaking with Detective Chin Ho Kelly",
+  "alt4": "Walker covering a crime scene",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

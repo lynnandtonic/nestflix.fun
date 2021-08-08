@@ -12,6 +12,11 @@
   "director": "Mel Gibson",
   "labels": "action, comedy",
   "credit": "20th Television",
+  "altHero": "Jesus driving a convertible with Chris Tucker in shotgun",
+  "alt1": "the convertible makes a big jump in front of an explosion",
+  "alt2": "Jesus in action, weilding two guns",
+  "alt3": "Chris Tucker offers Jesus a blunt",
+  "alt4": "Tucker and Jesus flying from an explosion",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

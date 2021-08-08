@@ -10,6 +10,11 @@
   "runtime": "2 seasons",
   "labels": "kids, religion",
   "credit": "20th Television",
+  "altHero": "a claymation dog, Jobriath, and boy, Gravey, in a workshop",
+  "alt1": "Gravey holds up a pipe bomb",
+  "alt2": "Jobriath looks unsure",
+  "alt3": "Gravey with furrowed brow holds up a lighter",
+  "alt4": "Jobriath has the lit pipe bomb in his mouth",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "Rick Dalton",
   "labels": "action, war",
   "credit": "Columbia Pictures",
+  "altHero": "Rick Dalton as Sgt. Mike Lewis shooting a flame thrower from a balcony",
+  "alt1": "Lewis shooting a machine gun",
+  "alt2": "a group of Nazis talking around a table",
+  "alt3": "Lewis testing his flame thrower in front of a Nazi banner",
+  "alt4": "the Nazis getting sprayed with a giant flame",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

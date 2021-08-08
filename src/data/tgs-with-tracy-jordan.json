@@ -11,6 +11,11 @@
   "studio": "NBC",
   "labels": "comedy, sketch",
   "credit": "NBCUniversal Television",
+  "altHero": "Tracy Jordan, Jenna Maroney, and Josh Girard in a sketch",
+  "alt1": "Maroney in a gold, glittery dress dancing in front of a line of dancers wearing short shorts and tall boots",
+  "alt2": "Jordan dressed as a woman in a kitchen, the counter loaded with various meats",
+  "alt3": "Maroney in a patriotic outfit singing next to a woman holding an American flag",
+  "alt4": "Jordan as a scientist, yells “Noo!” as his robot machine smokes",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

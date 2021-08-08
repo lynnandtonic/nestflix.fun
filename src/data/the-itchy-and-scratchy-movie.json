@@ -11,6 +11,11 @@
   "studio": "I&S Studios",
   "labels": "comedy, animation",
   "credit": "20th Television",
+  "altHero": "Itchy ties Scratchy to some railroad tracks",
+  "alt1": "Itchy goes to Engineering School",
+  "alt2": "Itchy graduates",
+  "alt3": "Itchy is now a train conductor",
+  "alt4": "Scratchy’s disembodied limbs are still trying to untangle the rope",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

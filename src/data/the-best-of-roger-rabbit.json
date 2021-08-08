@@ -12,6 +12,11 @@
   "studio": "Maroon Cartoons",
   "labels": "comedy, animation",
   "credit": "Touchstone Pictures",
+  "altHero": "Roger Rabit",
+  "alt1": "Babes in Arms",
+  "alt2": "Roger’s Baby Buggy Blunder",
+  "alt3": "The Wet Nurse",
+  "alt4": "Herman’s Shermans",
   "layout": "movie.pug",
   "submovies": 4,
   "tags": [
