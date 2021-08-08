@@ -10,6 +10,7 @@
   "runtime": "1 season",
   "labels": "game show",
   "credit": "20th Television",
+  "altHero": "a game show set, the host is pointing as inmates with knives and swords chase a contestant",
   "layout": "movie.pug",
   "tags": [
     "entry",

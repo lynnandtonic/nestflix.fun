@@ -12,6 +12,11 @@
   "director": "Verner Vollstedt",
   "labels": "thriller, drama",
   "credit": "HBO Entertainment",
+  "altHero": "lines of firemen walk up a hill toward a raging wildfire",
+  "alt1": "firemen walk through a town on fire",
+  "alt2": "the fireman look to the distance with buildings on fire in the background",
+  "alt3": "firemen in a helicopter",
+  "alt4": "Chase hanging from a tree by his parachute",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

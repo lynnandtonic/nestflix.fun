@@ -11,6 +11,11 @@
   "starring": "Anna Paquin, Kristen Bell",
   "labels": "horror, slasher",
   "credit": "Universal Pictures",
+  "altHero": "Anna Paquin and Kristen Bell sit on a couch",
+  "alt1": "Paquin looks at Bell",
+  "alt2": "Kristen Bell talking",
+  "alt3": "blood drips from Paquin’s mouth as Bell talks close to her face",
+  "alt4": "Bell changes the tv channel, Paquin is dead next to her",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

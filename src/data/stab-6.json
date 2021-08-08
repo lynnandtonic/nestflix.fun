@@ -11,6 +11,11 @@
   "starring": "Lucy Hale, Shenae Grimes",
   "labels": "horror, slasher",
   "credit": "Universal Pictures",
+  "altHero": "Lucy Hale talks on a cordless house phone",
+  "alt1": "Hale talks in the kitchen, holding a knife in her hands",
+  "alt2": "Hale and Shenae Grimes look frightened",
+  "alt3": "Grimes texts on a Sidekick mobile phone",
+  "alt4": "Ghostface holds up a bloody knife",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

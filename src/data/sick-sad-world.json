@@ -10,6 +10,11 @@
   "runtime": "5 seasons",
   "labels": "reality, documentary",
   "credit": "MTV Networks",
+  "altHero": "a man double fists carrots at a table covered in carrots and a tree grows out the top of his head",
+  "alt1": "a baby dressed in goth gear: black diaper with safety pins, studded wristbands, heavy boots, and a black pacifier",
+  "alt2": "two frogs in king and queen attire on a science lab table",
+  "alt3": "a bust of a human head made of instestines",
+  "alt4": "a killer whale testifies in court",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

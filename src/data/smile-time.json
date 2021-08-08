@@ -11,6 +11,11 @@
   "studio": "KTCE Television",
   "labels": "kids",
   "credit": "20th Century Fox Television",
+  "altHero": "Polo, a happy puppet with overalls and backwards cap",
+  "alt1": "Polo and Flora sitting on the roof of Groofus’ dog house",
+  "alt2": "Ratio Hornblower, a purple puppet with a horn for a nose",
+  "alt3": "the gang sings Action Math News",
+  "alt4": "Polo",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

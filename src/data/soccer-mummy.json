@@ -11,6 +11,11 @@
   "starring": "Ed O’Neill",
   "labels": "comedy, family",
   "credit": "20th Television",
+  "altHero": "a mummy with a sweatband in a soccer stadium",
+  "alt1": "Justin lays in the mud as another player points and laughs",
+  "alt2": "the mummy’s feet dribbling a soccer ball as other players try to keep up",
+  "alt3": "a large-breasted woman cheering",
+  "alt4": "the mummy gives a guilty shrug",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

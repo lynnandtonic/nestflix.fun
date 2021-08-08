@@ -10,6 +10,11 @@
   "studio": "I&S Studios",
   "labels": "comedy, animation",
   "credit": "20th Television",
+  "altHero": "Itchy at the helm of a boat (in the style of Steamboat Willy)",
+  "alt1": "a tugboat",
+  "alt2": "Itchy shoots a gun at Scratchy’s knees",
+  "alt3": "Itchy kicks Scratchy into the coal engine",
+  "alt4": "Scratchy’s head is burned to a crisp",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

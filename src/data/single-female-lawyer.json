@@ -10,6 +10,11 @@
   "runtime": "5 seasons",
   "labels": "drama, legal",
   "credit": "20th Century Fox Television",
+  "altHero": "Jenny McNeal scolds a judge with bathroom stalls behind",
+  "alt1": "the judge shrugs",
+  "alt2": "Jenny points at the judge",
+  "alt3": "the judge leans in",
+  "alt4": "Jenny and the judge kiss while the court stenographer peeks out from one of the bathroom stalls",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

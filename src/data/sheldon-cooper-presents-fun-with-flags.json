@@ -11,6 +11,11 @@
   "starring": "Sheldon Cooper, Amy Farrah Fowler",
   "labels": "talk show, educational",
   "credit": "Warner Bros. Television",
+  "altHero": "Sheldon Cooper on his couch, gesturing at his whiteboard behind him",
+  "alt1": "Cooper with Wil Wheaton who is holding a United Federation of Planets flag",
+  "alt2": "Cooper dressed in lederhosen and Amy Farrah Fowler dressed as a giant pretzel with the flag of Bavaria",
+  "alt3": "Cooper wearing a Crocodile Dundee hat and holding a boomerang with Fowler dressed as a kangaroo holding the Australia flag",
+  "alt4": "Fowler approaches Cooper dressed as Betsy Ross sewing the American flag",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -13,6 +13,11 @@
   "studio": "Maroon Cartoons",
   "labels": "comedy, animation",
   "credit": "Touchstone Pictures",
+  "altHero": "Roger Rabbit splayed against a wall surrounded by knives, forks, and corkscrews stuck in the wall",
+  "alt1": "Baby Herman escapes from his pen",
+  "alt2": "Roger screams, his eyes bulging from his face",
+  "alt3": "Baby Herman crawls across a stove, lighting each burner as he goes",
+  "alt4": "Roger’s mouth is attached to a Suck-O-Lux vacuum hose and his body is filling with air",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

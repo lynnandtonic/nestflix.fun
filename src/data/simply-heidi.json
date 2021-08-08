@@ -10,6 +10,7 @@
   "starring": "Heidi",
   "labels": "talk show",
   "credit": "Comedy Central",
+  "altHero": "host Heidi sits and chats with a female guest",
   "layout": "movie.pug",
   "tags": [
     "entry",

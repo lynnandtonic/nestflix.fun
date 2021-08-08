@@ -11,6 +11,11 @@
   "director": "Alois von Eichberg",
   "labels": "action, war",
   "credit": "The Weinstein Company",
+  "altHero": "Fredrick Zoller aims his gun out a window",
+  "alt1": "closeup of Zoller aiming",
+  "alt2": "Zoller’s sillouhette against a window",
+  "alt3": "a man falls from a building",
+  "alt4": "an exhausted Zoller closes his eyes",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "Robin Sparkles, Jessica Glitter, Alan Thicke",
   "labels": "kids, sci-fi",
   "credit": "20th Century Fox Television",
+  "altHero": "Robin Sparkles and Jessica Glitter in 90s outfits stand on their spaceship talking to a hologram Alan Thicke",
+  "alt1": "Robin is excited",
+  "alt2": "a little robot",
+  "alt3": "Robin and Jessica standing with hockey sticks",
+  "alt4": "the gang playing with beaver puppets and logs of wood",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

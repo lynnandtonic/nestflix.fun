@@ -10,7 +10,11 @@
   "runtime": "6 seasons",
   "labels": "drama, mystery",
   "credit": "20th Television",
-  "layout": "movie.pug",
+  "altHero": "four people with torches find a rock with cryptic etchings and a giant crank",
+  "alt1": "the aftermath of a plane crash on a beach",
+  "alt2": "a woman screams and man scream in terror",
+  "alt3": "a cat emerges from a cracked coconut, its collar says “815”",
+  "alt4": "a man looks on in horror as another man is taken away by a lava monster",
   "stills": true,
   "tags": [
     "entry",

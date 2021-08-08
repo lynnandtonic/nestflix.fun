@@ -10,6 +10,11 @@
   "starring": "Lilly Moscovitz",
   "labels": "talk show",
   "credit": "Walt Disney Pictures",
+  "altHero": "host Lilly Moscovitz with guest Jeremiah Hart",
+  "alt1": "Melissa introduces Lilly next to a big gong",
+  "alt2": "Lilly and Jeremiah chat",
+  "alt3": "Jeremiah blindfolded",
+  "alt4": "Lilly holds up a Queen of hearts",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

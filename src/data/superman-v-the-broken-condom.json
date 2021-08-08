@@ -10,6 +10,11 @@
   "runtime": "1h 46m",
   "labels": "superhero",
   "credit": "20th Television",
+  "altHero": "Superman holds a bouquet of flowers and knocks on an apartment door",
+  "alt1": "Superman talks with Lois",
+  "alt2": "Superman squints",
+  "alt3": "an x-ray view of Lois’s belly with a fetus inside",
+  "alt4": "Superman drops the flowers and takes off out a window",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

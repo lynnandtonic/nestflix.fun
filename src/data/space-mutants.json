@@ -10,6 +10,11 @@
   "runtime": "25h 23m",
   "labels": "horror, sci-fi",
   "credit": "20th Television",
+  "altHero": "a two-headed, multi-armed space mutant grabs two people",
+  "alt1": "a multi-armed, multi-eyed space mutant grabs two other people",
+  "alt2": "two people kiss in a car as the space mutant reaches down to grab them",
+  "alt3": "a man and woman lay in bed, red light shining in through the blinds",
+  "alt4": "the man screams as the woman turns into the space mutant",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

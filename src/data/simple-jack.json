@@ -11,6 +11,11 @@
   "starring": "Tugg Speedman, Christine Taylor",
   "labels": "drama",
   "credit": "DreamWorks Pictures",
+  "altHero": "Tugg Speedman is Simple Jack, sporting overalls and a bowl cut",
+  "alt1": "Jack talks with a horse",
+  "alt2": "Jack laughs as he is surrounded by lots of kids",
+  "alt3": "Jack brushes a horse",
+  "alt4": "Christine Taylor",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

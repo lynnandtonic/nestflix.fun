@@ -11,6 +11,11 @@
   "starring": "William Shatner, Leonard Nimoy, DeForest Kelley, George Takei",
   "labels": "sci-fi",
   "credit": "20th Television",
+  "altHero": "the deck of the Enterprise with the crew looking very old and tired",
+  "alt1": "Kirk is wrinkled and wearing glasses",
+  "alt2": "Sulu also looks very old",
+  "alt3": "enemy ships approach",
+  "alt4": "Scotty has gotten a bit fat and can’t reach the controls",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
