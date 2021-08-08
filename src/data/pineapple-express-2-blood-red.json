@@ -11,6 +11,11 @@
   "starring": "Seth Rogen, James Franco, Danny McBride, Craig Robinson",
   "labels": "comedy, action",
   "credit": "Columbia Pictures",
+  "altHero": "amateur footage of Dale and Saul driving a fake car",
+  "alt1": "Dale and Saul chatting on a couch",
+  "alt2": "Jonah Hill as Woody Harrelson, wearing a cowboy hat and holding a bong",
+  "alt3": "Dale and Saul chat with Red who is holding a baseball bat like a gun, a pile of cocaine on the table in front of them",
+  "alt4": "Matheson (Robinson) drives a fake car (using a pot lid as a steering wheel) while Red holds his baseball bat gun",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

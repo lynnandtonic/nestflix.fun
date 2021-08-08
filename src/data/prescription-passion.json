@@ -11,6 +11,11 @@
   "starring": "Evan Greer",
   "labels": "soap opera, medical drama",
   "credit": "NBCUniversal Television",
+  "altHero": "Dr. Brock Sterling (Greer) in scrubs",
+  "alt1": "Nurse Marie looks hopeful, an x-ray illuminated behind her",
+  "alt2": "Marie kneels at Dr. Sterling’s side after he collapsed",
+  "alt3": "Dr. Sterling has his back turned to another nurse",
+  "alt4": "Dr. Sterling listens to Marie’s heartbeat",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

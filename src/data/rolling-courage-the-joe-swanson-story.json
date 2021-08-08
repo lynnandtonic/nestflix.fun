@@ -12,6 +12,11 @@
   "studio": "ABC",
   "labels": "drama, biography",
   "credit": "20th Television",
+  "altHero": "Tony Danza as Joe Swanson winning a wheelchair race",
+  "alt1": "Swanson in his police uniform ready to fight three dudes holding various weapons",
+  "alt2": "Swanson discouraged on the floor while his wife helps him up",
+  "alt3": "a “Special People’s Games” ad on the side of a box of popsicles",
+  "alt4": "Swanson angrily rolls away from Peter Griffin (Bea Arthur)",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

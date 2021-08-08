@@ -11,6 +11,11 @@
   "starring": "Lois Griffin",
   "labels": "adult",
   "credit": "20th Television",
+  "altHero": "Lois Griffin and a male costar dressed as cave people",
+  "alt1": "the caveman holds a spear and looks in the distance, a pterodactyl hangs from string in the background",
+  "alt2": "a closeup of sweat droplets on Lois’s chest",
+  "alt3": "the caveman lays down on Lois",
+  "alt4": "another caveman delivers a pizza and he looks a lot like Stewie",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

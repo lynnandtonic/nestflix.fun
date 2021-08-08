@@ -11,6 +11,11 @@
   "studio": "Interdimensional Cable",
   "labels": "crime, documentary",
   "credit": "Warner Bros. Television",
+  "altHero": "a Robert Stack-like host in a tan trench coat",
+  "alt1": "a murder victim, a cop, and the perpetrator delivering the murder weapon and a fingerprint sheet",
+  "alt2": "the murderer in a jail cell",
+  "alt3": "a dead woman, her husband, and a man with an eyepatch delivering the murder weapon (a bowling pin) and holding his hands out to be handcuffed",
+  "alt4": "a judge sentencing the man with the eyepatch",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

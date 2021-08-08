@@ -11,6 +11,11 @@
   "starring": "Olive Garden, Mrs. Oh, Noh, Lucille Bluth",
   "labels": "reality",
   "credit": "20th Television, Netflix",
+  "altHero": "three Asian women walk toward the camera in Asian-inspired outfits made of nice fabrics and embroidered prison numbers",
+  "alt1": "Mrs. Oh glares at Lucille Bluth at the mahjong table",
+  "alt2": "Lucille speaks to the camera at the mahjong table",
+  "alt3": "Noh laughs",
+  "alt4": "Olive threatens Lucille with her arms up in the air",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

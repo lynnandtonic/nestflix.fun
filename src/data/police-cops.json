@@ -11,6 +11,11 @@
   "studio": "FOX",
   "labels": "crime, buddy cop",
   "credit": "20th Television",
+  "altHero": "two detectives, Simpson and Kaufman, high five",
+  "alt1": "Simpson, gun in hand, slides across a car hood while Kaufman aims his gun from behind the car",
+  "alt2": "Kaufman points his gun at criminals stealing a bank on a flat bed truck (the bank is starting to fall off)",
+  "alt3": "the police chief talks with Kaufman",
+  "alt4": "Simpson’s character has become a buffoon",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

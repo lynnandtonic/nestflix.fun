@@ -9,6 +9,11 @@
   "runtime": "1h 33m",
   "labels": "horror, monster",
   "credit": "Nickelodeon Animation Studio",
+  "altHero": "Reptar, a giant t-rex, stomps through the city",
+  "alt1": "Reptar chomps on a chunk of building",
+  "alt2": "Reptar destroys a building with his tail",
+  "alt3": "Reptar breathes fire at an airplane",
+  "alt4": "Reptar grabs another giant dinosaur by the neck",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

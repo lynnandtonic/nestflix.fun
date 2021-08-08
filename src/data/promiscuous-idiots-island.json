@@ -11,6 +11,11 @@
   "studio": "FOX",
   "labels": "reality, competition",
   "credit": "20th Television",
+  "altHero": "a handsome man hands a rose to a woman",
+  "alt1": "a tropical mansion set",
+  "alt2": "a bespectacled woman is hit in the face with a rock",
+  "alt3": "a hand removes a strip of paper from a map of the island revealing it’s a peninsula",
+  "alt4": "a woman cries",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

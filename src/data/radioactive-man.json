@@ -11,6 +11,11 @@
   "starring": "Rainier Wolfcastle, Milhouse Van Houten, Krusty the Clown",
   "labels": "action, superhero",
   "credit": "20th Television",
+  "altHero": "superheroes Radioactive Man and Fallout Boy fight aliens on the moon",
+  "alt1": "an x-ray truck floods a pinned Milhouse’s head with green radiation as Radioactive Man runs to save him",
+  "alt2": "Radioactive Man and Fallout Boy hang upside down in a cage",
+  "alt3": "Radioactive Man is tied up on a platform as a fire rages below him",
+  "alt4": "Fallout Boy sits on a couch by himself",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

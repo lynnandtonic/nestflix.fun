@@ -11,6 +11,11 @@
   "studio": "Don Brand Productions",
   "labels": "action, drama",
   "credit": "Pearson Television",
+  "altHero": "a hunky male lifeguard runs along the beach",
+  "alt1": "beach patrons watch a beautiful female lifeguard walk by",
+  "alt2": "another beautiful lifeguard runs on the beach",
+  "alt3": "a beach patrolman by a Jeep",
+  "alt4": "a male lifeguard stands on the edge of a speed boat as a fire burns in the foreground",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

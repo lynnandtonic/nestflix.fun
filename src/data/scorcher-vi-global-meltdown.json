@@ -12,6 +12,11 @@
   "studio": "Universal Pictures",
   "labels": "action",
   "credit": "DreamWorks Pictures",
+  "altHero": "Speedman in front of a frozen landscape with two babies in furry hoods strapped to his chest",
+  "alt1": "the sun is blotted out of the sky",
+  "alt2": "Speedman looks at the sky as it becomes dark",
+  "alt3": "the Earth",
+  "alt4": "Speedman with the babies again",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

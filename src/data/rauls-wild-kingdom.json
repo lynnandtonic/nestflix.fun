@@ -12,6 +12,11 @@
   "studio": "Channel 62",
   "labels": "reality, animals",
   "credit": "Orion Pictures",
+  "altHero": "Raul Hernandez, a mustached man in a funky shirt, holds a little turtle close to the camera",
+  "alt1": "Raul in his home filled with various animals and animal cages",
+  "alt2": "Raul crouches to pick up one of many little poodles",
+  "alt3": "Raul looks guilty as he walks away from the window",
+  "alt4": "Raul peering out the window to the ground below",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

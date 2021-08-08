@@ -12,6 +12,7 @@
   "labels": "comedy",
   "director": "Judd Apatow",
   "credit": "Universal Pictures",
+  "altHero": "George Simmons head on a tiny baby’s body",
   "layout": "movie.pug",
   "tags": [
     "entry",

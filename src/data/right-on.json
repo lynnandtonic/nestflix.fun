@@ -10,6 +10,11 @@
   "starring": "Rutherford Rice, Shirley Thomas",
   "labels": "talk show",
   "credit": "NBCUniversal Television",
+  "altHero": "host Rutherford Rice",
+  "alt1": "Rutherford Rice and Shirley Thomas",
+  "alt2": "Rice welcomes writer James Spurlock to the show",
+  "alt3": "Shirley Thomas looks unamused",
+  "alt4": "Spurlock is annoyed with his boss Liz Lemon demanding camera time",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

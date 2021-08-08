@@ -11,6 +11,11 @@
   "starring": "Buddy Hackett, Jamie Farr, the Solid Gold Dancers, Mary-Lou Retton, Sir John Houseman",
   "labels": "christmas",
   "credit": "Paramount Pictures",
+  "altHero": "Scrooge stands in a snowy city street",
+  "alt1": "the Solid Gold Dancers dance in unison",
+  "alt2": "Sir John Houseman in an armchair reading to us",
+  "alt3": "Buddy Hackett as Scrooge talking with a ghost of Christmas",
+  "alt4": "Scrooge excitedly looks out his bedroom window",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

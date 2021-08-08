@@ -12,6 +12,11 @@
   "studio": "Quahog Public Access",
   "labels": "kids, variety",
   "credit": "20th Television",
+  "altHero": "Peter Griffin dressed in tramp clown garb plays piano on a stage in front of a hand-stitched patchwork curtain",
+  "alt1": "Peter reads a book to an audience of kids",
+  "alt2": "Peter plays guitar for the kids",
+  "alt3": "Peter talks to a hand puppet named Saggy Naggy that looks like his wife Lois",
+  "alt4": "Peter stands near a large cage holding an angry mountain lion",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

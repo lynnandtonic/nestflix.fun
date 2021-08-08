@@ -10,6 +10,7 @@
   "starring": "Jeff Neal",
   "labels": "sci-fi, action",
   "credit": "Warner Bros. Pictures",
+  "altHero": "a man with a gun shoots at a robot cop",
   "layout": "movie.pug",
   "tags": [
     "entry",

@@ -13,6 +13,11 @@
   "studio": "Tickleodeon",
   "labels": "kids",
   "credit": "20th Century Fox Television",
+  "altHero": "the Humplings are magical creatures with unique looks: a round dino with a megaphone nose, a vase with wild hair, a screw-shaped guy, a red and black spotted bee, and a cupcake with a crown",
+  "alt1": "Doingg lifting up a raccoon (played by Nibbler)",
+  "alt2": "Garbly",
+  "alt3": "Lady Buggle",
+  "alt4": "Feffernoose spits carrot onto Princess Num Num",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

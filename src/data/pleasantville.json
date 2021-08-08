@@ -11,6 +11,11 @@
   "studio": "TV Time!",
   "labels": "comedy, family",
   "credit": "New Line Cinema",
+  "altHero": "George and Betty smiling",
+  "alt1": "George hanging his hat on the rack by the door",
+  "alt2": "Betty offers a plate of Rice Krispies squares at the table",
+  "alt3": "Bud",
+  "alt4": "Mr. Johnson at the soda shop",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

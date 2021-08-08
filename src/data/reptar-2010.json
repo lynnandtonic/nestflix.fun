@@ -10,6 +10,11 @@
   "runtime": "2h 9m",
   "labels": "horror, monster",
   "credit": "Nickelodeon Animation Studio",
+  "altHero": "Reptar, a giant t-rex, encased in a huge ice pillar",
+  "alt1": "Dr. Ventnor in a space helmet, pilots a spaceship",
+  "alt2": "nuclear containment rings surround Reptar’s ice pillar",
+  "alt3": "Reptar moves the rings to escape",
+  "alt4": "Reptar destroys skyscrapers",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

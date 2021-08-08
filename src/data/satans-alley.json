@@ -12,6 +12,11 @@
   "studio": "Fox Searchlight Pictures",
   "labels": "drama",
   "credit": "DreamWorks Pictures",
+  "altHero": "Lazarus as a monk outside a monastery",
+  "alt1": "Lazarus in front of some church candles",
+  "alt2": "Maguire, also a monk, looks seductive",
+  "alt3": "the two monks stand side by side, eyes closed",
+  "alt4": "from a distance, the two monks walk hand in hand outside the monastery",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

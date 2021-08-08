@@ -13,6 +13,11 @@
   "starring": "Arthur Jeffries, Wil Wheaton",
   "labels": "kids, educational",
   "credit": "Warner Bros. Television",
+  "altHero": "Wil Wheaton in a lab coat on a science lab set",
+  "alt1": "Arthur Jeffries as Professor Proton in his lab",
+  "alt2": "Wil Wheaton",
+  "alt3": "Wheaton welcomes astronaut Howard Wolowitz on the show",
+  "alt4": "Wheaton talks with Dr. Amy Farrah Fowler who is pointing at a model brain",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

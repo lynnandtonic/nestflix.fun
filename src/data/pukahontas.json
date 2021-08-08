@@ -12,6 +12,11 @@
   "director": "Barney Gumble",
   "labels": "amateur, drama",
   "credit": "20th Television",
+  "altHero": "arthouse style shot of Barney drinking a beer as wind blows through sheer curtains",
+  "alt1": "aerial shot of Barney passed out on the couch, the curtains fluttering gracefully",
+  "alt2": "Barney laying in the street drinking a beer",
+  "alt3": "a dropped beer bottle pours into a sewer grate",
+  "alt4": "an open window and a flower in a beer bottle loses its petals",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

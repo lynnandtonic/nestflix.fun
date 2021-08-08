@@ -12,6 +12,11 @@
   "studio": "HBC",
   "labels": "reality, travel",
   "credit": "Comedy Central",
+  "altHero": "Russell Crowe angrily lifts up a director",
+  "alt1": "Crowe pumps his fist at a man walking down a pier",
+  "alt2": "Crowe is in China hiding behind a potted plant",
+  "alt3": "Crowe wants to fight a group of dudes playing basketball",
+  "alt4": "Crow poses in front of a sunset with a nearby wallaby and his boat “Tugger”",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

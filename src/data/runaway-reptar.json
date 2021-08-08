@@ -12,6 +12,11 @@
   "studio": "Rosenmount Pictures",
   "labels": "horror, monster",
   "credit": "Nickelodeon Animation Studio",
+  "altHero": "Reptar, a giant t-rex, walks in a harbor toward the city",
+  "alt1": "Dactar the pterodactyl on strings knocks a building over",
+  "alt2": "three scientists look out a big window with binoculars",
+  "alt3": "Reptar emerges, dripping wet",
+  "alt4": "Reptar and Dactar destroy a roller coaster",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

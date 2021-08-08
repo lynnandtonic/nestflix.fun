@@ -10,6 +10,11 @@
   "runtime": "5 seasons",
   "labels": "soap opera",
   "credit": "20th Television",
+  "altHero": "Jack holds a drink while Margarita unzips her dress",
+  "alt1": "Margarita, surprised, holds her dress up to cover her body while Jack stands nearby",
+  "alt2": "Father McGrath looks disheveled and fanatical",
+  "alt3": "Mr. Avery Devereaux grabs Margarita in the workplace",
+  "alt4": "Brandi sits on a desk in a meeting with two men",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

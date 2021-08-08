@@ -36,6 +36,15 @@ block content
                             a(href=entry.data.page.url)
                                 img(src=src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
 
+    section.entry.feature 
+        div.entry-info 
+            h1 !{collections.byTitle["Satan’s Alley"].data.title} 
+            h2 !{collections.byTitle["Satan’s Alley"].data.description} 
+            h3 !{collections.byTitle["Satan’s Alley"].data.betterName1} 
+            button Details 
+        div.entry-image 
+            img(src='/img/' + collections.byTitle["Satan’s Alley"].data.slug + '.jpg') 
+
     each tag in tags.slice(2)
         unless collections.ignoredTags.includes(tag.toLowerCase())
             section.list.short

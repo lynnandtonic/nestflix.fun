@@ -12,6 +12,11 @@
   "studio": "Bravo",
   "labels": "reality",
   "credit": "NBCUniversal Television",
+  "altHero": "Angie Jordan gives a smug look to the camera",
+  "alt1": "Angie Jordan in the recording studio holding two fluffy dogs",
+  "alt2": "D’Fwan and Randi get their nails done",
+  "alt3": "a confessional interview with D’Fwan",
+  "alt4": "Angie yells at Liz Lemon with a handful of her hair",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
