@@ -12,6 +12,11 @@
   "studio": "NBC",
   "labels": "western",
   "credit": "Columbia Pictures",
+  "altHero": "Rick Dalton as Jake Cahill in a cowboy hat stands in front of a bulletin board with Wanted posters",
+  "alt1": "Cahill stands with his hand on his gun holster",
+  "alt2": "a mustached man",
+  "alt3": "Cahill speaks to a man from atop a horse",
+  "alt4": "Cahill casts a shadow on a man unconscious on the ground",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "Lawrence Woolsey, Ruth Corday",
   "labels": "sci-fi, monster",
   "credit": "Universal Pictures",
+  "altHero": "a human-sized ant (Mant) in a suit talks with a woman",
+  "alt1": "a doctor shows a woman a diagram of the brain",
+  "alt2": "a scientist scans Mant for radiation",
+  "alt3": "a woman screams, the shadow of Mant attacking a man is cast on the wall behind her",
+  "alt4": "a giant ant scales a tall building with spotlights on it from below",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

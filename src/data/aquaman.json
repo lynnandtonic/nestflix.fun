@@ -12,6 +12,11 @@
   "studio": "Warner Bros. Pictures",
   "labels": "action, superhero",
   "credit": "HBO Entertainment",
+  "altHero": "a man in a suit jumps into the ocean as a huge wave approaches",
+  "alt1": "a crowded pier",
+  "alt2": "people are running panicked including a mom and her small child",
+  "alt3": "Vincent Chase as Arthur Curry looks off in the distance and begins undoing his necktie",
+  "alt4": "a lone Arthur Curry runs in the opposite direction toward the water",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

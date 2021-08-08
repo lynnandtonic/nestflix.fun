@@ -10,6 +10,11 @@
   "starring": "Hypnotoad",
   "labels": "comedy",
   "credit": "20th Century Fox Television",
+  "altHero": "Hypnotoad",
+  "alt1": "Hypnotoad",
+  "alt2": "Hypnotoad",
+  "alt3": "establishing shot of a house",
+  "alt4": "Hypnotoad",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

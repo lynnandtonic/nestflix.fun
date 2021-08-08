@@ -11,6 +11,11 @@
   "starring": "Eric Cartman",
   "labels": "talk show",
   "credit": "Comedy Central",
+  "altHero": "Eric Cartman surrounded by graphs and marquee chyrons with Facebook stats",
+  "alt1": "Cartman passionately talking at a desk",
+  "alt2": "Cartman with a Happy Birthday cake",
+  "alt3": "Cartman cranking a gramophone",
+  "alt4": "Cartman commenting on Clyde Donovan’s Facebook page",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -12,6 +12,11 @@
   "director": "Señor Spielbergo",
   "labels": "drama, amateur",
   "credit": "20th Television",
+  "altHero": "Mr. Burns, wearing a sombrero, rides a horse and raises a cane with open-mouthed excitement",
+  "alt1": "a crowd in a Mexican village (including a man in a bumble bee costume) cheer on Mr. Burns",
+  "alt2": "a man points at the heart of a small boy, his finger glowing green and bright",
+  "alt3": "Mr. Burns walks up a ramp on to a spaceship as a boy watches",
+  "alt4": "a man lays in the desert sand at the feet of Mr. Burns who is standing in a God-like beam of light",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

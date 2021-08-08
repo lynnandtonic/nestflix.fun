@@ -12,6 +12,11 @@
   "studio": "Kidnet Television",
   "labels": "kids, variety",
   "credit": "Warner Bros. Pictures",
+  "altHero": "Smoochy the Rhino",
+  "alt1": "Smoochy cheering with a bunch of kids",
+  "alt2": "Smoochy and kids about to look in the Magic Cookie Bag",
+  "alt3": "Smoochy holding a penis-shaped cookie",
+  "alt4": "Smoochy playing guitar and singing with the Rhinettes",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -10,6 +10,11 @@
   "starring": "Shinji Kojima, Yuki Kojima",
   "labels": "action, monster, martial arts",
   "credit": "Disney-ABC Domestic Television",
+  "altHero": "Hawk carries his daughter Chick in a basket on his back",
+  "alt1": "Hawk and Chick brush a man’s hair",
+  "alt2": "Hawk and Chick fight a giant seaweed monster",
+  "alt3": "the monster’s seaweed wraps all around Hawk’s body",
+  "alt4": "the monster picks up a sword-weilding Chick",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

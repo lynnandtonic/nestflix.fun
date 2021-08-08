@@ -11,6 +11,11 @@
   "starring": "Virgil Sinclair",
   "labels": "game show",
   "credit": "20th Television",
+  "altHero": "Moe Szyslak sits across from Virgil Sinclair on the set of a game show, two wheelbarrows of cash sit nearby",
+  "alt1": "three contestants and the studio audience",
+  "alt2": "Virgil Sinclair rubs handfuls of cash against his chest",
+  "alt3": "Moe Szyslak thinks on a trivia question about subatomic particles",
+  "alt4": "a woman presents one of the wheelbarrows of cash lit on fire",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

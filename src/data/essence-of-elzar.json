@@ -11,6 +11,11 @@
   "starring": "Chef Elzar",
   "labels": "reality, cooking",
   "credit": "20th Century Fox Television",
+  "altHero": "Elzar and a Neptunian slug",
+  "alt1": "Elzar doing prep",
+  "alt2": "Elzar squeezing his spice weasel",
+  "alt3": "Elzar grabbing the Neptunian slug",
+  "alt4": "the slug grows huge and Elzar hits it with a frying pan",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

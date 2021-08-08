@@ -13,6 +13,11 @@
   "studio": "Groovy Channel 27",
   "labels": "soap opera",
   "credit": "BBC Two",
+  "altHero": "two fashionable human-like androids",
+  "alt1": "a closeup of the female android’s face",
+  "alt2": "the female android addresses the male one",
+  "alt3": "a profile of the female android’s face",
+  "alt4": "the male android looks shocked",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

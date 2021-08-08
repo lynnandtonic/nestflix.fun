@@ -12,6 +12,11 @@
   "director": "Steven Spielberg",
   "labels": "action, espionage",
   "credit": "New Line Cinema",
+  "altHero": "Tom Cruise dressed as Austin Powers in thick glasses and ruffly shirt",
+  "alt1": "Austin’s British flag car with “Shaguar” license plate",
+  "alt2": "a dolled up Gwyneth Paltrow",
+  "alt3": "Danny DeVito flips the bird dressed as Mini Me",
+  "alt4": "John Travolta dressed as Goldmember picks at his chin skin",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

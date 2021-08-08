@@ -12,6 +12,11 @@
   "director": "Garry Marshall",
   "labels": "comedy, romance",
   "credit": "NBCUniversal Television",
+  "altHero": "Emma Stone looks longingly in the distance",
+  "alt1": "Andy Samberg talks with Emma Stone in an office",
+  "alt2": "Kristen Bell in a cardigan and glasses",
+  "alt3": "John Krasinski in a tie and sweater",
+  "alt4": "Jenna Maroney on a rooftop talking with Nick Cannon",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

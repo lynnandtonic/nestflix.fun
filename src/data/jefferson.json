@@ -12,6 +12,11 @@
   "director": "Tracy Jordan",
   "labels": "drama, history",
   "credit": "NBCUniversal Television",
+  "altHero": "Tracy Jordan dressed as Thomas Jefferson",
+  "alt1": "Jefferson with a fellow soldier",
+  "alt2": "Jordan as a British soldier",
+  "alt3": "Jordan as a sad Sally Hemings",
+  "alt4": "Jefferson in front of a big explosion",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

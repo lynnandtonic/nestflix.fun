@@ -11,6 +11,11 @@
   "director": "Paul Ballard",
   "labels": "documentary",
   "credit": "MGM Studios",
+  "altHero": "a grid of stills of everyday life like a teapot, watch, and phone",
+  "alt1": "a man’s reflection in a mirror films from behind a camera",
+  "alt2": "the filmmaker talks and looks off camera",
+  "alt3": "a woman’s arms adjust a plant on a window sill",
+  "alt4": "a woman in a flight attendant uniform looks at the camera",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

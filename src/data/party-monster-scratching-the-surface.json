@@ -13,6 +13,11 @@
   "studio": "House Flix, Columbia House Docs",
   "labels": "documentary",
   "credit": "Netflix",
+  "altHero": "Richard Wayne Gary Wayne (DJ Slizzard) holds his hands up behind prison visitation glass",
+  "alt1": "DJ Fingablast does research on a laptop while wearing a women’s bra and long wig",
+  "alt2": "Richard Wayne Gary Wayne gives a knowing look at the camera",
+  "alt3": "Titus Andromedon re-enacts a scene as a fireman with a line of mannequins set ablaze",
+  "alt4": "DJ Fingablast looks at a bulletin board covered in newspaper clippings, photos, and connecting strings",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

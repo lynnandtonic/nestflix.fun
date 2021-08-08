@@ -10,6 +10,11 @@
   "runtime": "1 season",
   "labels": "talk show",
   "credit": "20th Television",
+  "altHero": "a jovial man behind a desk",
+  "alt1": "man shows a picture of a sunset and sailboat",
+  "alt2": "man shows a picture of the Autobahn",
+  "alt3": "man shows a German band playing music",
+  "alt4": "a line of German soldiers point guns at the audience",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

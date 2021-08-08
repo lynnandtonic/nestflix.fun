@@ -12,6 +12,11 @@
   "director": "Billy Walsh",
   "labels": "comedy",
   "credit": "HBO Entertainment",
+  "altHero": "Johnny and Ronald are anthropomorphic cartoon monkeys",
+  "alt1": "after a fender bender with Johnny, the other driver (an orangutan) angrily jumps on the top of his Jeep",
+  "alt2": "Janet the escort talks with Ronald and his kids",
+  "alt3": "a neighbor with two pugs stops to chat",
+  "alt4": "Johnny gets his chicken costume head away from the cat",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "Diane Simmons",
   "labels": "talk show",
   "credit": "20th Television",
+  "altHero": "Diane Simmons in front of her audience",
+  "alt1": "a woman and man sit on chairs and talk",
+  "alt2": "the man is a broom in jeans",
+  "alt3": "Diane in front of the Griffin family",
+  "alt4": "Chris Griffin throwing Lois and her armchair across the stage",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

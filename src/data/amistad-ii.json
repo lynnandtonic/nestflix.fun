@@ -11,6 +11,11 @@
   "starring": "Keenen Ivory Wayans, Lee R. Mayes, Mark Hoeppner",
   "labels": "drama, history",
   "credit": "Dimension Films",
+  "altHero": "a Black man on a boat raises his arms and yells triumphantly",
+  "alt1": "a ship with large sails on the ocean",
+  "alt2": "a bearded man in captain’s uniform",
+  "alt3": "a Black man smiles",
+  "alt4": "a large white man looks angry",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

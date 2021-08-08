@@ -12,6 +12,7 @@
   "studio": "NBC",
   "labels": "drama, crime",
   "credit": "NBCUniversal Television",
+  "altHero": "two police detectives",
   "layout": "movie.pug",
   "tags": [
     "entry",

@@ -12,6 +12,11 @@
   "studio": "Ginormous Pictures",
   "labels": "action, superhero",
   "credit": "20th Television",
+  "altHero": "Everyman on top of a mountain, cape blowing in the wind",
+  "alt1": "Everyman sees a helicopter through a wall of fire",
+  "alt2": "Avery Mann talks with a woman at a party",
+  "alt3": "reptile villain shooting a laser",
+  "alt4": "Everyman flying through the air eating a sandwich",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

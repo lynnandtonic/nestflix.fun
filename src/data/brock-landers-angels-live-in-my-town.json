@@ -13,6 +13,11 @@
   "studio": "The Colonel James",
   "labels": "adult, espionage",
   "credit": "New Line Cinema",
+  "altHero": "Brock Landers and Chest Rockwell, in audacious 1970s suits, walk toward the camera",
+  "alt1": "Landers speaks to a woman at a bar",
+  "alt2": "Landers in a fighting pose",
+  "alt3": "a blonde woman looking seductive",
+  "alt4": "Landers and Rockwell pose after winning a fight in a restaurant",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -13,6 +13,11 @@
   "studio": "Kinograph Studios",
   "labels": "adventure, thriller",
   "credit": "Warner Bros. Pictures",
+  "altHero": "a man in a tuxedo is strapped to a chair and screams while two men in lab coats send electric jolts to his head",
+  "alt1": "a closeup of the man screaming with electricity running to his head",
+  "alt2": "a very serious scientist wearing ear protection",
+  "alt3": "tuxedoed man lies unconscious in a jail cell but a dog’s silhouette can be seen outside",
+  "alt4": "man in a top hat escapes in a small plane with a fancy woman in tow",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

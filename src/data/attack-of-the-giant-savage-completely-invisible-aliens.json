@@ -10,6 +10,11 @@
   "runtime": "1h 12m",
   "labels": "sci-fi, horror",
   "credit": "BBC Two",
+  "altHero": "men run down an alley as an alien ship hovers in the sky",
+  "alt1": "people run away from the alien ship",
+  "alt2": "the alien ship is getting closer to town as more people run",
+  "alt3": "a man points and a woman looks frightened ",
+  "alt4": "a group of men and children point at the sky, mouths agape",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

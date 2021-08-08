@@ -11,6 +11,11 @@
   "starring": "Jason Nesmith, Gwen DeMarco, Alexander Dane, Fred Kwan, Tommy Webber, Guy Fleegman",
   "labels": "sci-fi, adventure",
   "credit": "DreamWorks Pictures",
+  "altHero": "Dr. Lazarus and the crew of the NSEA Protector",
+  "alt1": "inside the ship",
+  "alt2": "Lieutenant Tawny Madison",
+  "alt3": "Tech Sergeant Chen",
+  "alt4": "Commander Peter Quincy Taggart saves Dr. Lazarus",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "Nosey",
   "labels": "talk show",
   "credit": "MTV Networks",
+  "altHero": "Nosey talks into a microphone in front of her studio audience",
+  "alt1": "Nosey introduces Rocko and Heffer",
+  "alt2": "Heffer smiles from an armchair",
+  "alt3": "Rocko with a bunch of microphones circling his head, some poking his face and eyeballs",
+  "alt4": "audience member (Philbert in a mustache disguise) asks a question",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

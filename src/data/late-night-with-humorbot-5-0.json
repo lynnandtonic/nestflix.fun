@@ -10,6 +10,11 @@
   "starring": "Humorbot 5.0",
   "labels": "talk show",
   "credit": "20th Century Fox Television",
+  "altHero": "Humorbot at his talk show desk",
+  "alt1": "Humorbot interviews Calculon",
+  "alt2": "Humorbot welcomes a new guest",
+  "alt3": "Coilette waves to the audience as Calculon claps",
+  "alt4": "audience of robots cheers",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

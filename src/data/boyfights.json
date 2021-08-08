@@ -11,6 +11,11 @@
   "director": "George Bluth",
   "labels": "reality",
   "credit": "20th Television, Netflix",
+  "altHero": "a boy pulls the hair of another boy dangling from a tree branch",
+  "alt1": "a younger boy looks apprehensive",
+  "alt2": "a younger and older boy begin to fight",
+  "alt3": "the two boys fight near a backyard charcoal grill",
+  "alt4": "three boys yell and fight in the backseat of a car",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

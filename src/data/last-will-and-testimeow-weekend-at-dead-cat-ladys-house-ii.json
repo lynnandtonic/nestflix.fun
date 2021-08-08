@@ -12,6 +12,11 @@
   "studio": "Interdimensional Cable",
   "labels": "comedy, romance",
   "credit": "Warner Bros. Television",
+  "altHero": "a man with an ice cream cone admires the woman he’s with who is clearly a decaying corpse surrounded by flies and semi-exposed cats’ tails",
+  "alt1": "two cats find their owner, Mrs. Sullivan, dead on the floor",
+  "alt2": "a group of cats carry Mrs. Sullivan’s corpse down the sidewalk",
+  "alt3": "the man gazes at Mrs. Sullivan while cats prop up her head from behind",
+  "alt4": "cats prop up Mrs. Sullivan’s head and arms as flies buzz around her",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

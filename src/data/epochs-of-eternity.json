@@ -12,6 +12,11 @@
   "studio": "NBC",
   "labels": "sci-fi",
   "credit": "Sony Pictures Television",
+  "altHero": "a telephone booth",
+  "alt1": "a man in a white hat emerges from a phone booth",
+  "alt2": "the Inspector in front of the Golden Gate Bridge",
+  "alt3": "the Inspector’s Ensign emerges with a magical tennis racket",
+  "alt4": "the Inspector and his Ensign smolder",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

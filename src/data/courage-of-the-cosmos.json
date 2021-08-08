@@ -12,6 +12,11 @@
   "studio": "Duckburg Studios",
   "labels": "sci-fi, adventure",
   "credit": "Buena Vista Television",
+  "altHero": "Major Courage, a strong-jawed duck",
+  "alt1": "Major Courage speaks into a toaster",
+  "alt2": "the crew are worried about something",
+  "alt3": "a bad guy pushes a red button",
+  "alt4": "two ships (clearly models on strings) crash into each other",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

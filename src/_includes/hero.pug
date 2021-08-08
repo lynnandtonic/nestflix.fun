@@ -14,6 +14,10 @@ section.entry.hero
             small.meta #[strong Cast:] !{starring}
         if director
             small.meta #[strong Director:] !{director}
+        if producer
+            small.meta #[strong Producer:] !{producer}
+        if creator
+            small.meta #[strong Creator:] !{creator}
         if studio
             small.meta #[strong Studio:] !{studio}
         small.meta #[strong As seen in:] !{parent} (!{parentYear})
@@ -21,5 +25,5 @@ section.entry.hero
                 span &nbsp;and !{parent2} (!{parent2Year})
         //- button Details
     div.entry-image
-        img(src='/img/' + slug + '.jpg')
+        img(src='/img/' + slug + '.jpg' alt=altHero)
         small © !{credit}

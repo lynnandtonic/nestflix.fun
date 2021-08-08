@@ -10,6 +10,11 @@
   "runtime": "2 seasons",
   "labels": "drama, crime",
   "credit": "20th Television",
+  "altHero": "a city street",
+  "alt1": "an arm reaches out of bed for the telephone",
+  "alt2": "shirtless Bert answers the phone with a liquor bottle in hand, Ernie awakes next ot him",
+  "alt3": "Bert puts on jeans and chugs the liquor bottle",
+  "alt4": "Ernie props himself up on a pillow to talk to Bert",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

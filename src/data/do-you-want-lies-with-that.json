@@ -12,6 +12,11 @@
   "director": "Declan Desmond",
   "labels": "documentary",
   "credit": "20th Television",
+  "altHero": "Declan Desmond holding up a bag outside of Krusty Burger",
+  "alt1": "security footage of Krusty stapling a burger back together",
+  "alt2": "Krusty yelling at Desmond",
+  "alt3": "a monkey rubbing its butt on the burger grill",
+  "alt4": "a doctor wiping a knife full of grease off Desmond’s face",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

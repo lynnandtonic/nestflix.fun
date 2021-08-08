@@ -12,6 +12,11 @@
   "studio": "Interdimensional Cable",
   "labels": "action, sci-fi",
   "credit": "Warner Bros. Television",
+  "altHero": "many clones of one man, Jan-Michael Vincent",
+  "alt1": "drone choppers patrol a dystopian city with walls and armed guards",
+  "alt2": "lines of futuristic cloning pods each with a Jan-Michael Vincent inside",
+  "alt3": "Jan-Michael Vincent escapes on a hover bike and shoots at a truck in pursuit",
+  "alt4": "Jan-Michael Vincent weilds a large sword on the back of a tyrannosaurus rex",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

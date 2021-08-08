@@ -11,6 +11,11 @@
   "starring": "Jim Carrey, Andie MacDowell",
   "labels": "comedy, family",
   "credit": "NBCUniversal Television",
+  "altHero": "Dave Williams looks in the mirror to see he’s sporting Leap Day William’s signature hat, mustache, and gills",
+  "alt1": "Dave, still in his bathrobe, first sees the mustache and gills in the bathroom mirror",
+  "alt2": "Andie MacDowell plays Dave’s concerned wife",
+  "alt3": "Dave speaks on a cell phone by the ocean and in full Leap Day William garb",
+  "alt4": "Dave yells as police load him into their car",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

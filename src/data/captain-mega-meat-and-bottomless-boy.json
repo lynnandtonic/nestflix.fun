@@ -11,6 +11,11 @@
   "studio": "Tickleodeon",
   "labels": "kids",
   "credit": "20th Century Fox Television",
+  "altHero": "Captain Mega Meat and Bottomless Boy are burger and fountain drink superheroes",
+  "alt1": "a flaming burger flies above a drive-thru menu and car",
+  "alt2": "Bottomless Boy points with furrowed brow",
+  "alt3": "Captain Mega Meat flexes",
+  "alt4": "the superheroes are much bigger, having been supersized",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -13,6 +13,11 @@
   "studio": "MBN",
   "labels": "game show",
   "credit": "Netflix",
+  "altHero": "an obnoxious game show set with a giant golden retriever head (Mr. Peanutbutter) with dollar signs for eyes",
+  "alt1": "Mr. Peanutbutter reads from a card",
+  "alt2": "BoJack Horseman chooses from a grid of trivia categories like Travel Paradox, Advanced Physics, and At the Movies with Mr. Peanutbutter",
+  "alt3": "Daniel Radcliffe has cash overflowing from his jacket",
+  "alt4": "an upset Mr. Peanutbutter and BoJack Horseman sit and have a chat in the fake rain",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

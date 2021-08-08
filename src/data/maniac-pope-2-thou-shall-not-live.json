@@ -10,6 +10,11 @@
   "runtime": "1h 56m",
   "labels": "horror, slasher",
   "credit": "20th Television",
+  "altHero": "the Pope with a huge grin and samurai sword strapped to his back",
+  "alt1": "a Pope hat poking up from behind a hedge",
+  "alt2": "the Pope swining a sword at a screaming man",
+  "alt3": "the Pope pulls a knife on a woman",
+  "alt4": "the Pope smiles, his face covered in blood",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

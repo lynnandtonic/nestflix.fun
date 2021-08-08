@@ -13,6 +13,11 @@
   "studio": "MBN",
   "labels": "drama",
   "credit": "Netflix",
+  "altHero": "Mr. Peanutbutter (a golden retriever) wears a scarf and stands atop empty bleachers",
+  "alt1": "a birthday card",
+  "alt2": "Birthday Dad looks upset as he speaks to a human woman",
+  "alt3": "Birthday Dad holds the woman as she dies from a car accident",
+  "alt4": "Birthday Dad yells in despair as dead soldiers lay on the ground nearby",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -12,6 +12,11 @@
   "studio": "BBC",
   "labels": "kids, variety",
   "credit": "20th Television",
+  "altHero": "Mother Maggie, a sparkling woman who wears all white and a flower crown in front of rolling hills of green grass",
+  "alt1": "Mother Maggie with some kids eating breakfast and Melody Sheep plays music",
+  "alt2": "Pengrove Pig sits on a stump and reads a book",
+  "alt3": "two small children talk with Large Bird and Moody Green Garbage Creature (Big Bird and Oscar the Grouch parodies)",
+  "alt4": "new brunette Mother Maggie with three kids",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

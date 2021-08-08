@@ -11,6 +11,11 @@
   "starring": "Tom Hortins, Barbara Jones, Victoria Taylor, Grizz",
   "labels": "comedy, family",
   "credit": "Warner Bros. Television",
+  "altHero": "a family sitting on the couch watching tv, one member is a little bear",
+  "alt1": "a house with a Canadian flag outside",
+  "alt2": "a mom with a big bowl of poutine",
+  "alt3": "the family chats with Grizz before bed",
+  "alt4": "cousin Lorenzo riding into the front door on a scooter",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

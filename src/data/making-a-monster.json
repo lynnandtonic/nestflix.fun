@@ -13,6 +13,11 @@
   "studio": "Imagine Entertainment",
   "labels": "drama",
   "credit": "20th Television, Netflix",
+  "altHero": "Cobie Smulders as young Lucille Bluth, covering her mouth in horror as young Buster stands in front of her",
+  "alt1": "young Michael Bluth in his banana stand uniform",
+  "alt2": "young Lindsay and G.O.B. Bluth, ready for the beach",
+  "alt3": "young Buster admires a tetherball while wearing a collar with a leash",
+  "alt4": "Jean Smart as Mimi, Lucille’s mother, looking at George with disgust",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

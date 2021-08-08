@@ -12,6 +12,11 @@
   "director": "Stephen Williams",
   "labels": "action, drama, crime",
   "credit": "Universal Pictures",
+  "altHero": "Mr. LaShade in a fancy suit and hat",
+  "alt1": "Nikki Fernandez in glowing red light",
+  "alt2": "Mr. LaShade sits at a desk",
+  "alt3": "Fernandez confronts him",
+  "alt4": "still in stripper garb, Crystal and Autumn talk with Mr. LaShade",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

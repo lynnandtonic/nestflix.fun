@@ -10,6 +10,11 @@
   "runtime": "1h 28m",
   "labels": "horror, sci-fi",
   "credit": "20th Century Fox Television",
+  "altHero": "a robot in a human costume with sharp teeth emerges from some bushes",
+  "alt1": "two frightened robot teens in a parked car",
+  "alt2": "the human’s open mouth reveals the robot actor inside",
+  "alt3": "the robot opens its chest compartment to showcase human organs wired together",
+  "alt4": "a robot General pokes the dead human with a stick",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

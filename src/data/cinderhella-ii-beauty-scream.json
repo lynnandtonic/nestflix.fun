@@ -12,6 +12,11 @@
   "studio": "GV Musterhausen Films",
   "labels": "horror, slasher",
   "credit": "Samuel Goldwyn Films",
+  "altHero": "a gauzed and bloody woman wears black rubber gloves and a tiara",
+  "alt1": "a black rubber gloved hand grabs a tiara",
+  "alt2": "a teen girl cries with her head constrained in a brace",
+  "alt3": "Cinderhella shows the girl an x-ray with a visible red high-heeled shoe",
+  "alt4": "Cinderhella is frightening as she adjusts the girl’s head brace",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

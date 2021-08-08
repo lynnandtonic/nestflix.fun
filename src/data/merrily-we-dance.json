@@ -13,6 +13,11 @@
   "studio": "Capitol Pictures",
   "labels": "drama, romance",
   "credit": "Universal Pictures",
+  "altHero": "Hobie Doyle in a tux",
+  "alt1": "a man and woman dressed up in the back seat of a car",
+  "alt2": "Doyle walks into a room",
+  "alt3": "Doyle sits on a sofa next to a woman in a dress",
+  "alt4": "closeup of the woman",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "George McCord",
   "labels": "soap opera, medical drama",
   "credit": "Universal Pictures",
+  "altHero": "a doctor with furrowed brow and two beautiful nurses",
+  "alt1": "a doctor in a surgical cap and mask",
+  "alt2": "medical staff around an operating table",
+  "alt3": "a kind looking nurse",
+  "alt4": "an older man in doctor’s coat smiling like a proud mentor",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

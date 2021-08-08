@@ -10,6 +10,11 @@
   "runtime": "6 episodes",
   "labels": "comedy",
   "credit": "Sony Pictures Television",
+  "altHero": "Bath abbey",
+  "alt1": "four friends sit in a living room having tea",
+  "alt2": "a man in an armchair",
+  "alt3": "four friends stand and have a drink",
+  "alt4": "one woman makes a disgusted face from her drink",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

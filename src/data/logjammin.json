@@ -12,6 +12,11 @@
   "director": "Jackie Treehorn",
   "labels": "adult",
   "credit": "Working Title Films",
+  "altHero": "Karl and Bunny",
+  "alt1": "Karl drives a convertible",
+  "alt2": "outside of an apartment building",
+  "alt3": "Bunny, in lingerie, opens the door for Karl the handyman",
+  "alt4": "Karl leans in while talking to Bunny",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "director": "Kim Yang",
   "labels": "action",
   "credit": "Sony Pictures Television",
+  "altHero": "Kickpuncher, with cyborg face and glowing eye, flexes his metal arm",
+  "alt1": "Kickpuncher emerges against smokey back-lighting",
+  "alt2": "a mechanic",
+  "alt3": "a woman interviews Kickpuncher",
+  "alt4": "Kickpuncher answering questions",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

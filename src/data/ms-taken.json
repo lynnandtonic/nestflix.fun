@@ -11,6 +11,11 @@
   "starring": "Courtney Portnoy",
   "labels": "action",
   "credit": "Netflix",
+  "altHero": "Ms. Taken in a black leather jumpsuit points a gun",
+  "alt1": "Ms. Taken (with her gun) approaches a rabbit in a trenchcoat in a mall department store",
+  "alt2": "Ms. Taken talks to a tattooed dog near some candy dispensers",
+  "alt3": "the tattooed dog pulls a knife",
+  "alt4": "Ms. Taken pulls out two guns",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

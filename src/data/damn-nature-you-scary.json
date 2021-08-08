@@ -11,6 +11,11 @@
   "studio": "BET",
   "labels": "nature, animals",
   "credit": "20th Television",
+  "altHero": "a cheetah running",
+  "alt1": "a cheetah ready to pounce",
+  "alt2": "an unsuspecting meerkat",
+  "alt3": "the cheetah grabs the meerkat with its jaws",
+  "alt4": "the cheetah tears and eats the meerkat",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

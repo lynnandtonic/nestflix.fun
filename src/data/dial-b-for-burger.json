@@ -12,6 +12,11 @@
   "director": "Katie Mitchell",
   "labels": "comedy, amateur",
   "credit": "Netflix",
+  "altHero": "a felt burger puppet with googly eyes and top hat",
+  "alt1": "a girl eating a fast food burger",
+  "alt2": "the burger in the wrapper has googly eyes",
+  "alt3": "Monchi the pug grabs the burger with his mouth",
+  "alt4": "Monchi eats the burger",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

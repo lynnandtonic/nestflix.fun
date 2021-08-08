@@ -11,6 +11,11 @@
   "studio": "South Park Elementary Closed Circuit Television",
   "labels": "reality",
   "credit": "Comedy Central",
+  "altHero": "a happy dog wearing a fez",
+  "alt1": "a closeup of a dog’s snout",
+  "alt2": "a cat with bright green eyes",
+  "alt3": "a tiny dog wearing a yarmulke with the star of David",
+  "alt4": "a long-snouted dog wearing one of those hats with the little propeller",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

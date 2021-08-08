@@ -9,6 +9,11 @@
   "runtime": "15 seasons",
   "labels": "reality",
   "credit": "Universal Pictures",
+  "altHero": "a group of young people cheers shot glasses",
+  "alt1": "hidden camera shot of a penthouse overlooking the city",
+  "alt2": "a man and woman embrace by a bar full of alcohol bottles",
+  "alt3": "the group take shots",
+  "alt4": "a confessional interview with a young woman",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

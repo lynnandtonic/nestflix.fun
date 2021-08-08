@@ -11,6 +11,11 @@
   "starring": "Mercedes",
   "labels": "reality",
   "credit": "Black Entertainment Television",
+  "altHero": "Mercedes giving an interview",
+  "alt1": "woman arguing",
+  "alt2": "Mercedes arguing",
+  "alt3": "Mercedes giving an interview",
+  "alt4": "Mercedes throwing a spoon",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

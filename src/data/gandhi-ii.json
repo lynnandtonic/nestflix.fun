@@ -12,6 +12,11 @@
   "studio": "Channel 62",
   "labels": "action",
   "credit": "Orion Pictures",
+  "altHero": "Gandhi gives an intimidating look",
+  "alt1": "a band of no good dudes",
+  "alt2": "Gandhi punches a guy",
+  "alt3": "Gandhi holds a knife to the kneck of another guy",
+  "alt4": "Gandhi has dinner with two ladies",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

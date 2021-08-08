@@ -10,6 +10,11 @@
   "runtime": "2h 13m",
   "labels": "sci-fi, horror",
   "credit": "Warner Bros. Television",
+  "altHero": "a woman screams as an alien shadow approaches her",
+  "alt1": "the woman opens a window as a hand reaches for her",
+  "alt2": "the woman hides as two hands lower pieces of bread around her head",
+  "alt3": "the woman sees the brain eater, a green human-like alien",
+  "alt4": "the brain eater opens wide to take a bite of the woman’s head, now shaved with a dotted line marked on it",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

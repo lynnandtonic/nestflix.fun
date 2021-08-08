@@ -11,6 +11,11 @@
   "director": "Antonio Margheriti",
   "labels": "action, espionage",
   "credit": "Columbia Pictures",
+  "altHero": "Rick Dalton driving a car",
+  "alt1": "Dalton grins while driving",
+  "alt2": "a man in a car",
+  "alt3": "a car turns a corner toward a barricade",
+  "alt4": "the car jumps an incomplete bridge",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -12,6 +12,11 @@
   "director": "Jay Berman",
   "labels": "drama",
   "credit": "Warner Independent Pictures",
+  "altHero": "the Pischer family celebrates Purim",
+  "alt1": "Victor Allan Miller as Mr. Pischer",
+  "alt2": "Rachel and her girlfriend",
+  "alt3": "the Pischer matriarch ill in bed",
+  "alt4": "Brian Chubb as Rachel’s brother, playing guitar at the dinner table",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

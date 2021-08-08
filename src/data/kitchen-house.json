@@ -12,6 +12,11 @@
   "director": "Peter Griffin",
   "labels": "reality, home improvement",
   "credit": "20th Television",
+  "altHero": "Peter Griffin in overalls and hard hat discussing plans with a family",
+  "alt1": "Peter, Cleveland, Quagmire, and Joe outside a house with a family",
+  "alt2": "a renovated kitchen",
+  "alt3": "Peter with hands up discussing plans while looking into the garage",
+  "alt4": "another renovated kitchen",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

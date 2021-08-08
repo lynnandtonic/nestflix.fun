@@ -12,6 +12,11 @@
   "studio": "Telemasivo Studios",
   "labels": "telenovela",
   "credit": "Warner Bros. Television",
+  "altHero": "Guillermo looks concerned while talking to Hector",
+  "alt1": "a tiny man riding an ant",
+  "alt2": "two tiny men next to a giant comb on a dresser",
+  "alt3": "tiny Hector next to the comb’s teeth",
+  "alt4": "tiny Guillermo amongst science lab equipment",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

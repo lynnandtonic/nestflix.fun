@@ -12,6 +12,11 @@
   "labels": "drama, biography",
   "credit": "BBC Two",
   "layout": "movie.pug",
+  "altHero": "closeup of Clive Owen",
+  "alt1": "closeup of Greg Lindley-Jones",
+  "alt2": "Lindley-Jones gets ready to sword fight",
+  "alt3": "Owens and Lindley-Jones sword fighting",
+  "alt4": "Owens and Lindley-Jones in a friendly embrace as they walk",
   "stills": true,
   "tags": [
     "entry",

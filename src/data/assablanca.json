@@ -10,6 +10,7 @@
   "runtime": "54m",
   "labels": "adult",
   "credit": "20th Television",
+  "altHero": "the scene is an airplane hangar and a man with fedora and cigarette watches a woman remove her bra",
   "layout": "movie.pug",
   "tags": [
     "entry",

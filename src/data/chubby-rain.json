@@ -12,6 +12,11 @@
   "director": "Bobby Bowfinger",
   "labels": "sci-fi, action",
   "credit": "Universal Pictures",
+  "altHero": "Kit Ramsey looks up at the sky with wide arms and gritted teeth",
+  "alt1": "Kit Ramsey and Daisy are held up at gunpoint",
+  "alt2": "Carol looks shocked",
+  "alt3": "Kit Ramsey is nervous in a dark parking garage",
+  "alt4": "Afrim as a police officer whose face has started melting",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

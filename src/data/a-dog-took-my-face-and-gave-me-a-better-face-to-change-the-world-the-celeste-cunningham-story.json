@@ -12,6 +12,11 @@
   "studio": "Lifetime",
   "labels": "drama, biography",
   "credit": "NBCUniversal Television",
+  "altHero": "Celeste Cunningham has a triumphant look on her face",
+  "alt1": "a man calls to another woman from behind a garden fence",
+  "alt2": "a dog’s paw reaches in the grass for a gun",
+  "alt3": "Cunningham holds her cheek in surpise pain ",
+  "alt4": "Cunningham sitting on her stoop petting the dog who shot her",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "studio": "The Violence Channel",
   "labels": "comedy",
   "credit": "20th Century Fox",
+  "altHero": "Hormel Chavez straddles a wall and screams in pain",
+  "alt1": "Chavez looks peaceful",
+  "alt2": "Chavez tries to climb a wall while a dog bites his crotch",
+  "alt3": "Chavez lands straddling a construction horse",
+  "alt4": "Chavez in pain, straddling a wrecking ball in the air",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

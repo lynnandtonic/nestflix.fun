@@ -11,6 +11,11 @@
   "director": "Directing Unit 4",
   "labels": "action",
   "credit": "20th Century Fox Television",
+  "altHero": "Calculon raises his hand and furrows his robot brow",
+  "alt1": "a sexy robot points a gun in a Bond-like hazy intro scene",
+  "alt2": "Calculon speaks on a phone",
+  "alt3": "Calculon is speaking to Monique on a video device",
+  "alt4": "Monique is in the city and there’s an explosion behind her",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

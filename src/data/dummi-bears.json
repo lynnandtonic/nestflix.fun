@@ -10,6 +10,11 @@
   "runtime": "5 seasons",
   "labels": "kids",
   "credit": "Nickelodeon Animation Studio",
+  "altHero": "two Dummi Bears happyily dancing",
+  "alt1": "a conveyor belt making hearts",
+  "alt2": "bears in the clouds pointing heart arrows down at the United States",
+  "alt3": "one bear saving another bear from an icy river",
+  "alt4": "two bears with a welcoming gesture",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

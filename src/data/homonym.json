@@ -12,6 +12,11 @@
   "studio": "NBC",
   "labels": "game show",
   "credit": "NBCUniversal Television",
+  "altHero": "Homonym set, with Steve Higgins and a contestant each at a podium",
+  "alt1": "a contestant",
+  "alt2": "Iran’s version of Homonym",
+  "alt3": "Steve Higgins laughing",
+  "alt4": "John McEnroe laughing",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

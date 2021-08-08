@@ -12,6 +12,11 @@
   "director": "Gus Van Sant",
   "labels": "drama",
   "credit": "Miramax Films",
+  "altHero": "Will (Matt Damon) holds a gun and Chuckie (Ben Afflec) makes a squinty face",
+  "alt1": "Chuckie holds his fists up to fight",
+  "alt2": "Clark is being pretentious",
+  "alt3": "Will and Chuckie are in disbelief",
+  "alt4": "Will and Chuckie huddle to discuss plans",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

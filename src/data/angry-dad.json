@@ -12,6 +12,11 @@
   "studio": "BetterThanTV.com, Ay Carumba Entertainment",
   "labels": "comedy",
   "credit": "20th Television",
+  "altHero": "a poorly drawn Homer Simpson looks angry as he sits on a recliner",
+  "alt1": "Homer reads the paper and is so angry his head expands and eyes pop out",
+  "alt2": "Homer peers into a ketchup bottle and a wave of ketchup engulfs his head",
+  "alt3": "Homer yells in frustration at the nuclear plant as a mushroom cloud emerges in the distance",
+  "alt4": "Homer walks down the sidewalk at night and is stuck in the eye by the crescent moon",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

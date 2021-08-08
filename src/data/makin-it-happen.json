@@ -12,6 +12,7 @@
   "studio": "NBC",
   "labels": "comedy",
   "credit": "NBCUniversal Television",
+  "altHero": "a man walks in the front door, his wife stirs a bowl on the couch",
   "layout": "movie.pug",
   "tags": [
     "entry",

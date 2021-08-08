@@ -11,6 +11,11 @@
   "starring": "Arnold Schwarzenegger, Tina Turner, Frank McRae, Tom Noonan",
   "labels": "action",
   "credit": "Columbia Pictures",
+  "altHero": "closeup of Arnold as Jack Slater",
+  "alt1": "a police chief yells",
+  "alt2": "Jack Slater holds a gun",
+  "alt3": "the Ripper, a man with long hair and scarred face",
+  "alt4": "the Ripper raises an axe at Jack’s son",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

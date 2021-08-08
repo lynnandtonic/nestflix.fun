@@ -12,6 +12,11 @@
   "studio": "South Park Public Access",
   "labels": "talk show",
   "credit": "Comedy Central",
+  "altHero": "Jimbo and Ned each holding a gun",
+  "alt1": "Jimbo",
+  "alt2": "Jimbo and Ned with guns in the woods",
+  "alt3": "Ned",
+  "alt4": "Jimbo throws a grenade at a frog",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

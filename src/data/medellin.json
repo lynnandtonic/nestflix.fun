@@ -11,6 +11,11 @@
   "director": "Billy Walsh",
   "labels": "drama, biography",
   "credit": "HBO Entertainment",
+  "altHero": "Pablo Escobar points a gun",
+  "alt1": "a set of hands preparing bags of cocaine",
+  "alt2": "Escobar approaches a man with a paper bag",
+  "alt3": "a beautiful woman and money falling around her",
+  "alt4": "Escobar leans in to kiss her",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

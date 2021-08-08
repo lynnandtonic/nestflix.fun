@@ -10,6 +10,11 @@
   "runtime": "46m",
   "labels": "holiday",
   "credit": "20th Television",
+  "altHero": "a singing claymation prune with sunglasses and microphone",
+  "alt1": "the prunes as characters of the nativity scene",
+  "alt2": "Mary, Joseph, and baby Jesus watch another prune play the saxophone",
+  "alt3": "prunes as the Three Wise Men",
+  "alt4": "Mary and Joseph raise up baby Jesus who is wearing sunglasses and is very cool",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

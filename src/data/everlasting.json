@@ -9,6 +9,11 @@
   "runtime": "15 seasons",
   "labels": "reality, competition",
   "credit": "Lifetime",
+  "altHero": "a row of women in evening dresses",
+  "alt1": "Adam Cromwell and Graham",
+  "alt2": "Adam Cromwell kissing Anna Martin with doves flying",
+  "alt3": "a row of women contestants",
+  "alt4": "Darius Beck and Graham",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

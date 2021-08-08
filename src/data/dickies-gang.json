@@ -11,6 +11,11 @@
   "starring": "Leif Garrett, Dustin Diamond, Corey Feldman, Danny Bonaduce, Barry Williams",
   "labels": "comedy",
   "credit": "Paramount Pictures",
+  "altHero": "Dickie Roberts and Leif Garrett",
+  "alt1": "Danny Bonaduce pointing and smiling",
+  "alt2": "Dustin Diamond, Barry Williams, and Corey Feldman doing a coordinated hand motion",
+  "alt3": "Leif as Dickie on his wedding day",
+  "alt4": "Cyndi with a bad face rash",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

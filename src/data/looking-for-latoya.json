@@ -11,6 +11,11 @@
   "starring": "Rose Cranberry",
   "labels": "true crime, documentary",
   "credit": "HBO Entertainment",
+  "altHero": "Thompson family portrait",
+  "alt1": "Rose Cranberry outside a Red Lobster",
+  "alt2": "LaToya’s boyfriend Rufus",
+  "alt3": "police answer questions, mistakenly, about a missing Toyota",
+  "alt4": "Red Lobster employee does air quotes",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

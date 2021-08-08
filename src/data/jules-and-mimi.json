@@ -12,6 +12,11 @@
   "studio": "BBC America",
   "labels": "drama, romance",
   "credit": "HBO Entertainment",
+  "altHero": "Jules happily greets Mimi at his door",
+  "alt1": "Jules",
+  "alt2": "Mimi",
+  "alt3": "Jules and Mimi chat while lying in bed",
+  "alt4": "Jules looks at Mimi while she sleeps",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

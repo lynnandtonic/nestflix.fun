@@ -11,6 +11,11 @@
   "starring": "Julia Roberts, Bruce Willis, Susan Sarandon, Peter Falk",
   "labels": "drama",
   "credit": "Fine Line Features",
+  "altHero": "Julia Roberts as Marsha Kent behind bars",
+  "alt1": "Sarandon and Falk in an execution viewing gallery",
+  "alt2": "Marsha Kent receiving last rites from a priest",
+  "alt3": "Dave Williams yells, aiming a gun",
+  "alt4": "Williams carries Kent away, both looking at each other lovingly",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

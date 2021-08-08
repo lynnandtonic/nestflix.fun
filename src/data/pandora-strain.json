@@ -11,6 +11,11 @@
   "starring": "Treat Williams",
   "labels": "thriller",
   "credit": "20th Television",
+  "altHero": "General Sullivan holds up a determined fist",
+  "alt1": "the General stands in front of panels of radar and map imaging",
+  "alt2": "a man with a clipboard speaks to the General",
+  "alt3": "a giant virus breaks in through the wall",
+  "alt4": "the virus grabs clipboard guy with a tentacle and lifts him in the air",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

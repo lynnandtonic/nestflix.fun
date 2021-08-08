@@ -11,6 +11,11 @@
   "starring": "Chairman Koji, Hiroki, Aki, Ethan “Bubblegum” Tate, Morbo the Annihilator, Martha Stewart’s head",
   "labels": "reality, cooking",
   "credit": "20th Century Fox Television",
+  "altHero": "Chairman Koji stands before the obscured mystery ingredient",
+  "alt1": "Bender and Elzar grab blocks of Soylent Green",
+  "alt2": "Elzar uses spice weasel to add to his dish",
+  "alt3": "Bender serves a dish to Bubblegum Tate, Morbo, and Martha Stewart’s head",
+  "alt4": "Chairman Koji stands with Bender and Elzar",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

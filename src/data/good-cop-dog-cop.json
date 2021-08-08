@@ -12,6 +12,11 @@
   "director": "Katie Mitchell",
   "labels": "comedy, amateur",
   "credit": "Netflix",
+  "altHero": "arms hold up a goofy pug dressed in a cop’s uniform",
+  "alt1": "a model cop car on a stick drives in front of a street backdrop",
+  "alt2": "the pug has his paws on the steering wheel with fake sweat droplets on sticks near his face",
+  "alt3": "the pug drives a car away from an explosion",
+  "alt4": "a grumpy sock puppet with glasses and mustache",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "Bryant Gumbel, Greg Gumbel",
   "labels": "action, crime",
   "credit": "20th Television",
+  "altHero": "Bryant and Greg in cop polo shirts, palm tree behind",
+  "alt1": "the Gumbels on a doc next to a police motorcycle with sidecar",
+  "alt2": "the Gumbels chasing down a bike thief",
+  "alt3": "Bryant pushing the thief’s face in the sand",
+  "alt4": "Bryant questioning the suspect",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

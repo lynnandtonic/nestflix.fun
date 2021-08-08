@@ -1,8 +1,8 @@
 {
   "slug": "kevyn",
-  "title": "Kev'yn",
-  "featuredTitle": "Kev'yn",
-  "description": "Kev'yn is all about family. His wife Yolanda and daughter Kev'ysha keep him on his toes. And don’t forget Percy and Lil' Chris stopping by to shake things up.",
+  "title": "Kev’yn",
+  "featuredTitle": "Kev’yn",
+  "description": "Kev’yn is all about family. His wife Yolanda and daughter Kev’ysha keep him on his toes. And don’t forget Percy and Lil' Chris stopping by to shake things up.",
   "quote": "Boo-yaaa!",
   "parent": "Insecure",
   "parentYear": "2016-Present",
@@ -11,6 +11,11 @@
   "starring": "Jermain Jonson, William Grant Jr., Monique Lewis, McKenzie Evans, Kyle Wilson",
   "labels": "comedy",
   "credit": "HBO Entertainment",
+  "altHero": "Kev’yn presents a tray of cupcakes to Percy and Yolanda",
+  "alt1": "Percy squeezes frosting on a cupcake",
+  "alt2": "Kev’yn kneels in a Colin Kaepernick jersey and Yolanda wears a “Black Wives Matter” t-shirt",
+  "alt3": "the family, dressed in traditional African clothing, hosts their white friends",
+  "alt4": "Kev’ysha looks annoyed on her phone",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

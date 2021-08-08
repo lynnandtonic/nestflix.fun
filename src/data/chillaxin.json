@@ -10,6 +10,11 @@
   "runtime": "2 seasons",
   "labels": "variety, music",
   "credit": "Warner Independent Pictures",
+  "altHero": "the hip host of Chillaxin’",
+  "alt1": "graffiti logo on the floor",
+  "alt2": "the host in a cool studio",
+  "alt3": "audience members",
+  "alt4": "Victor Allan Miller dances with the host and audience members",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

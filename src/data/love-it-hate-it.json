@@ -11,6 +11,11 @@
   "starring": "Ben Lilly, David van Zyverdan",
   "labels": "talk show, entertainment",
   "credit": "Warner Independent Pictures",
+  "altHero": "a talk show set with Ben Lilly across from David van Zyverdan and a television between them",
+  "alt1": "David van Zyverdan defending his point",
+  "alt2": "discussing the movie “Home for Thanksgiving”",
+  "alt3": "a smug Ben Lilly",
+  "alt4": "a determined David van Zyverdan",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

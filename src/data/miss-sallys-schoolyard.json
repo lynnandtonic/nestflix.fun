@@ -10,6 +10,11 @@
   "starring": "Whitney Allen",
   "labels": "kids, educational",
   "credit": "HBO Entertainment",
+  "altHero": "Miss Sally looks unimpressed with her puppet pals",
+  "alt1": "Miss Sally",
+  "alt2": "Miss Sally reads a book to her puppet pals",
+  "alt3": "Miss Sally, in a schoolgirl outfit, points at a blackboard that says “Discipline yourself”",
+  "alt4": "Miss Sally smiling",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -10,6 +10,11 @@
   "starring": "Sarah Paulson",
   "labels": "drama, crime",
   "credit": "20th Television",
+  "altHero": "Xenomorph from Alien in front of a jury, trying on a glove that doesn’t quite fit",
+  "alt1": "Predator, in a courtroom, leans to whisper something to Johnnie Cochran",
+  "alt2": "Judge Ito presides",
+  "alt3": "Marcia Clark’s head has been chopped off and a janitor mops up the blood as a man casually eats a sandwich nearby",
+  "alt4": "Xenomorph and his little mouth guy eat a sandwich",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

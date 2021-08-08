@@ -11,6 +11,11 @@
   "starring": "Opal",
   "labels": "talk show",
   "credit": "20th Television",
+  "altHero": "an Oprah-like talk show host named Opal",
+  "alt1": "Opal speaking with a guest",
+  "alt2": "Opal and team handing out cuckoo clocks to the audience",
+  "alt3": "audience members shrieking with delight",
+  "alt4": "Opak with a chef doctor guest",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

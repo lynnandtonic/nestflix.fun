@@ -11,6 +11,11 @@
   "starring": "Jack Black, Cloris Leachman, Jessica Alba",
   "labels": "drama, romance",
   "credit": "NBCUniversal Television",
+  "altHero": "Sam (Jack Black) meets Lily (Leachman)",
+  "alt1": "Sam is delighted",
+  "alt2": "Sam helps Lily out of the tub, their faces close",
+  "alt3": "Sam pleads with Lily as she rides her electronic lift up the stairs",
+  "alt4": "Sam holds flowers and looks through the window",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

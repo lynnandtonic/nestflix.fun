@@ -10,6 +10,11 @@
   "runtime": "1 season",
   "labels": "drama",
   "credit": "Warner Bros. Domestic Television",
+  "altHero": "a table of men toast wine glasses",
+  "alt1": "two men talk at the dinner table",
+  "alt2": "a man is incredulous, looking at two others",
+  "alt3": "two men talk to a third, younger man on a couch",
+  "alt4": "man gazes at younger man",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

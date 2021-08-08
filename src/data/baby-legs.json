@@ -11,6 +11,11 @@
   "studio": "Interdimensional Cable",
   "labels": "drama, crime",
   "credit": "Warner Bros. Television",
+  "altHero": "a gun-weilding detective has baby legs (diaper and all) and has difficulty walking",
+  "alt1": "a police chief speaks to a shorter detective",
+  "alt2": "another detective, Regular Legs, crouches to speak to Baby Legs",
+  "alt3": "a rough looking man in a warehouse carries a box labeled “Not drugs”",
+  "alt4": "Regular Legs has the criminal on the ground and Baby Legs looks pleased",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

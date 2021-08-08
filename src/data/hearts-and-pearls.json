@@ -10,6 +10,11 @@
   "studio": "Veronal Film Co",
   "labels": "mystery, romance",
   "credit": "Universal Pictures",
+  "altHero": "a man and woman in fancy attire hold hands",
+  "alt1": "a man faces the camera while a woman faces away",
+  "alt2": "an older man holds a pearl necklace near a wall safe",
+  "alt3": "man and woman",
+  "alt4": "the man holds two infants while the woman sews",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

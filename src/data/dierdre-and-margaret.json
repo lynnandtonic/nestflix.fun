@@ -11,6 +11,11 @@
   "studio": "BBC",
   "labels": "comedy",
   "credit": "NBCUniversal Television",
+  "altHero": "Dierdre holding a painting of fruit",
+  "alt1": "Dierdre and Margaret",
+  "alt2": "closeup of Margaret",
+  "alt3": "closeup of Dierdre",
+  "alt4": "Dierdre licking the fruit painting",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

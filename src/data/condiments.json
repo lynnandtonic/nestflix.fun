@@ -11,6 +11,11 @@
   "studio": "Mixar",
   "labels": "animation",
   "credit": "20th Television",
+  "altHero": "anthropomorphic condiments with a bottle of ketchup riding a jar of horseradish talking to a waffle with glasses",
+  "alt1": "the ketchup holds up a mustard packet who has been torn and squeezed",
+  "alt2": "kosher sweet pickles rabbi and mayonnaise priest look concerned",
+  "alt3": "condiments pretending to be not alive",
+  "alt4": "empty peanut butter jar with a look of fear and disgust",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

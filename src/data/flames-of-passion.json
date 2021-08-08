@@ -9,6 +9,7 @@
   "runtime": "1h 43m",
   "labels": "romance",
   "credit": "Eagle-Lion Films",
+  "altHero": "a man and a woman lovingly look at each other",
   "layout": "movie.pug",
   "tags": [
     "entry",

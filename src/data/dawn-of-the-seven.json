@@ -13,6 +13,11 @@
   "studio": "Vought Studios",
   "labels": "action, superhero",
   "credit": "Amazon Studios",
+  "altHero": "superoes The Seven walk dramatically down the street",
+  "alt1": "Queen Maeve looks solemn with rubble behind her",
+  "alt2": "Greg Grunberg looks at a sci-fi ornament",
+  "alt3": "Queen Maeve, Starlight, and Stormfront make a girl power pose",
+  "alt4": "A-Train talks with Homelander",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

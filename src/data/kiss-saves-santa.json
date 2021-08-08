@@ -11,6 +11,11 @@
   "starring": "Gene Simmons, Paul Stanley, Tommy Thayer, Eric Singer",
   "labels": "holiday",
   "credit": "20th Television",
+  "altHero": "the rock band KISS at the North Pole with Mrs. Claus",
+  "alt1": "KISS gives the metal sign from a helicopter",
+  "alt2": "Santa in a giant nest with pterodactyls hatching from giant eggs",
+  "alt3": "KISS sending rock vibes with their guitars",
+  "alt4": "KISS reuniting Santa with Mrs. Claus",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

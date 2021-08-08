@@ -10,6 +10,7 @@
   "runtime": "2h 21m",
   "labels": "western",
   "credit": "Disney-ABC Domestic Television",
+  "altHero": "a tough-looking cowboy strums a banjo",
   "layout": "movie.pug",
   "tags": [
     "entry",

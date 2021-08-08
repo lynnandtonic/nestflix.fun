@@ -11,6 +11,11 @@
   "director": "Jerry Skyler",
   "labels": "comedy",
   "credit": "Netflix",
+  "altHero": "Mista Griggins stands by a dinner table where people are eating",
+  "alt1": "a woman looks through a book at the table",
+  "alt2": "two people talk with Mista Griggins",
+  "alt3": "Mista Griggins",
+  "alt4": "Mista Griggins bends down to talk to two women at the table",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

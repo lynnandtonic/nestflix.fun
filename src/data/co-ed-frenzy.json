@@ -9,6 +9,11 @@
   "runtime": "2h 12m",
   "labels": "horror, slasher",
   "credit": "Filmways Pictures",
+  "altHero": "a young woman in the shower and the sillouhette of a knife",
+  "alt1": "a cop peers into a window and a knife is pulled behind him",
+  "alt2": "looking into a window where young women are dancing",
+  "alt3": "peering around a corner at two women walking down a hallway",
+  "alt4": "a steamy bathroom with the reflection of the killer in the mirror",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

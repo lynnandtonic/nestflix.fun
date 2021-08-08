@@ -10,6 +10,11 @@
   "starring": "John Beard",
   "labels": "reality, crime",
   "credit": "20th Television, Netflix",
+  "altHero": "John Beard in the kitchen with Tobias Funke who is dressed as The Thing from the Fantastic Four",
+  "alt1": "tackle cam footage of Beard hiding in a closet",
+  "alt2": "Funke in the kitchen drinking milk",
+  "alt3": "Beard talking with Funke",
+  "alt4": "Funke being tackled by police outside the house",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

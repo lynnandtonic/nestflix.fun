@@ -11,6 +11,11 @@
   "starring": "Regina Hall, Scott Foley, Michael Jai White, Sarah Chaney, Nija Okoro",
   "labels": "drama",
   "credit": "HBO Entertainment",
+  "altHero": "Ninny approaches Master Turnfellow at the dinner table.",
+  "alt1": "Ninny reading a book",
+  "alt2": "a white woman scolds Ninny",
+  "alt3": "Master Turnfellow looks lovingly at Ninny",
+  "alt4": "a fight breaks out during dinner",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "Donald Cook, Evalyn Knapp",
   "labels": "drama, romance",
   "credit": "Warner Bros. Pictures",
+  "altHero": "a husband and wife talk",
+  "alt1": "the wife prays",
+  "alt2": "the husband looks off camera",
+  "alt3": "a woman approaches her husband sitting on a chaise",
+  "alt4": "they talk closely",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

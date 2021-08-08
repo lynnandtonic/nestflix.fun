@@ -12,6 +12,11 @@
   "studio": "American Arts & Culture",
   "labels": "documentary",
   "credit": "USA Films",
+  "altHero": "an interview with John Malkovich",
+  "alt1": "John Malkovich smiling",
+  "alt2": "an interview with Sean Penn",
+  "alt3": "Malkovich marries Maxine Lund",
+  "alt4": "one of Malkovich’s puppets",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

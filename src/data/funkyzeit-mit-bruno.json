@@ -11,6 +11,11 @@
   "starring": "Brüno Gehard",
   "labels": "reality, fashion",
   "credit": "Universal Pictures",
+  "altHero": "stylized image of Bruno in a dressing room",
+  "alt1": "Bruno on the set of his show",
+  "alt2": "a designer",
+  "alt3": "Bruno interviewing a model",
+  "alt4": "Bruno interviewing Filipa Bleck",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

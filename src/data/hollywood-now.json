@@ -11,6 +11,11 @@
   "starring": "Chuck Porter, Cindy Martin",
   "labels": "talk show, entertainment",
   "credit": "Warner Independent Pictures",
+  "altHero": "Chuck Porter and Cindy Martin",
+  "alt1": "Martin and Porter, who is dressed with an old-timey detective",
+  "alt2": "Cindy Martin with a photo of Victor Allan Miller dressed as a hot dog in the background",
+  "alt3": "Martin and Porter dressed as fortune tellers",
+  "alt4": "Porter interviewing Callie Webb in a diner",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

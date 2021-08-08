@@ -13,6 +13,11 @@
   "studio": "Hillside Avenue Productions",
   "labels": "sci-fi",
   "credit": "Warner Bros. Pictures",
+  "altHero": "Vincent Chase as Hyde in a hoodie, holding up a small vial of glowing liquid",
+  "alt1": "glowing liquid drops are rained on a crowd with their mouths open",
+  "alt2": "an explosive hits a line of police riot shields",
+  "alt3": "many gun lasers pointed at Hyde’s back",
+  "alt4": "Hyde’s face glows bright red and reveals veins and arteries",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

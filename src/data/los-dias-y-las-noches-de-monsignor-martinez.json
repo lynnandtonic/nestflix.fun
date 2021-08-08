@@ -11,6 +11,11 @@
   "starring": "Eduardo Felipe",
   "labels": "action",
   "credit": "Disney-ABC Domestic Television",
+  "altHero": "Monsigñor Martinez wearing sunglasses and pointing two guns",
+  "alt1": "Monsigñor Martinez baptizes twin babies in a church",
+  "alt2": "Monsigñor Martinez smiles from the electric chair",
+  "alt3": "Monsigñor Martinez holds up a mask of his face he’s removed from an unconscious man",
+  "alt4": "Monsigñor Martinez in a wedding dress points a gun at another man",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

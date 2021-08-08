@@ -11,6 +11,11 @@
   "starring": "Cher, Walt Tenor, Fernanda Lima",
   "labels": "drama, crime",
   "credit": "20th Century Fox",
+  "altHero": "Honey and the Beaze running down the street",
+  "alt1": "Honey Garret passes a tousled Mack Beasley",
+  "alt2": "Honey Garret",
+  "alt3": "a smiling Mack Beasley",
+  "alt4": "Mack stops Honey from slapping him",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

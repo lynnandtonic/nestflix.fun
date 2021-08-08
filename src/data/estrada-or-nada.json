@@ -10,6 +10,11 @@
   "starring": "Erik Estrada, Brian Dunkleman",
   "labels": "reality, game show",
   "credit": "20th Century Fox Television",
+  "altHero": "Erik Estrada",
+  "alt1": "Estrada double fisting hot dogs",
+  "alt2": "Brian Dunkleman",
+  "alt3": "Estrada in front of a cannon",
+  "alt4": "panel of judges holding up three Estrada scores",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

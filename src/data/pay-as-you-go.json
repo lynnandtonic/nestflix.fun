@@ -10,6 +10,11 @@
   "starring": "Johnny Patrick",
   "labels": "game show",
   "credit": "CBS Enterprises",
+  "altHero": "Johnny Patrick on a game show set with a giant map of the U.S. and Laura Petrie is the current contestant",
+  "alt1": "Johnny Patrick laughs while talking to Laura",
+  "alt2": "Laura answers questions",
+  "alt3": "Johnny shows off a suite of home goods as prizes",
+  "alt4": "Laura is mouth-open excited",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -11,6 +11,11 @@
   "starring": "Jason Segel, Rashida Jones",
   "labels": "comedy, romance",
   "credit": "Screen Gems",
+  "altHero": "Bryce and Madison talking at a bar",
+  "alt1": "Bryce meeting Madison with flowers at Grand Central Station",
+  "alt2": "Bryce",
+  "alt3": "Madison smiling",
+  "alt4": "Bryce and Madison about to kiss in the back of a carriage",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -12,6 +12,11 @@
   "studio": "Gravity Falls Public Access TV",
   "labels": "reality",
   "credit": "Disney Television Animation",
+  "altHero": "Li’l Gideon waves from behind prison visitation glass, wearing an orange jumpsuit and hairnet",
+  "alt1": "Li’l Gideon leads a group session with other inmates",
+  "alt2": "an inmate punches a pillow labeled “My issues”",
+  "alt3": "Li’l Gideon poses for a painting, but the inmate is painting a flaming skull",
+  "alt4": "through cracked glass, Li’l Gideon rides the shoulders of a very large inmate running as red lights flash",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

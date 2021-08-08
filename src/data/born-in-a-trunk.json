@@ -11,6 +11,11 @@
   "starring": "Vicki Lester",
   "labels": "musical, drama",
   "credit": "Warner Bros. Pictures",
+  "altHero": "a woman in a fancy suit sings in front of a wall of roses",
+  "alt1": "a young woman sings in a spotlight",
+  "alt2": "the woman stands in a tight space with well-dressed mannequins",
+  "alt3": "the woman walks in a surrealist building corridor",
+  "alt4": "the woman performs with maracas",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

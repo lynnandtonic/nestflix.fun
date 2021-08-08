@@ -11,6 +11,11 @@
   "starring": "Anna Scott, Matthew Modine",
   "labels": "drama, romance",
   "credit": "Universal Pictures",
+  "altHero": "at an art gallery, a woman stands with arms crossed, her back to her partner",
+  "alt1": "the couple looks at art",
+  "alt2": "the couple sits on a bench, the man talks but the woman is aloof",
+  "alt3": "the woman looks unhappy",
+  "alt4": "the woman smiles",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

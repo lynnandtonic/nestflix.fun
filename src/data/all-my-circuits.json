@@ -11,6 +11,11 @@
   "starring": "Calculon, Monique, Boxy Robot",
   "labels": "soap opera, romance",
   "credit": "20th Century Fox Television",
+  "altHero": "Monique is nervous as Calculon raises a handgun to protect her",
+  "alt1": "Monique and Calculon romantically hold hands in a pergola",
+  "alt2": "Monique and Calculon look shocked while at the altar to be married",
+  "alt3": "Monique is caught in bed with Boxy Robot",
+  "alt4": "Calculon is angry",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

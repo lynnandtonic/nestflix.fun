@@ -11,6 +11,11 @@
   "director": "Randall Curtis",
   "labels": "sci-fi",
   "credit": "20th Television",
+  "altHero": "roll is being called at the galactic senate",
+  "alt1": "an AT-AT sits down to read a newspaper",
+  "alt2": "Luke Skywalker examines a ship’s wheel",
+  "alt3": "a Jar Jar Binks character",
+  "alt4": "Yoda addresses the senate",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -10,6 +10,11 @@
   "starring": "Frank Cross, Roy Brocksmith",
   "labels": "kids",
   "credit": "Paramount Pictures",
+  "altHero": "a man in a dog costume outside a big dog house labeled “Frisbee”",
+  "alt1": "Frisbee waves",
+  "alt2": "Frisbee walks on all fours to meet Mike the Mailman",
+  "alt3": "closeup of Mike the Mailman",
+  "alt4": "Frisbee rolls around with a giant bone",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

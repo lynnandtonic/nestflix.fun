@@ -10,6 +10,11 @@
   "runtime": "50 seasons",
   "labels": "sci-fi",
   "credit": "Sony Pictures Television",
+  "altHero": "the Inspector and the Constable exiting the X-7 Dimensionizer",
+  "alt1": "the X-7 Dimensionizer on a desert planet",
+  "alt2": "the Inspector and the Constable in front of the X-7 Dimensionizer",
+  "alt3": "two cyborgs called blorgons",
+  "alt4": "a different version of the Inspector and the Constable",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

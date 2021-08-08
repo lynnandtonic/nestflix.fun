@@ -12,6 +12,11 @@
   "studio": "Ichorus Pictures",
   "labels": "horror",
   "credit": "Dimension Films",
+  "altHero": "two men and a woman looking mystified through an ornate gate",
+  "alt1": "light shines through an open doorway into a dusty, abandoned room",
+  "alt2": "a man reaches out and two women look scared",
+  "alt3": "a boy with white eyes holds a knife above his head",
+  "alt4": "a creepy man holds the face of a frightened woman",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

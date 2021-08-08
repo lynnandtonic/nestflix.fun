@@ -12,6 +12,11 @@
   "studio": "The History Channel",
   "labels": "documentary",
   "credit": "Comedy Central",
+  "altHero": "a grainy photograph of the Pilgrims eating Thanksgiving dinner with the Native Americans as an alien serves them food",
+  "alt1": "Pilgrims and Native Americans gather",
+  "alt2": "a cartoon man with a professor look speaks to the camera",
+  "alt3": "a Thanksgiving table but everyone is an alien",
+  "alt4": "a Pilgrim and corn-themed city of gold",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

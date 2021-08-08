@@ -11,6 +11,11 @@
   "starring": "Arnold Schwarzenegger",
   "labels": "action, shakespeare",
   "credit": "Columbia Pictures",
+  "altHero": "Arnold as a tough Hamlet lighting a cigar",
+  "alt1": "Hamlet sits on a rock holding a skull",
+  "alt2": "Hamlet throws a man through a stained glass window",
+  "alt3": "a man peeks out from behind a curtain",
+  "alt4": "Hamlet fires a machine gun in the air",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

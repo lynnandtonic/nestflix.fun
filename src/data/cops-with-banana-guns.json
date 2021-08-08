@@ -10,6 +10,7 @@
   "runtime": "1 season",
   "labels": "crime",
   "credit": "20th Television",
+  "altHero": "a man in a beanie points a banana at a scared cop with arms raised",
   "layout": "movie.pug",
   "tags": [
     "entry",

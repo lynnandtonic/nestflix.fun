@@ -13,6 +13,11 @@
   "studio": "Enzo Di Martini Productions",
   "labels": "sci-fi",
   "credit": "MGM Studios",
+  "altHero": "Dragonfly is a beautiful woman resting on a clean, white surface that perfectly contours her body and head",
+  "alt1": "a spaceship lands on the moon",
+  "alt2": "a man in a beret speaks on a radio microphone, Earth can be seen outside the window",
+  "alt3": "a man in all black approaches Dragonfly as she does some scantily-clad yoga",
+  "alt4": "Dragonfly in a space suit confronts another Dragonfly dressed in all black",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

@@ -12,6 +12,11 @@
   "director": "Peter Griffin",
   "labels": "horror",
   "credit": "20th Television",
+  "altHero": "John Goodman as Peter Griffin holding a huge gun",
+  "alt1": "a spooky asylum during a lightning storm",
+  "alt2": "movie versions of Peter, Cleveland, Joe, and Quagmire face off with guns in the woods",
+  "alt3": "Dwayne Johnson as Joe, wet in the rain holding a gun",
+  "alt4": "Charlie Sheen as Quagmire, also holding a big gun",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

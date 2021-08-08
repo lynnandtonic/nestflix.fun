@@ -11,6 +11,11 @@
   "director": "Phlegmont and Mendoza",
   "labels": "comedy",
   "credit": "20th Century Fox Television",
+  "altHero": "Cordelia shrugs with a big smile",
+  "alt1": "Cordelia models a dress in her apartment",
+  "alt2": "Cordelia holds down her hat in the wind and laughs",
+  "alt3": "Cordelia kissing a man",
+  "alt4": "Cordelia and friend excitedly holding stacks of cash",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

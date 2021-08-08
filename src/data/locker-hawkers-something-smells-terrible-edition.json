@@ -10,6 +10,11 @@
   "runtime": "5 seasons",
   "labels": "reality",
   "credit": "20th Television, Netflix",
+  "altHero": "a group of people peer into a newly opened storage locker",
+  "alt1": "people stand around outside a storage locker waiting for it to be opened",
+  "alt2": "bolt cutters cut off a lock",
+  "alt3": "people hold dust masks up to their faces",
+  "alt4": "G.O.B. Bluth is in the storage unit dressed in bubble wrap and eating Red Vines off the ground",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

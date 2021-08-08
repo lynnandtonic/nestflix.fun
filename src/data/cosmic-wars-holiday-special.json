@@ -11,6 +11,11 @@
   "director": "Randall Curtis",
   "labels": "sci-fi, holiday",
   "credit": "20th Television",
+  "altHero": "C-3PO and R2-D2 in holiday garb",
+  "alt1": "a Star Wars-like cave room with various creatures enjoying a holiday meal",
+  "alt2": "C-3PO scoops soup out of R2-D2’s open top",
+  "alt3": "C-3PO serves soup to an Ortolan",
+  "alt4": "Darth Vader slices turkey with a light saber for his family",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

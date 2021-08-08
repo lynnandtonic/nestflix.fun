@@ -12,6 +12,11 @@
   "studio": "Channel 62",
   "labels": "action, fantasy",
   "credit": "Orion Pictures",
+  "altHero": "Concan the Barbarian in a library",
+  "alt1": "Conan lifts up and scowls at a frightened library patron",
+  "alt2": "Conan poses with his sword in front of a “Return books here” sign",
+  "alt3": "Conan yells with his sword raised above his head",
+  "alt4": "Conan slices a boy in half",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

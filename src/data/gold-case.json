@@ -12,6 +12,11 @@
   "studio": "NBC",
   "labels": "game show",
   "credit": "NBCUniversal Television",
+  "altHero": "woman in green dress struggles to hold up a heavy suitcase",
+  "alt1": "contestant with John McEnroe",
+  "alt2": "contestant high fives John McEnroe in front of the row of ladies with suitcases",
+  "alt3": "another woman struggles to hold the suitcase",
+  "alt4": "contestant pointing",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

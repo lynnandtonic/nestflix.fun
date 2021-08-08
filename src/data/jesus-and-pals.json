@@ -12,6 +12,11 @@
   "studio": "South Park Public Access",
   "labels": "talk show, religion",
   "credit": "Comedy Central",
+  "altHero": "Jesus with hands folded next to a phone",
+  "alt1": "Jesus holding a microphone amongst a studio audience",
+  "alt2": "the show band, the Disciples",
+  "alt3": "Jesus with Bob Denver from Gilligan’s Island",
+  "alt4": "Jesus with the South Park kids, Kenny in a bright spotlight",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

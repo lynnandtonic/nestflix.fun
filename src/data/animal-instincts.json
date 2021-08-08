@@ -12,6 +12,11 @@
   "starring": "Sarah Marshall, Jason Bateman",
   "labels": "drama, crime",
   "credit": "Universal Pictures",
+  "altHero": "Sarah Marshall eyes glow an unnatural blue",
+  "alt1": "Jason Bateman peers out over a pair of sunglasses",
+  "alt2": "Sarah Marshall points a gun",
+  "alt3": "a furry dog",
+  "alt4": "the dog’s eyes glow that same unnatural blue",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

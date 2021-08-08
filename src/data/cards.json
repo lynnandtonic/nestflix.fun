@@ -12,6 +12,11 @@
   "studio": "DreamWorks",
   "labels": "comedy, family",
   "credit": "20th Television",
+  "altHero": "anthropomorphic father and son playing cards walk down the street",
+  "alt1": "a city made of playing cards, poker chips and dice",
+  "alt2": "a joker card come to life",
+  "alt3": "a pyramid of cards",
+  "alt4": "anthropomorphic cards playing poker around a card table",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

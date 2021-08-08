@@ -11,6 +11,11 @@
   "studio": "Gravity Falls Public Access TV",
   "labels": "crime",
   "credit": "Disney Television Animation",
+  "altHero": "a duck with a detective hat sits at a desk with a pile of papers",
+  "alt1": "Duck-tective yells “Murder?!”",
+  "alt2": "the Constable and Duck-tective with a criminal tied up",
+  "alt3": "Duck-tective, on oxygen in a hospital bed, sees a duck-shaped sillouhette in the doorway ",
+  "alt4": "the Constable, Duck-tective, and penguin find a dead body in the river",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

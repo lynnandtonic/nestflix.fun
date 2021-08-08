@@ -12,6 +12,11 @@
   "studio": "The Miracle Network",
   "labels": "talk show, religion",
   "credit": "20th Television, Netflix",
+  "altHero": "a pastor and a priest sit on a talk show couch",
+  "alt1": "the pastor and priest look at a guest",
+  "alt2": "a young woman in conservative dress sits stoicly",
+  "alt3": "G.O.B. Bluth sits and prays while the pastor and priest stand nearby",
+  "alt4": "the pastor and priest chat while viewing a nearby tv",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

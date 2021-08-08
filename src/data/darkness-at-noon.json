@@ -12,6 +12,11 @@
   "studio": "AMC",
   "labels": "drama, crime",
   "credit": "CBS Television",
+  "altHero": "Charlie Pollock walks across a bridge with the city in the background",
+  "alt1": "Pollack holds another man against a chain link fence",
+  "alt2": "Marta Reiman interrogates a homeless man",
+  "alt3": "Pollock holds a gun to Reiman’s chest",
+  "alt4": "Pollock lays on the grass, blood dripping from his mouth",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

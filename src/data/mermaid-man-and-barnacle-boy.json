@@ -11,6 +11,11 @@
   "starring": "Mermaid Man, Barnacle Boy",
   "labels": "action, superhero",
   "credit": "Nickelodeon Animation Studio",
+  "altHero": "a portrait of Mermaid Man and Barnacle Boy in their youth",
+  "alt1": "Mermaid Man and Barnacle Boy in a cave",
+  "alt2": "two fists meet to join rings which sets off little lightning bolts",
+  "alt3": "Mermaid Man and Barnacle Boy as older men, their appearances changed dramatically with age",
+  "alt4": "the heroes stand on a car and face off with Kelp Thing",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

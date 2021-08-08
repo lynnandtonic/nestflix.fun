@@ -13,6 +13,11 @@
   "studio": "Nickel ‘n’ Dime Animation Studio",
   "labels": "comedy, animation",
   "credit": "20th Television",
+  "altHero": "a poorly drawn Homer Simpson is angry",
+  "alt1": "Homer is angry, crumpling his drink cup in a fast food restaurant",
+  "alt2": "Homer has grown huge, smashing the restaurant to dust",
+  "alt3": "Homer is a giant, stomping away from the city",
+  "alt4": "Homer punches a hole in the Hoover dam and water gushes out",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

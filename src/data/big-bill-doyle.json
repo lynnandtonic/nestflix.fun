@@ -11,6 +11,11 @@
   "starring": "John Wayne",
   "labels": "western",
   "credit": "20th Television",
+  "altHero": "a cowboy reluctantly talks to a closed outhouse",
+  "alt1": "cowboys on horses run toward a building",
+  "alt2": "two outlaws on horses shoot guns in the air as people flee",
+  "alt3": "the outlaws are surprised by a horse carrying an outhouse",
+  "alt4": "the outlaws surrender as the horse collapses under the weight of the outhouse, now open to reveal Big Bill Doyle sitting inside",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

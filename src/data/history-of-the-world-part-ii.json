@@ -11,6 +11,11 @@
   "director": "Mel Brooks",
   "labels": "comedy",
   "credit": "Universal Pictures",
+  "altHero": "vikings with hands on their hearts",
+  "alt1": "Hitler ice skating",
+  "alt2": "vikings with helmets removed, but the horns remain on their heads",
+  "alt3": "star of David-shaped spaceships fire lasers at each other",
+  "alt4": "two rabbis look out a spaceship window",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

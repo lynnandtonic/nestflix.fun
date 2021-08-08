@@ -11,6 +11,11 @@
   "studio": "Capitol Pictures",
   "labels": "drama, history",
   "credit": "Universal Pictures",
+  "altHero": "Baird Whitlock as Julius Caesar",
+  "alt1": "the Roman army",
+  "alt2": "Caesar in armor and helmet",
+  "alt3": "a cloaked man in the rain braces from a bright light",
+  "alt4": "Caesar kneels before Jesus on the cross",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

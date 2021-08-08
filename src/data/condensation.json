@@ -11,6 +11,7 @@
   "studio": "BBC Four",
   "labels": "drama",
   "credit": "20th Television",
+  "altHero": "a man and woman dramatically look out the window, a glass of ice water sits on the table",
   "layout": "movie.pug",
   "tags": [
     "entry",

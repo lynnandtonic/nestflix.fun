@@ -13,6 +13,11 @@
   "studio": "Marty Wolf Pictures",
   "labels": "comedy, fantasy",
   "credit": "Universal Pictures",
+  "altHero": "Kenny Trooper is a giant man looks over a city with destruction debris and fallen electrical lines",
+  "alt1": "a closeup of Kenny",
+  "alt2": "a regular sized woman looks up",
+  "alt3": "Kenny, still giant, drinks something",
+  "alt4": "Kenny is regular sized again",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

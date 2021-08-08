@@ -12,6 +12,11 @@
   "studio": "NBC",
   "labels": "reality, competition, music",
   "credit": "NBCUniversal Television",
+  "altHero": "a young boy sings in front of an American flag backdrop",
+  "alt1": "a young girl looks tiny singing on a giant stage",
+  "alt2": "a judge’s table with Jenna Maroney, John McEnroe, and D’Fwan",
+  "alt3": "Jenna Maroney giving feedback with a smile",
+  "alt4": "a young girl in an adorable dress holds a microphone and looks dejected",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

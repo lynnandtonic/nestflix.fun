@@ -10,6 +10,11 @@
   "runtime": "57m",
   "labels": "holiday",
   "credit": "20th Television",
+  "altHero": "Mr. McGrew as Ebenezer McGrew",
+  "alt1": "Ebenezer McGrew talks to a fireplace",
+  "alt2": "McGrew irons a shirt with a cat",
+  "alt3": "a ghost of Christmas",
+  "alt4": "McGrew, in a cemetery, pleads with another ghost of Christmas",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

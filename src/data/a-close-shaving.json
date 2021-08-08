@@ -12,6 +12,11 @@
   "studio": "MMCMXXII Metropolitan Holoplays",
   "labels": "comedy",
   "credit": "20th Century Fox Television",
+  "altHero": "anthropomorphic lobster (Harold Zoid) in old-timey hat and glasses sharpens a razor in a barber shop",
+  "alt1": "Harold Zoid snips a man’s mustache ends off with his claws",
+  "alt2": "the man, who is now mustache-less, screams and points at Zoid",
+  "alt3": "Zoid applies shaving cream to the man’s chin",
+  "alt4": "Zoid snips the man’s head off with his claws",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

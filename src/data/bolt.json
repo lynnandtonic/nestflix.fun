@@ -12,6 +12,11 @@
   "studio": "Sovereign Entertainment",
   "labels": "action, sci-fi",
   "credit": "Walt Disney Animation Studios",
+  "altHero": "Bolt the dog in a chamber with bolts of electricty all around",
+  "alt1": "Penny holds a pair of binoculars to Bolt’s eyes as he growls",
+  "alt2": "an evil-looking man in the reflection of another man’s glasses",
+  "alt3": "Bolt holds a car with his mouth from falling off a bridge",
+  "alt4": "Bolt shoots lasers from his eyes",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

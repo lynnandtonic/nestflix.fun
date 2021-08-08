@@ -12,6 +12,11 @@
   "starring": "Sarah Marshall, Billy Baldwin",
   "labels": "drama, crime",
   "credit": "Universal Pictures",
+  "altHero": "Maddy Stark and Hunter Rush speak to a woman at a crime scene",
+  "alt1": "a tagged cadaver foot",
+  "alt2": "Stark testing samples in a lab",
+  "alt3": "closeup of Rush",
+  "alt4": "Stark looking seductive",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

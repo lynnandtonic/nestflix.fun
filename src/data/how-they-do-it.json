@@ -10,6 +10,11 @@
   "studio": "Interdimensional Cable",
   "labels": "reality, educational",
   "credit": "Warner Bros. Television",
+  "altHero": "a machine stamping a big sheet of pink material",
+  "alt1": "a factory worker next to hanging drapery of pink with colorful flecks of something all over it",
+  "alt2": "a worker holds a pink bulb-like object covered in bumps",
+  "alt3": "a worker takes a big knife to little green creatures",
+  "alt4": "a worker showcases a finished plumbus",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

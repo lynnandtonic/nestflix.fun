@@ -11,6 +11,11 @@
   "starring": "Phoebe Buffay",
   "labels": "adult, fantasy",
   "credit": "Warner Bros. Television",
+  "altHero": "Phoebe Buffay in a leather bodice and giant hair holding a wooden stake",
+  "alt1": "a low-budget set featuring a coffin surrounded by candles",
+  "alt2": "Phoebe approaches the coffin",
+  "alt3": "Phoebe, mouth agape, holds the wooden stake",
+  "alt4": "a male vampire sits up on the coffin",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

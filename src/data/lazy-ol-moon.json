@@ -12,6 +12,11 @@
   "studio": "Capitol Pictures",
   "labels": "western, comedy",
   "credit": "Universal Pictures",
+  "altHero": "Hobie Doyle plays guitar and sings on a moonlit night",
+  "alt1": "establishing shot of the cookhouse and a big watering trough",
+  "alt2": "an older fellow, Curly, yells at the moon",
+  "alt3": "the moon’s reflection in the watering trough",
+  "alt4": "Miz McGraw daydreams out the cookhouse window",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

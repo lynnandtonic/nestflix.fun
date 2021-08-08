@@ -10,6 +10,11 @@
   "studio": "Interdimensional Cable",
   "labels": "action",
   "credit": "Warner Bros. Television",
+  "altHero": "a Mr. T type tough guy shoots a machine gun",
+  "alt1": "smooth looking bad guys shot guns from behind a crashed and smoking Jeep",
+  "alt2": "the bad guys flying through the air in an explosion",
+  "alt3": "an alligator man shoots a gun while hanging on to the side of a helicopter",
+  "alt4": "a Jeep flies through the air leaving a trail of smoke",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

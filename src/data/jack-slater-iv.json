@@ -12,6 +12,11 @@
   "director": "Franco Columbu",
   "labels": "action",
   "credit": "Columbia Pictures",
+  "altHero": "Arnold as Jack Slater",
+  "alt1": "closeup of a man’s eye that looks like a scope‘s crosshairs",
+  "alt2": "Slater holding bags of groceries on a porch, a cop with a gun stands by",
+  "alt3": "an older man tied to a chair with a note labeled “Slater” attached to his shirt",
+  "alt4": "a car drives by full of men shooting guns",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

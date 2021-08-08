@@ -11,6 +11,11 @@
   "starring": "Judge Reinhold",
   "labels": "reality",
   "credit": "20th Television, Netflix",
+  "altHero": "Judge Reinhold smiles from the bench",
+  "alt1": "William Hung plays keyboard and sings with his band",
+  "alt2": "the court bailiff",
+  "alt3": "Lucille Bluth holds a tissue on the witness stand",
+  "alt4": "the prosecuting attorney",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

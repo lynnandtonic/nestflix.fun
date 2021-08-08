@@ -11,6 +11,11 @@
   "starring": "Joey Tribbiani",
   "labels": "comedy, crime",
   "credit": "Warner Bros. Television",
+  "altHero": "Detective Mac and his robot partner, C.H.E.E.S.E.",
+  "alt1": "Mac and C.H.E.E.S.E. talk in a dirty locker room",
+  "alt2": "closeup of Mac",
+  "alt3": "closeup of C.H.E.E.S.E.",
+  "alt4": "Mac and C.H.E.E.S.E. laughing",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

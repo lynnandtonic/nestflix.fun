@@ -10,6 +10,11 @@
   "studio": "ICS",
   "labels": "reality, game show",
   "credit": "TriStar Pictures",
+  "altHero": "a man climbs a rope surrounded by razor wire and viscious dogs",
+  "alt1": "man holds on to the rope with a stack of cash in his teeth",
+  "alt2": "man stashes cash in his belt",
+  "alt3": "dogs bite at the rope",
+  "alt4": "a bag of flour drops and explodes on the man’s head",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

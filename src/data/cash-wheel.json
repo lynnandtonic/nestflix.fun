@@ -11,6 +11,11 @@
   "starring": "Rich, Carla",
   "labels": "game show",
   "credit": "Disney Television Animation",
+  "altHero": "a game show wheel stopped on “Cash Cannon”",
+  "alt1": "a game show host",
+  "alt2": "a game show set with Grunkle Stan raising his arms up",
+  "alt3": "a Wheel of Fortune-like display with a mystery phrase and woman in a dress standing by",
+  "alt4": "Grunkle Stan excited in front of a huge pile of cash",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

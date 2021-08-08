@@ -11,6 +11,11 @@
   "starring": "Christine Chatelain, Steve Bacic",
   "labels": "drama, medical",
   "credit": "Warner Bros. Television",
+  "altHero": "Dr. Sexy and Dr. Piccolo stand next to each other in an elevator",
+  "alt1": "Dr. Sexy and Dr. Piccolo in the elevator",
+  "alt2": "another doctor sits with a patient",
+  "alt3": "Dr. Sexy walking down the hospital hallway",
+  "alt4": "a doctor in the operating room",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

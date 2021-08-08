@@ -11,6 +11,11 @@
   "starring": "Hector Moreda, Juanita Gomez, Roberta Pino, Adolfo Dorita",
   "labels": "telenovela",
   "credit": "NBCUniversal Television",
+  "altHero": "El Generalissimo in his uniform",
+  "alt1": "El Generalissimo paces away from another man in a duel",
+  "alt2": "El Generalissimo lights a stick of dynamite strapped to a child’s head",
+  "alt3": "a woman points a gun",
+  "alt4": "El Generalissimo plays the guitar for an older woman",
   "layout": "movie.pug",
   "stills": true,
   "tags": [

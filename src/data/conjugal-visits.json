@@ -12,6 +12,11 @@
   "studio": "Nat Geo TV",
   "labels": "reality",
   "credit": "HBO Entertainment",
+  "altHero": "female inmate licking her lips",
+  "alt1": "prison guard escorting an inmate to her cell",
+  "alt2": "inmate gives a serious look from behind bars",
+  "alt3": "another inmate gives a sassy, wide-eyed look",
+  "alt4": "inmate confessional interview with fence and razor wire backdrop",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
