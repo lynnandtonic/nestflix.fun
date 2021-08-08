@@ -31,8 +31,10 @@ function readAllJsonFiles() {
     globalData = {
         collections: {
             all: [],
+            byTitle: {},
             ignoredTags: [
                 'all',
+                'byTitle',
                 'ignoredTags',
                 'entry',
                 'movie',
@@ -46,6 +48,9 @@ function readAllJsonFiles() {
     const jsonFileDir = './src/data';
     const jsonFiles = fs.readdirSync('./src/data');
     for (const jsonFile of jsonFiles) {
+        if (!jsonFile.endsWith(".json")) {
+            continue;
+        }
         let json;
         try {
             json = JSON.parse(fs.readFileSync(`${jsonFileDir}/${jsonFile}`, {encoding: 'utf8'}));
@@ -66,6 +71,8 @@ function readAllJsonFiles() {
             globalData.collections[tag] = globalData.collections[tag] || [];
             globalData.collections[tag].push(eleventyData);
         });
+
+        globalData.collections.byTitle[eleventyData.data.title] = eleventyData;
     }
 }
 
