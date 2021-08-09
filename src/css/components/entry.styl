@@ -16,6 +16,9 @@ $bp-entry = 800px
     margin: var(--body-padding)
     margin-bottom: calc(var(--body-padding)*2)
 
+    p
+      margin-bottom: 1.5em
+
   .entry-info
     padding: var(--body-padding)
     position: relative
@@ -23,6 +26,7 @@ $bp-entry = 800px
     display: flex
     flex-direction: column
     justify-content: flex-end
+    background-image: linear-gradient(50deg, black(.3) 10%, black(0) 50%)
 
     :last-child
       margin-bottom: 0
@@ -114,6 +118,8 @@ $bp-entry = 800px
       position: relative
       &:after
         --gradient-direction: to top
+      img
+        object-position: 50% 0
 
       small
         z-index: 100
@@ -130,9 +136,26 @@ $bp-entry = 800px
       max-height: 850px
 
     &.feature
-      height: 60vh
+      height: 65vh
       min-height: 400px
       max-height: 750px
+
+      &:first-of-type,
+      &:nth-of-type(2),
+      &:nth-of-type(3)
+        img
+          object-position: 50% 0
+
+      &:nth-of-type(2)
+        --gradient: darken(steelblue,10)
+      &:nth-of-type(3)
+        --gradient: #111
+      &:nth-of-type(4)
+        --gradient: #f65a65
+      &:nth-of-type(5)
+        --gradient: darken(rebeccapurple,10)
+      &:nth-of-type(6)
+        --gradient: $teal
 
     .entry-info
       width: 50%

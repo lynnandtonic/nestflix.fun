@@ -2,6 +2,23 @@
 * $NAV
 --------------------------------------------------------------------*/
 
+.skip-link
+  padding: .7em 1em
+  position: fixed
+  left: 1em
+  top: 1em
+  background-color: $gold
+  border-radius: 3px
+  clip: rect(0 0 0 0)
+  z-index: 20
+  color: $grey-drk
+  text-transform: uppercase
+  font-size: 70%
+  font-weight: $font-weight-medium
+
+  &:focus
+    clip: unset
+
 header
   width: 100%
   position: absolute

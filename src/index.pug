@@ -5,6 +5,27 @@ block vars
     - var description = "Fictional movies inside other movies";
     - var bodyClass = "landing";
 
+mixin feature(movieTitle)
+    div.entry.feature
+        div.entry-info
+            h2.logo
+              img(src='/img/_logos/logo-' + collections.byTitle[movieTitle].data.slug + '.svg', alt=collections.byTitle[movieTitle].data.title)
+            p !{collections.byTitle[movieTitle].data.description}
+            a.button(href=collections.byTitle[movieTitle].data.slug aria-label="Details for " + collections.byTitle[movieTitle].data.title) Details
+        div.entry-image 
+            img(src='/img/' + collections.byTitle[movieTitle].data.slug + '.jpg')
+
+mixin cards(tag1,tag2)
+    each tag in tags.slice(tag1,tag2)
+        unless collections.ignoredTags.includes(tag.toLowerCase())
+            section.list.short
+                h2 !{tag}
+                ul.card-list.thumbs
+                    each entry in collections[tag]
+                        li
+                            a(href=entry.data.page.url)
+                                img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+
 block content
     section.hero
         div.hero-info
@@ -18,39 +39,32 @@ block content
             //-     img(src='/img/angels-with-filthy-souls.jpg')
             //-     small Angels with Filthy Souls
 
-    //- We can iterate over all of the collection entries and ignore special collections that we've added custom logic around: 
+    span#content
 
-    //- TODO: Remove this part
-    //- - var tags = Object.keys(collections).filter(function(it) { return !collections.ignoredTags.includes(it.toLowerCase()); });
-
-    //- TODO: Manually order tags
     - var tags = ['dramas', 'comedies', 'action movies', 'post-apocalyptic action movies', 'war and historical dramas', 'dramatic biopics', 'thrillers', 'crime shows', 'buddy cops', 'spy movies', 'westerns', 'sci-fi films', 'monster movies', 'documentaries', 'documentary series', 'sci-fi tv', 'aliens!', 'romantic dramas', 'romantic comedies', 'horror movies', 'slasher flicks', 'action tv', 'tv dramas', 'reality tv', 'reality competition shows', 'criminal justice reality tv', 'home and diy', 'animals on tv', 'animated shorts', 'mighty movie heroes', 'hollywood’s golden age', 'game shows', 'game shows with a bit of danger!', 'variety shows', 'amateur filmmakers', 'web shows', 'comedy tv', 'sitcoms', 'family sitcoms', 'family films', 'kids tv', 'kids variety shows', 'british tv', 'religious programming', 'for the holidays', 'soap operas', 'telenovelas', 'adults 18+', 'talk shows', 'public-access talk shows', 'entertainment commentary', 'late night talk shows'];
 
-    each tag in tags.slice(0,2)
-        unless collections.ignoredTags.includes(tag.toLowerCase())
-            section.list.short
-                h2 !{tag}
-                ul.card-list.thumbs
-                    each entry in collections[tag]
-                        li
-                            a(href=entry.data.page.url)
-                                img(src=src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+    +cards(0,2)
 
-    section.entry.feature
-        div.entry-info
-            h2.logo
-              img(src='/img/_logos/logo-' + collections.byTitle["Satan’s Alley"].data.slug + '.svg', alt=collections.byTitle["Satan’s Alley"].data.title)
-            p !{collections.byTitle["Satan’s Alley"].data.description}
-            a.button(href=collections.byTitle["Satan’s Alley"].data.slug) Details
-        div.entry-image 
-            img(src='/img/' + collections.byTitle["Satan’s Alley"].data.slug + '.jpg')
+    +feature('Angels with Filthy Souls')
 
-    each tag in tags.slice(2)
-        unless collections.ignoredTags.includes(tag.toLowerCase())
-            section.list.short
-                h2 !{tag}
-                ul.card-list.thumbs
-                    each entry in collections[tag]
-                        li
-                            a(href=entry.data.page.url)
-                                img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+    +cards(2,10)
+
+    +feature('Sunrise Bay')
+
+    +cards(10,20)
+
+    +feature('Mant!')
+
+    +cards(20,30)
+
+    +feature('The Equestranauts')
+
+    +cards(30,39)
+
+    +feature('Galaxy Quest')
+
+    +cards(39,46)
+
+    +feature('The Lucas Lee Collection')
+
+    +cards(46,52)
