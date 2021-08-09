@@ -12,20 +12,23 @@ html
 
         meta(content='@lynnandtonic', name='twitter:site')
         meta(content='@lynnandtonic', name='twitter:creator')
-        meta(content=title + ' — Nestflix', name='twitter:title', property='og:title')
+        if bodyClass == 'landing'
+            meta(content='Nestflix', name='twitter:title', property='og:title')
+        else
+            meta(content=title + ' — Nestflix', name='twitter:title', property='og:title')
         //- TODO: maybe a better description for the actual page
         meta(content=description, name='twitter:description', property='og:description')
         meta(name='twitter:card', content='summary_large_image')
         meta(property='og:type',  content='website')
         //- TODO: replace URL with final domain
-        meta(content='https://nestflix.co/' + slug, property='og:url')
-        meta(content='https://nestflix.co/' + slug, property='twitter:url')
+        meta(content='https://nestflix.fun/' + slug, property='og:url')
+        meta(content='https://nestflix.fun/' + slug, property='twitter:url')
         if bodyClass == 'detail'
-            meta(content='https://nestflix.co/img/' + slug + '-thumb-1200w.jpg', property='og:image')
-            meta(content='https://nestflix.co/img/' + slug + '-thumb-1200w.jpg', name='twitter:image')
+            meta(content='https://nestflix.fun/img/' + slug + '-thumb-1200w.jpg', property='og:image')
+            meta(content='https://nestflix.fun/img/' + slug + '-thumb-1200w.jpg', name='twitter:image')
         else
-            meta(content='https://nestflix.co/img/nestflix-thumb-1200w.jpg', property='og:image')
-            meta(content='https://nestflix.co/img/nestflix-thumb-1200w.jpg', name='twitter:image')
+            meta(content='https://nestflix.fun/img/nestflix-thumb-1200w.jpg', property='og:image')
+            meta(content='https://nestflix.fun/img/nestflix-thumb-1200w.jpg', name='twitter:image')
         meta(property='og:image:width', content='1200')
         meta(property='og:image:height', content='630')
 
