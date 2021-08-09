@@ -54,12 +54,16 @@
       transition-duration: 200ms
       transition-property: transform, box-shadow
       transition-timing-function: ease-out
+      -webkit-font-smoothing: subpixel-antialiased
 
       &:hover,
-      &:focus:focus-visible
+      &:focus
         box-shadow: black(.9) 0 20px 40px -16px,
                     black(.7) 0 10px 10px -10px
         transform: scale(1.04, 1.04) translateZ(0px) translate3d(0px, 0px, 0px)
+        transition-duration: 200ms
+        transition-property: transform, box-shadow
+        transition-timing-function: ease-out
 
         &:after
           opacity: 1
