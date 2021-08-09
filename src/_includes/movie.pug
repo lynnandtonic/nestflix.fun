@@ -22,6 +22,6 @@ block content
             h2 Films in the collection
             ul.card-list.submovies(class=slug)
                 each _, counter in Array(submovies)
-                    li: img(src='/img/' + slug + '-submovie' + (counter + 1) + '.jpg')
+                    li: img(src='/img/' + slug + '-submovie' + (counter + 1) + '.jpg', alt=locals[`alt${counter + 1}`])
 
     include recommend
