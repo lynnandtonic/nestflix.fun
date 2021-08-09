@@ -43,12 +43,11 @@ block content
 
     //- Added the form to this page. I was thinking the search in the nav could just link to this page? Or could someone type in a search term on the landing page and it would go here?
     form.search-form
-        input.search-input(type='text' name='search' autocomplete='off' autocorrect='off' placeholder='Search Nestflix')
+        input.search-input(type='text' name='search' id='search' autocomplete='off' autocorrect='off' placeholder='Search by title, genre, etc.')
         button.search-submit Submit
 
     section.list.short
         ul.card-list.thumbs
         //- Maybe this could show only once a search term has been submitted I dunno. I’ll style this better in a bit
         div
-            p No results yet!
-            p You can also #[a(href='') submit a title] to be added.
+            p Can’t find what you’re looking for? #[a(href='/contribute') Submit a title] to be added.
