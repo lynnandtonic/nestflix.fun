@@ -46,24 +46,21 @@
         border-radius: 3px
 
     a
-      display: flex
+      display: block
       position: relative
       box-shadow: black(.7) 0 15px 25px -10px,
                   black(.5) 0 9px 8px -10px
+      cursor: pointer
       transform: scale(1, 1) translateZ(0px) translate3d(0px, 0px, 0px)
       transition-duration: 200ms
       transition-property: transform, box-shadow
       transition-timing-function: ease-out
-      -webkit-font-smoothing: subpixel-antialiased
 
       &:hover,
       &:focus
         box-shadow: black(.9) 0 20px 40px -16px,
                     black(.7) 0 10px 10px -10px
         transform: scale(1.04, 1.04) translateZ(0px) translate3d(0px, 0px, 0px)
-        transition-duration: 200ms
-        transition-property: transform, box-shadow
-        transition-timing-function: ease-out
 
         &:after
           opacity: 1
