@@ -16,12 +16,11 @@ a.button
   font-size: 80%
   color: $grey-drk
   cursor: pointer
-  transition: all 100ms ease-in-out
   box-shadow: black(.3) 0 7px 13px -5px,
               black(.1) 0 5px 4px -5px
   transform: scale(1, 1) translateZ(0px) translate3d(0px, 0px, 0px)
   transition-duration: 200ms
-  transition-property: transform, box-shadow
+  transition-property: color, background-color, transform, box-shadow
   transition-timing-function: ease-out
 
   &:hover,
@@ -32,3 +31,11 @@ a.button
     box-shadow: black(.5) 0 10px 20px -8px,
                 black(.3) 0 5px 5px -5px
     transform: scale(1.04, 1.04) translateZ(0px) translate3d(0px, 0px, 0px)
+
+  &.secondary
+    background-color: $gold
+    color: $grey-drk
+
+    &:hover
+      background-color: $grey-drk
+      color: white

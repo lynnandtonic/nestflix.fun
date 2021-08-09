@@ -19,12 +19,16 @@
   &:focus
     clip: unset
 
+.detail header
+  background-image: linear-gradient(to bottom, black(.4) 30%, black(0))
+.landing header
+  background-image: linear-gradient(to bottom, black(.7) 40%, black(0))
+
 header
   width: 100%
   position: absolute
   padding: 1em var(--body-padding)
   z-index: 10
-  background-image: linear-gradient(to bottom, black(.4) 30%, black(0))
 
   @media screen and (max-width: $bp-md)
     padding-bottom: 2em

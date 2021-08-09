@@ -2,13 +2,17 @@ block vars
 
 html
     head
-        link(rel="stylesheet", type="text/css", href="/css/main.css")
+        link(rel='stylesheet', type='text/css', href='/css/main.css')
 
         title !{title}
             if bodyClass !== 'landing'
                 = ' - Nestflix'
 
         link(rel='shortcut icon', href='/img/_icons/favicon.png')
+
+        link(rel='preconnect' href='https://fonts.googleapis.com')
+        link(rel='preconnect' href='https://fonts.gstatic.com' crossorigin)
+        link(href='https://fonts.googleapis.com/css2?family=Inter:wght@200;300;500;700&display=swap' rel='stylesheet')
 
         meta(content='@lynnandtonic', name='twitter:site')
         meta(content='@lynnandtonic', name='twitter:creator')
@@ -20,7 +24,6 @@ html
         meta(content=description, name='twitter:description', property='og:description')
         meta(name='twitter:card', content='summary_large_image')
         meta(property='og:type',  content='website')
-        //- TODO: replace URL with final domain
         meta(content='https://nestflix.fun/' + slug, property='og:url')
         meta(content='https://nestflix.fun/' + slug, property='twitter:url')
         if bodyClass == 'detail'
@@ -55,6 +58,6 @@ html
                 a(href='/contribute') Contribute
             div
                 p Nestflix is not affiliated with Netflix or any other streaming service or film studio.
-                p Made with love by #[a(href='https://twitter.com/lynnandtonic') Lynn Fisher]. Big thanks to Jason Rose.
+                p Made with love by #[a(href='https://twitter.com/lynnandtonic') Lynn Fisher].<br/>Big thanks to Jason Rose.
                 p.coffee #[span Like this site?]
-                 a(href="https://www.buymeacoffee.com/lynnandtonic") Buy me a coffee
+                 a(href='https://www.buymeacoffee.com/lynnandtonic') Buy me a coffee

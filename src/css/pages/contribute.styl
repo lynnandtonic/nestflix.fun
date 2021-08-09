@@ -11,15 +11,63 @@
   main
     display: grid
     place-content: center
+    background-color: $white
 
   #content
     width: 100%
-    max-width: 600px
-    padding: 1em var(--body-padding)
-
-    p, ul
-      font-size: 120%
+    max-width: 900px
+    padding: calc(var(--body-padding)*2) var(--body-padding)
+    color: $grey-drk
+    font-weight: 300
 
     ul
       margin-left: 1em
       list-style-type: disc
+
+    a
+      color: $grey-drk
+      text-decoration: underline
+      font-weight: $font-weight-medium
+
+  //- user page
+  .user-profile
+    padding: 1em var(--body-padding)
+    text-align: center
+
+    h1
+      margin-top: 1em
+
+  form
+    max-width: 450px
+    margin: var(--body-padding) 0
+    padding: 1em
+    border: 1px solid black(.3)
+
+    > label
+      display: flex
+      align-items: center
+      margin-bottom: 5px
+      font-size: 90%
+      font-weight: $font-weight-medium
+      
+      &.required:after
+        content: 'required'
+        margin-left: auto
+        padding-left: 10px
+        font-size: 70%
+
+
+      &:not(:first-of-type)
+        margin-top: 1.2em
+
+    input[type='text'],
+    input[type='email']
+      width: 100%
+      padding: .4em
+      position: relative
+      font-size: 110%
+      border: 1px solid black(.3)
+      border-radius: 3px
+
+    button
+      margin-top: var(--body-padding)
