@@ -131,6 +131,7 @@ async function handleWatcherEvent(path) {
     fse.mkdirpSync('_site/img');
     fse.copySync('./src/img/_icons', '_site/img/_icons');
     fse.copySync('./src/img/_logos', '_site/img/_logos');
+    fse.copySync('./src/img/_header', '_site/img/_header');
 
     // generate top level html files from pug templates
     readAllJsonFiles();
