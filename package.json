@@ -1,7 +1,7 @@
 {
-  "name": "nestflix",
+  "name": "nestflix.fun",
   "version": "1.0.0",
-  "description": "",
+  "description": "A site dedicated to fictional movies and tv shows",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lynnandtonic/nestflix.git"
+    "url": "git+https://github.com/lynnandtonic/nestflix.fun.git"
   },
   "bugs": {
-    "url": "https://github.com/lynnandtonic/nestflix/issues"
+    "url": "https://github.com/lynnandtonic/nestflix.fun/issues"
   },
-  "homepage": "https://github.com/lynnandtonic/nestflix#readme",
+  "homepage": "https://github.com/lynnandtonic/nestflix.fun#readme",
   "engines": {
     "node": ">=14",
     "npm": ">=6.14"
