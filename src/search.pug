@@ -10,7 +10,13 @@ block content
         const searchData = !{JSON.stringify(collections.search.data)};
         const searchFields = !{JSON.stringify(collections.search.fields)};
         function onSearchChange() {
-            const search = document.location.search.split('=')[1];
+            const search = decodeURIComponent((document.location.search.split('=')[1] || ''))
+                .replace(/[+]/g, ' ')
+                .trim();
+            if (search == '') {
+                return;
+            }
+            document.querySelector('.search-input').value = search;
             const entries = [];
             searchData.forEach(function (entry) {
                 for (const field of searchFields) {
