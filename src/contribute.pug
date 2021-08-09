@@ -19,7 +19,7 @@ block content
             li #[strong Not a news or morning show] (for now, this might change)
         p If you have one to add, please #[a(href='') create an issue on GitHub] or fill out this handy form:
 
-        form(name='contact' method='POST' data-netlify='true' action='/thanks')
+        form(name='Submissions' method='POST' netlify-honeypot='bot-field' data-netlify='true' action='/thanks')
 
             h2 Submit a title
 
@@ -52,6 +52,9 @@ block content
             div
                 input(type='checkbox' id='footage' value='yes')
                 label(for='footage') Yes
+
+            label.hidden Don’t fill this out if you’re human: 
+            input.hidden(name='bot-field')
 
             button.secondary(type='submit') Submit
 
