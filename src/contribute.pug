@@ -1,0 +1,21 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Contribute";
+    - var description = "Suggest new titles to add to Nestflix";
+    - var bodyClass = "contribute";
+
+block content
+    section#content
+        h1 Contribute to Nestflix
+        p Nestflix is a wiki dressed up as pretend streaming platform that catalogs fictional films and tv shows inside real movies and tv shows.
+        p Is your fave nested film or show missing from this site?
+
+        p You might be wondering where #[em Rochelle, Rochelle] from #[em Seinfeld] is. Or #[em Coming Home in a Body Bag] from #[em True Romance].
+        p Here’s the criteria for what gets added:
+        ul
+            li Must be fictional (not just a recreation of a real film)
+            li Must show actual footage (not just mentioned in dialogue or seen in a poster)
+            li Is not a news or morning news show (for now, this might change)
+        p If you have one to add, please #[a(href='') create an issue on GitHub] or fill out this handy form:
+        p TODO: add Netlify form

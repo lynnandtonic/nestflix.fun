@@ -37,9 +37,9 @@ html
                 a.nav-home(href='/')
                     img(src='/img/_logos/logo-nestflix.svg' alt='Nestflix')
                 a(href='/search') Search
-                a(href='/about') About
                 a(href='/contribute') Contribute
-                a.nav-user(href='/user') User FPO
+                a.nav-user(href='/user')
+                    img(src='/img/_icons/icon-user.svg' alt='user icon')
 
         main
             block content
@@ -49,10 +49,9 @@ html
                 a.nav-home(href='/')
                     img(src='/img/_logos/logo-nestflix.svg' alt='Nestflix')
                 a(href='/search') Search
-                a(href='#') About
-                a(href='#') Contribute
+                a(href='/contribute') Contribute
             div
                 p Nestflix is not affiliated with Netflix or any other streaming service or film studio.
-                p Made with love by #[a(href='https://twitter.com/lynnandtonic') Lynn Fisher].
+                p Made with love by #[a(href='https://twitter.com/lynnandtonic') Lynn Fisher]. Big thanks to Jason Rose.
                 p.coffee #[span Like this site?]
                  a(href="https://www.buymeacoffee.com/lynnandtonic") Buy me a coffee
