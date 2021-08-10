@@ -27,6 +27,8 @@
     // 3 across for mid screens
     @media screen and (min-width: $bp-md + 1) and (max-width: $bp-lg)
       grid-template-columns: repeat(3,1fr)
+      &.stills
+        grid-template-columns: repeat(2,1fr)
 
     // 4 across for big screens
     @media screen and (min-width: $bp-lg + 1)

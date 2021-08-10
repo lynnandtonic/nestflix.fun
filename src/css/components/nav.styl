@@ -20,9 +20,20 @@
     clip: unset
 
 .detail header
-  background-image: linear-gradient(to bottom, black(.4) 30%, black(0))
+  @media screen and (max-width: $bp-md)
+    background-image: linear-gradient(to bottom, black(.8) 10%,
+                                                 black(.4) 60%,
+                                                 black(0) 100%)
+  @media screen and (min-width: $bp-md + 1)
+    background-image: linear-gradient(to bottom, black(.4) 30%, black(0))
+
 .landing header
-  background-image: linear-gradient(to bottom, black(.7) 40%, black(0))
+  @media screen and (max-width: $bp-md)
+    background-image: linear-gradient(to bottom, black(.7) 40%, black(0))
+  @media screen and (min-width: $bp-md + 1)
+    background-image: linear-gradient(to bottom, black(.6) 40%,
+                                                 black(.1) 85%,
+                                                 black(0) 100%)
 
 header
   width: 100%
@@ -32,9 +43,6 @@ header
 
   @media screen and (max-width: $bp-md)
     padding-bottom: 2em
-    background-image: linear-gradient(to bottom, black(.6) 40%,
-                                                 black(.1) 85%,
-                                                 black(0) 100%)
 
   nav
     display: flex
