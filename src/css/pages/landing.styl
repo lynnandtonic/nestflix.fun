@@ -37,7 +37,11 @@
       position: absolute
       left: 0
       top: 0
-      background-image: linear-gradient(to top, black(.9) 0, black(.2) 100%)
+      background-image: linear-gradient(to top, black(.9) 0, black(.2) 100%),
+                        repeating-linear-gradient(to right, black(.1),
+                                                            black(.1) 2px,
+                                                            black(0) 2px,
+                                                            black(0) 4px)
 
     img
       width: 100%
@@ -50,3 +54,6 @@
     font-size: 120%
     text-align: center
     z-index: 2
+
+    p
+      font-weight: $font-weight-normal

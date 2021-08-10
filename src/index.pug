@@ -13,7 +13,7 @@ mixin feature(movieTitle)
             p !{collections.byTitle[movieTitle].data.description}
             a.button(href=collections.byTitle[movieTitle].data.slug aria-label="Details for " + collections.byTitle[movieTitle].data.title) Details
         div.entry-image 
-            img(src='/img/' + collections.byTitle[movieTitle].data.slug + '.jpg')
+            img(src='/img/' + collections.byTitle[movieTitle].data.slug + '.jpg' alt=collections.byTitle[movieTitle].data.altHero)
 
 mixin cards(tag1,tag2)
     each tag in tags.slice(tag1,tag2)
@@ -32,7 +32,7 @@ block content
             div
                 h1 Welcome to Nestflix
                 p The platform for your favorite nested films and shows.
-                p Fictional movies inside other movies? Got ‘em. Fake shows inside other shows? You bet. Browse our selection of over 400 stories within stories.
+                p Fictional movies within movies? Got ‘em. Fake shows within shows? You bet. Browse our selection of over 400 stories within stories.
         div.hero-image
             img(src='/img/_header/header-bg.jpg' alt='visual spread of titles')
             //- img.hero-image(src='/img/nestflix-thumb.jpg' alt='')
