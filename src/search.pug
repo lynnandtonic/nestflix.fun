@@ -21,7 +21,7 @@ block content
             const entries = [];
             searchData.forEach(function (entry) {
                 for (const field of searchFields) {
-                    if ((entry[field] || "").indexOf(search) > -1) {
+                    if ((entry[field] || "").replace(/[’]/g, "'").indexOf(search) > -1) {
                         entries.push(entry);
                         break;
                     }
