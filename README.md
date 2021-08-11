@@ -1,6 +1,6 @@
 # nestflix.fun
 
-Nestflix is a wiki dressed up as a pretend streaming platform that catalogs fictional films and tv shows inside real movies and tv shows.
+Nestflix is a wiki dressed up as a streaming platform that catalogs fictional films and tv shows inside real movies and tv shows.
 
 ## Develop
 
