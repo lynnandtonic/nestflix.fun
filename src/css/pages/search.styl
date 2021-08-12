@@ -19,11 +19,15 @@
   .search-input
     width: 100%
     padding: 1rem
+    padding-right: 0
     background-color: transparent
     border: none
     border: 1px solid white(.5)
     font-size: 200%
     color: white
+    
+    @media screen and (max-width: 500px)
+      font-size: 100%
 
     &:focus
       outline: none
@@ -35,6 +39,10 @@
     border-top-left-radius: 0
     border-bottom-left-radius: 0
 
+    @media screen and (max-width: 500px)
+      font-size: 100%
+      padding: 1rem
+
   ul.card-list + div
     display: none
 
@@ -42,6 +50,9 @@
     display: block
     font-size: 140%
     text-align: center
+
+    @media screen and (max-width: 500px)
+      font-size: 100%
 
   noscript
     margin-bottom: 2em
