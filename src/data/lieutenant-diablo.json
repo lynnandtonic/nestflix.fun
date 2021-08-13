@@ -1,0 +1,27 @@
+{
+  "slug": "lieutenant-diablo",
+  "title": "Lieutenant ¡Diablo!",
+  "featuredTitle": "Lieutenant ¡Diablo!",
+  "description": "Christie Dancer quits her job at the strip club to join the police force and solve her father’s murder. She teams up with Diablo, owner of the nightclub Hades and man of biblical intuition.",
+  "quote": "It was a devil of a case, but this scum didn’t stand a chance in hell. Book him!",
+  "parent": "Lucifer",
+  "parentYear": "2016-Present",
+  "rating": "TV-PG",
+  "runtime": "7 episodes",
+  "creator": "Matt Owens",
+  "studio": "Warner Bros.",
+  "labels": "fantasy, crime",
+  "credit": "Warner Bros. Television, Netflix",
+  "altHero": "Diablo, a handsome bearded man, looks at the camera with a knowing, raised eyebrow as Detective Dancer, a beautiful blonde woman, looks at him with admiration",
+  "alt1": "Diablo brings a suspect into custody",
+  "alt2": "Diablo talks with another detective, Doofus",
+  "alt3": "Diablo and Dancer gaze into each other’s eyes",
+  "alt4": "a blonde woman with dark-rimmed glasses smiles",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows"
+  ]
+}
