@@ -20,9 +20,9 @@ section.entry.hero
             small.meta #[strong Creator:] !{creator}
         if studio
             small.meta #[strong Studio:] !{studio}
-        small.meta #[strong As seen in:] !{parent} (!{parentYear})
+        small.meta #[strong As seen in:] #[a(href='/search?search=' + parent) !{parent}] (!{parentYear})
             if parent2
-                span &nbsp;and !{parent2} (!{parent2Year})
+                span &nbsp;and #[a(href='/search?search=' + parent2) !{parent2}] (!{parent2Year})
         //- button Details
     div.entry-image
         img(src='/img/' + slug + '.jpg' alt=altHero)
