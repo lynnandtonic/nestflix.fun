@@ -1,0 +1,26 @@
+{
+  "slug": "dogcopter-3",
+  "title": "Dogcopter 3",
+  "featuredTitle": "Dogcopter 3",
+  "description": "The third installment of Dogcopter, based on the popular book series. In a world where humanity is pushed to the brink, it turns out that the one who was most human is a dog… copter.",
+  "quote": "Some people say you can’t teach an old dog, new tricks. Unless you’re Dogcopter.",
+  "parent": "Steven Universe",
+  "parentYear": "2013-2019",
+  "rating": "PG",
+  "runtime": "1h 54m",
+  "labels": "action",
+  "credit": "Warner Bros. Television",
+  "altHero": "a dog with helicopter blade extending from his back flies over a city",
+  "alt1": "a giant robot destroying the city",
+  "alt2": "a girl gives a smug smile to the dog on the ground",
+  "alt3": "dogcopter flies toward the giant robot",
+  "alt4": "dogcopter, in the air, lifts its tail and a missle shoots out from his butt",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
