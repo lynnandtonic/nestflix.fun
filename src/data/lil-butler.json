@@ -1,0 +1,27 @@
+{
+  "slug": "lil-butler",
+  "title": "Li’l Butler",
+  "featuredTitle": "Li’l Butler",
+  "description": "An orphaned boy with sass and pep got dropped off on the Money family’s mansion step. They washed his face of dirt and leaves and now he works there as their Jeeves. He’s the butler who butlers their hearts.",
+  "quote": "You people have too much money!",
+  "parent": "Steven Universe",
+  "parentYear": "2013-2019",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": "Randy Anderson, Patterick Crosdale III, Kelly Darling, Cathryn Scotterson-McNeil",
+  "labels": "comedy, family",
+  "credit": "Warner Bros. Television",
+  "altHero": "a little butler pouring some tea for a man reading a newspaper",
+  "alt1": "a family at the front door huddle around a tiny bald baby with white mustache ",
+  "alt2": "Li’l Butler tasting some soup on the stove",
+  "alt3": "Li’l Butler mopping the floor",
+  "alt4": "Li’l Butler lifts a cloche revealing a tray of cash, the family laughs",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
