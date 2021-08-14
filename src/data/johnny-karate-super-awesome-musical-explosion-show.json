@@ -1,0 +1,27 @@
+{
+  "slug": "johnny-karate-super-awesome-musical-explosion-show",
+  "title": "Johnny Karate Super Awesome Musical Explosion Show",
+  "featuredTitle": "Johnny Karate Super Awesome Musical Explosion Show",
+  "description": "The only show that’s all about learning, music, animals, fireworks, water skis, and above all… ice cream, pizza, ninjas, getting stronger, sharks vs. bears, and above all… karate!",
+  "parent": "Parks and Recreation",
+  "parentYear": "2009-2015",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "starring": "Andy Dwyer, Perd Hapley, Leslie Knope, Ron Swanson, April Ludgate-Karate-Dwyer, Ben Wyatt, Gary Gergrench, Donna Meagle",
+  "creator": "Andy Dwyer",
+  "labels": "kids, variety",
+  "credit": "NBCUniversal Television",
+  "altHero": "Andy Dwyer as Johnny Karate",
+  "alt1": "Donna Meagle as the Chief talking with FBI agent, Burt Macklin",
+  "alt2": "Johnny Karate in a worship with Ron Swanson",
+  "alt3": "Johnny drinking a neon green liquid from a science flask as Ben Wyatt yells",
+  "alt4": "small ninjas running away as Mailman Barry bends over in pain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
