@@ -7,7 +7,7 @@ section.list.recommend
                     li
                         a(href=entry.data.page.url)
                             img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
-        each otherTag in tags.slice(2)
+        each otherTag in tags.slice(2,3)
             each entry in collections[otherTag]
                 if entry.data.title !== title && entry.data.parent !== parent
                     li
