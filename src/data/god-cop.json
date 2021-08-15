@@ -13,6 +13,7 @@
   "labels": "drama, crime",
   "credit": "NBCUniversal Television",
   "altHero": "two police detectives",
+  "heroPosition": "left",
   "layout": "movie.pug",
   "tags": [
     "entry",
