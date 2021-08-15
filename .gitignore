@@ -4,6 +4,7 @@
 .settings
 *.sublime-workspace/
 .DS_Store
+.vscode
 
 *.log
 

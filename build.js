@@ -149,7 +149,7 @@ async function handleWatcherEvent(path) {
 
     // generate all json-templated entries
     const movieFunction = pug.compileFile('./src/_includes/movie.pug', pugOptions);
-    await Promise.all(globalData.collections.all.map(async function (movie) {
+    for (const movie of globalData.collections.all) {
         const dataForPug = {
             ...movie,
             collections: globalData.collections,
@@ -157,7 +157,7 @@ async function handleWatcherEvent(path) {
         const pugDir = `_site/${dataForPug.slug}`;
         fse.mkdirpSync(pugDir);
         await writePugToFile(`${pugDir}/index.html`, movieFunction(dataForPug));
-    }));
+    }
 
     // copy all cached images to the site directory
     fse.copySync('.cache/img', '_site/img', {overwrite: true});
