@@ -1,0 +1,27 @@
+{
+  "slug": "choozy-doozy-celebrity",
+  "title": "Choozy Doozy: Celebrity",
+  "featuredTitle": "Choozy Doozy: Celebrity",
+  "description": "The #1 family show of 2025! Every week it’s the same goddamn thing. It’s guy on guy, girl on girl. Sometimes it’s even guy on girl.",
+  "quote": "You chooze it, you dooze it!",
+  "parent": "Hot Tub Time Machine 2",
+  "parentYear": "2015",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": "Britt McShasaucey",
+  "labels": "game show",
+  "credit": "Paramount Pictures",
+  "altHero": "show host Britt McShasaucey",
+  "alt1": "McShasaucey",
+  "alt2": "McShasaucey with celebrity Nick Webber",
+  "alt3": "Choozilator poll board choosing from: eat a bunch of waffles, f*** a dude, Juggle knives, and swallow a watch",
+  "alt4": "Lou Dorchen in a jump suit and VR gogles being electrocuted",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "game shows with a bit of danger!",
+    "new on nestflix"
+  ]
+}
