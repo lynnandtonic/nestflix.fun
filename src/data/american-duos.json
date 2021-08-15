@@ -1,0 +1,27 @@
+{
+  "slug": "american-duos",
+  "title": "American Duos",
+  "featuredTitle": "American Duos",
+  "description": "Not just another knock-off reality singing competition. These contestants are duos who have to mesh, become one soul. Compelling!",
+  "quote": "You’re stiff, inarticulate, slightly jaundiced, asymmetrical. You smell.",
+  "parent": "Psych",
+  "parentYear": "2006-2014",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": "Lester Beacon, Nigel St. Nigel, Emilina Saffron, Zapato Dulce",
+  "labels": "reality, competition, music",
+  "credit": "NBCUniversal Television",
+  "altHero": "two awkward men in white tuxedos sing a duet",
+  "alt1": "a man and woman in matching track jackets sing and dance",
+  "alt2": "host Lester Beacon",
+  "alt3": "the panel of judges looking bored",
+  "alt4": "Shawn and Gus performing on stage dressed as 80s icons",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
