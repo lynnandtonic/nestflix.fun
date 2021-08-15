@@ -1,0 +1,23 @@
+{
+  "slug": "forrest-gump-2-gump-again",
+  "title": "Forrest Gump 2: Gump Again",
+  "featuredTitle": "Forrest Gump 2: Gump Again",
+  "description": "The long-awaited and surprisingly high-budget sequel to the Tom Hanks Oscar-winning film.",
+  "quote": "I guess life is a lot like a crab cake. There’s lots of good stuff in the middle, but it’s surrounded by a bunch of crap.",
+  "parent": "Cecil B. Demented",
+  "parentYear": "2000",
+  "rating": "PG-13",
+  "runtime": "2h 33m",
+  "starring": "Kevin Nealon",
+  "director": "Brook Yeaton",
+  "labels": "drama",
+  "credit": "Artisan Entertainment",
+  "altHero": "Kevin Nealon as Forrest Gump sitting on a bench and talking to a woman ",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
