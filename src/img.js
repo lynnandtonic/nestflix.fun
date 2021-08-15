@@ -1,3 +1,4 @@
+//@ts-check
 /**
  * Copyright (c) 2020 Google Inc
  *
@@ -24,9 +25,10 @@ import { promisify } from 'util';
 import imageSize from 'image-size';
 import path from 'path';
 import fs from 'fs';
+import { exec } from 'child_process';
 import { mkdirpSync } from 'fs-extra';
-import sharp from 'sharp';
 const sizeOf = promisify(imageSize);
+const execPromise = promisify(exec);
 
 function isThumbnail(filename) {
     return filename.match(/-thumb.jpg$/i)
@@ -36,43 +38,12 @@ function isThumbnail(filename) {
 }
 
 const heroWidths = [1280, 640];
-const thumbWidths = [1200, 640, 320];
+const thumbWidths = [640, 320];
 
 const extension = {
     jpeg: "jpg",
-    webp: "webp",
     avif: "avif",
 };
-
-const quality = {
-    avif: 40,
-    default: 60,
-};
-
-async function srcset(filename, format) {
-    const widths = (isThumbnail(filename) ? thumbWidths : heroWidths);
-    const names = await Promise.all(
-        widths.map((w) => resize(filename, w, format))
-    );
-    return names.map((n, i) => `${n} ${widths[i]}w`).join(", ");
-};
-
-async function resize(filename, width, format) {
-    const out = sizedName(filename, width, format);
-    if (fs.existsSync(".cache" + out)) {
-        return out;
-    }
-    await sharp("./src" + filename)
-        .rotate() // Manifest rotation from metadata
-        .resize(width)
-    [format]({
-        quality: quality[format] || quality.default,
-        reductionEffort: 6,
-    })
-        .toFile(".cache" + out);
-
-    return out;
-}
 
 function sizedName(filename, width, format) {
     const ext = extension[format];
@@ -82,8 +53,37 @@ function sizedName(filename, width, format) {
     return filename.replace(/\.\w+$/, (_) => "-" + width + "w" + "." + ext);
 }
 
+async function srcset(filename, format) {
+    const widths = (isThumbnail(filename) ? thumbWidths : heroWidths);
+    // const names = [];
+    // for (const width of widths) {
+    //     const name = await resize(filename, width, format);
+    //     names.push(name);
+    // }
+    const names = await Promise.all(
+        widths.map((w) => resize(filename, w, format))
+    );
+    if (format === 'jpeg' && filename.match(/-thumb.jpg$/i)) {
+        // Generate 1200px optimized jpegs for social media
+        await resize(filename, 1200, format);
+    }
+    return names.map((n, i) => `${n} ${widths[i]}w`).join(", ");
+};
+
+async function resize(filename, width, format) {
+    const out = sizedName(filename, width, format);
+    if (fs.existsSync(".cache" + out)) {
+        return out;
+    }
+    await execPromise(`node ./compressImage.js ${filename} ${width} ${format}`);
+    return out;
+}
+
 async function processImage(img, outputPath) {
     let src = img.getAttribute("src");
+    if (src.startsWith('http')) {
+        return;
+    }
     if (/^\.+\//.test(src)) {
         // resolve relative URL
         src =
@@ -155,7 +155,10 @@ export default async function processImagesAndWriteFile(templateFilename, templa
     const images = [...dom.window.document.querySelectorAll('img')];
 
     if (images.length > 0) {
-        await Promise.all(images.map((i) => processImage(i, templateFilename)));
+        for (const i of images) {
+            await processImage(i, templateFilename);
+        }
+        // await Promise.all(images.map((i) => processImage(i, templateFilename)));
         content = dom.serialize();
     }
     fs.writeFileSync(templateFilename, content, { encoding: 'utf8' });
