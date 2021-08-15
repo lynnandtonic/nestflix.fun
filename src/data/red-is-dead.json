@@ -1,0 +1,27 @@
+{
+  "slug": "red-is-dead",
+  "title": "Red Is Dead",
+  "featuredTitle": "Red Is Dead",
+  "description": "A group of friends gather for a dinner party, unaware that a Communist murderer plans to pay them a visit.",
+  "quote": "Meurs, pourriture communiste!",
+  "parent": "La Cité de la Peur",
+  "parentYear": "1994",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "starring": "Simon Jeremi, Sandy Brookshield, Bob J. MacLef, Ryon O'Nouille, Don Voyelle, Clint Consonne, Pascal Pascal, Robert Miro",
+  "labels": "horror, slasher",
+  "credit": "Pathé Distribution",
+  "altHero": "Yuri, the Communist murderer wearing a welding hammer and wielding a hammer and sickle",
+  "alt1": "Benjamin and Sandy huddle close, frightened",
+  "alt2": "Sandy wraps herself in a towel after a shower",
+  "alt3": "Benjamin wrestles Yuri, who has his hammer raised",
+  "alt4": "Benjamin is on his car phone in the woods at night, not realizing Yuri is right behind him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks",
+    "new on nestflix"
+  ]
+}
