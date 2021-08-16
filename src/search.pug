@@ -17,11 +17,17 @@ block content
                 return;
             }
             document.querySelector('.search-input').value = search;
-            search = search.toLowerCase();
+            search = search
+                .toLowerCase()
+                .replace(/[’'":,;]/g, '')
+                .trim();
+            if (search == '') {
+                return;
+            }
             const entries = [];
             searchData.forEach(function (entry) {
                 for (const field of searchFields) {
-                    if ((entry[field] || "").replace(/[’]/g, "'").indexOf(search) > -1) {
+                    if ((entry[field] || "").replace(/[’'":,;]/g, "").indexOf(search) > -1) {
                         entries.push(entry);
                         break;
                     }
