@@ -1,0 +1,29 @@
+{
+  "slug": "euphegenias-house",
+  "title": "Euphegenia’s House",
+  "featuredTitle": "Euphegenia’s House",
+  "description": "At Euphegenia’s House, learn about new animals, people, and places. Hang with Kovacs the chimp and Mr. Sprinkles the mailman. Every episode Euphegenia answers your questions.",
+  "quote": "Do you know what that means, poppets?",
+  "parent": "Mrs. Doubtfire",
+  "parentYear": "1993",
+  "rating": "TV-Y",
+  "runtime": "4 seasons",
+  "starring": "Daniel Hillard",
+  "creator": "Daniel Hillard",
+  "studio": "KTVU",
+  "labels": "kids",
+  "credit": "20th Century Fox",
+  "altHero": "Euphegenia, a nice elderly English woman, sits in her living room looking at a globe with a chimp puppet",
+  "alt1": "Euphegenia talks with the chimp puppet, Kovacs",
+  "alt2": "closeup of Kovacs",
+  "alt3": "Mr. Sprinkles the mailman",
+  "alt4": "closeup of Euphegenia",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
