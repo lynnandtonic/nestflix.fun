@@ -1,0 +1,27 @@
+{
+  "slug": "moonquake-lake",
+  "title": "MoonQuake Lake",
+  "featuredTitle": "MoonQuake Lake",
+  "description": "She’s a fish and he’s a boy. They were never meant to meet… but faith didn’t listen.",
+  "quote": "What if we can get you out of the moon? There’s an asteroid or something.",
+  "parent": "Annie",
+  "parentYear": "2014",
+  "rating": "PG-13",
+  "runtime": "1h 54m",
+  "starring": "Ashton Kutcher, Mila Kunis, Rihanna",
+  "labels": "drama, romance, fantasy",
+  "credit": "Sony Pictures",
+  "altHero": "Mila Kunis as Andrea and Ashton Kutcher as Simon standing in the woods, Andrea is crying bright blue tears",
+  "alt1": "Andrea and Simon sitting on a small dock on a misty lake",
+  "alt2": "Andrea and Simon kissing in the woods",
+  "alt3": "Rihanna as the Moon Goddess facetiming with Andrea",
+  "alt4": "the Fish Goddess emerges from the lake",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
