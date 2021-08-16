@@ -1,0 +1,27 @@
+{
+  "slug": "seduccion-salvaje",
+  "title": "Seducción Salvaje",
+  "featuredTitle": "Seducción Salvaje",
+  "description": "Savage Seduction follows the entangled lives of Armando, his pregnant girlfriend Maribel, her mother Alicia and her father Colonel Rafael Obregon, and the maid Carmen. Betrayal, secrets, and cursed brooches!",
+  "quote": "Am I speaking Spanish?",
+  "parent": "Warehouse 13",
+  "parentYear": "2009-2014",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "studio": "Estudio Gutierrez",
+  "labels": "telenovela",
+  "credit": "NBCUniversal Television",
+  "altHero": "Armando, Carmen, and Colonel Rafael Obregon look at the camera",
+  "alt1": "Carmen the maid is angry, holding a knife up to Maribel",
+  "alt2": "Alicia strikes a pose",
+  "alt3": "Maribel points a gun",
+  "alt4": "Doña Fausta lays in bed but is shocked",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "telenovelas",
+    "new on nestflix"
+  ]
+}

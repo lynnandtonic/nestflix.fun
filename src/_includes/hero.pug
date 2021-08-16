@@ -25,5 +25,8 @@ section.entry.hero
                 span &nbsp;and #[a(href='/search?search=' + parent2) !{parent2}] (!{parent2Year})
         //- button Details
     div.entry-image
-        img(src='/img/' + slug + '.jpg' alt=altHero)
+        if heroPosition
+            img(src='/img/' + slug + '.jpg' alt=altHero class=heroPosition)
+        else
+            img(src='/img/' + slug + '.jpg' alt=altHero)
         small © !{credit}

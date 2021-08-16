@@ -1,0 +1,21 @@
+{
+  "slug": "double-trouble",
+  "title": "Double Trouble",
+  "featuredTitle": "Double Trouble",
+  "description": "The now notorious child stars Sam and Stan Sweet started their careers in the hit sitcom <em>Double Trouble</em> about two mischievous twin brothers.",
+  "parent": "The Cable Guy",
+  "parentYear": "1996",
+  "rating": "TV-G",
+  "runtime": "7 seasons",
+  "starring": "Sam Sweet, Stan Sweet, Conrad Janis",
+  "labels": "comedy",
+  "credit": "Sony Pictures",
+  "altHero": "two twins point at each other",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}

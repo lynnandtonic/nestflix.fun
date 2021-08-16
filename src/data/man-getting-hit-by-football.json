@@ -1,0 +1,27 @@
+{
+  "slug": "man-getting-hit-by-football",
+  "title": "Man Getting Hit by Football",
+  "featuredTitle": "Man Getting Hit by Football",
+  "description": "The ball! His groin! It works on so many levels! A Springfield Film Festival special selection.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "Unrated",
+  "runtime": "3m",
+  "starring": "Hans Moleman",
+  "studio": "Hans Moleman Productions",
+  "labels": "comedy, amateur",
+  "credit": "20th Television",
+  "altHero": "Hans Moleman stands outside his house",
+  "alt1": "a football flies at Moleman",
+  "alt2": "the football hits him in the groin",
+  "alt3": "he keels over in pain",
+  "alt4": "he falls to the ground",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}

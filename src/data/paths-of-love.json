@@ -1,0 +1,29 @@
+{
+  "slug": "paths-of-love",
+  "title": "Paths of Love",
+  "featuredTitle": "Paths of Love",
+  "description": "These singles have crossed paths in the past, but only now are they taking a shot at love. It’s the only show where you get a second chance at a chance meeting.",
+  "quote": "It’s as if he’s trying to say all the wrong things.",
+  "parent": "Psych",
+  "parentYear": "2006-2014",
+  "rating": "TV-14",
+  "runtime": "6 seasons",
+  "starring": "Hilton Fox",
+  "creator": "Jay Gianukos",
+  "director": "Steve Rollins",
+  "labels": "reality, competition, music",
+  "credit": "NBCUniversal Television",
+  "altHero": "woman stands in front of rows of men in a heart ceremony",
+  "alt1": "woman bachelorette looks nervous but excited",
+  "alt2": "bachelorette gives a confessional interview",
+  "alt3": "Shawn and Gus, contestants on the show, each give a one finger wave",
+  "alt4": "the bachelorette with the man she chooses, rose petals cascading down around them",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}

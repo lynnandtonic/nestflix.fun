@@ -1,0 +1,27 @@
+{
+  "slug": "evil-bratt",
+  "title": "Evil Bratt",
+  "featuredTitle": "Evil Bratt",
+  "description": "Balthazar Bratt, cultural icon of the mid-1980s, plays Evil Bratt. He’s a child prodigy and criminal mastermind bent on world domination.",
+  "quote": "I’ve been a baaaad boy!",
+  "parent": "Despicable Me 3",
+  "parentYear": "2017",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": "Balthazar Bratt",
+  "labels": "kids, action",
+  "credit": "Universal Pictures",
+  "altHero": "a kid in 80s purple jumpsuit (Evil Bratt) with a robot friend",
+  "alt1": "Evil Bratt holding a sack of money and riding a kid’s tricycle away from police cars",
+  "alt2": "frightened army soldiers shooting guns into the distance",
+  "alt3": "Evil Bratt in a control room pushing a red button",
+  "alt4": "a giant Evil Bratt stomps through the city ",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "requiem-for-a-tuesday",
+  "title": "Requiem for a Tuesday",
+  "featuredTitle": "Requiem for a Tuesday",
+  "description": "It may not be <em>Avatar</em>, but it’s a good try from first-time filmmaker Ben Wyatt.",
+  "parent": "Parks and Recreation",
+  "parentYear": "2009-2015",
+  "rating": "Unrated",
+  "runtime": "5s",
+  "director": "Ben Wyatt",
+  "labels": "drama, animation",
+  "credit": "NBCUniversal Television",
+  "altHero": "a clay model man stands near a bed in a diorama-type room",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
