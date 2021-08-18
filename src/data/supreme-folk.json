@@ -1,0 +1,27 @@
+{
+  "slug": "supreme-folk",
+  "title": "Supreme Folk",
+  "featuredTitle": "Supreme Folk",
+  "description": "The Supreme Court meets folk music. During the day, the New Main Street Singers handle some of the top, most difficult cases in the land. And at night, they live in one big house and they take off their robes and sing folk songs.",
+  "parent": "A Mighty Wind",
+  "parentYear": "2003",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": "George Menschell, Terry Bohner, Laurie Bohner, Sissy Knox, Sean Halloran, Tony Pollono, Jerald Smithers, Johnny Athenakis, Mike Maryama",
+  "creator": "Mike LaFontaine",
+  "labels": "reality, crime, music",
+  "credit": "Warner Bros. Pictures",
+  "altHero": "Laurie Bohner dressed as a judge on the stand",
+  "alt1": "The New Main Street Singers as Supreme Court judges",
+  "alt2": "Sissy Knox, a judge, doing needlepoint on the stand",
+  "alt3": "the band playing instruments in a living room",
+  "alt4": "Terry and Laurie Bohner playing and singing ",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "criminal justice reality tv",
+    "new on nestflix"
+  ]
+}
