@@ -11,7 +11,7 @@ npm start
 
 ## Contributing
 
-If you’d like to contribute, I’d prefer you submit an issue and not a pull request.
+**If you’d like to contribute, please submit an issue and NOT a pull request.**
 
 You can submit new films/shows to be added or bug/feature requests [here on GitHub](https://github.com/lynnandtonic/nestflix.fun/issues/new/choose) or via a [form on nestflix.fun](https://nestflix.fun/contribute)
 
