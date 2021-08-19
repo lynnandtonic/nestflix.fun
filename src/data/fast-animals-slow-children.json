@@ -1,0 +1,27 @@
+{
+  "slug": "fast-animals-slow-children",
+  "title": "Fast Animals, Slow Children",
+  "featuredTitle": "Fast Animals, Slow Children",
+  "description": "Every episode a thrilling chase! Fast animals and slow children.",
+  "quote": "Aw dang, I got honey all over my legs!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "studio": "FOX",
+  "labels": "animals, action",
+  "credit": "20th Television",
+  "altHero": "a tiger running fast",
+  "alt1": "a tiger running",
+  "alt2": "a slow boy walking with his lunch box",
+  "alt3": "tiger still running fast",
+  "alt4": "the boy has dropped his lunch box and gotten honey all over his legs",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "animals on tv",
+    "new on nestflix"
+  ]
+}
