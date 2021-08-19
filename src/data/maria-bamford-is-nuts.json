@@ -1,0 +1,29 @@
+{
+  "slug": "maria-bamford-is-nuts",
+  "title": "Maria Bamford Is Nuts!",
+  "featuredTitle": "Maria Bamford Is Nuts!",
+  "description": "A show about comedian Maria Bamford’s journey with her mental health… and restarting the sun.",
+  "quote": "Nice grip boy. It’ll help on our way in the lunar module to Alpha Centauri.",
+  "parent": "Lady Dynamite",
+  "parentYear": "2016-2017",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": "Maria Bamford, Lance Banner, Andy Samberg, Sheryl Streep, Craig Gregg, Susan Beeber",
+  "director": "Karen Grisham",
+  "studio": "Muskvision",
+  "labels": "comedy",
+  "credit": "Netflix",
+  "altHero": "Maria with huge puffy hair and her arm around Lance Banner as Scott",
+  "alt1": "two actors as Maria’s parents",
+  "alt2": "Maria walks awkwardly into an office",
+  "alt3": "Andy Samberg as Bruce Ben-Bacharach",
+  "alt4": "Susan points at Maria",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "comedy tv",
+    "new on nestflix"
+  ]
+}
