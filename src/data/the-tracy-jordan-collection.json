@@ -1,0 +1,26 @@
+{
+  "slug": "the-tracy-jordan-collection",
+  "title": "The Tracy Jordan Collection",
+  "featuredTitle": "The Tracy Jordan Collection",
+  "description": "A four film collection from comedy actor Tracy Jordan, star of <em>A Blaffair to Rememblack</em>.",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "PG-13",
+  "runtime": "7h 12m",
+  "starring": "Tracy Jordan",
+  "labels": "collection, comedy",
+  "credit": "NBCUniversal Television",
+  "altHero": "Tracy Jordan on the phone",
+  "submovie1": "Sherlock Homie",
+  "submovie2": "Fat Bitch",
+  "submovie3": "Who Dat Ninja ",
+  "submovie4": "Black Cop White Cop",
+  "layout": "movie.pug",
+  "submovies": 4,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
