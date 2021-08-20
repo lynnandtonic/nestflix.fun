@@ -1,0 +1,28 @@
+{
+  "slug": "terms-of-enrampagement",
+  "title": "Terms of Enrampagement",
+  "featuredTitle": "Terms of Enrampagement",
+  "description": "Sterling Archer discovers his cancer medication is actually sugar pills and Zima. He investigates the pharmacy which leads him to the Irish mob.",
+  "quote": "Did you see Regis this morning?",
+  "parent": "Archer",
+  "parentYear": "2009-Present",
+  "rating": "Unrated",
+  "runtime": "1h 34m",
+  "starring": "Sterling Archer, Lana Kane",
+  "director": "Sterling Archer",
+  "labels": "action",
+  "credit": "20th Television",
+  "altHero": "Archer in the woods, sick with sunken eyes, wears a headscarf and points a gun",
+  "alt1": "a pharmecist",
+  "alt2": "Archer questions a mobster who is tied up and bleeding",
+  "alt3": "Archer points a gun at another mobster",
+  "alt4": "the mob boss in the woods, in a wheelchair and on oxygen",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
