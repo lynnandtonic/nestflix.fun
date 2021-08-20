@@ -1,0 +1,23 @@
+{
+  "slug": "dr-acula",
+  "title": "Dr. Acula",
+  "featuredTitle": "Dr. Acula",
+  "description": "From the twisted mind of John Michael “J.D.” Dorian. Dr. Acula is a doctor and a vampire. Don’t let him deliver your baby… he might eat it.",
+  "quote": "I think I need to take more… blooood!",
+  "parent": "Scrubs",
+  "parentYear": "2001-2010",
+  "rating": "Unrated",
+  "runtime": "43m",
+  "starring": "John Michael Dorian, Christopher Turk",
+  "director": "John Michael Dorian",
+  "labels": "horror",
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "JD in scrubs wearing an afro wig, Turk shirtless wearing a vampire cape and fake teeth",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
