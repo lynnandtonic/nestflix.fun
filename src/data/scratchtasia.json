@@ -1,0 +1,27 @@
+{
+  "slug": "scratchtasia",
+  "title": "Scratchtasia",
+  "featuredTitle": "Scratchtasia",
+  "description": "Magic, music, and mayhem clash in Itchy and Scratchy’s first full-length musical.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "54m",
+  "starring": "June Bellamy",
+  "studio": "I&S Studios",
+  "labels": "musical, comedy, animation",
+  "credit": "20th Television",
+  "altHero": "Scratchy in red robe and blue wizard hat swinging an axe at Itchy",
+  "alt1": "Shadows of Scratchy hitting Itchy with an axe",
+  "alt2": "a bunch of tiny Itchys walking, each carrying an axe",
+  "alt3": "Scratchy chopping up the tiny Itchys into small pieces",
+  "alt4": "Scratchy shriveling up into a corpse",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "new on nestflix"
+  ]
+}
