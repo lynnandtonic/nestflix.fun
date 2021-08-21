@@ -1,0 +1,28 @@
+{
+  "slug": "smoking-gunn-ii",
+  "title": "Smoking Gunn II",
+  "featuredTitle": "Smoking Gunn II",
+  "description": "Where there’s fire, there’s smoke. Where there’s smoke, there’s Joe Gunn. This time, he’s tracking a killer halfway around the globe. He can’t be stopped and he never quits.",
+  "quote": "No one talks that way to Joe Gunn.",
+  "parent": "The Hard Way",
+  "parentYear": "1991",
+  "rating": "R",
+  "runtime": "1h 53m",
+  "starring": "Nick Lang, Kelly Kalas, D.J. Caruso, Bubba Rubenstein",
+  "director": "David Sameth",
+  "labels": "action",
+  "credit": "Universal Pictures",
+  "altHero": "Nick Lang as Joe Gunn",
+  "alt1": "a tropical background and a ninja ready to attack",
+  "alt2": "Gunn looking at a ninja star stuck in the bamboo he’s holding",
+  "alt3": "a villain-type in front of brightly lit blinds",
+  "alt4": "a woman grabs a cigarette from Gunn’s mouth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
