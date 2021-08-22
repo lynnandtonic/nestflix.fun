@@ -1,0 +1,28 @@
+{
+  "slug": "daddys-boy",
+  "title": "Daddy’s Boy!",
+  "featuredTitle": "Daddy’s Boy!",
+  "description": "The 1938 famously unfinished musical presented by Harrison von Harrison Jr.",
+  "quote": "Daddy’s boy! He’s got a daddy that he brings such joy!",
+  "parent": "Unbreakable Kimmy Schmidt",
+  "parentYear": "2015-2019",
+  "rating": "PG",
+  "runtime": "46m",
+  "starring": "Reginald von Bodem, James Alphonso Estep, Eugenia Mulford, Thom von Finland, Cracker the Dog, Jefferson Mays",
+  "studio": "Radio Pictures",
+  "labels": "musical",
+  "credit": "Netflix",
+  "altHero": "black and white classic film: a young sailor walks arm in arm with an older fancy gentleman",
+  "alt1": "a sailor sings against a ship railing in between a man and woman",
+  "alt2": "still on a boat, the older gentleman in top hat and tails",
+  "alt3": "the sailor sings atop a set of stairs",
+  "alt4": "the sailor, older gentleman, and even older man sing together",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "new on nestflix"
+  ]
+}
