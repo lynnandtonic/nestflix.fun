@@ -1,0 +1,26 @@
+{
+  "slug": "hockey-high",
+  "title": "Hockey High",
+  "featuredTitle": "Hockey High",
+  "description": "Coach Brad and his team are down on their luck. Enter Hannah Slice, just what this season needed.",
+  "quote": "Tell me where it says you’re not allowed to bite someone in the rule book.",
+  "parent": "Brigsby Bear",
+  "parentYear": "2017",
+  "rating": "G",
+  "runtime": "1h 38m",
+  "labels": "family, sports",
+  "credit": "Sony Pictures Classics",
+  "altHero": "a kid wearing street clothes, hockey gloves, and hockey helmet",
+  "alt1": "a man and some kids next to a car with smoking engine",
+  "alt2": "kid in hockey helmet",
+  "alt3": "it’s a girl",
+  "alt4": "coach is surprised",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films",
+    "new on nestflix"
+  ]
+}
