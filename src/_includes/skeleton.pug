@@ -32,8 +32,15 @@ html(lang='en')
         meta(content=description, name='twitter:description', property='og:description')
         meta(name='twitter:card', content='summary_large_image')
         meta(property='og:type',  content='website')
-        meta(content='https://nestflix.fun/' + slug, property='og:url')
-        meta(content='https://nestflix.fun/' + slug, property='twitter:url')
+        if bodyClass == 'landing'
+            meta(content='https://nestflix.fun', property='og:url')
+            meta(content='https://nestflix.fun', property='twitter:url')
+        else if bodyClass == 'detail'
+            meta(content='https://nestflix.fun/' + slug, property='og:url')
+            meta(content='https://nestflix.fun/' + slug, property='twitter:url')
+        else
+            meta(content='https://nestflix.fun/' + path, property='og:url')
+            meta(content='https://nestflix.fun/' + path, property='twitter:url')
         if bodyClass == 'detail'
             meta(content='https://nestflix.fun/img/' + slug + '-thumb-1200w.jpg', property='og:image')
             meta(content='https://nestflix.fun/img/' + slug + '-thumb-1200w.jpg', name='twitter:image')
