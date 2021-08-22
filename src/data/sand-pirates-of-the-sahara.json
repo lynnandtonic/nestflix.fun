@@ -1,0 +1,29 @@
+{
+  "slug": "sand-pirates-of-the-sahara",
+  "title": "Sand Pirates of the Sahara",
+  "featuredTitle": "Sand Pirates of the Sahara",
+  "description": "Roland the Intrepid Explorer is in search of the secret of the Pharaoh’s jewel, but first he must save the beautiful Emily from Prince Khalid’s capture.",
+  "quote": "Taste my steel, you dog.",
+  "parent": "The Majestic",
+  "parentYear": "2001",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "starring": "Brett Armstrong, Ramón Jamón, Sandra Sinclair, Michael Sloane, Nigel Clive",
+  "director": "Ferenc Árpád",
+  "studio": "HHS Studios",
+  "labels": "action, adventure",
+  "credit": "Warner Bros. Pictures",
+  "altHero": "Sandra Sinclair as Emily in Egyptian headdress looking at Brett Armstrong’s Roland",
+  "alt1": "a mustached man holding up a lantern",
+  "alt2": "Roland gives a smile",
+  "alt3": "Prince Khalid holds up a small, ancient-looking statue of a man",
+  "alt4": "Emily gasps, perfectly aligned with a sphynx statute behind her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
