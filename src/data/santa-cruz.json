@@ -1,0 +1,26 @@
+{
+  "slug": "santa-cruz",
+  "title": "Santa Cruz",
+  "featuredTitle": "Santa Cruz",
+  "description": "Pregnancies, family secrets, betrayal, and deathly illness! The dramatic lives of Falcon and Darian, her mother Dierdre, and Dr. Griffin Hartley.",
+  "quote": "What do you want to bet that child turns out to have a gambling problem?",
+  "parent": "28 Days",
+  "parentYear": "2000",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": "soap opera",
+  "credit": "Sony Pictures",
+  "altHero": "Darian holds Falcon in his hospital bed",
+  "alt1": "Darian, a young woman with curly blonde hair",
+  "alt2": "Darian’s mother Dierdre talks with the doctor",
+  "alt3": "Falcon is unconscious in his hospital bed",
+  "alt4": "Dierdre is concerned with news her lover is giving her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "soap operas",
+    "new on nestflix"
+  ]
+}
