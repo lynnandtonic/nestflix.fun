@@ -1,0 +1,27 @@
+{
+  "slug": "vampire-disco-death-dance",
+  "title": "Vampire Disco Death Dance",
+  "featuredTitle": "Vampire Disco Death Dance",
+  "description": "Campy cult classic about an 18-year-old farmer named Kevin who works on his mean dad’s garlic farm. All Kevin wants to do is dance at a disco night club. He discovers the club is run by vampires when he meets Destiny Fanger.",
+  "quote": "Disco to hell, vampires!",
+  "parent": "Bob’s Burgers",
+  "parentYear": "2011-Present",
+  "rating": "R",
+  "runtime": "2h 2m",
+  "studio": "Dick Schur’s Motion Pictures",
+  "labels": "musical, fantasy",
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Kevin, a farm boy in overalls, embraces a vampire named Destiny, more vampires in the background dance in unison",
+  "alt1": "Kevin dances in a barn",
+  "alt2": "Kevin doing the splits on a dance floor",
+  "alt3": "Destiny and Kevin with dancing vampires",
+  "alt4": "a vampire man dancing with two red-headed twin vampires",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "new on nestflix"
+  ]
+}

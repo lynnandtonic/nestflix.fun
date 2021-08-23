@@ -1,0 +1,26 @@
+{
+  "slug": "the-brigsby-movie-i-made-with-my-friends",
+  "title": "The Brigsby Movie I Made with My Friends",
+  "featuredTitle": "The Brigsby Movie I Made with My Friends",
+  "description": "It’s a time of reckoning for Brigsby’s home galaxy. The Drumbas have vanished in a great cataclysm and the Sortis crystal is lost. The conclusion to the Brigsby Bear saga.",
+  "parent": "Brigsby Bear",
+  "parentYear": "2017",
+  "rating": "Unrated",
+  "runtime": "1h 15m",
+  "director": "James Pope",
+  "labels": "family, sci-fi, adventure",
+  "credit": "Sony Pictures Classics",
+  "altHero": "Brigsby Bear in the desert raising his arms to the sky",
+  "alt1": "a Stardust Bandit with helmet and sceptor",
+  "alt2": "man with futuristic cloak and disco ball helmet gives Brigsby a thumbs up",
+  "alt3": "Sunsnatcher looks into a building whose roof he collapsed",
+  "alt4": "a wizard with cloak and staff",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}

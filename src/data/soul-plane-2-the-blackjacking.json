@@ -1,0 +1,27 @@
+{
+  "slug": "soul-plane-2-the-blackjacking",
+  "title": "Soul Plane 2: The Blackjacking!",
+  "featuredTitle": "Soul Plane 2: The Blackjacking!",
+  "description": "Terrorists plot to capture a plane and crash into a nuclear power plant. The casualties could be in the hundreds of thousands. But they picked the wrong airline…",
+  "quote": "I’ll stop those terrorists… or die trying.",
+  "parent": "The Boondocks",
+  "parentYear": "2005-2014",
+  "rating": "R",
+  "runtime": "1h 46m",
+  "starring": "Gary Anthony Williams, John Witherspoon, Mo'Nique, Snoop Dogg, 50 Cent",
+  "labels": "comedy, action",
+  "credit": "Sony Pictures Television",
+  "altHero": "a woman at an NWA airline counter giving a grumpy look",
+  "alt1": "two men in the airport look surprised",
+  "alt2": "two sharply dressed men on an airplane",
+  "alt3": "a man points a gun at the captain",
+  "alt4": "a flight attendant and air marshall talk",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
