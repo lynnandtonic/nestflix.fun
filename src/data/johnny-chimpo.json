@@ -1,0 +1,26 @@
+{
+  "slug": "johnny-chimpo",
+  "title": "Johnny Chimpo",
+  "featuredTitle": "Johnny Chimpo",
+  "description": "A television animated series from Afghanistan. Johnny Chimpo is a monkey who travels around the world doing nasty things. His butler tries to keep him in line and untempted by Western culture.",
+  "quote": "Cool beans!",
+  "parent": "Super Troopers",
+  "parentYear": "2001",
+  "rating": "Unrated",
+  "runtime": "3 seasons",
+  "labels": "comedy, animation",
+  "credit": "Fox Searchlight Pictures",
+  "altHero": "Johnny Chimpo, a monkey in a cutoff tshirt and hat, gives a thumbs up while riding a donkey",
+  "alt1": "a round red bird with narrow beak",
+  "alt2": "closeup of Johnny Chimpo",
+  "alt3": "Johnny on the kicking donkey, the red bird flies nearby, and a butler calls out from a balcony",
+  "alt4": "the butler with monocole, mustache, and cane",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "comedy tv",
+    "new on nestflix"
+  ]
+}

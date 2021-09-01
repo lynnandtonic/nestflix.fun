@@ -1,0 +1,28 @@
+{
+  "slug": "serve-and-protect",
+  "title": "Serve and Protect",
+  "featuredTitle": "Serve and Protect",
+  "description": "No criminal is too smart and no case is too tough for Detective Cole Tracker.",
+  "quote": "So what’s it gonna be: rock, paper, scissors… or gun?",
+  "parent": "Brooklyn Nine-Nine",
+  "parentYear": "2013-Present",
+  "rating": "TV-14",
+  "runtime": "15 seasons",
+  "starring": "Mark Devereaux, Cassie Sinclair",
+  "producer": "Gary Lurmax",
+  "labels": "drama, crime",
+  "credit": "NBCUniversal Television",
+  "altHero": "Detective Cole Tracker holding up a bloody bra",
+  "alt1": "a creepy man in his underwear talks with a young woman tied to a chair",
+  "alt2": "woman detective bursts through the door pointing a gun",
+  "alt3": "she shoots her gun",
+  "alt4": "the creepy man",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
