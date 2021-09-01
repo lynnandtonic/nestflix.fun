@@ -1,0 +1,27 @@
+{
+  "slug": "caged-heat",
+  "title": "Caged Heat",
+  "featuredTitle": "Caged Heat",
+  "description": "A lost and failed pilot. A wonderful piece about avenging Russian police cop with anger issues let loose on Los Angeles.",
+  "parent": "All Hail the King",
+  "parentYear": "2014",
+  "rating": "TV-14",
+  "runtime": "1 episode",
+  "starring": "Trevor Slattery, Priscilla Everhart, Rick Hawkins",
+  "studio": "CBS",
+  "labels": "action, crime",
+  "credit": "Walt Disney Studios",
+  "altHero": "Trevor Slattery in suit and aviators shooting a gun",
+  "alt1": "a red GTS with license plate “KGB COP”",
+  "alt2": "Slattery pointing a gun",
+  "alt3": "Slattery sitting at a bar",
+  "alt4": "a monkey in a winter earflap hat drinking some vodka",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
