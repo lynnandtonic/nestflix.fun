@@ -1,0 +1,26 @@
+{
+  "slug": "mister-parkers-cul-de-sac",
+  "title": "Mister Parker’s Cul-de-sac",
+  "featuredTitle": "Mister Parker’s Cul-de-sac",
+  "description": "Mister Parker teaches children about friendship and navigating the tough parts of life as a kid. Join him and his friends on his street that ends in a circle.",
+  "quote": "The thing about circles is they never end, so our friendship will be universal.",
+  "parent": "DC’s Legends of Tomorrow",
+  "parentYear": "2016-Present",
+  "rating": "TV-Y",
+  "runtime": "30 seasons",
+  "labels": "kids, variety",
+  "credit": "Warner Bros. Television",
+  "altHero": "Mr. Parker, a jovial man in a suit, entering a house through the green front door",
+  "alt1": "Mr. Parker puts on a red sweater",
+  "alt2": "Mr. Parker lounging on the couch and opening a beer",
+  "alt3": "a sun with a smiling human face",
+  "alt4": "two female puppets talk to each other",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
