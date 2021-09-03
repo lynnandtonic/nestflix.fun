@@ -1,0 +1,29 @@
+{
+  "slug": "joelho-alto-prejuizo-moral",
+  "title": "Joelho-Alto Prejuizo Moral",
+  "featuredTitle": "Joelho-Alto Prejuizo Moral",
+  "description": "Portuguese <em>Gremlins</em>. Small, horrifying monsters terrorize a small village and only one man (and holy water) can stop them.",
+  "quote": "This is a creature of many mischiefs.",
+  "parent": "Community",
+  "parentYear": "2009-2015",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "starring": "Mariah Gutterman, Alexandro Ruebens, Brank Pranai",
+  "director": "Roberto Schrabriguez",
+  "studio": "Martela Estrada Filme Internacional",
+  "labels": "horror",
+  "credit": "Sony Pictures Television",
+  "altHero": "a green gremlin peeks out of a wooden box",
+  "alt1": "an old bearded man with a pipe",
+  "alt2": "a gremlin looks up from inside a soup pot",
+  "alt3": "a gremlin in a church flails as he is touched by a rainbow",
+  "alt4": "the old man is in the church wearing traditional clothing and wielding a gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
