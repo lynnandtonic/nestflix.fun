@@ -1,0 +1,26 @@
+{
+  "slug": "the-crawling-spleen",
+  "title": "The Crawling Spleen",
+  "featuredTitle": "The Crawling Spleen",
+  "description": "What do you do when science takes things too far? A spleen with an opposable thumb! Oh the humanity!",
+  "quote": "Sarah, cover your ears so it can’t eat your brains!",
+  "parent": "The Angry Beavers",
+  "parentYear": "1997-2001",
+  "rating": "R",
+  "runtime": "1h 23m",
+  "labels": "horror",
+  "credit": "MTV Networks",
+  "altHero": "three scientists cower as a spleen with an attached thumb crawls toward them",
+  "alt1": "three scientists are horrified by what they’ve created",
+  "alt2": "a spleen with an attached thumb in a vice and electrical equipment",
+  "alt3": "a male scientist screams, the shadow of the spleen thumb attacking the female scientist in the background",
+  "alt4": "a closeup of the thumb getting very close to the woman’s ear",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
