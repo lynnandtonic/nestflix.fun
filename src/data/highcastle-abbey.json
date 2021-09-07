@@ -1,0 +1,27 @@
+{
+  "slug": "highcastle-abbey",
+  "title": "Highcastle Abbey",
+  "featuredTitle": "Highcastle Abbey",
+  "description": "A British historical drama series about an aristocratic family living at the Highcastle Abbey estate.",
+  "quote": "Is it customary where you come from for the valet to sit?",
+  "parent": "DC’s Legends of Tomorrow",
+  "parentYear": "2016-Present",
+  "rating": "TV-14",
+  "runtime": "6 seasons",
+  "studio": "Clotho Productions",
+  "labels": "drama",
+  "credit": "Warner Bros. Television",
+  "altHero": "an abbey in the countryside",
+  "alt1": "a butler",
+  "alt2": "a woman looks out the window, two men behind her",
+  "alt3": "a man smiles",
+  "alt4": "two women smile back",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "british tv",
+    "new on nestflix"
+  ]
+}

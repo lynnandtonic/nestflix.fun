@@ -1,0 +1,25 @@
+{
+  "slug": "kill-it-before-it-dies",
+  "title": "Kill It Before It Dies",
+  "featuredTitle": "Kill It Before It Dies",
+  "description": "The 1958 horror classic about a werewolf monster that terrorizes a small town and the young couple that fights it.",
+  "quote": "As long I’m with you, everything is going to be A-okay.",
+  "parent": "Charmed",
+  "parentYear": "1998-2006",
+  "rating": "R",
+  "runtime": "1h 23m",
+  "credit": "CBS Television",
+  "altHero": "Billy and Sally Mae, a 50s teen couple, walk hand in hand through the woods",
+  "alt1": "Sally Mae",
+  "alt2": "Billy",
+  "alt3": "Billy and Sally Mae kiss",
+  "alt4": "Billy and Sally Mae walk through the woods",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
