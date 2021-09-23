@@ -1,0 +1,28 @@
+{
+  "slug": "balance-of-power",
+  "title": "Balance of Power",
+  "featuredTitle": "Balance of Power",
+  "description": "The whole world will be watching a man, a woman and a buzzer! Are you ready for the final gender challenge?",
+  "quote": "Who secretly wishes they were married to a hot, sexy lesbian?",
+  "parent": "The Stepford Wives",
+  "parentYear": "2004",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": "Meredith Vieira",
+  "studio": "EBS",
+  "labels": "game show",
+  "credit": "Paramount Pictures",
+  "altHero": "a man and a woman sit on a game show stage with a host in front of them",
+  "alt1": "Meredith Vieira on the game show set",
+  "alt2": "the woman hits a red buzzer",
+  "alt3": "Vieira pointing excitedly",
+  "alt4": "Vieira points at the woman with Tara! written on her prompter",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
