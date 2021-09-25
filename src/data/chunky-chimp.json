@@ -1,0 +1,26 @@
+{
+  "slug": "chunky-chimp",
+  "title": "Chunky Chimp",
+  "featuredTitle": "Chunky Chimp",
+  "description": "Chunky is different, not like the rest of the chimps. He’s told he belongs in Tree World, but his heart belongs in the groundlands.",
+  "quote": "You can find the magic pine cone, Chunky. You just have to be yourself!",
+  "parent": "Bluey",
+  "parentYear": "2018-Present",
+  "rating": "PG",
+  "runtime": "1h 23m",
+  "labels": "family, musical",
+  "credit": "BBC Studios",
+  "altHero": "Chunky Chimp raising a victorious fist as his bicycle glider flies through the air",
+  "alt1": "Chunky, in a tree, shows his bike invention to another chimp",
+  "alt2": "Chunky talks with a leopard in some tall grass",
+  "alt3": "Chunky climbs a mountain in the rain",
+  "alt4": "Chunky riding downhill and a glowing pine cone floats beside him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films",
+    "new on nestflix"
+  ]
+}
