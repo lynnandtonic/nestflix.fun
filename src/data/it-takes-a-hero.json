@@ -1,0 +1,27 @@
+{
+  "slug": "it-takes-a-hero",
+  "title": "It Takes a Hero",
+  "featuredTitle": "It Takes a Hero",
+  "description": "A giraffe longs to play football and finally has a chance to live his dream before he must go home.",
+  "quote": "I have your baby in me, Giraffe.",
+  "parent": "Clone High",
+  "parentYear": "2002-2003",
+  "rating": "Unrated",
+  "runtime": "34m",
+  "director": "Abe Lincoln",
+  "labels": "drama, sports, sci-fi",
+  "credit": "MTV Networks",
+  "altHero": "a giraffe runs to kick a football held by his teammate",
+  "alt1": "a football scoreboard: Heroes 10, Villains 12",
+  "alt2": "a crowd watches a football balance on the crossbeam of a goal post",
+  "alt3": "above the football field, an alien spaceship beams up the giraffe",
+  "alt4": "a young woman in the crowd speaks emotionally",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
