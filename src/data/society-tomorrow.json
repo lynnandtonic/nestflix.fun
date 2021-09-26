@@ -1,0 +1,27 @@
+{
+  "slug": "society-tomorrow",
+  "title": "Society Tomorrow",
+  "featuredTitle": "Society Tomorrow",
+  "description": "With its incredible cinematography, <em>Society Tomorrow</em> pays homage to a genre it’s also reinventing. Follow Joshua, Barbara, Glenn, and friends as they attempt to remove their GuardWrists and live free.",
+  "quote": "I’m ready to accept how special I am.",
+  "parent": "Corporate",
+  "parentYear": "2018-2020",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "creator": "Garion Brothers",
+  "labels": "drama, sci-fi",
+  "credit": "Comedy Central",
+  "altHero": "a woman in uniform and bathed in blue light points a gun offscreen",
+  "alt1": "Joshua and Barbara hide from two people in full lab jumpsuits",
+  "alt2": "a man’s wrist is adorned with a tablet screen with green computer code",
+  "alt3": "another man points a gun and yells",
+  "alt4": "Joshua with a long beard and glowing red eyes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}

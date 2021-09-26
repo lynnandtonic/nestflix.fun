@@ -1,0 +1,27 @@
+{
+  "slug": "pickles-4-breakfast",
+  "title": "Pickles 4 Breakfast",
+  "featuredTitle": "Pickles 4 Breakfast",
+  "description": "Hampton deView’s most popular program ever. A fever dream series about a baby, pickles, birds, and sickles.",
+  "quote": "If the bird steals the pickle, I’ll kill it with a sickle.",
+  "parent": "Corporate",
+  "parentYear": "2018-2020",
+  "rating": "TV-G",
+  "runtime": "100 episodes",
+  "studio": "Hampton deView",
+  "labels": "kids",
+  "credit": "Comedy Central",
+  "altHero": "an animated baby with bold eyebrows cronching on a pickle",
+  "alt1": "a mom talks to her baby",
+  "alt2": "a bird flies in a kitchen, on the wall is a sign that says “Live Laff Shove”",
+  "alt3": "the bird flies above the baby who is holding a sickle",
+  "alt4": "the baby standing with his sickle as the kitchen floods with pickle juice",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
