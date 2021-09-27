@@ -1,0 +1,26 @@
+{
+  "slug": "geriatric-park",
+  "title": "Geriatric Park",
+  "featuredTitle": "Geriatric Park",
+  "description": "The tale of genetics gone haywire in a retirement community.",
+  "parent": "Naked Gun 33⅓: The Final Insult",
+  "parentYear": "1994",
+  "rating": "PG-13",
+  "runtime": "2h 13m",
+  "director": "Steven Spielberg",
+  "labels": "action, thriller",
+  "credit": "Paramount Pictures",
+  "altHero": "a giant rubber walker foot next to a theme park Jeep in the rain",
+  "alt1": "two kids shine a flashlight at two cups of water",
+  "alt2": "two kids cry and scream inside a rainy Jeep window",
+  "alt3": "looking up at a giant old man in a raincoat holding a walker",
+  "alt4": "a paleontologist waves a flare in the rain next to a sign that says “Seisure World”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
