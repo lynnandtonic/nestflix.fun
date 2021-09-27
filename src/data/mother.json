@@ -1,0 +1,27 @@
+{
+  "slug": "mother",
+  "title": "Mother",
+  "featuredTitle": "Mother",
+  "description": "Academy Award nominated musical based on the story of Mother Teresa.",
+  "quote": "Food! I love food and I’m really in the mood for a big corn dog or pu pu platter, two Ding Dongs, it doesn’t matter!",
+  "parent": "Naked Gun 33⅓: The Final Insult",
+  "parentYear": "1994",
+  "rating": "PG-13",
+  "runtime": "1h 54m",
+  "director": "Sir Richard Attenborough",
+  "labels": "musical, biography",
+  "credit": "Paramount Pictures",
+  "altHero": "Mother Teresa, gleeful with arms raised, runs through a village with hungry children holding out empty bowls",
+  "alt1": "Mother Teresa dancing near the hungry children",
+  "alt2": "Mother Teresa grabs a small boy’s crutch",
+  "alt3": "the small boy falls to the ground",
+  "alt4": "Mother Teresa dancing and running with the crutch, a hungry child behind her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "new on nestflix"
+  ]
+}
