@@ -1,0 +1,26 @@
+{
+  "slug": "bunny-and-kitty",
+  "title": "Bunny and Kitty",
+  "featuredTitle": "Bunny and Kitty",
+  "description": "Bunny and Kitty being best friends. Together forever, the fun never ends. Solving mysteries one hug at a time. Bunny and Kitty, two of a kind.",
+  "quote": "He crossed state lines with the body. This is federal now.",
+  "parent": "Unbreakable Kimmy Schmidt",
+  "parentYear": "2015-2019",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "labels": "drama, crime",
+  "credit": "Netflix",
+  "altHero": "a grey kitty and a white bunny resting together",
+  "alt1": "kitty and bunny relaxing",
+  "alt2": "bunny",
+  "alt3": "kitty",
+  "alt4": "bunny again",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "buddy cops",
+    "new on nestflix"
+  ]
+}
