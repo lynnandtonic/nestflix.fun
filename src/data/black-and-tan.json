@@ -1,0 +1,28 @@
+{
+  "slug": "black-and-tan",
+  "title": "Black and Tan",
+  "featuredTitle": "Black and Tan",
+  "description": "Leon Black is a Harvard-educated scientist turned expert police detective. Tandoori Jones is a jive-talking, smooth-walking, typical Indian supercop who plays by his own rules: none. Together they are Black and Tan.",
+  "quote": "It’s from a deli alright, New Delhi.",
+  "parent": "Clone High",
+  "parentYear": "2002-2003",
+  "rating": "Unrated",
+  "runtime": "43m",
+  "starring": "Gandhi, George Washington Carver",
+  "director": "Gandhi",
+  "labels": "action, crime",
+  "credit": "MTV Networks",
+  "altHero": "Leon and Tandoori flying through the air with a big cloud of smoke behind them",
+  "alt1": "Leon looking into a microscope with calculations on a blackboard behind him",
+  "alt2": "Tandoori pointing a gun with “Danger” signs behind him",
+  "alt3": "Leon holding a plate of Indian food",
+  "alt4": "Tandoori smiling",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}

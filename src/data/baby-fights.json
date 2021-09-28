@@ -1,0 +1,26 @@
+{
+  "slug": "baby-fights",
+  "title": "Baby Fights",
+  "featuredTitle": "Baby Fights",
+  "description": "Fight! Fight! Fight!",
+  "quote": "I didn’t come here to make friends.",
+  "parent": "Gravity Falls",
+  "parentYear": "2012-2016",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": "reality, competition, kids",
+  "credit": "Disney Television Animation",
+  "altHero": "two babies sit in a fenced ring with a big spotlight on them",
+  "alt1": "two happy babies",
+  "alt2": "one baby is poked with a stick",
+  "alt3": "the babies are slapping each other",
+  "alt4": "a happy baby chews on a letter block",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "babies in action",
+    "new on nestflix"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "the-truth-wears-side-burns",
+  "title": "The Truth Wears Side-burns",
+  "featuredTitle": "The Truth Wears Side-burns",
+  "description": "A modernist love letter from a modern woman.",
+  "quote": "Whisper. Whisper.",
+  "parent": "Clone High",
+  "parentYear": "2002-2003",
+  "rating": "Unrated",
+  "runtime": "23m",
+  "starring": "Joan of Arc, Genghis Khan",
+  "director": "Joan of Arc",
+  "labels": "drama",
+  "credit": "MTV Networks",
+  "altHero": "a cracked, dry desert landscape with a tumbling top hat",
+  "alt1": "a dead bird",
+  "alt2": "Genghis Khan grits his teeth",
+  "alt3": "a slice of cherry pie",
+  "alt4": "a woman’s hand slaps a watermelon",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}

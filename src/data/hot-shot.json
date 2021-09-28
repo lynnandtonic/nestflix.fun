@@ -1,0 +1,27 @@
+{
+  "slug": "hot-shot",
+  "title": "Hot Shot",
+  "featuredTitle": "Hot Shot",
+  "description": "Hopefuls compete in a virtual talent show for their very own content stream. You decide the victors. You control their fates. You make the call on <em>Hot Shot</em>.",
+  "quote": "You have the magnetism of a towel.",
+  "parent": "Black Mirror",
+  "parentYear": "2011-2019",
+  "rating": "TV-PG",
+  "runtime": "10 seasons",
+  "starring": "Judge Hope, Judge Charity, Judge Wraith",
+  "labels": "reality, competition, music",
+  "credit": "Netflix",
+  "altHero": "Bing, a contestant on stage of Hot Shot",
+  "alt1": "Abi, a singing contestant",
+  "alt2": "the judges panel",
+  "alt3": "an audience of virtual avatars",
+  "alt4": "Bing holding a glass shard to his throat",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}

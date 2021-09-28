@@ -1,0 +1,26 @@
+{
+  "slug": "extreme-toddler-wrestling",
+  "title": "Extreme Toddler Wrestling",
+  "featuredTitle": "Extreme Toddler Wrestling",
+  "description": "The ultimate battle of toddler vs. toddler. From the Rowdy Roddy Piper Daycare Center in Glasgow, Scotland.",
+  "parent": "Futurama",
+  "parentYear": "1999-2013",
+  "rating": "TV-Y",
+  "runtime": "1 season",
+  "studio": "Tickleodeon",
+  "labels": "reality, competition, kids",
+  "credit": "20th Century Fox Television",
+  "altHero": "two babies in a crib fighting",
+  "alt1": "a baby walking down an arena entry with fans cheering",
+  "alt2": "another baby entering the arena with pink fireworks behind",
+  "alt3": "the babies arrive at the center of the arena where a crib is set up",
+  "alt4": "one baby is down with the other raising a folded chair above his head",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "babies in action",
+    "new on nestflix"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "admiral-baby",
+  "title": "Admiral Baby",
+  "featuredTitle": "Admiral Baby",
+  "description": "Following admiral’s orders can be a bit tricky when admiral is a baby.",
+  "quote": "We’re taking the entire sixth fleet to Candy Island?",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "studio": "FOX",
+  "labels": "action",
+  "credit": "20th Television",
+  "altHero": "two Navy men on a ship next to a crib with a baby wearing an admiral’s uniform",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "babies in action",
+    "new on nestflix"
+  ]
+}

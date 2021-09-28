@@ -1,0 +1,26 @@
+{
+  "slug": "trans-clown-o-morphs",
+  "title": "Trans-Clown-O-Morphs",
+  "featuredTitle": "Trans-Clown-O-Morphs",
+  "description": "The prestige Korean Saturday morning cartoon. Transforming clowns that morph, sent to earth to defeat the evil Dino-Robo-Bots and their human friend is you.",
+  "quote": "Back off Pterodactyl-bots! You’ll never conquer Big Top City.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": "kids, animation",
+  "credit": "20th Television",
+  "altHero": "a flying clown robot with helicopter blades on his head",
+  "alt1": "a transformed blue car",
+  "alt2": "robot pteranodons fly in the sky dropping eggs",
+  "alt3": "clown robots with tiny umbrellas are showered with exploding eggs",
+  "alt4": "robot pteranodon breathes lava",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
