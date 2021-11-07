@@ -1,0 +1,27 @@
+{
+  "slug": "oscar-gold",
+  "title": "Oscar Gold",
+  "featuredTitle": "Oscar Gold",
+  "description": "Possibly the saddest film of all time. In 1939 Poland, this is the story of Oscar, a Jewish, mentally disabled, alcoholic boy whose voice stood out amongst the war and intolerance.",
+  "quote": "I want more dizzy water!",
+  "parent": "American Dad!",
+  "parentYear": "2005-Present",
+  "rating": "R",
+  "runtime": "2h 12m",
+  "director": "Tearjerker",
+  "labels": "drama, history, war",
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "a black and white shot of Roger the alien playing Oscar with protruding teeth and dressed in wartime clothing",
+  "alt1": "Nazi trucks drive through a city that has been destroyed",
+  "alt2": "Oscar pretends to drive a car as his mother holds him in her arms",
+  "alt3": "Oscar and his parents talking with a doctor",
+  "alt4": "Oscar and his family mourn a dead puppy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas",
+    "new on nestflix"
+  ]
+}

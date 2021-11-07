@@ -1,0 +1,28 @@
+{
+  "slug": "shoe-police",
+  "title": "Shoe Police",
+  "featuredTitle": "Shoe Police",
+  "description": "Elisabeth Shue is Detective Lacey Sole and she’s on the case.",
+  "quote": "Hey, look at this. No tongue. Looks like someone didn’t want the shoe to talk.",
+  "parent": "American Dad!",
+  "parentYear": "2005-Present",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": "Elisabeth Shue",
+  "studio": "FOX",
+  "labels": "drama, crime",
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Detective Lacey Sole and her partner examine a shoe at a murder crime scene",
+  "alt1": "a wide shot of the crime scene at a shipping dock",
+  "alt2": "a closeup of Detective Sole",
+  "alt3": "Detective Sole examines a shoe on the foot of a corpse",
+  "alt4": "a Dr. Martin boot wears a stethescope and smokes a cigarette",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}

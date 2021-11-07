@@ -1,0 +1,27 @@
+{
+  "slug": "morning-mimosa",
+  "title": "Morning Mimosa",
+  "featuredTitle": "Morning Mimosa",
+  "description": "Your favorite five hours each day with Trish and Suze aka “The Sizzle.” Cooking, makeovers, Thursday Birdsday, and the very best day: Maximum Mimosa Monday.",
+  "quote": "One mimosa?! Are you insane?!",
+  "parent": "American Dad!",
+  "parentYear": "2005-Present",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": "Trish, Suze",
+  "labels": "talk show",
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "two women (Trish and Suze) host a talk show while drinking mimosas",
+  "alt1": "Trish and Suze look shocked as Steve Smith guests for a cooking segment",
+  "alt2": "a woman cowers against a brick wall splattered with tacos",
+  "alt3": "a sad woman below a sign that reads “Unsalvageable”",
+  "alt4": "Trish and Suze with Steve’s friend Snot; a chyron says “Three happy days!”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
