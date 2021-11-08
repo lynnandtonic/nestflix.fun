@@ -1,0 +1,29 @@
+{
+  "slug": "bone-of-contention",
+  "title": "Bone of Contention",
+  "featuredTitle": "Bone of Contention",
+  "description": "Based on the bestseller by Dr. Temperance Brennan. Lister and Reichs team up and show how one tibia can topple an empire.",
+  "quote": "The victim suffered a penetrating trauma to the chest bones, followed by a massive cardiacal eruption.",
+  "parent": "Bones",
+  "parentYear": "2005-2017",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "starring": "Blaine Conway, Cherie Redfern",
+  "director": "Joco Kent",
+  "studio": "20th Century Fox",
+  "labels": "action, crime",
+  "credit": "20th Television",
+  "altHero": "a man and woman team (Lister and Reichs) firing guns as they run away from a huge explosion",
+  "alt1": "Lister and Reichs at the pyramids of Giza that are under attack by jets and missiles",
+  "alt2": "Lister and Reichs examining a corpse in their science lab",
+  "alt3": "another scientist looks into a magnifying glass",
+  "alt4": "Reichs examines the corpse’s chest cavity",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}

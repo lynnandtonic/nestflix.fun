@@ -1,0 +1,27 @@
+{
+  "slug": "invasion-of-the-mother-suckers",
+  "title": "Invasion of the Mother Suckers",
+  "featuredTitle": "Invasion of the Mother Suckers",
+  "description": "Rocky suspects his new girl Cindy is keeping a dark secret.",
+  "quote": "Die, mother sucker!",
+  "parent": "Bones",
+  "parentYear": "2005-2017",
+  "rating": "R",
+  "runtime": "49m",
+  "starring": "Barry Summers, Camille Saroyan",
+  "labels": "horror, vampires",
+  "credit": "20th Television",
+  "altHero": "Cindy, a 70s cool lady, looks at the camera and shows vampire teeth",
+  "alt1": "Cindy looks cool",
+  "alt2": "Cindy snarls her vampire teeth",
+  "alt3": "Rocky raises a cross and a wooden stake",
+  "alt4": "Rocky, covered in blood, sits distressed next to a dead Cindy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
