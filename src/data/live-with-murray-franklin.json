@@ -1,0 +1,28 @@
+{
+  "slug": "live-with-murray-franklin",
+  "title": "Live! with Murray Franklin",
+  "featuredTitle": "Live! with Murray Franklin",
+  "description": "Before his tragic death in 1981, Murray Franklin graced Gotham City with his presence every weeknight and interviewed folks from all walks of life.",
+  "quote": "Always remember. That’s life!",
+  "parent": "Joker",
+  "parentYear": "2019",
+  "rating": "TV-PG",
+  "runtime": "10 seasons",
+  "starring": "Murray Franklinm, Barry O’Donnell, Ellis Drane and his Jazz Orchestra ",
+  "studio": "NCB Studios",
+  "labels": "talk show",
+  "credit": "Warner Bros. Pictures",
+  "altHero": "Murray Franklin dances in front of his colorful stage curtain",
+  "alt1": "Murray giving his opening monologue",
+  "alt2": "Murray giving a smug face at his desk",
+  "alt3": "Murray introducing his studio band",
+  "alt4": "Murray chats with guest Arthur Fleck",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "late night talk shows",
+    "new on nestflix"
+  ]
+}
