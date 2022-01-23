@@ -1,0 +1,26 @@
+{
+  "slug": "knights",
+  "title": "Knights",
+  "featuredTitle": "Knights",
+  "description": "The knights of the F.A.P.D. catching criminals and delivering justice. It’s time to teach these madcap mammals their “devil may mare” attitudes just won’t fly.",
+  "quote": "We got a white bronco heading east into the forest. Requesting backup.",
+  "parent": "Shrek 2",
+  "parentYear": "2004",
+  "rating": "TV-14",
+  "runtime": "33",
+  "labels": "reality, crime",
+  "credit": "DreamWorks Pictures",
+  "altHero": "Shrek in human form peering out of a cell, a knight grinding pepper into his eyes",
+  "alt1": "an aerial shot of a man fleeing on a horse",
+  "alt2": "two hot air balloons in the sky labeled F.A.P.D.",
+  "alt3": "more knights hold down Shrek, still in human form, as another knight threatens him with a large pepper grinder",
+  "alt4": "Puss in Boots held up against a wall while a knight shows the camera a small bag of drugs",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "criminal justice reality tv",
+    "new on nestflix"
+  ]
+}
