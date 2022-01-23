@@ -1,0 +1,28 @@
+{
+  "slug": "blind-medicine",
+  "title": "Blind Medicine",
+  "featuredTitle": "Blind Medicine",
+  "description": "Cole is a surgeon who thinks he’s seen everything. That is, until his new partner Claire arrives. She’s a brilliant surgeon. And she’s blind.",
+  "quote": "It’s not your lack of sight that bothers me, it’s your lack of vision.",
+  "parent": "Get Him to the Greek",
+  "parentYear": "2010",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": "Sarah Marshall, Rick Schroder",
+  "studio": "NBC",
+  "labels": "drama, medical",
+  "credit": "Universal Pictures",
+  "altHero": "Claire, a blind surgeon, feels the face of a male doctor, Cole",
+  "alt1": "Cole and Claire walk down a hospital hallway",
+  "alt2": "Claire holds a scalpel as she and Cole work on a patient",
+  "alt3": "Claire operating while covered in blood",
+  "alt4": "Claire and Cole speak in the hallway",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
