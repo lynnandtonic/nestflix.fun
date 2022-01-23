@@ -1,0 +1,27 @@
+{
+  "slug": "darkwing-duck",
+  "title": "Darkwing Duck",
+  "featuredTitle": "Darkwing Duck",
+  "description": "The beloved live-action superhero series canceled too soon. Darkwing Duck is the terror that flaps in the night. He is the little rollerskate at the base of villainy’s staircase.",
+  "quote": "Let’s get dangerous.",
+  "parent": "DuckTales",
+  "parentYear": "2017-2021",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": "Jim Starling",
+  "labels": "action, superhero",
+  "credit": "Disney Television Animation",
+  "altHero": "Darkwing Duck spreads his cape atop a building against a full moon",
+  "alt1": "a crew of villains",
+  "alt2": "Darkwing Duck dodges an electric bolt",
+  "alt3": "Darkwing Duck grimaces as a banana doll levitates with glowing red eyes",
+  "alt4": "Darkwing Duck emerges from a cloud of purple smoke",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "action tv",
+    "new on nestflix"
+  ]
+}
