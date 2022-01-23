@@ -1,0 +1,27 @@
+{
+  "slug": "the-laughing-bandit",
+  "title": "The Laughing Bandit",
+  "featuredTitle": "The Laughing Bandit",
+  "description": "The final unfinished film of actor Neville Sinclair about the adventures of Sir Reginald as the Laughing Bandit.",
+  "quote": "I’d hate to stain my legend on a villain such as you.",
+  "parent": "The Rocketeer",
+  "parentYear": "1991",
+  "rating": "PG-13",
+  "runtime": "1h 20m",
+  "starring": "Neville Sinclair",
+  "labels": "action, adventure",
+  "credit": "Walt Disney Pictures",
+  "altHero": "a heroic man in a mask grins while holding a sword",
+  "alt1": "the shadows of two men sword fight on a stone wall",
+  "alt2": "a man cornered against a wall with a sword to his throat",
+  "alt3": "a young woman in a crown holds a rose in her hands while an older man looks on disapprovingly",
+  "alt4": "the masked man smiles",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
