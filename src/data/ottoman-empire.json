@@ -1,0 +1,27 @@
+{
+  "slug": "ottoman-empire",
+  "title": "Ottoman Empire",
+  "featuredTitle": "Ottoman Empire",
+  "description": "Twin brothers, Johnny and Randy, show you how to make ottomans. Watch as they prove every ottoman tells a story and that family is the greatest footstool of all.",
+  "quote": "We got ahead by building furniture for your feet.",
+  "parent": "DuckTales",
+  "parentYear": "2017-2021",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": "Johnny, Randy",
+  "labels": "reality, diy",
+  "credit": "Disney Television Animation",
+  "altHero": "rooster brothers Johnny and Randy holding tools",
+  "alt1": "Johnny and Randy present an ottoman to a displeased Flintheart Glomgold",
+  "alt2": "Johnny with a bunch of ottomans",
+  "alt3": "Johnny and Randy carrying a finished ottoman in their shop",
+  "alt4": "Randy laying on the ground while his father rests his feet on his back, Johnny stands nearby",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "home and diy",
+    "new on nestflix"
+  ]
+}
