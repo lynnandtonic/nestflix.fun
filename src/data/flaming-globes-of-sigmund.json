@@ -1,0 +1,21 @@
+{
+  "slug": "flaming-globes-of-sigmund",
+  "title": "Flaming Globes of Sigmund",
+  "featuredTitle": "Flaming Globes of Sigmund",
+  "description": "Sigmund saw the prophecy. It foretold a future of destruction, planets incinerating. If only it could be stopped.",
+  "quote": "Like flaming globes, Sigmund! Like flaming globes!",
+  "parent": "Seinfeld",
+  "parentYear": "1989-1998",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "labels": "sci-fi",
+  "credit": "Columbia Pictures Television",
+  "altHero": "a scientist in a futuristic suit with gloves and goggles, laughing maniacally at the sky",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films",
+    "new on nestflix"
+  ]
+}
