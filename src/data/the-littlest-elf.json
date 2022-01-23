@@ -1,0 +1,26 @@
+{
+  "slug": "the-littlest-elf",
+  "title": "The Littlest Elf",
+  "featuredTitle": "The Littlest Elf",
+  "description": "It’s springtime in the forest, the chipmunks are singing, and the littlest elf starts the day.",
+  "parent": "Lemony Snicket’s A Series of Unfortunate Events",
+  "parentYear": "2004",
+  "rating": "G",
+  "runtime": "1h 34m",
+  "director": "Gustav Sebald",
+  "labels": "family, animation",
+  "credit": "DreamWorks Pictures",
+  "altHero": "a CGI elf smiles big",
+  "alt1": "a storybook-like village of tree homes",
+  "alt2": "a chorus of chipmunks",
+  "alt3": "happy animal friends with an elf holding a rifle",
+  "alt4": "the littlest elf with a butterfly on their nose",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films",
+    "new on nestflix"
+  ]
+}
