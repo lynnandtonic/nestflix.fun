@@ -17,55 +17,49 @@ block content
         ul
             li #[strong Must be fictional] (not characters watching a real film, not a recreation of a real film)
             li #[strong Must show actual footage] (not just mentioned in dialogue or seen in a poster)
-            li #[strong Not a film/show from a video game] (sorry!)
-            li #[strong Not from a comedy sketch show] (sorry!)
+            li #[strong Not a film/show from a video game]
+            li #[strong Not from a comedy sketch show]
             li #[strong Not a stage play or musical]
-            li #[strong Not a news or morning show] (for now, this might change)
+            li #[strong Not a news or morning show]
         p If you have one to add, please #[a(href='https://github.com/lynnandtonic/nestflix.fun/issues') create an issue on GitHub] or fill out this handy form:
 
-        .form-alt
-            h2 Submissions temporarily paused
-            p I’ve received so many great suggestions and I need a bit of time to catch up and read them all.
-            p I’ll open this back up in a bit.
-            p Thank you! 🌈
+        form(name='Submissions' method='POST' netlify-honeypot='bot-field' data-netlify='true' action='/thanks')
 
-        //- form(name='Submissions' method='POST' netlify-honeypot='bot-field' data-netlify='true' action='/thanks')
+            h2 Submit a title
 
-        //-     h2 Submit a title
+            label Your Name:
+            input(type='text' name='name')
 
-        //-     label Your Name:
-        //-     input(type='text' name='name')
+            label.required Your Email:
+            input(type='email' name='email' required)
 
-        //-     label.required Your Email:
-        //-     input(type='email' name='email' required)
+            label.required Title to be added:
+            input(type='text' name='title' required)
 
-        //-     label.required Title to be added:
-        //-     input(type='text' name='title' required)
+            label Type:
+            div
+                input(type='radio' id='film' name='type' value='film')
+                label(for='film') film
+                input(type='radio' id='tv-show' name='type' value='tv show')
+                label(for='tv-show') tv show
 
-        //-     label Type:
-        //-     div
-        //-         input(type='radio' id='film' name='type' value='film')
-        //-         label(for='film') film
-        //-         input(type='radio' id='tv-show' name='type' value='tv show')
-        //-         label(for='tv-show') tv show
+            label.required Film or show in which it appears:
+            input(type='text' name='parent' required)
 
-        //-     label.required Film or show in which it appears:
-        //-     input(type='text' name='parent' required)
+            label Is the parent film/show streaming anywhere?
+            input(type='text' name='streaming')
 
-        //-     label Is the parent film/show streaming anywhere?
-        //-     input(type='text' name='streaming')
+            label About when in the parent film/show does it appear?
+            input(type='text' name='timestamp')
 
-        //-     label About when in the parent film/show does it appear?
-        //-     input(type='text' name='timestamp')
+            label Actual footage of the film/show can be seen?
+            div
+                input(type='checkbox' id='footage' value='yes')
+                label(for='footage') Yes
 
-        //-     label Actual footage of the film/show can be seen?
-        //-     div
-        //-         input(type='checkbox' id='footage' value='yes')
-        //-         label(for='footage') Yes
+            label.hidden Don’t fill this out if you’re human: 
+            input.hidden(name='bot-field')
 
-        //-     label.hidden Don’t fill this out if you’re human: 
-        //-     input.hidden(name='bot-field')
+            button.secondary(type='submit') Submit
 
-        //-     button.secondary(type='submit') Submit
-
-        //- p Thank you! 🌈
+        p Thank you! 🌈
