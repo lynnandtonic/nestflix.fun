@@ -1,0 +1,28 @@
+{
+  "slug": "kung-pow-ii-tongue-of-fury",
+  "title": "Kung Pow II: Tongue of Fury",
+  "featuredTitle": "Kung Pow II: Tongue of Fury",
+  "description": "The long-awaited sequel to <em>Kung Pow! Enter the Fist</em>. The Chosen One returns and must face a whole new set of foes, human and otherwise.",
+  "quote": "Hmm! I see you brought your friends this time.",
+  "parent": "Kung Pow! Enter the Fist",
+  "parentYear": "2002",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "starring": "Steve Oedekerk",
+  "director": "Steve Oedekerk",
+  "labels": "comedy, martial arts",
+  "credit": "20th Century Fox",
+  "altHero": "The Chosen One, on a cliff by the sea, opens his shirt to touch his nipple",
+  "alt1": "the Eiffel Tower with many pyramids flying around it in the sky",
+  "alt2": "two figures in an ancient-looking courtyard and a giant dinosaur foot enters the frame",
+  "alt3": "a man screams as he holds a cylindrical object with a long chain; a cylindrical hole in his torso shows the landscape behind him",
+  "alt4": "farm animals in martial arts poses, ready to fight",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
