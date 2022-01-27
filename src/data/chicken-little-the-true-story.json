@@ -1,0 +1,26 @@
+{
+  "slug": "chicken-little-the-true-story",
+  "title": "Chicken Little: The True Story",
+  "featuredTitle": "Chicken Little: The True Story",
+  "description": "An evil Foxloxian Army has broken through the planet’s atmosphere. The sky is falling. Commander Little must save the good people of Oakey Oaks (and the world).",
+  "quote": "Civilization as we know it depends on me and, to a lesser extent… you.",
+  "parent": "Chicken Little",
+  "parentYear": "2005",
+  "rating": "PG",
+  "runtime": "1h 42m",
+  "labels": "action",
+  "credit": "Walt Disney Pictures",
+  "altHero": "Chicken Little as a cool action hero with sunglasses and headset",
+  "alt1": "a spaceship flying through space and blowing up enemies",
+  "alt2": "a fish in a cool futuristic helmet",
+  "alt3": "a tough pig with big tusk teeth flying a small spacecraft",
+  "alt4": "Chicken Little surrounded by townsfolk and holding a lady chicken friend and taking off via jetpack",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
