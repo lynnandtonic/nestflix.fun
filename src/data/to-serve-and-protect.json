@@ -1,0 +1,27 @@
+{
+  "slug": "to-serve-and-protect",
+  "title": "To Serve and Protect",
+  "featuredTitle": "To Serve and Protect",
+  "description": "Cameron Drake’s Oscar-winning breakthrough role as Lieutenant Billy Stevens, a brave gay soldier.",
+  "quote": "Do you love me as a friend, or in another way?",
+  "parent": "In & Out",
+  "parentYear": "1997",
+  "rating": "R",
+  "runtime": "2h 12m",
+  "starring": "Cameron Drake",
+  "labels": "war, drama",
+  "credit": "Paramount Pictures",
+  "altHero": "Lieutenant Billy Stevens carrying an injured soldier, Danny, on his back",
+  "alt1": "Billy carries Danny through the jungle as bombs explode",
+  "alt2": "Lieutenant Stevens stands alone in a large room in front of a military panel",
+  "alt3": "a general holds up a VHS copy of the movie Beaches",
+  "alt4": "Danny and Billy in street clothes looking up at a statue of George Washington",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas",
+    "new on nestflix"
+  ]
+}
