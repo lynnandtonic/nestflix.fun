@@ -1,0 +1,27 @@
+{
+  "slug": "colt-luger",
+  "title": "Colt Luger",
+  "featuredTitle": "Colt Luger",
+  "description": "The handsome, grizzled vigilante Colt Luger, with his sidekick Fruity, fights bad guys, takes down crime lords, and rescues broads.",
+  "quote": "Sometimes a man’s gotta do what a man does.",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": "Reid Harrison, Edison Hurrell Jones, Kwame Ngugo, Dame Agnes St. Clair",
+  "labels": "action",
+  "credit": "Netflix",
+  "altHero": "Colt Luger, a dark-haired tough guy, holds a revolver",
+  "alt1": "Luger punches Fidel Castro on an airplane",
+  "alt2": "a priest holds a sickle",
+  "alt3": "Luger uses a flame thrower in the street",
+  "alt4": "Luger screaming as he falls from a tall building",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "action tv",
+    "new on nestflix"
+  ]
+}
