@@ -1,0 +1,27 @@
+{
+  "slug": "raven-live",
+  "title": "Raven Live!",
+  "featuredTitle": "Raven Live!",
+  "description": "Raven-Symoné keeps it real with guests from all walks of life.",
+  "quote": "We don’t run here at Raven Live!",
+  "parent": "Master of None",
+  "parentYear": "2015-Present",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "starring": "Raven-Symoné",
+  "labels": "talk show",
+  "credit": "Netflix",
+  "altHero": "Raven-Symoné on a talk show set",
+  "alt1": "a studio audience",
+  "alt2": "Raven-Symoné",
+  "alt3": "Raven with Chef Jeff and Dev Shah from BFFs",
+  "alt4": "Chef Jeff looking confused and a chyron says “14 accuse Chef Jeff of sexually inappropriate conduct”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
