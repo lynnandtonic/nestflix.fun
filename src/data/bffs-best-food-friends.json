@@ -1,0 +1,29 @@
+{
+  "slug": "bffs-best-food-friends",
+  "title": "BFFs Best Food Friends",
+  "featuredTitle": "BFFs Best Food Friends",
+  "description": "Chef Jeff and Dev Shah are best food friends. They travel together, eat together, and learn about culture together.",
+  "quote": "My man. Let’s eat!",
+  "parent": "Master of None",
+  "parentYear": "2015-Present",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "studio": "Food TV",
+  "starring": "Dev Shah, Jeff Pastore",
+  "producer": "Jeff Pastore",
+  "labels": "reality, travel, cooking",
+  "credit": "Netflix",
+  "altHero": "Dev and Jeff laughing while eating at a restaurant counter",
+  "alt1": "a hand delicately dresses a bowl of ramen",
+  "alt2": "Japanese chef hands two bowls across the counter",
+  "alt3": "Dev and Jeff receive the bowls",
+  "alt4": "Dev wide-eyed with noodles hanging from his mouth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
