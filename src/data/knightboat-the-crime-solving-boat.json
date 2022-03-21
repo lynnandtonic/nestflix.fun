@@ -1,0 +1,26 @@
+{
+  "slug": "knightboat-the-crime-solving-boat",
+  "title": "Knightboat: The Crime Solving Boat",
+  "featuredTitle": "Knightboat: The Crime Solving Boat",
+  "description": "Michael Knight fights the bad guys with his self-aware crime solving boat. Justice is just a canal, inlet, or fjord away.",
+  "quote": "Oh, no! They’re headed for land.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "labels": "action",
+  "credit": "20th Television",
+  "altHero": "Michael Knight driving Knightboat across the water",
+  "alt1": "Michael Knight in a vest holding a steering wheel",
+  "alt2": "Knightboat’s dashboard",
+  "alt3": "three bad guys riding jetskis with backpacks full of starfish",
+  "alt4": "a canal",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "action tv",
+    "new on nestflix"
+  ]
+}
