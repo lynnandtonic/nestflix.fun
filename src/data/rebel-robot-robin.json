@@ -1,0 +1,27 @@
+{
+  "slug": "rebel-robot-robin",
+  "title": "Rebel Robot Robin",
+  "featuredTitle": "Rebel Robot Robin",
+  "description": "In the age of the spiritual machine where the streets have no names. The Earth is covered with rage and shame. Agent Robin is back again!",
+  "parent": "The Congress",
+  "parentYear": "2013",
+  "rating": "R",
+  "runtime": "2h 12m",
+  "studio": "Miramount Studios",
+  "starring": "Agent Robin",
+  "labels": "action, sci-fi",
+  "credit": "Drafthouse Films",
+  "altHero": "Agent Robin in futuristic costume",
+  "alt1": "Agent Robin swinging an electrified whip",
+  "alt2": "Agent Robin with the electric whip",
+  "alt3": "the electric whip is wrapped around a robot’s torso",
+  "alt4": "Agent Robin crouches near the fiery wreckage of the robots",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films",
+    "new on nestflix"
+  ]
+}
