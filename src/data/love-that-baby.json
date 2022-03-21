@@ -1,0 +1,27 @@
+{
+  "slug": "love-that-baby",
+  "title": "Love That Baby",
+  "featuredTitle": "Love That Baby",
+  "description": "A wholesome family comedy that’s as funny as it is relatable, with Baby Doll getting into all kinds of trouble.",
+  "quote": "I didn’t mean to!",
+  "parent": "Batman: The Animated Series",
+  "parentYear": "1992-1995",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": "Mary Dahl, Tod Baker, June Winthrop, Tammy Vance, Brian Daly, Spunky Spencer",
+  "labels": "comedy, family",
+  "credit": "Warner Bros. Television",
+  "altHero": "a family watches Baby Doll get a horse back ride from dad",
+  "alt1": "Baby Doll stands innocently in a chaotic scene with a zebra and Scottish bagpipe players",
+  "alt2": "Baby’s parents scold her",
+  "alt3": "Baby look sweet and innocent",
+  "alt4": "Spunky smashes Baby’s face in a birthday cake",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
