@@ -1,0 +1,27 @@
+{
+  "slug": "all-over-the-girl",
+  "title": "All Over The Girl",
+  "featuredTitle": "All Over The Girl",
+  "description": "A teen comedy about secrets, first loves, loss, and finding your voice in the world.",
+  "quote": "You might as well get what you paid for!",
+  "parent": "Marriage Story",
+  "parentYear": "2019",
+  "rating": "R",
+  "runtime": "1h 38m",
+  "starring": "Nicole Barber",
+  "labels": "comedy, romance",
+  "credit": "Netflix",
+  "altHero": "a teen girl stands on the stairs at a party",
+  "alt1": "a boy and girl talk",
+  "alt2": "the girl is crying, upset",
+  "alt3": "the girl on the stairs looking down at a teen party",
+  "alt4": "the girl raising her shirt up to reveal her breasts",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies",
+    "new on nestflix"
+  ]
+}
