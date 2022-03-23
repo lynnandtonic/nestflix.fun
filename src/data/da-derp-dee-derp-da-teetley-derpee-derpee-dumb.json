@@ -1,0 +1,26 @@
+{
+  "slug": "da-derp-dee-derp-da-teetley-derpee-derpee-dumb",
+  "title": "Da Derp Dee Derp Da Teetley Derpee Derpee Dumb",
+  "featuredTitle": "Da Derp Dee Derp Da Teetley Derpee Derpee Dumb",
+  "description": "Rob Schneider Derp da Derp—Derp da Derp da Derp Derp! Until one day Derp dee Derp-da teetley tum!",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "rating": "PG-13",
+  "runtime": "48m",
+  "starring": "Rob Schneider",
+  "labels": "comedy",
+  "credit": "Comedy Central",
+  "altHero": "Rob Schneider falling down the stairs",
+  "alt1": "Rob dancing in a disco",
+  "alt2": "Rob walks into a lamp post on the street",
+  "alt3": "Rob in a science lab drinking blue liquid from a flask",
+  "alt4": "Rob dancing frantically in a crowd",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
