@@ -1,0 +1,27 @@
+{
+  "slug": "a-carrot",
+  "title": "A Carrot",
+  "featuredTitle": "A Carrot",
+  "description": "Rob Schneider is a Wall Street executive with everything going for him. Only problem is, he’s about to become a carrot. It’s 24 carrot comedy!",
+  "quote": "I’m a carrot!",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "starring": "Rob Schneider",
+  "labels": "comedy",
+  "credit": "Comedy Central",
+  "altHero": "a shocked Rob Schneider has turned into a giant carrot",
+  "alt1": "Rob and woman drinking martinis in a hot tub",
+  "alt2": "Rob dancing in a high-rise office",
+  "alt3": "carrot Rob walking amongst a crowd of businessmen",
+  "alt4": "carrot Rob being attacked by a giant rabbit",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
