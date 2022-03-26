@@ -1,0 +1,27 @@
+{
+  "slug": "big-shot",
+  "title": "Big Shot",
+  "featuredTitle": "Big Shot",
+  "description": "Punch and Judy star in the show that brings you information about fugitives, for the 300,000 bounty hunters in the star system.",
+  "quote": "If you kill him, kiss your reward goodbye!",
+  "parent": "Cowboy Bebop",
+  "parentYear": "1998",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "starring": "Alfredo",
+  "labels": "reality, crime",
+  "credit": "TV Tokyo",
+  "altHero": "Punch and Judy in their cowboy garb back to back holding pistols",
+  "alt1": "a criminal mug shot",
+  "alt2": "Punch with “Double Bonus!!” written over the screen",
+  "alt3": "close-up of Judy",
+  "alt4": "Punch stands with Judy as she reads from a long scroll",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "criminal justice reality tv",
+    "new on nestflix"
+  ]
+}
