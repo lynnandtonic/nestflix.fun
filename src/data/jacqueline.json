@@ -1,0 +1,26 @@
+{
+  "slug": "jacqueline",
+  "title": "Jacqueline",
+  "featuredTitle": "Jacqueline",
+  "description": "Based on the Ray Johns mystery book, Inspector Martin is on the case to find out who murdered Jacqueline.",
+  "parent": "Darling",
+  "parentYear": "1965",
+  "rating": "PG-13",
+  "runtime": "1h 42m",
+  "starring": "Diana Scott",
+  "labels": "thriller, mystery",
+  "credit": "Embassy Pictures",
+  "altHero": "a woman lies dead on the floor",
+  "alt1": "a mansion on a dark evening ",
+  "alt2": "a frightened woman runs down the stairs",
+  "alt3": "the frightened woman screams, runs down a candlelit hallway",
+  "alt4": "a gloved hand shoots a gun at a woman on the floor",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
