@@ -1,0 +1,26 @@
+{
+  "slug": "capital-beat",
+  "title": "Capital Beat",
+  "featuredTitle": "Capital Beat",
+  "description": "Mark Gottfried hosts guests from both sides of the political spectrum for conversation and debate.",
+  "parent": "The West Wing",
+  "parentYear": "1999-2006",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": "Mark Gottfried, Chris Eisen, Marjorie Clarke",
+  "labels": "talk show, politics",
+  "credit": "Warner Bros. Television",
+  "altHero": "the Capital Beat desk with Mark Gottfried and guests",
+  "alt1": "Republican commentator Ainsley Hayes",
+  "alt2": "White House Press Secretary C.J. Cregg and Gottfried",
+  "alt3": "Gottfried and guests",
+  "alt4": "White House Communications Director Toby Ziegler",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
