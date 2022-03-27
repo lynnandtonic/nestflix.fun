@@ -1,0 +1,23 @@
+{
+  "slug": "the-enchanted-hour",
+  "title": "The Enchanted Hour",
+  "featuredTitle": "The Enchanted Hour",
+  "description": "When the world tripped politely to the genteel music of spinnets, a man and woman commence a secret affair.",
+  "quote": "I’ve loved you all my life.",
+  "parent": "A Star Is Born",
+  "parentYear": "1937",
+  "rating": "PG-13",
+  "runtime": "1h 56m",
+  "starring": "Norman Maine, Vicki Lester",
+  "producer": "Oliver Niles",
+  "labels": "drama, romance",
+  "credit": "United Artists",
+  "altHero": "a man and woman embrace",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas",
+    "new on nestflix"
+  ]
+}
