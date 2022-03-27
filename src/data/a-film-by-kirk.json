@@ -1,0 +1,28 @@
+{
+  "slug": "a-film-by-kirk",
+  "title": "A Film by Kirk",
+  "featuredTitle": "A Film by Kirk",
+  "description": "A man meets his girlfriend’s parents for the first time, desperate to impress them.",
+  "quote": "You have good taste.",
+  "parent": "Gilmore Girls",
+  "parentYear": "2000-2007",
+  "rating": "PG",
+  "runtime": "3m",
+  "starring": "Kirk Gleason",
+  "director": "Kirk Gleason",
+  "labels": "amateur, drama",
+  "credit": "Warner Bros. Television",
+  "altHero": "a black and white scene of a man dancing in a living room surrounded by a stoic family",
+  "alt1": "a man and woman approach a house on a foggy night",
+  "alt2": "the man and woman face each other outside the front door",
+  "alt3": "a bald man in a suit sits and talks",
+  "alt4": "the man stands in front of the family, moonlight casting stripes across the room through window blinds",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
