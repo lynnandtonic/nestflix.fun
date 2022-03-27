@@ -1,0 +1,27 @@
+{
+  "slug": "black-hammer-white-lightning",
+  "title": "Black Hammer White Lightning",
+  "featuredTitle": "Black Hammer White Lightning",
+  "description": "Black Hammer. White Lightning. Together, they’re taking on the mob and these guys play for keeps.",
+  "quote": "Mine fell the hardest.” “Mine are the deadest.",
+  "parent": "Major League II",
+  "parentYear": "1994",
+  "rating": "R",
+  "runtime": "1h 43m",
+  "starring": "Willie Mays Hayes, Jesse Ventura",
+  "labels": "action, comedy",
+  "credit": "Warner Bros.",
+  "altHero": "a Black man (Willie Mays Hays) and white man (Jesse Ventura) stand together smiling big while holding guns",
+  "alt1": "Hays firing a gun with explosions behind",
+  "alt2": "a bunch of man on a dock firing guns",
+  "alt3": "Ventura cheering with his arms raised holding a gun",
+  "alt4": "a man with a bullet hole in his rear end",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
