@@ -1,0 +1,28 @@
+{
+  "slug": "a-second-film-by-kirk",
+  "title": "A Second Film by Kirk",
+  "featuredTitle": "A Second Film by Kirk",
+  "description": "A man and his pig live a simple life, but a tragic omen looms.",
+  "quote": "This pig is for reals.",
+  "parent": "Gilmore Girls: A Year in the Life",
+  "parentYear": "2016",
+  "rating": "PG",
+  "runtime": "5m",
+  "starring": "Kirk Gleason",
+  "director": "Kirk Gleason",
+  "labels": "amateur, drama",
+  "credit": "Warner Bros. Television",
+  "altHero": "aerial shot of Kirk leading a small pig on a leash",
+  "alt1": "close-up of the pig",
+  "alt2": "a black and white shot of a young girl pointing, her coat is bright red",
+  "alt3": "Kirk stunned with arms up, headlights illuminating him",
+  "alt4": "Kirk solemnly walks through a crowd carrying a stuffed pig",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
