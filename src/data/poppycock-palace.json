@@ -1,0 +1,26 @@
+{
+  "slug": "poppycock-palace",
+  "title": "Poppycock Palace",
+  "featuredTitle": "Poppycock Palace",
+  "description": "The adventures of Queen Ta Ta and friends. Either it’s a puppet show for kids or it’s North Korean propaganda.",
+  "quote": "The Tee-Tee Wah Wah was in the Pee-Paw Playhouse!",
+  "parent": "New Girl",
+  "parentYear": "2011-2018",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": "kids",
+  "credit": "20th Television",
+  "altHero": "a group of four royal puppets in front of a castle",
+  "alt1": "Queen Ta Ta and friend",
+  "alt2": "two puppets try on clothes in front of a mirror",
+  "alt3": "the puppets scream as a letter E chases them across screen",
+  "alt4": "the puppet pals sing together",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
