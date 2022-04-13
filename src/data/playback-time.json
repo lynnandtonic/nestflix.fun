@@ -1,0 +1,29 @@
+{
+  "slug": "playback-time",
+  "title": "Playback Time",
+  "featuredTitle": "Playback Time",
+  "description": "Video/film combination has been done before but not quite like this. A film for all of us who hunger for truth. For all of us who cry out in pain.",
+  "quote": "What is life but a teardrop in the eye of infinity?",
+  "parent": "Mr. Bean’s Holiday",
+  "parentYear": "2007",
+  "rating": "PG-13",
+  "runtime": "2h 4m",
+  "studio": "Carson Clay Pictures",
+  "starring": "Carson Clay, Sabine",
+  "director": "Carson Clay",
+  "labels": "drama",
+  "credit": "Universal Pictures",
+  "altHero": "close-up of Carson Clay with dramatic lighting in a long hallway",
+  "alt1": "Caron Clay in a suit, walking through an industrial building",
+  "alt2": "Carson Clay examines a body under a sheet",
+  "alt3": "Sabine, fancily dressed and holding an umbrella, puts a hand on Carson Clay’s back",
+  "alt4": "Mr. Bean and Sabine driving in the car",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
