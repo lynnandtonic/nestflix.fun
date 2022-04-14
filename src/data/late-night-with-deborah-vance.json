@@ -1,0 +1,22 @@
+{
+  "slug": "late-night-with-deborah-vance",
+  "title": "Late Night with Deborah Vance",
+  "featuredTitle": "Late Night with Deborah Vance",
+  "description": "The unaired pilot of <em>Late Night</em> featuring comedian Deborah Vance, almost the first female late night talk show host.",
+  "parent": "Hacks",
+  "parentYear": "2021-Present",
+  "rating": "TV-MA",
+  "runtime": "1 episode",
+  "studio": "CBS",
+  "starring": "Deborah Vance",
+  "labels": "talk show",
+  "credit": "NBCUniversal Television",
+  "altHero": "Deborah Vance giving a monologue in front of a stage curtain",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "late night talk shows",
+    "new on nestflix"
+  ]
+}
