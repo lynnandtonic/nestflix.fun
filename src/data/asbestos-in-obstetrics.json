@@ -1,0 +1,28 @@
+{
+  "slug": "asbestos-in-obstetrics",
+  "title": "Asbestos in Obstetrics",
+  "featuredTitle": "Asbestos in Obstetrics",
+  "description": "In this classic TV movie, hundreds of pregnant women are trapped in a maternity ward infested with asbestos.",
+  "quote": "If they can manage not to breathe until we can get them out of there…",
+  "parent": "Beavis and Butt-Head",
+  "parentYear": "1993-1997",
+  "rating": "TV-14",
+  "runtime": "1h 34m",
+  "studio": "The Crap Network",
+  "starring": "Robert Urich, Melissa Gilbert, Lou Ferrigno",
+  "labels": "drama",
+  "credit": "MTV Animation",
+  "altHero": "a hospital in the rain",
+  "alt1": "a firewoman stands in the rain",
+  "alt2": "a suited man with glasses shrugs sheepishly",
+  "alt3": "the firewoman and man stand while a sheriff runs toward them",
+  "alt4": "a closeup of the sheriff",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
