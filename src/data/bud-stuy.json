@@ -1,0 +1,28 @@
+{
+  "slug": "bud-stuy",
+  "title": "Bud Stuy",
+  "featuredTitle": "Bud Stuy",
+  "description": "A short-lived but fiercely loved stoner buddy comedy.",
+  "quote": "I have a dream. It’s up to me to follow it. And then I’m gonna get smacked.",
+  "parent": "DC’s Legends of Tomorrow",
+  "parentYear": "2016-Present",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "studio": "NUUG Media",
+  "starring": "Imran Saeed, Kamran Saeed",
+  "labels": "comedy",
+  "credit": "Warner Bros. Television",
+  "altHero": "two buds admire a weed gummy",
+  "alt1": "one bud excitedly talking in the entry of an apartment",
+  "alt2": "two buds talk in front of a window",
+  "alt3": "the other bud looks at the sky in desperation",
+  "alt4": "the first bud thinks while holding a bag of weed gummies",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}
