@@ -1,0 +1,27 @@
+{
+  "slug": "grab-that-dough",
+  "title": "Grab That Dough",
+  "featuredTitle": "Grab That Dough",
+  "description": "The game show where all you really need to know to win is how to make a fist.",
+  "quote": "Grab that dough!",
+  "parent": "The Golden Girls",
+  "parentYear": "1985-1992",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": "Guy Corbin, Tiffany Blane",
+  "labels": "game show",
+  "credit": "Buena Vista Television",
+  "altHero": "host Guy Corbin",
+  "alt1": "game show set with two teams of four facing off at podiums",
+  "alt2": "Guy Corbin with a contestant",
+  "alt3": "another contestant cheers after spinning the wheel and landing on Grab That Dough!",
+  "alt4": "a contestant grabs dollars in a wind booth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
