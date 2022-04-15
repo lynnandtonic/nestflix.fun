@@ -1,0 +1,27 @@
+{
+  "slug": "game-board",
+  "title": "Game Board",
+  "featuredTitle": "Game Board",
+  "description": "Friends Maurice, Newton, and Booth play and review various tabletop board games.",
+  "quote": "What was it like to be a 14th century grain merchant?",
+  "parent": "The IT Crowd",
+  "parentYear": "2006-2013",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "starring": "Maurice Moss, Newton Sinclair, Roger Booth",
+  "labels": "talk show, games",
+  "credit": "Fremantle",
+  "altHero": "Maurice, Newton, and Booth play board games on a frilly table cloth",
+  "alt1": "Newton in front of some board games",
+  "alt2": "a closeup of a board game",
+  "alt3": "Maurice, Newton, and Booth sitting on tall stools in front of a shelf of board games",
+  "alt4": "Maurice with a CG explosion behind him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "web shows",
+    "new on nestflix"
+  ]
+}
