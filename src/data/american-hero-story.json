@@ -1,0 +1,26 @@
+{
+  "slug": "american-hero-story",
+  "title": "American Hero Story",
+  "featuredTitle": "American Hero Story",
+  "description": "An anthology series dramatizing the origins and escapades of America’s costumed adventurers.",
+  "quote": "Hooded Justice. It all started with you.",
+  "parent": "Watchmen",
+  "parentYear": "2019",
+  "rating": "TV-X",
+  "runtime": "2 seasons",
+  "labels": "drama, action",
+  "credit": "Warner Bros. Television",
+  "altHero": "Hooded Justice, a masked man wearing a high-collared, red cape and noose around his neck",
+  "alt1": "1930s cops investigate the water near a short pier",
+  "alt2": "Hooded Justice in a grocery store, throws a can at a robber",
+  "alt3": "the back of Hooded Justice as he is interrogated by two detectives",
+  "alt4": "Hooded Justice unmasked looking angry at one of the detectives",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
