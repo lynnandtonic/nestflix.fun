@@ -1,0 +1,29 @@
+{
+  "slug": "up-late-with-miss-piggy",
+  "title": "Up Late with Miss Piggy",
+  "featuredTitle": "Up Late with Miss Piggy",
+  "description": "The fiery Miss Piggy is the first lady of late night.",
+  "quote": "Libraries have had it too good for too long!",
+  "parent": "The Muppets",
+  "parentYear": "2015-2016",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "studio": "ABC",
+  "starring": "Miss Piggy, Fozzie Bear, The Electric Mayhem",
+  "producer": "Kermit the Frog",
+  "labels": "talk show",
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Miss Piggy in front of a red curtain",
+  "alt1": "Miss Piggy at a late show desk interviewing Elizabeth Banks",
+  "alt2": "Miss Piggy singing a duet with Josh Groban",
+  "alt3": "The Electric Mayhem show band",
+  "alt4": "Miss Piggy at her late show desk",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "late night talk shows",
+    "new on nestflix"
+  ]
+}
