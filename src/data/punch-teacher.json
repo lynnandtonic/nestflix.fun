@@ -1,0 +1,27 @@
+{
+  "slug": "punch-teacher",
+  "title": "Punch Teacher",
+  "featuredTitle": "Punch Teacher",
+  "description": "Your teacher is just trying their best, but that won’t stop us from punching them!",
+  "quote": "It’s time to punch teacher!",
+  "parent": "The Muppets",
+  "parentYear": "2011",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "studio": "cde",
+  "labels": "game show",
+  "credit": "Walt Disney Studios",
+  "altHero": "excited game show host in a bright bow tie stands in front of a distraught teacher with his hands and head in stocks",
+  "alt1": "game show host in front of teacher in stocks",
+  "alt2": "two kids, Chris and Terry, in front of game show podiums",
+  "alt3": "two kids, Chris and Terry, punching the air with boxing gloves",
+  "alt4": "the teacher in the stocks looks defeated",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "game shows with a bit of danger!",
+    "new on nestflix"
+  ]
+}
