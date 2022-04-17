@@ -1,0 +1,26 @@
+{
+  "slug": "jt-lancer",
+  "title": "J.T. Lancer",
+  "featuredTitle": "J.T. Lancer",
+  "description": "J.T. Lancer is a womanizing private investigator taking down criminals in Louisiana.",
+  "parent": "The Big Chill",
+  "parentYear": "1983",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": "Sam Weber, Debbie Sandy",
+  "labels": "crime, action",
+  "credit": "Columbia Pictures",
+  "altHero": "J.T. Lancer pointing a gun at the camera",
+  "alt1": "Lancer climbing over a balcony railing",
+  "alt2": "a speedboat drives beneath a pier",
+  "alt3": "Lancer jumps into his convertible",
+  "alt4": "Lancer, shirtless in bed with two women, gives a thumbs up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
