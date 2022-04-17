@@ -1,0 +1,28 @@
+{
+  "slug": "monsters-from-beyond",
+  "title": "Monsters from Beyond",
+  "featuredTitle": "Monsters from Beyond",
+  "description": "Monsters are attacking! The city’s only hope is the powerful Sparkysaurus. Presented in 3-D.",
+  "quote": "Send in the marines!",
+  "parent": "Frankenweenie",
+  "parentYear": "2012",
+  "rating": "Unrated",
+  "runtime": "4m",
+  "starring": "Sparky",
+  "director": "Victor Frankenstein",
+  "labels": "amateur, sci-fi, monster",
+  "credit": "Walt Disney Studios",
+  "altHero": "a handmade city scene with army men and a dinosaur breathing fire",
+  "alt1": "a handmade city with a flying dinosaur on strings above the city",
+  "alt2": "closeup of toy people looking concerned at the sky",
+  "alt3": "flying dinosaur above the city being held by a small human hand",
+  "alt4": "a dog dressed in a homemade spiky dinosaur costume",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
