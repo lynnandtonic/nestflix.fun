@@ -1,0 +1,23 @@
+{
+  "slug": "abs-variety-hour",
+  "title": "ABS Variety Hour",
+  "featuredTitle": "ABS Variety Hour",
+  "description": "Music and comedy acts hosted by the ring-a-ding king of modern romance, Mr. Tommy Tahoe.",
+  "quote": "If you don’t lose that weight from the baby, he might just say toodaloo.",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "studio": "ABS",
+  "starring": "Tommy Tahoe",
+  "labels": "variety",
+  "credit": "Netflix",
+  "altHero": "Tommy Tahoe in front of a colorful backdrop holding a microphone",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "tv series",
+    "variety shows",
+    "new on nestflix"
+  ]
+}
