@@ -1,0 +1,28 @@
+{
+  "slug": "zebras-in-america",
+  "title": "Zebras in America",
+  "featuredTitle": "Zebras in America",
+  "description": "Harry and his family are half human, half zebra. The people in Africa hated them and the zebras did too. So they move to America where life isn’t perfect either.",
+  "quote": "My hooves! My hooves!",
+  "parent": "Freddy Got Fingered",
+  "parentYear": "2001",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "studio": "Radioactive Animation Studios",
+  "director": "Gordon Brody",
+  "labels": "comedy",
+  "credit": "20th Century Fox",
+  "altHero": "a family of half human, half zebra centaurs approach the Statue of Liberty via boat",
+  "alt1": "Harry the zebra centaur",
+  "alt2": "zebras turning up their noses at the zebra centaur family",
+  "alt3": "a sign that reads “Humans only. No centaurs!”",
+  "alt4": "two of the zebra centaurs eating the lawn outside a house, a neighbor looks on confused",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "comedy tv",
+    "new on nestflix"
+  ]
+}
