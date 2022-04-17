@@ -1,0 +1,27 @@
+{
+  "slug": "the-actors-trunk",
+  "title": "The Actor’s Trunk",
+  "featuredTitle": "The Actor’s Trunk",
+  "description": "Actor Aubrey Fields hosts an improvisational variety show where actors and actresses perform based on mystery objects in an old trunk.",
+  "quote": "I'm going to add to the trunk… a frying pan.",
+  "parent": "Frankenstein’s Monster’s Monster, Frankenstein",
+  "parentYear": "2019",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": "Aubrey Fields",
+  "labels": "reality, variety",
+  "credit": "Netflix",
+  "altHero": "Aubrey Fields on a small stage next to a trunk",
+  "alt1": "actor David Harbour Jr. on stage",
+  "alt2": "actor David Harbour Jr. peering through a tennis racquet",
+  "alt3": "Aubrey Fields holding a frying pan",
+  "alt4": "actress Monica Fulton performing on stage",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "variety shows",
+    "new on nestflix"
+  ]
+}
