@@ -1,0 +1,27 @@
+{
+  "slug": "the-crying-detective",
+  "title": "The Crying Detective",
+  "featuredTitle": "The Crying Detective",
+  "description": "The Crying Detective gets to the bottom of a gruesome murder by connecting with his feelings.",
+  "quote": "Why are you avoiding talking about your mother?",
+  "parent": "Frankenstein’s Monster’s Monster, Frankenstein",
+  "parentYear": "2019",
+  "rating": "PG-13",
+  "runtime": "48m",
+  "starring": "David Harbour Jr.",
+  "labels": "thriller, mystery",
+  "credit": "Netflix",
+  "altHero": "David Harbour Jr. as the crying detective",
+  "alt1": "a therapist",
+  "alt2": "the detective lies on a therapist’s couch",
+  "alt3": "the therapist holds up a paper with “Big Jim!” written on it",
+  "alt4": "the detective leaves the therapist’s office in a hurry",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
