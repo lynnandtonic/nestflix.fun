@@ -1,0 +1,27 @@
+{
+  "slug": "time-patrol",
+  "title": "Time Patrol",
+  "featuredTitle": "Time Patrol",
+  "description": "Captain Galaxy and Future Boy travel through time to find adventure and lessons from the future.",
+  "quote": "Let’s take a look at the future!",
+  "parent": "Quantum Leap",
+  "parentYear": "1989-1993",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": "Moe Stein, Kenny Sharp",
+  "labels": "sci-fi, kids",
+  "credit": "NBCUniversal Television",
+  "altHero": "two men, Captain Galaxy and Future Boy, in shiny silver space suits",
+  "alt1": "Captain Galaxy and Future Boy in their spaceship",
+  "alt2": "Captain Galaxy steps out of the spaceship and onto a rocky planet",
+  "alt3": "Future Boy and Captain Galaxy with his arms up in the air",
+  "alt4": "Captain Galaxy reading a letter from a viewer",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}
