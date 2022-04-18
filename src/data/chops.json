@@ -1,0 +1,28 @@
+{
+  "slug": "chops",
+  "title": "CHoPs",
+  "featuredTitle": "CHoPs",
+  "description": "The adventures of two California Helicopter Patrol officers.",
+  "quote": "Man, why you choppies always spoiling my fun?",
+  "parent": "Planes: Fire & Rescue",
+  "parentYear": "2014",
+  "rating": "TV-PG",
+  "runtime": "139 episodes",
+  "starring": "Blade Ranger, Nick Lopez",
+  "producer": "Rick Rotor",
+  "labels": "reality, crime",
+  "credit": "Walt Disney Studios",
+  "altHero": "two police choppers flying between skyscrapers",
+  "alt1": "two choppers talking with a red sports car",
+  "alt2": "two choppers flying",
+  "alt3": "Studio 4x4 skyscraper on fire with billowing smoke",
+  "alt4": "a red car dangles from a cable and talks with a chopper nearby",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "tv series",
+    "action tv",
+    "new on nestflix"
+  ]
+}
