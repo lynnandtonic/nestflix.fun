@@ -1,0 +1,27 @@
+{
+  "slug": "bumbie-the-dearest-deer",
+  "title": "Bumbie the Dearest Deer",
+  "featuredTitle": "Bumbie the Dearest Deer",
+  "description": "Bumbie, the dearest deer. Deep in the darkest forest he grew. Bumbie, the dearest deer. His mother the only friend he knew.",
+  "quote": "Mommy?",
+  "parent": "Animaniacs",
+  "parentYear": "1993-1998",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "starring": "Vina Walleen",
+  "labels": "family",
+  "credit": "Warner Bros. Television",
+  "altHero": "Bumbie, a baby deer, is propped up by his rabbit friend",
+  "alt1": "Bumbie took a tumble and a butterfly lands on his tail",
+  "alt2": "the rabbit giggles",
+  "alt3": "Bumbie prances around his mom in a meadow",
+  "alt4": "Bumbie frightened surrounded by fire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films",
+    "new on nestflix"
+  ]
+}
