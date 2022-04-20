@@ -8,7 +8,7 @@
   "parentYear": "1997",
   "rating": "Unrated",
   "runtime": "1h 35m",
-  "starring": "Dirk Diggler, Reed Rothchild",
+  "starring": [ "Dirk Diggler", "Reed Rothchild" ],
   "director": "Jack Horner",
   "studio": "The Colonel James",
   "labels": [ "adult", "espionage" ],

@@ -8,7 +8,7 @@
   "parentYear": "1997-Present",
   "rating": "TV-PG",
   "runtime": "3h",
-  "starring": "Duncan Everton, Charles Biggens, Kyle Broflovski, Stan Marsh",
+  "starring": [ "Duncan Everton", "Charles Biggens", "Kyle Broflovski", "Stan Marsh" ],
   "studio": "The History Channel",
   "labels": [ "documentary", "aliens" ],
   "credit": "Comedy Central",

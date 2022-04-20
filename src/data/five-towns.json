@@ -8,7 +8,7 @@
   "parentYear": "2004-2011",
   "rating": "TV-MA",
   "runtime": "2 seasons",
-  "starring": "Johnny Chase, Jamie-Lynn Sigler",
+  "starring": [ "Johnny Chase", "Jamie-Lynn Sigler" ],
   "producer": "Edward Burns",
   "labels": [ "drama" ],
   "credit": "HBO Entertainment",

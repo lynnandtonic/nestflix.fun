@@ -8,7 +8,7 @@
   "parentYear": "2008",
   "rating": "PG-13",
   "runtime": "1h 35m",
-  "starring": "Jeff Portnoy",
+  "starring": [ "Jeff Portnoy" ],
   "studio": "New Line Cinema",
   "labels": [ "comedy" ],
   "credit": "DreamWorks Pictures",

@@ -8,7 +8,7 @@
   "parentYear": "2001",
   "rating": "TV-14",
   "runtime": "7 seasons",
-  "starring": "Jett Jackson, Nigel Essex, Riley Grant",
+  "starring": [ "Jett Jackson", "Nigel Essex", "Riley Grant" ],
   "labels": [ "action", "espionage" ],
   "credit": "Disney Channel",
   "altHero": "Silverstone with a laser pointed at his chest",

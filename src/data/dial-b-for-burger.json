@@ -8,7 +8,7 @@
   "parentYear": "2021",
   "rating": "Unrated",
   "runtime": "5m",
-  "starring": "Katie Mitchell, Monchi",
+  "starring": [ "Katie Mitchell", "Monchi" ],
   "director": "Katie Mitchell",
   "labels": [ "short film", "comedy", "amateur" ],
   "credit": "Netflix",

@@ -8,7 +8,7 @@
   "parentYear": "2006-2014",
   "rating": "TV-G",
   "runtime": "5 seasons",
-  "starring": "Lester Beacon, Nigel St. Nigel, Emilina Saffron, Zapato Dulce",
+  "starring": [ "Lester Beacon", "Nigel St. Nigel", "Emilina Saffron", "Zapato Dulce" ],
   "labels": [ "reality", "competition", "singing" ],
   "credit": "NBCUniversal Television",
   "altHero": "two awkward men in white tuxedos sing a duet",

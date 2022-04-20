@@ -8,7 +8,7 @@
   "parentYear": "2013-2019",
   "rating": "TV-G",
   "runtime": "4 seasons",
-  "starring": "Randy Anderson, Patterick Crosdale III, Kelly Darling, Cathryn Scotterson-McNeil",
+  "starring": [ "Randy Anderson", "Patterick Crosdale III", "Kelly Darling", "Cathryn Scotterson-McNeil" ],
   "labels": [ "sitcom", "family" ],
   "credit": "Warner Bros. Television",
   "altHero": "a little butler pouring some tea for a man reading a newspaper",

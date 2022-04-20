@@ -7,7 +7,7 @@
   "parentYear": "2011",
   "rating": "PG",
   "runtime": "6h 5m",
-  "starring": "Peppy Miller, George Valentin",
+  "starring": [ "Peppy Miller", "George Valentin" ],
   "studio": "Kinograph Studios",
   "labels": [ "comedy", "romance" ],
   "credit": "Warner Bros. Pictures",

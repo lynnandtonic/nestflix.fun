@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "TV-14",
   "runtime": "2 seasons",
-  "starring": "Rainier Wolfcastle, Obergruppenfuhrer Wolfcastle, Scoey",
+  "starring": [ "Rainier Wolfcastle", "Obergruppenfuhrer Wolfcastle", "Scoey" ],
   "studio": "FOX",
   "labels": [ "talk show" ],
   "credit": "20th Television",

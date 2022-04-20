@@ -8,7 +8,7 @@
   "parentYear": "1983",
   "rating": "PG",
   "runtime": "1h 12m",
-  "starring": "Doug McKenzie, Bob McKenzie",
+  "starring": [ "Doug McKenzie", "Bob McKenzie" ],
   "director": "Doug McKenzie",
   "labels": [ "amateur", "sci-fi", "monster" ],
   "credit": "MGM Pictures",

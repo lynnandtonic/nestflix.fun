@@ -7,7 +7,7 @@
   "parentYear": "2003-2006",
   "rating": "PG",
   "runtime": "4 episodes",
-  "starring": "Michael Bluth, George Oscar Bluth",
+  "starring": [ "Michael Bluth", "George Oscar Bluth" ],
   "director": "George Bluth",
   "labels": [ "reality" ],
   "credit": "20th Television, Netflix",

@@ -8,7 +8,7 @@
   "parentYear": "2019",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": "Aubrey Fields",
+  "starring": [ "Aubrey Fields" ],
   "labels": [ "reality", "variety" ],
   "credit": "Netflix",
   "altHero": "Aubrey Fields on a small stage next to a trunk",

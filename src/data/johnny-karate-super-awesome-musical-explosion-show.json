@@ -7,7 +7,7 @@
   "parentYear": "2009-2015",
   "rating": "TV-Y7",
   "runtime": "3 seasons",
-  "starring": "Andy Dwyer, Perd Hapley, Leslie Knope, Ron Swanson, April Ludgate-Karate-Dwyer, Ben Wyatt, Gary Gergrench, Donna Meagle",
+  "starring": [ "Andy Dwyer", "Perd Hapley", "Leslie Knope", "Ron Swanson", "April Ludgate-Karate-Dwyer", "Ben Wyatt", "Gary Gergrench", "Donna Meagle" ],
   "creator": "Andy Dwyer",
   "labels": [ "kids", "variety" ],
   "credit": "NBCUniversal Television",

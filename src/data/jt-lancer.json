@@ -7,7 +7,7 @@
   "parentYear": "1983",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": "Sam Weber, Debbie Sandy",
+  "starring": [ "Sam Weber" , "Debbie Sandy" ],
   "labels": [ "crime, action" ],
   "credit": "Columbia Pictures",
   "altHero": "J.T. Lancer pointing a gun at the camera",

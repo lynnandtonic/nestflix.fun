@@ -7,7 +7,7 @@
   "parentYear": "1989-Present",
   "rating": "Unrated",
   "runtime": "3m",
-  "starring": "Hans Moleman",
+  "starring": [ "Hans Moleman" ],
   "studio": "Hans Moleman Productions",
   "labels": [ "short film", "comedy", "amateur" ],
   "credit": "20th Television",

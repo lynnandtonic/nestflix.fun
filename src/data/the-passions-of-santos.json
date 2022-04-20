@@ -8,7 +8,7 @@
   "parentYear": "2014-2019",
   "rating": "TV-14",
   "runtime": "175 episodes",
-  "starring": "Rogelio De La Vega, Luciana Leon",
+  "starring": [ "Rogelio De La Vega", "Luciana Leon" ],
   "studio": "Telemasivo Studios",
   "labels": [ "telenovela" ],
   "credit": "Warner Bros. Television",

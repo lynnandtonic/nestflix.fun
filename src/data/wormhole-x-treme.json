@@ -7,7 +7,7 @@
   "parentYear": "1997-2007",
   "rating": "TV-14",
   "runtime": "10 seasons",
-  "starring": "Nick Marlowe, Yolanda Reese, Raymond Gunne, Douglas Anders",
+  "starring": [ "Nick Marlowe", "Yolanda Reese", "Raymond Gunne", "Douglas Anders" ],
   "director": "Peter DeLuise",
   "creator": "Martin Lloyd",
   "studio": "Bridge Studios",

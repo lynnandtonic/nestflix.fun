@@ -8,7 +8,7 @@
   "parentYear": "1998",
   "rating": "TV-MA",
   "runtime": "1 season",
-  "starring": "Alfredo",
+  "starring": [ "Alfredo" ],
   "labels": [ "reality", "crime" ],
   "credit": "TV Tokyo",
   "altHero": "Punch and Judy in their cowboy garb back to back holding pistols",

@@ -8,7 +8,7 @@
   "parentYear": "2014-2020",
   "rating": "TV-14",
   "runtime": "2 seasons",
-  "starring": "Felicity Huffman, Sir Mix-a-Lot",
+  "starring": [ "Felicity Huffman", "Sir Mix-a-Lot" ],
   "labels": [ "reality", "competition" ],
   "credit": "Netflix",
   "altHero": "Felicity Huffman as a judge with a gavel",

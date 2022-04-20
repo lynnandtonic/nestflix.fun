@@ -8,7 +8,7 @@
   "parentYear": "1999",
   "rating": "PG-13",
   "runtime": "1h 37m",
-  "starring": "Anna Scott, Matthew Modine",
+  "starring": [ "Anna Scott", "Matthew Modine" ],
   "labels": [ "drama", "romance" ],
   "credit": "Universal Pictures",
   "altHero": "at an art gallery, a woman stands with arms crossed, her back to her partner",

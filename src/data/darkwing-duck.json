@@ -8,7 +8,7 @@
   "parentYear": "2017-2021",
   "rating": "TV-G",
   "runtime": "4 seasons",
-  "starring": "Jim Starling",
+  "starring": [ "Jim Starling" ],
   "labels": [ "action", "superheroes" ],
   "credit": "Disney Television Animation",
   "altHero": "Darkwing Duck spreads his cape atop a building against a full moon",

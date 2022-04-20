@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "TV-G",
   "runtime": "12 seasons",
-  "starring": "Virgil Sinclair",
+  "starring": [ "Virgil Sinclair" ],
   "labels": [ "game show" ],
   "credit": "20th Television",
   "altHero": "Moe Szyslak sits across from Virgil Sinclair on the set of a game show, two wheelbarrows of cash sit nearby",

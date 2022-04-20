@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "PG",
   "runtime": "1h 38m",
-  "starring": "Rainier Wolfcastle, Milhouse Van Houten, Krusty the Clown",
+  "starring": [ "Rainier Wolfcastle", "Milhouse Van Houten", "Krusty the Clown" ],
   "labels": [ "action", "superheroes" ],
   "credit": "20th Television",
   "altHero": "superheroes Radioactive Man and Fallout Boy fight aliens on the moon",

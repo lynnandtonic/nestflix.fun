@@ -8,7 +8,7 @@
   "rating": "Unrated",
   "runtime": "1h 2m",
   "studio": "Oseary Drakoulias",
-  "starring": "Steve Zissou, Esteban du Plantier, Klaus Daimler, Vikram Ray, Bobby Ogata, Renzo Pietro, Vladimir Wolodarsky, Anne-Marie Sakowitz, Pelé dos Santos, Eleanor Zissou",
+  "starring": [ "Steve Zissou", "Esteban du Plantier", "Klaus Daimler", "Vikram Ray", "Bobby Ogata", "Renzo Pietro", "Vladimir Wolodarsky", "Anne-Marie Sakowitz", "Pelé dos Santos", "Eleanor Zissou" ],
   "director": "Steve Zissou",
   "labels": [ "documentary", "educational" ],
   "credit": "Buena Vista Pictures",

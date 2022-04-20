@@ -8,7 +8,7 @@
   "parentYear": "2006",
   "rating": "TV-14",
   "runtime": "4 seasons",
-  "starring": "Ben Lilly, David van Zyverdan",
+  "starring": [ "Ben Lilly", "David van Zyverdan" ],
   "labels": [ "talk show", "entertainment" ],
   "credit": "Warner Independent Pictures",
   "altHero": "a talk show set with Ben Lilly across from David van Zyverdan and a television between them",

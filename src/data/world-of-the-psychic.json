@@ -8,7 +8,7 @@
   "parentYear": "1989",
   "rating": "TV-PG",
   "runtime": "1 season",
-  "starring": "Peter Venkman",
+  "starring": [ "Peter Venkman" ],
   "studio": "WKRR-TV Studio",
   "labels": [ "talk show", "paranormal" ],
   "credit": "Columbia Pictures",

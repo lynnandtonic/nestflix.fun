@@ -8,7 +8,7 @@
   "parentYear": "1986",
   "rating": "PG",
   "runtime": "32m",
-  "starring": "Lucky Day, Dusty Bottoms, Ned Nederlander",
+  "starring": [ "Lucky Day", "Dusty Bottoms", "Ned Nederlander" ],
   "studio": "Goldsmith Pictures",
   "labels": [ "adventure, western" ],
   "credit": "Orion Pictures",

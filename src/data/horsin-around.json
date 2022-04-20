@@ -8,7 +8,7 @@
   "parentYear": "2014-2020",
   "rating": "TV-G",
   "runtime": "9 seasons",
-  "starring": "BoJack Horseman, Joelle Clarke, Bradley Hitler-Smith, Sarah Lynn",
+  "starring": [ "BoJack Horseman", "Joelle Clarke", "Bradley Hitler-Smith", "Sarah Lynn" ],
   "studio": "Parrotmount Studios",
   "labels": [ "sitcom", "family" ],
   "credit": "Netflix",

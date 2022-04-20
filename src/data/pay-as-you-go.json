@@ -7,7 +7,7 @@
   "parentYear": "1961-1966",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": "Johnny Patrick",
+  "starring": [ "Johnny Patrick" ],
   "labels": [ "game show" ],
   "credit": "CBS Enterprises",
   "altHero": "Johnny Patrick on a game show set with a giant map of the U.S. and Laura Petrie is the current contestant",

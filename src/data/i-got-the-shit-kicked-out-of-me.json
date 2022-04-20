@@ -8,7 +8,7 @@
   "parentYear": "2018",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": "Mary Rich",
+  "starring": [ "Mary Rich" ],
   "labels": [ "reality", "game show" ],
   "credit": "Universal Pictures",
   "altHero": "colorful host Mary Rich talks with Cassius Green",

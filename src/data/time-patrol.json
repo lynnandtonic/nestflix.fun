@@ -8,7 +8,7 @@
   "parentYear": "1989-1993",
   "rating": "TV-G",
   "runtime": "2 seasons",
-  "starring": "Moe Stein, Kenny Sharp",
+  "starring": [ "Moe Stein", "Kenny Sharp" ],
   "labels": [ "sci-fi", "kids" ],
   "credit": "NBCUniversal Television",
   "altHero": "two men, Captain Galaxy and Future Boy, in shiny silver space suits",

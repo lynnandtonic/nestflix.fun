@@ -8,7 +8,7 @@
   "parentYear": "1997-Present",
   "rating": "TV-MA",
   "runtime": "2 seasons",
-  "starring": "Russell Crowe",
+  "starring": [ "Russell Crowe" ],
   "studio": "HBC",
   "labels": [ "reality", "travel" ],
   "credit": "Comedy Central",

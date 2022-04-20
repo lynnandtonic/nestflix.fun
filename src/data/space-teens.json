@@ -8,7 +8,7 @@
   "parentYear": "2005-2014",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": "Robin Sparkles, Jessica Glitter, Alan Thicke",
+  "starring": [ "Robin Sparkles", "Jessica Glitter", "Alan Thicke" ],
   "labels": [ "kids", "sci-fi" ],
   "credit": "20th Century Fox Television",
   "altHero": "Robin Sparkles and Jessica Glitter in 90s outfits stand on their spaceship talking to a hologram Alan Thicke",

@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "R",
   "runtime": "16h 12m",
-  "starring": "Rainier Wolfcastle, Clara Hosenfrauen, Skoey",
+  "starring": [ "Rainier Wolfcastle", "Clara Hosenfrauen", "Skoey" ],
   "labels": [ "action" ],
   "credit": "20th Television",
   "altHero": "McBabe swoons at McBain through a shattered glass window",

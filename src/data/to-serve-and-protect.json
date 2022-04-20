@@ -8,7 +8,7 @@
   "parentYear": "1997",
   "rating": "R",
   "runtime": "2h 12m",
-  "starring": "Cameron Drake",
+  "starring": [ "Cameron Drake" ],
   "labels": [ "war", "drama" ],
   "credit": "Paramount Pictures",
   "altHero": "Lieutenant Billy Stevens carrying an injured soldier, Danny, on his back",

@@ -8,7 +8,7 @@
   "parentYear": "2012-2016",
   "rating": "TV-G",
   "runtime": "10 seasons",
-  "starring": "Rich, Carla",
+  "starring": [ "Rich, Carla" ],
   "labels": [ "game show" ],
   "credit": "Disney Television Animation",
   "altHero": "a game show wheel stopped on “Cash Cannon”",

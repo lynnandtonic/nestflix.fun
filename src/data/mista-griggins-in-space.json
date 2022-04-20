@@ -8,7 +8,7 @@
   "parentYear": "2017-Present",
   "rating": "PG-13",
   "runtime": "1h 54m",
-  "starring": "Jerry Skyler",
+  "starring": [ "Jerry Skyler" ],
   "director": "Jerry Skyler",
   "labels": [ "comedy" ],
   "credit": "Netflix",

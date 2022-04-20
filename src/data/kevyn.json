@@ -8,7 +8,7 @@
   "parentYear": "2016-Present",
   "rating": "TV-PG",
   "runtime": "6 seasons",
-  "starring": "Jermain Jonson, William Grant Jr., Monique Lewis, McKenzie Evans, Kyle Wilson",
+  "starring": [ "Jermain Jonson", "William Grant Jr.", "Monique Lewis", "McKenzie Evans", "Kyle Wilson" ],
   "labels": [ "sitcom" ],
   "credit": "HBO Entertainment",
   "altHero": "Kev’yn presents a tray of cupcakes to Percy and Yolanda",

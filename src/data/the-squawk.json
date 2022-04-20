@@ -7,7 +7,7 @@
   "parentYear": "2014-2020",
   "rating": "TV-14",
   "runtime": "24 seasons",
-  "starring": "Paloma Munoz-Liebowitz, Marylin Macaw",
+  "starring": [ "Paloma Munoz-Liebowitz", "Marylin Macaw" ],
   "labels": [ "talk show" ],
   "credit": "Netflix",
   "altHero": "BoJack Horseman on a talk show with four women bird hosts",

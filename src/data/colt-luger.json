@@ -8,7 +8,7 @@
   "parentYear": "2015-2021",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": "Reid Harrison, Edison Hurrell Jones, Kwame Ngugo, Dame Agnes St. Clair",
+  "starring": [ "Reid Harrison", "Edison Hurrell Jones", "Kwame Ngugo", "Dame Agnes St. Clair" ],
   "labels": [ "action" ],
   "credit": "Netflix",
   "altHero": "Colt Luger, a dark-haired tough guy, holds a revolver",

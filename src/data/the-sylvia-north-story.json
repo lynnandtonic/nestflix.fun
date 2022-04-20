@@ -7,7 +7,7 @@
   "parentYear": "2001",
   "rating": "R",
   "runtime": "2h 21m",
-  "starring": "Camilla Rhodes",
+  "starring": [ "Camilla Rhodes" ],
   "director": "Adam Kesher",
   "labels": [ "drama", "biography" ],
   "credit": "Universal Pictures",

@@ -7,7 +7,7 @@
   "parentYear": "2000",
   "rating": "R",
   "runtime": "2h 15m",
-  "starring": "Anne Laurent",
+  "starring": [ "Anne Laurent" ],
   "labels": [ "thriller" ],
   "credit": "Artificial Eye",
   "altHero": "Anne Laurent in a white blazer looks back at the camera in front of a large window",

@@ -8,7 +8,7 @@
   "parentYear": "2019",
   "rating": "PG-13",
   "runtime": "48m",
-  "starring": "David Harbour Jr.",
+  "starring": [ "David Harbour Jr." ],
   "labels": [ "thriller", "mystery" ],
   "credit": "Netflix",
   "altHero": "David Harbour Jr. as the crying detective",

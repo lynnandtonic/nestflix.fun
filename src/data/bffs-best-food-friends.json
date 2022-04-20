@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "1 season",
   "studio": "Food TV",
-  "starring": "Dev Shah, Jeff Pastore",
+  "starring": [ "Dev Shah", "Jeff Pastore" ],
   "producer": "Jeff Pastore",
   "labels": [ "reality", "travel", "cooking" ],
   "credit": "Netflix",

@@ -8,7 +8,7 @@
   "parentYear": "1961-1966",
   "rating": "TV-G",
   "runtime": "54m",
-  "starring": "Alan Brady, Robert Petrie, Maurice Sorrell, Sally Rogers, Melvin Cooley, Laura Petrie",
+  "starring": [ "Alan Brady", "Robert Petrie", "Maurice Sorrell", "Sally Rogers", "Melvin Cooley", "Laura Petrie" ],
   "studio": "Jeff Greg Barb Lou Ben Ray Polly Productions",
   "labels": [ "comedy", "holiday" ],
   "credit": "CBS Enterprises",

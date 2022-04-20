@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "PG",
   "runtime": "12m",
-  "starring": "Homer Simpson",
+  "starring": [ "Homer Simpson" ],
   "director": "Bart Simpson",
   "studio": "Nickel ‘n’ Dime Animation Studio",
   "labels": [ "short film", "comedy", "animation" ],

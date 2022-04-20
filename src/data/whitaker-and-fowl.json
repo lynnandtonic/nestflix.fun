@@ -8,7 +8,7 @@
   "parentYear": "2002",
   "rating": "PG",
   "runtime": "1h 54m",
-  "starring": "Jaleel White",
+  "starring": [ "Jaleel White" ],
   "studio": "Marty Wolf Pictures",
   "labels": [ "action", "comedy, crime" ],
   "credit": "Universal Pictures",

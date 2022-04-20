@@ -7,7 +7,7 @@
   "parentYear": "2001-2011",
   "rating": "PG-13",
   "runtime": "2h 12m",
-  "starring": "Rachel Davenport",
+  "starring": [ "Rachel Davenport" ],
   "labels": [ "action", "superheroes" ],
   "credit": "Warner Bros. Domestic Television",
   "altHero": "a superhero flies through the sky",

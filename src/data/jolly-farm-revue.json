@@ -8,7 +8,7 @@
   "parentYear": "1999-Present",
   "rating": "TV-Y",
   "runtime": "5 seasons",
-  "starring": "Karina Smirnoff",
+  "starring": [ "Karina Smirnoff" ],
   "studio": "BBC",
   "labels": [ "kids", "variety" ],
   "credit": "20th Television",

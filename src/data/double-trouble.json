@@ -7,7 +7,7 @@
   "parentYear": "1996",
   "rating": "TV-G",
   "runtime": "7 seasons",
-  "starring": "Sam Sweet, Stan Sweet, Conrad Janis",
+  "starring": [ "Sam Sweet", "Stan Sweet", "Conrad Janis" ],
   "labels": [ "sitcom" ],
   "credit": "Sony Pictures",
   "altHero": "two twins point at each other",

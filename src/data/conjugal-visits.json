@@ -8,7 +8,7 @@
   "parentYear": "2016-Present",
   "rating": "TV-MA",
   "runtime": "2 seasons",
-  "starring": "Candy “The Big C” Monroe, Sequoia “Lil Scrapey” Romaine, Rochee “Rochee All Day” Brinkley, Officer Quentin “Q-ball” Thompson",
+  "starring": [ "Candy “The Big C” Monroe", "Sequoia “Lil Scrapey” Romaine", "Rochee “Rochee All Day” Brinkley", "Officer Quentin “Q-ball” Thompson" ],
   "studio": "Nat Geo TV",
   "labels": [ "reality" ],
   "credit": "HBO Entertainment",

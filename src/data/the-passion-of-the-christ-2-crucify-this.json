@@ -8,7 +8,7 @@
   "parentYear": "1999-Present",
   "rating": "R",
   "runtime": "2h 22m",
-  "starring": "Chris Tucker, Jim Caviziel",
+  "starring": [ "Chris Tucker", "Jim Caviziel" ],
   "director": "Mel Gibson",
   "labels": [ "action", "comedy" ],
   "credit": "20th Television",

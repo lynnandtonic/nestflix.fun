@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "Unrated",
   "runtime": "16m",
-  "starring": "Barney Gumble",
+  "starring": [ "Barney Gumble" ],
   "director": "Barney Gumble",
   "labels": [ "short film", "amateur", "drama" ],
   "credit": "20th Television",

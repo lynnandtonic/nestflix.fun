@@ -8,7 +8,7 @@
   "parentYear": "2003-2006",
   "rating": "TV-14",
   "runtime": "1 season",
-  "starring": "Taran Killam, Cobie Smulders, Thomas Barbusca, Owen Vaccaro, Steele Stebbins, Savannah Kennick, Jean Smart",
+  "starring": [ "Taran Killam", "Cobie Smulders", "Thomas Barbusca", "Owen Vaccaro", "Steele Stebbins", "Savannah Kennick", "Jean Smart" ],
   "director": "Ron Howard, Brian Grazer",
   "studio": "Imagine Entertainment",
   "labels": [ "drama" ],

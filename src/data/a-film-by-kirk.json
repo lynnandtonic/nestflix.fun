@@ -8,7 +8,7 @@
   "parentYear": "2000-2007",
   "rating": "PG",
   "runtime": "3m",
-  "starring": "Kirk Gleason",
+  "starring": [ "Kirk Gleason" ],
   "director": "Kirk Gleason",
   "labels": [ "short film", "drama", "amateur" ],
   "credit": "Warner Bros. Television",

@@ -8,7 +8,7 @@
   "parentYear": "2006-2013",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": "Rob Huebel",
+  "starring": [ "Rob Huebel" ],
   "studio": "NBC",
   "labels": [ "reality", "competition" ],
   "credit": "NBCUniversal Television",

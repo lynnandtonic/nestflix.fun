@@ -7,7 +7,7 @@
   "parentYear": "2016-Present",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": "Franklin Montague, Nathan Wielder",
+  "starring": [ "Franklin Montague", "Nathan Wielder" ],
   "studio": "Black American Network",
   "labels": [ "tv shows, politics" ],
   "credit": "20th Television",

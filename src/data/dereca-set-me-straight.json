@@ -8,7 +8,7 @@
   "parentYear": "2017-Present",
   "rating": "TV-MA",
   "runtime": "3 seasons",
-  "starring": "Dereca",
+  "starring": [ "Dereca" ],
   "labels": [ "reality", "talk show" ],
   "credit": "Netflix",
   "altHero": "Dereca",

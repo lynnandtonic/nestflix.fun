@@ -8,7 +8,7 @@
   "parentYear": "2015",
   "rating": "R",
   "runtime": "2h 23m",
-  "starring": "Daniel Radcliffe, Marisa Tomei",
+  "starring": [ "Daniel Radcliffe", "Marisa Tomei" ],
   "labels": [ "drama" ],
   "credit": "Universal Pictures",
   "altHero": "Daniel Radcliffe sits at a cafe table in the park with several dogs leashed nearby",

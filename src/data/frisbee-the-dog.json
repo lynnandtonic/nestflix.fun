@@ -7,7 +7,7 @@
   "parentYear": "1988",
   "rating": "TV-Y",
   "runtime": "1 season",
-  "starring": "Frank Cross, Roy Brocksmith",
+  "starring": [ "Frank Cross", "Roy Brocksmith" ],
   "labels": [ "kids" ],
   "credit": "Paramount Pictures",
   "altHero": "a man in a dog costume outside a big dog house labeled “Frisbee”",

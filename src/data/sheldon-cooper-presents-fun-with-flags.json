@@ -8,7 +8,7 @@
   "parentYear": "2007-2019",
   "rating": "Unrated",
   "runtime": "254 episodes",
-  "starring": "Sheldon Cooper, Amy Farrah Fowler",
+  "starring": [ "Sheldon Cooper", "Amy Farrah Fowler" ],
   "labels": [ "talk show", "educational" ],
   "credit": "Warner Bros. Television",
   "altHero": "Sheldon Cooper on his couch, gesturing at his whiteboard behind him",

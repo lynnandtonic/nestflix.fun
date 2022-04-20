@@ -8,7 +8,7 @@
   "parentYear": "2004-2010",
   "rating": "TV-MA",
   "runtime": "7 seasons",
-  "starring": "Billy Dee Williams, Kimber Andrews, Alissa Jean Scott, Johnny C., Rick Lapidus, Nikki Fernandez",
+  "starring": [ "Billy Dee Williams", "Kimber Andrews", "Alissa Jean Scott", "Johnny C.", "Rick Lapidus", "Nikki Fernandez" ],
   "director": "Stephen Williams",
   "labels": [ "action", "drama, crime" ],
   "credit": "Universal Pictures",

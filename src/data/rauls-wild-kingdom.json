@@ -8,7 +8,7 @@
   "parentYear": "1989",
   "rating": "TV-PG",
   "runtime": "1 season",
-  "starring": "Raul Hernandez",
+  "starring": [ "Raul Hernandez" ],
   "studio": "Channel 62",
   "labels": [ "reality", "animals" ],
   "credit": "Orion Pictures",

@@ -7,7 +7,7 @@
   "parentYear": "1965",
   "rating": "PG-13",
   "runtime": "1h 42m",
-  "starring": "Diana Scott",
+  "starring": [ "Diana Scott" ],
   "labels": [ "thriller", "mystery" ],
   "credit": "Embassy Pictures",
   "altHero": "a woman lies dead on the floor",

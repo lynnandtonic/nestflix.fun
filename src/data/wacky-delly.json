@@ -8,7 +8,7 @@
   "parentYear": "1993-1996",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": "Rocko Wallaby, Heffer Wolfe, Filburt Turtle",
+  "starring": [ "Rocko Wallaby", "Heffer Wolfe", "Filburt Turtle" ],
   "director": "Rachel Bighead",
   "studio": "Bighead Studios",
   "labels": [ "comedy" ],

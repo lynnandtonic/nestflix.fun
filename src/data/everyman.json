@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "PG-13",
   "runtime": "1h 49m",
-  "starring": "Homer Simpson",
+  "starring": [ "Homer Simpson" ],
   "studio": "Ginormous Pictures",
   "labels": [ "action", "superheroes" ],
   "credit": "20th Television",

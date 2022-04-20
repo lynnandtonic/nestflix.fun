@@ -7,7 +7,7 @@
   "parentYear": "2003-2006",
   "rating": "TV-MA",
   "runtime": "2 seasons",
-  "starring": "John Beard",
+  "starring": [ "John Beard" ],
   "labels": [ "reality", "crime" ],
   "credit": "20th Television, Netflix",
   "altHero": "John Beard in the kitchen with Tobias Funke who is dressed as The Thing from the Fantastic Four",

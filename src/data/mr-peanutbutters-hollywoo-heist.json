@@ -8,7 +8,7 @@
   "parentYear": "2014-2020",
   "rating": "PG-13",
   "runtime": "1h 48m",
-  "starring": "BoJack Horseman, Naomi Watts, Wallace Shawn",
+  "starring": [ "BoJack Horseman", "Naomi Watts", "Wallace Shawn" ],
   "director": "Quentin Tarantulino",
   "labels": [ "comedy", "romance" ],
   "credit": "Netflix",

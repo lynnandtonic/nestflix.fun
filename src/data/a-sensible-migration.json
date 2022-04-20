@@ -8,7 +8,7 @@
   "parentYear": "2019-Present",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": "Boobles St. Clair, Croystles Cloister, Apprentice Bushcock, Shuffle D’Brimby, Ridges Swivel, Hump Legion Poondice, Pip-Pip Pembytwos, Crownt Tricklebailiff, Bottom Romphim, Ottilie Free Pickleswell, Baneeners Nimby, Marmamie Gogummer, Conker Roight Knickered, Foxham Roseforthy",
+  "starring": [ "Boobles St. Clair", "Croystles Cloister", "Apprentice Bushcock", "Shuffle D’Brimby", "Ridges Swivel", "Hump Legion Poondice", "Pip-Pip Pembytwos", "Crownt Tricklebailiff", "Bottom Romphim", "Ottilie Free Pickleswell", "Baneeners Nimby", "Marmamie Gogummer", "Conker Roight Knickered", "Foxham Roseforthy" ],
   "studio": "British Bird Channel (BBC)",
   "labels": [ "drama", "romance", "period piece" ],
   "credit": "Warner Bros. Television",

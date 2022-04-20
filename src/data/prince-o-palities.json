@@ -8,7 +8,7 @@
   "parentYear": "2017-Present",
   "rating": "TV-MA",
   "runtime": "5 seasons",
-  "starring": "Shelli Boone, Zan Gomes-Headley, P. Ninny",
+  "starring": [ "Shelli Boone", "Zan Gomes-Headley", "P. Ninny" ],
   "labels": [ "drama" ],
   "credit": "Netflix",
   "altHero": "Cupcake, wearing a fur coat and big gold jewelry",

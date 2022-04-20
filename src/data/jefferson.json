@@ -8,7 +8,7 @@
   "parentYear": "2006-2013",
   "rating": "PG-13",
   "runtime": "1h 34m",
-  "starring": "Tracy Jordan, Kenneth Parcell",
+  "starring": [ "Tracy Jordan", "Kenneth Parcell" ],
   "director": "Tracy Jordan",
   "labels": [ "drama", "history" ],
   "credit": "NBCUniversal Television",

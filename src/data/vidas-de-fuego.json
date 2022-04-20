@@ -7,7 +7,7 @@
   "parentYear": "2006-2010",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": "Marlene Favela, Eduardo Rodríguez, Sebastián Rulli, Ninel Conde, Helena Rojo",
+  "starring": [ "Marlene Favela", "Eduardo Rodríguez", "Sebastián Rulli", "Ninel Conde", "Helena Rojo" ],
   "labels": [ "telenovela" ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "a woman, Esmeralda, in a pink dress outside a church",

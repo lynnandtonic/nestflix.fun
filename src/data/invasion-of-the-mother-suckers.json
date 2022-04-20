@@ -8,7 +8,7 @@
   "parentYear": "2005-2017",
   "rating": "R",
   "runtime": "49m",
-  "starring": "Barry Summers, Camille Saroyan",
+  "starring": [ "Barry Summers", "Camille Saroyan" ],
   "labels": [ "horror", "vampires" ],
   "credit": "20th Television",
   "altHero": "Cindy, a 70s cool lady, looks at the camera and shows vampire teeth",

@@ -7,7 +7,7 @@
   "parentYear": "1996",
   "rating": "TV-G",
   "runtime": "2 seasons",
-  "starring": "Troy Chesterfield",
+  "starring": [ "Troy Chesterfield" ],
   "labels": [ "variety", "entertainment" ],
   "credit": "20th Century Fox",
   "altHero": "host Troy Chesterfield introduces an act",

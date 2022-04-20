@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "1 season",
   "studio": "NBC",
-  "starring": "Sarah Marshall, Jason Bateman",
+  "starring": [ "Sarah Marshall", "Jason Bateman" ],
   "labels": [ "drama", "crime", "animals" ],
   "credit": "Universal Pictures",
   "altHero": "Sarah Marshall eyes glow an unnatural blue",

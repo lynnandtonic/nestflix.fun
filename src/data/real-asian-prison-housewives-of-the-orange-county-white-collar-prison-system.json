@@ -8,7 +8,7 @@
   "parentYear": "2003-2006",
   "rating": "TV-14",
   "runtime": "2 seasons",
-  "starring": "Olive Garden, Mrs. Oh, Noh, Lucille Bluth",
+  "starring": [ "Olive Garden", "Mrs. Oh", "Noh", "Lucille Bluth" ],
   "labels": [ "reality" ],
   "credit": "20th Television, Netflix",
   "altHero": "three Asian women walk toward the camera in Asian-inspired outfits made of nice fabrics and embroidered prison numbers",

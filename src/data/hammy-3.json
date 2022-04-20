@@ -8,7 +8,7 @@
   "parentYear": "2014",
   "rating": "R",
   "runtime": "1h 55m",
-  "starring": "Andre Allen, Luis Guzmán",
+  "starring": [ "Andre Allen", "Luis Guzmán" ],
   "director": "Bret Singleton",
   "studio": "New Rat Entertainment",
   "labels": [ "action", "crime" ],

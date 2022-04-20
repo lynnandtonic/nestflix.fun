@@ -7,7 +7,7 @@
   "parentYear": "1997-2003",
   "rating": "TV-Y",
   "runtime": "3 seasons",
-  "starring": "Whitney Allen",
+  "starring": [ "Whitney Allen" ],
   "labels": [ "kids", "educational" ],
   "credit": "HBO Entertainment",
   "altHero": "Miss Sally looks unimpressed with her puppet pals",

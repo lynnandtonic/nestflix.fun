@@ -7,7 +7,7 @@
   "parentYear": "1999-2013",
   "rating": "TV-14",
   "runtime": "8 seasons",
-  "starring": "Humorbot 5.0",
+  "starring": [ "Humorbot 5.0" ],
   "labels": [ "talk show" ],
   "credit": "20th Century Fox Television",
   "altHero": "Humorbot at his talk show desk",

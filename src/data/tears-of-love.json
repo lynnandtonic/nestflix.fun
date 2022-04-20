@@ -8,7 +8,7 @@
   "parentYear": "2011",
   "rating": "PG",
   "runtime": "1h 34m",
-  "starring": "George Valentin, Jack the dog",
+  "starring": [ "George Valentin", "Jack the dog" ],
   "labels": [ "adventure, romance" ],
   "credit": "Warner Bros. Pictures",
   "altHero": "man and woman embrace in the jungle, a dog sits nearby",

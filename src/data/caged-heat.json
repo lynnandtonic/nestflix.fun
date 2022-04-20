@@ -7,7 +7,7 @@
   "parentYear": "2014",
   "rating": "TV-14",
   "runtime": "1 episode",
-  "starring": "Trevor Slattery, Priscilla Everhart, Rick Hawkins",
+  "starring": [ "Trevor Slattery", "Priscilla Everhart", "Rick Hawkins" ],
   "studio": "CBS",
   "labels": [ "action", "crime" ],
   "credit": "Walt Disney Studios",

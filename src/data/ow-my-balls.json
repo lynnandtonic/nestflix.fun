@@ -7,7 +7,7 @@
   "parentYear": "2006",
   "rating": "TV-G",
   "runtime": "10 seasons",
-  "starring": "Hormel Chavez",
+  "starring": [ "Hormel Chavez" ],
   "studio": "The Violence Channel",
   "labels": [ "comedy" ],
   "credit": "20th Century Fox",

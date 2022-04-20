@@ -7,7 +7,7 @@
   "parentYear": "2019",
   "rating": "R",
   "runtime": "2h 26m",
-  "starring": "Rick Dalton",
+  "starring": [ "Rick Dalton" ],
   "labels": [ "action", "western" ],
   "credit": "Columbia Pictures",
   "altHero": "Rick Dalton in a cowboy hat",

@@ -8,7 +8,7 @@
   "parentYear": "2002",
   "rating": "TV-Y",
   "runtime": "5 seasons",
-  "starring": "Randolph Smiley",
+  "starring": [ "Randolph Smiley" ],
   "studio": "Kidnet Television",
   "labels": [ "kids", "variety" ],
   "credit": "Warner Bros. Pictures",

@@ -8,7 +8,7 @@
   "parentYear": "2014",
   "rating": "PG-13",
   "runtime": "1h 54m",
-  "starring": "Ashton Kutcher, Mila Kunis, Rihanna",
+  "starring": [ "Ashton Kutcher", "Mila Kunis", "Rihanna" ],
   "labels": [ "drama", "romance", "fantasy" ],
   "credit": "Sony Pictures",
   "altHero": "Mila Kunis as Andrea and Ashton Kutcher as Simon standing in the woods, Andrea is crying bright blue tears",

@@ -8,7 +8,7 @@
   "parentYear": "1993-1996",
   "rating": "TV-G",
   "runtime": "5 seasons",
-  "starring": "Nosey",
+  "starring": [ "Nosey" ],
   "labels": [ "talk show" ],
   "credit": "MTV Networks",
   "altHero": "Nosey talks into a microphone in front of her studio audience",

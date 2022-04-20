@@ -8,7 +8,7 @@
   "parentYear": "2016",
   "rating": "PG",
   "runtime": "1h 4m",
-  "starring": "Hobie Doyle",
+  "starring": [ "Hobie Doyle" ],
   "director": "Laurence Laurentz",
   "studio": "Capitol Pictures",
   "labels": [ "drama", "romance" ],

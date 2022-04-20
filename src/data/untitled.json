@@ -8,7 +8,7 @@
   "parentYear": "2020",
   "rating": "PG-13",
   "runtime": "1h 48m",
-  "starring": "Colby Minifie, Jason Ralph",
+  "starring": [ "Colby Minifie", "Jason Ralph" ],
   "director": "Robert Zemeckis",
   "labels": [ "drama" ],
   "credit": "Netflix",

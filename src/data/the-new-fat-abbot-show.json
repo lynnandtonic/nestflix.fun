@@ -8,7 +8,7 @@
   "parentYear": "1997-Present",
   "rating": "TV-MA",
   "runtime": "8 seasons",
-  "starring": "Bill Cosby",
+  "starring": [ "Bill Cosby" ],
   "labels": [ "comedy" ],
   "credit": "Comedy Central",
   "altHero": "Fat Abbot",

@@ -8,7 +8,7 @@
   "parentYear": "2005-2014",
   "rating": "R",
   "runtime": "1h 46m",
-  "starring": "Gary Anthony Williams, John Witherspoon, Mo'Nique, Snoop Dogg, 50 Cent",
+  "starring": [ "Gary Anthony Williams", "John Witherspoon", "Mo'Nique", "Snoop Dogg", "50 Cent" ],
   "labels": [ "comedy", "action" ],
   "credit": "Sony Pictures Television",
   "altHero": "a woman at an NWA airline counter giving a grumpy look",

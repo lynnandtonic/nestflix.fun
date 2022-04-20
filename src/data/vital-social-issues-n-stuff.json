@@ -8,7 +8,7 @@
   "parentYear": "1987-1997",
   "rating": "TV-14",
   "runtime": "1 season",
-  "starring": "Kelly Bundy, Joanie and the Slashettes",
+  "starring": [ "Kelly Bundy", "Joanie and the Slashettes" ],
   "labels": [ "talk show" ],
   "credit": "Sony Pictures Television",
   "altHero": "Kelly and three of her teenage girlfriends",

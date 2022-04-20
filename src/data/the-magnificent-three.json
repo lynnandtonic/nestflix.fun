@@ -8,7 +8,7 @@
   "parentYear": "1999-2013",
   "rating": "PG-13",
   "runtime": "1h 37m",
-  "starring": "Harold Zoid, Calculon, John A. Zoidberg",
+  "starring": [ "Harold Zoid", "Calculon", "John A. Zoidberg" ],
   "director": "Harold Zoid",
   "labels": [ "drama" ],
   "credit": "20th Century Fox Television",

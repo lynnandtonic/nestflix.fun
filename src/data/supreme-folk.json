@@ -7,7 +7,7 @@
   "parentYear": "2003",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": "George Menschell, Terry Bohner, Laurie Bohner, Sissy Knox, Sean Halloran, Tony Pollono, Jerald Smithers, Johnny Athenakis, Mike Maryama",
+  "starring": [ "George Menschell", "Terry Bohner", "Laurie Bohner", "Sissy Knox", "Sean Halloran", "Tony Pollono", "Jerald Smithers", "Johnny Athenakis", "Mike Maryama" ],
   "creator": "Mike LaFontaine",
   "labels": [ "reality", "crime, music" ],
   "credit": "Warner Bros. Pictures",

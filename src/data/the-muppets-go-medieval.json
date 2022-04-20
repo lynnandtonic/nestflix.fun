@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "PG",
   "runtime": "1h 36m",
-  "starring": "Troy McClure, Dyan Cannon",
+  "starring": [ "Troy McClure", "Dyan Cannon" ],
   "labels": [ "comedy", "family" ],
   "credit": "20th Television",
   "altHero": "Troy McClure woos Miss Piggy on a stone balcony",

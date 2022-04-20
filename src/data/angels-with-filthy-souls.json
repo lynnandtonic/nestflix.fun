@@ -10,7 +10,7 @@
   "parent2Year": "2019",
   "rating": "R",
   "runtime": "1h 47m",
-  "starring": "Ralph Foody, Michael Guido",
+  "starring": [ "Ralph Foody", "Michael Guido" ],
   "labels": [ "drama", "thriller", "mobster" ],
   "credit": "20th Century Fox",
   "altHero": "mob boss Johnny wields a gun",

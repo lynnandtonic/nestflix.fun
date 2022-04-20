@@ -8,7 +8,7 @@
   "parentYear": "1992",
   "rating": "R",
   "runtime": "2h 6m",
-  "starring": "Julia Roberts, Bruce Willis, Susan Sarandon, Peter Falk",
+  "starring": [ "Julia Roberts", "Bruce Willis", "Susan Sarandon", "Peter Falk" ],
   "labels": [ "drama" ],
   "credit": "Fine Line Features",
   "altHero": "Julia Roberts as Marsha Kent behind bars",

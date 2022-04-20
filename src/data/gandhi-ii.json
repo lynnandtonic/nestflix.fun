@@ -8,7 +8,7 @@
   "parentYear": "1989",
   "rating": "PG-13",
   "runtime": "1h 36m",
-  "starring": "Jay Levey",
+  "starring": [ "Jay Levey" ],
   "studio": "Channel 62",
   "labels": [ "action" ],
   "credit": "Orion Pictures",

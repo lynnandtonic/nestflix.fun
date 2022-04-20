@@ -7,7 +7,7 @@
   "parentYear": "2013",
   "rating": "PG",
   "runtime": "1h 36m",
-  "starring": "Ellen Lipton, Tara Wexler, Caley Grodin, Josh Channing, Matt Singleton",
+  "starring": [ "Ellen Lipton", "Tara Wexler", "Caley Grodin", "Josh Channing", "Matt Singleton" ],
   "director": "Ellen Lipton",
   "labels": [ "comedy" ],
   "credit": "Entertainment One",

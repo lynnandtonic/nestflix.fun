@@ -8,7 +8,7 @@
   "parentYear": "2009-2016",
   "rating": "TV-MA",
   "runtime": "5 seasons",
-  "starring": "Charlie Pollock, Marta Reiman",
+  "starring": [ "Charlie Pollock", "Marta Reiman" ],
   "studio": "AMC",
   "labels": [ "drama", "crime" ],
   "credit": "CBS Television",

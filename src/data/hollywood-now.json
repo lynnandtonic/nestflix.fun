@@ -8,7 +8,7 @@
   "parentYear": "2006",
   "rating": "TV-PG",
   "runtime": "5 seasons",
-  "starring": "Chuck Porter, Cindy Martin",
+  "starring": [ "Chuck Porter", "Cindy Martin" ],
   "labels": [ "talk show", "entertainment" ],
   "credit": "Warner Independent Pictures",
   "altHero": "Chuck Porter and Cindy Martin",

@@ -8,7 +8,7 @@
   "parentYear": "1999-Present",
   "rating": "Unrated",
   "runtime": "43m",
-  "starring": "Lois Griffin",
+  "starring": [ "Lois Griffin" ],
   "labels": [ "adult" ],
   "credit": "20th Television",
   "altHero": "Lois Griffin and a male costar dressed as cave people",

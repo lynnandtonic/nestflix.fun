@@ -8,7 +8,7 @@
   "parentYear": "2008",
   "rating": "PG",
   "runtime": "2h 3m",
-  "starring": "Tugg Speedman, Christine Taylor",
+  "starring": [ "Tugg Speedman", "Christine Taylor" ],
   "labels": [ "drama" ],
   "credit": "DreamWorks Pictures",
   "altHero": "Tugg Speedman is Simple Jack, sporting overalls and a bowl cut",

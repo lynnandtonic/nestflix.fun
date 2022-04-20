@@ -7,7 +7,7 @@
   "parentYear": "2019",
   "rating": "R",
   "runtime": "2h 26m",
-  "starring": "Rick Dalton, Margaret Lee",
+  "starring": [ "Rick Dalton", "Margaret Lee" ],
   "director": "Antonio Margheriti",
   "labels": [ "action", "espionage" ],
   "credit": "Columbia Pictures",

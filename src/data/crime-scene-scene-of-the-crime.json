@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "4 seasons",
   "studio": "NBC",
-  "starring": "Sarah Marshall, Billy Baldwin",
+  "starring": [ "Sarah Marshall", "Billy Baldwin" ],
   "labels": [ "drama", "crime" ],
   "credit": "Universal Pictures",
   "altHero": "Maddy Stark and Hunter Rush speak to a woman at a crime scene",

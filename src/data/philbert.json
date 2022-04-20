@@ -8,7 +8,7 @@
   "parentYear": "2014-2020",
   "rating": "TV-MA",
   "runtime": "1.5 seasons",
-  "starring": "BoJack Horseman, Gina Cazador, Mr. Peanutbutter, Wesley D. Morgo, Sandra Von Crinkle, Hercules Garcia",
+  "starring": [ "BoJack Horseman", "Gina Cazador", "Mr. Peanutbutter", "Wesley D. Morgo", "Sandra Von Crinkle", "Hercules Garcia" ],
   "creator": "Flip McVicker",
   "studio": "What Time Is It Right Now?",
   "labels": [ "drama", "crime" ],

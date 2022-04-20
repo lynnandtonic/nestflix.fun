@@ -8,7 +8,7 @@
   "parentYear": "2002",
   "rating": "TV-Y",
   "runtime": "2 seasons",
-  "starring": "Sheldon Mopes",
+  "starring": [ "Sheldon Mopes" ],
   "studio": "Kidnet Television",
   "labels": [ "kids", "variety" ],
   "credit": "Warner Bros. Pictures",

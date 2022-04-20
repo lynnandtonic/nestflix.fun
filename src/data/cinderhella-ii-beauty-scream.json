@@ -8,7 +8,7 @@
   "parentYear": "2011",
   "rating": "R",
   "runtime": "1h 56m",
-  "starring": "Moscow Hyatt",
+  "starring": [ "Moscow Hyatt" ],
   "studio": "GV Musterhausen Films",
   "labels": [ "horror", "slasher" ],
   "credit": "Samuel Goldwyn Films",

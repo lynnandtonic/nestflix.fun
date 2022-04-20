@@ -8,7 +8,7 @@
   "parentYear": "2003",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": "Cher, Walt Tenor, Fernanda Lima",
+  "starring": [ "Cher", "Walt Tenor", "Fernanda Lima" ],
   "labels": [ "drama", "crime" ],
   "credit": "20th Century Fox",
   "altHero": "Honey and the Beaze running down the street",

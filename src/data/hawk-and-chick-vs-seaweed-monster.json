@@ -7,7 +7,7 @@
   "parentYear": "2011-Present",
   "rating": "PG",
   "runtime": "1h 38m",
-  "starring": "Shinji Kojima, Yuki Kojima",
+  "starring": [ "Shinji Kojima", "Yuki Kojima" ],
   "labels": [ "action", "monster", "martial arts" ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "Hawk carries his daughter Chick in a basket on his back",

@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "2h 4m",
   "studio": "Carson Clay Pictures",
-  "starring": "Carson Clay, Sabine",
+  "starring": [ "Carson Clay", "Sabine" ],
   "director": "Carson Clay",
   "labels": [ "drama" ],
   "credit": "Universal Pictures",

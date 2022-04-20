@@ -7,7 +7,7 @@
   "parentYear": "1999-2006",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": "Mark Gottfried, Chris Eisen, Marjorie Clarke",
+  "starring": [ "Mark Gottfried", "Chris Eisen", "Marjorie Clarke" ],
   "labels": [ "talk show", "politics" ],
   "credit": "Warner Bros. Television",
   "altHero": "the Capital Beat desk with Mark Gottfried and guests",

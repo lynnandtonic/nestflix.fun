@@ -8,7 +8,7 @@
   "parentYear": "2011",
   "rating": "R",
   "runtime": "1h 46m",
-  "starring": "Lucy Hale, Shenae Grimes",
+  "starring": [ "Lucy Hale", "Shenae Grimes" ],
   "labels": [ "horror", "slasher" ],
   "credit": "Universal Pictures",
   "altHero": "Lucy Hale talks on a cordless house phone",

@@ -8,7 +8,7 @@
   "parentYear": "1992",
   "rating": "R",
   "runtime": "1h 36m",
-  "starring": "Ralph Foody, Clare Hoak",
+  "starring": [ "Ralph Foody", "Clare Hoak" ],
   "labels": [ "drama", "thriller", "mobster" ],
   "credit": "20th Century Fox",
   "altHero": "mob boss Johnny in a tuxedo wields a tommy gun",

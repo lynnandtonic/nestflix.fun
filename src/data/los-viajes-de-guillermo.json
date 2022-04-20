@@ -8,7 +8,7 @@
   "parentYear": "2014-2019",
   "rating": "TV-14",
   "runtime": "1 season",
-  "starring": "Rogelio De La Vega, Esteban Santiago, Fabian Regalo del Cielo",
+  "starring": [ "Rogelio De La Vega", "Esteban Santiago", "Fabian Regalo del Cielo" ],
   "studio": "Telemasivo Studios",
   "labels": [ "telenovela" ],
   "credit": "Warner Bros. Television",

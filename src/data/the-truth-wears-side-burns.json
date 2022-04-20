@@ -8,7 +8,7 @@
   "parentYear": "2002-2003",
   "rating": "Unrated",
   "runtime": "23m",
-  "starring": "Joan of Arc, Genghis Khan",
+  "starring": [ "Joan of Arc", "Genghis Khan" ],
   "director": "Joan of Arc",
   "labels": [ "drama" ],
   "credit": "MTV Networks",

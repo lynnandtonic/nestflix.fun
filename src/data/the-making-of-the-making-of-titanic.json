@@ -9,7 +9,7 @@
   "rating": "G",
   "runtime": "1h 23m",
   "studio": "Shadow Studios",
-  "starring": "Paul Buchman",
+  "starring": [ "Paul Buchman" ],
   "labels": [ "documentary" ],
   "credit": "Columbia Pictures Television",
   "altHero": "Paul interviews the director",

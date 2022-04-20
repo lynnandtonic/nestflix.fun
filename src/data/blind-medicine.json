@@ -8,7 +8,7 @@
   "parentYear": "2010",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": "Sarah Marshall, Rick Schroder",
+  "starring": [ "Sarah Marshall", "Rick Schroder" ],
   "studio": "NBC",
   "labels": [ "drama", "medical" ],
   "credit": "Universal Pictures",

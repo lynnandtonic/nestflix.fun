@@ -8,7 +8,7 @@
   "parentYear": "1993",
   "rating": "PG-13",
   "runtime": "2h 23m",
-  "starring": "Arnold Schwarzenegger, Meredith Caprice, Murray Josephson, Anthony Quinn, Art Carney, Charles Dance",
+  "starring": [ "Arnold Schwarzenegger", "Meredith Caprice", "Murray Josephson", "Anthony Quinn", "Art Carney", "Charles Dance" ],
   "director": "Franco Columbu",
   "labels": [ "action" ],
   "credit": "Columbia Pictures",

@@ -8,7 +8,7 @@
   "parentYear": "2003",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": "Leif Garrett, Dustin Diamond, Corey Feldman, Danny Bonaduce, Barry Williams",
+  "starring": [ "Leif Garrett", "Dustin Diamond", "Corey Feldman", "Danny Bonaduce", "Barry Williams" ],
   "labels": [ "sitcom" ],
   "credit": "Paramount Pictures",
   "altHero": "Dickie Roberts and Leif Garrett",

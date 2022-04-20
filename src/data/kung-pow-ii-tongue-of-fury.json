@@ -8,7 +8,7 @@
   "parentYear": "2002",
   "rating": "PG-13",
   "runtime": "1h 23m",
-  "starring": "Steve Oedekerk",
+  "starring": [ "Steve Oedekerk" ],
   "director": "Steve Oedekerk",
   "labels": [ "comedy", "martial arts" ],
   "credit": "20th Century Fox",

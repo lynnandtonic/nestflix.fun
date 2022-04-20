@@ -8,7 +8,7 @@
   "parentYear": "2011",
   "rating": "PG-13",
   "runtime": "1h 38m",
-  "starring": "Jason Segel, Rashida Jones",
+  "starring": [ "Jason Segel", "Rashida Jones" ],
   "labels": [ "comedy", "romance" ],
   "credit": "Screen Gems",
   "altHero": "Bryce and Madison talking at a bar",

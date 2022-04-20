@@ -8,7 +8,7 @@
   "parentYear": "2015-2019",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": "Tom Hortins, Barbara Jones, Victoria Taylor, Grizz",
+  "starring": [ "Tom Hortins", "Barbara Jones", "Victoria Taylor", "Grizz" ],
   "labels": [ "sitcom", "family" ],
   "credit": "Warner Bros. Television",
   "altHero": "a family sitting on the couch watching tv, one member is a little bear",

@@ -8,7 +8,7 @@
   "rating": "TV-PG",
   "runtime": "1 season",
   "studio": "Food TV",
-  "starring": "Dev Shah, DJ Sweet Treats",
+  "starring": [ "Dev Shah", "DJ Sweet Treats" ],
   "producer": "Jeff Pastore",
   "labels": [ "reality", "competition", "cooking" ],
   "credit": "Netflix",

@@ -7,7 +7,7 @@
   "parentYear": "2014-2020",
   "rating": "TV-PG",
   "runtime": "6 seasons",
-  "starring": "Hank Hippopopalous",
+  "starring": [ "Hank Hippopopalous" ],
   "labels": [ "talk show" ],
   "credit": "20th Television",
   "altHero": "a guest tries to grab the human baby who has attached herself to Hank’s arm",

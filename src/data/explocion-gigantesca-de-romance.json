@@ -8,7 +8,7 @@
   "parentYear": "2006-2014",
   "rating": "TV-PG",
   "runtime": "8 seasons",
-  "starring": "Jorge Gama-Lobo, Ronaldo Nuñez, Quintessa Gabriel, Anita Desmondo, Shawn Spencer",
+  "starring": [ "Jorge Gama-Lobo", "Ronaldo Nuñez", "Quintessa Gabriel", "Anita Desmondo", "Shawn Spencer" ],
   "labels": [ "telenovela" ],
   "credit": "NBCUniversal Television",
   "altHero": "Chad (played by Shawn), in a UPS uniform, stands awkwardly on the stairs behind Corrine",

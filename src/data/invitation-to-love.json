@@ -8,7 +8,7 @@
   "parentYear": "1990-1991",
   "rating": "TV-MA",
   "runtime": "10 seasons",
-  "starring": "Martin Padley, Selina Swift, Evan St. Vincent, Jason Denbo",
+  "starring": [ "Martin Padley", "Selina Swift", "Evan St. Vincent", "Jason Denbo" ],
   "labels": [ "soap opera" ],
   "credit": "CBS Television",
   "altHero": "Chet Weems in an awkward embrace with a woman",

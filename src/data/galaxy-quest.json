@@ -8,7 +8,7 @@
   "parentYear": "1999",
   "rating": "TV-G",
   "runtime": "4 seasons",
-  "starring": "Jason Nesmith, Gwen DeMarco, Alexander Dane, Fred Kwan, Tommy Webber, Guy Fleegman",
+  "starring": [ "Jason Nesmith", "Gwen DeMarco", "Alexander Dane", "Fred Kwan", "Tommy Webber", "Guy Fleegman" ],
   "labels": [ "sci-fi", "adventure" ],
   "credit": "DreamWorks Pictures",
   "altHero": "Dr. Lazarus and the crew of the NSEA Protector",

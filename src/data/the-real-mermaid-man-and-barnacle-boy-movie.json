@@ -8,7 +8,7 @@
   "parentYear": "1999-Present",
   "rating": "PG",
   "runtime": "34m",
-  "starring": "Mermaid Man, Barnacle Boy, Sandy Cheeks",
+  "starring": [ "Mermaid Man", "Barnacle Boy", "Sandy Cheeks" ],
   "director": "SpongeBob SquarePants",
   "labels": [ "action", "superheroes" ],
   "credit": "Nickelodeon Animation Studio",

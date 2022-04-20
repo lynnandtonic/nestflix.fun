@@ -8,7 +8,7 @@
   "parentYear": "2009-2015",
   "rating": "TV-14",
   "runtime": "7 seasons",
-  "starring": "Milo Ventimiglia, Nicky Whelan, Wade Williams",
+  "starring": [ "Milo Ventimiglia", "Nicky Whelan", "Wade Williams" ],
   "labels": [ "sci-fi", "crime, drama" ],
   "credit": "20th Television",
   "altHero": "Agent Baker (Ventimiglia) and android L-E (Whelan) in a warehouse, Baker holding a gun",

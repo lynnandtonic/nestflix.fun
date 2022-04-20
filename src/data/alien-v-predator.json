@@ -7,7 +7,7 @@
   "parentYear": "1999-Present",
   "rating": "TV-MA",
   "runtime": "1 season",
-  "starring": "Sarah Paulson",
+  "starring": [ "Sarah Paulson" ],
   "labels": [ "drama", "crime", "aliens" ],
   "credit": "20th Television",
   "altHero": "Xenomorph from Alien in front of a jury, trying on a glove that doesn’t quite fit",

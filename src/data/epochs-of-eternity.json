@@ -8,7 +8,7 @@
   "parentYear": "2009-2015",
   "rating": "TV-14",
   "runtime": "1 season",
-  "starring": "Luke Perry, Jennie Garth",
+  "starring": [ "Luke Perry", "Jennie Garth" ],
   "studio": "NBC",
   "labels": [ "sci-fi" ],
   "credit": "Sony Pictures Television",

@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "1h 34m",
   "studio": "The Crap Network",
-  "starring": "Robert Urich, Melissa Gilbert, Lou Ferrigno",
+  "starring": [ "Robert Urich", "Melissa Gilbert", "Lou Ferrigno" ],
   "labels": [ "drama", "medical" ],
   "credit": "MTV Animation",
   "altHero": "a hospital in the rain",

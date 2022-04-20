@@ -8,7 +8,7 @@
   "parentYear": "1997-Present",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": "Paul Watson, Stan Marsh",
+  "starring": [ "Paul Watson", "Stan Marsh" ],
   "labels": [ "reality" ],
   "credit": "Comedy Central",
   "altHero": "a ship in the ocean",

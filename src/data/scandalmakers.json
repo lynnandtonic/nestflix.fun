@@ -8,7 +8,7 @@
   "parentYear": "2003-2006",
   "rating": "TV-14",
   "runtime": "2 seasons",
-  "starring": "Tobias Funke",
+  "starring": [ "Tobias Funke" ],
   "director": "Carl Weathers",
   "labels": [ "reality", "documentary" ],
   "credit": "20th Television, Netflix",

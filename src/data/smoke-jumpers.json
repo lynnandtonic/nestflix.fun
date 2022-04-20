@@ -8,7 +8,7 @@
   "parentYear": "2004-2011",
   "rating": "PG-13",
   "runtime": "1h 54m",
-  "starring": "Vincent Chase, Edward Norton, Jason Patric, Brian Van Holt",
+  "starring": [ "Vincent Chase", "Edward Norton", "Jason Patric", "Brian Van Holt" ],
   "director": "Verner Vollstedt",
   "labels": [ "thriller", "drama" ],
   "credit": "HBO Entertainment",

@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "3 seasons",
   "studio": "ABC",
-  "starring": "Miss Piggy, Fozzie Bear, The Electric Mayhem",
+  "starring": [ "Miss Piggy", "Fozzie Bear", "The Electric Mayhem" ],
   "producer": "Kermit the Frog",
   "labels": [ "talk show" ],
   "credit": "Disney-ABC Domestic Television",

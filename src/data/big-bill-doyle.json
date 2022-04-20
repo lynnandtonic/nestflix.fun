@@ -8,7 +8,7 @@
   "parentYear": "1999-Present",
   "rating": "PG",
   "runtime": "2h 5m",
-  "starring": "John Wayne",
+  "starring": [ "John Wayne" ],
   "labels": [ "western" ],
   "credit": "20th Television",
   "altHero": "a cowboy reluctantly talks to a closed outhouse",

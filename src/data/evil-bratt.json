@@ -8,7 +8,7 @@
   "parentYear": "2017",
   "rating": "TV-G",
   "runtime": "3 seasons",
-  "starring": "Balthazar Bratt",
+  "starring": [ "Balthazar Bratt" ],
   "labels": [ "kids", "action" ],
   "credit": "Universal Pictures",
   "altHero": "a kid in 80s purple jumpsuit (Evil Bratt) with a robot friend",

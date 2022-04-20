@@ -7,7 +7,7 @@
   "parentYear": "2016",
   "rating": "PG-13",
   "runtime": "2h 47m",
-  "starring": "Baird Whitlock",
+  "starring": [ "Baird Whitlock" ],
   "studio": "Capitol Pictures",
   "labels": [ "drama", "history" ],
   "credit": "Universal Pictures",

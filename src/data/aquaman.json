@@ -7,7 +7,7 @@
   "parentYear": "2004-2011",
   "rating": "PG-13",
   "runtime": "2h 8m",
-  "starring": "Vincent Chase, Mandy Moore, James Woods, Ray Liotta, Sharon Stone ",
+  "starring": [ "Vincent Chase", "Mandy Moore", "James Woods", "Ray Liotta", "Sharon Stone " ],
   "director": "James Cameron",
   "studio": "Warner Bros. Pictures",
   "labels": [ "action", "superheroes" ],

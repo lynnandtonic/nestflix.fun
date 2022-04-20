@@ -7,7 +7,7 @@
   "parentYear": "2006-2013",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": "Tracy Jordan, Jenna Maroney, Josh Girard",
+  "starring": [ "Tracy Jordan", "Jenna Maroney", "Josh Girard" ],
   "studio": "NBC",
   "labels": [ "comedy", "sketch" ],
   "credit": "NBCUniversal Television",

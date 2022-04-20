@@ -8,7 +8,7 @@
   "parentYear": "2006-2013",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": "Angie Jordan, Tracy Jordan, Portia, D’Fwan, Randi",
+  "starring": [ "Angie Jordan", "Tracy Jordan", "Portia", "D’Fwan", "Randi" ],
   "studio": "Bravo",
   "labels": [ "reality" ],
   "credit": "NBCUniversal Television",

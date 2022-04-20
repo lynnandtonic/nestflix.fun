@@ -8,7 +8,7 @@
   "parentYear": "2006-2013",
   "rating": "PG-13",
   "runtime": "1h 57m",
-  "starring": "Tracy Jordan",
+  "starring": [ "Tracy Jordan" ],
   "director": "Max Siegal",
   "labels": [ "drama" ],
   "credit": "NBCUniversal Television",

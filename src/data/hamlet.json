@@ -8,7 +8,7 @@
   "parentYear": "1993",
   "rating": "PG-13",
   "runtime": "2h 35m",
-  "starring": "Arnold Schwarzenegger",
+  "starring": [ "Arnold Schwarzenegger" ],
   "labels": [ "action", "shakespeare" ],
   "credit": "Columbia Pictures",
   "altHero": "Arnold as a tough Hamlet lighting a cigar",

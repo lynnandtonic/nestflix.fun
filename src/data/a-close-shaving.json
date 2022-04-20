@@ -8,7 +8,7 @@
   "parentYear": "1999-2013",
   "rating": "PG",
   "runtime": "4m",
-  "starring": "Harold Zoid",
+  "starring": [ "Harold Zoid" ],
   "studio": "MMCMXXII Metropolitan Holoplays",
   "labels": [ "short film", "comedy" ],
   "credit": "20th Century Fox Television",

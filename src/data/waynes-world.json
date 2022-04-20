@@ -8,7 +8,7 @@
   "parentYear": "1992",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": "Wayne Campbell, Garth Algar",
+  "starring": [ "Wayne Campbell", "Garth Algar" ],
   "studio": "Cable 10, Oliver Communications",
   "labels": [ "talk show" ],
   "credit": "Paramount Pictures",

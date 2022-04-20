@@ -7,7 +7,7 @@
   "parentYear": "1999-2013",
   "rating": "TV-G",
   "runtime": "4 seasons",
-  "starring": "Hypnotoad",
+  "starring": [ "Hypnotoad" ],
   "labels": [ "comedy" ],
   "credit": "20th Century Fox Television",
   "altHero": "Hypnotoad",

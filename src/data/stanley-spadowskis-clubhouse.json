@@ -8,7 +8,7 @@
   "parentYear": "1989",
   "rating": "TV-Y",
   "runtime": "2 seasons",
-  "starring": "Stanley Spadowski, George Newman, Bob Steckler",
+  "starring": [ "Stanley Spadowski", "George Newman", "Bob Steckler" ],
   "studio": "Channel 62",
   "labels": [ "kids", "variety" ],
   "credit": "Orion Pictures",

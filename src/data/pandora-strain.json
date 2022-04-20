@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "R",
   "runtime": "2h 13m",
-  "starring": "Treat Williams",
+  "starring": [ "Treat Williams" ],
   "labels": [ "thriller" ],
   "credit": "20th Television",
   "altHero": "General Sullivan holds up a determined fist",

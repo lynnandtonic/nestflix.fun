@@ -8,7 +8,7 @@
   "parentYear": "2002-2003",
   "rating": "Unrated",
   "runtime": "43m",
-  "starring": "Gandhi, George Washington Carver",
+  "starring": [ "Gandhi", "George Washington Carver" ],
   "director": "Gandhi",
   "labels": [ "action", "crime", "amateur" ],
   "credit": "MTV Networks",

@@ -8,7 +8,7 @@
   "parentYear": "2013",
   "rating": "R",
   "runtime": "2h 34m",
-  "starring": "Danny Trejo, Michelle Rodriguez, Sofía Vergara, Alexa Vega, Justin Bieber, Lady Gaga, Leonardo DiCaprio ",
+  "starring": [ "Danny Trejo", "Michelle Rodriguez", "Sofía Vergara", "Alexa Vega", "Justin Bieber", "Lady Gaga", "Leonardo DiCaprio" ],
   "director": "Robert Rodriguez",
   "labels": [ "action", "sci-fi" ],
   "credit": "Open Road Films",

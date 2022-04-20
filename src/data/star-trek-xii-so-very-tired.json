@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "PG",
   "runtime": "1h 56m",
-  "starring": "William Shatner, Leonard Nimoy, DeForest Kelley, George Takei",
+  "starring": [ "William Shatner", "Leonard Nimoy", "DeForest Kelley", "George Takei" ],
   "labels": [ "sci-fi" ],
   "credit": "20th Television",
   "altHero": "the deck of the Enterprise with the crew looking very old and tired",

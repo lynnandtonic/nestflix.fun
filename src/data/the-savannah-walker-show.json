@@ -7,7 +7,7 @@
   "parentYear": "2010-2020",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": "Savannah Walker",
+  "starring": [ "Savannah Walker" ],
   "labels": [ "talk show" ],
   "credit": "CBS Television",
   "altHero": "show host Savannah Walker in her studio",

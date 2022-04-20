@@ -8,7 +8,7 @@
   "parentYear": "2008",
   "rating": "TV-G",
   "runtime": "4 seasons",
-  "starring": "Bolt, Penny",
+  "starring": [ "Bolt", "Penny" ],
   "studio": "Sovereign Entertainment",
   "labels": [ "action", "sci-fi" ],
   "credit": "Walt Disney Animation Studios",

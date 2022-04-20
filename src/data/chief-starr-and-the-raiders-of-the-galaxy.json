@@ -8,7 +8,7 @@
   "parentYear": "2009-2015",
   "rating": "Unrated",
   "runtime": "1h 21m",
-  "starring": "Ben Chang, Jeff Winger, Britta Perry, Annie Edison, Garrett Lambert, Leonard Rodriguez",
+  "starring": [ "Ben Chang", "Jeff Winger", "Britta Perry", "Annie Edison", "Garrett Lambert", "Leonard Rodriguez" ],
   "director": "Abed Nadir",
   "studio": "Greendale Community College Film Department",
   "labels": [ "sci-fi", "action" ],

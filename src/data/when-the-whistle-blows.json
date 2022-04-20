@@ -8,7 +8,7 @@
   "parentYear": "2005-2007",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": "Andy Millman, Liza Tarbuck, Andrew Buckley, Jamie Chapman, Sarah Moyle, Keith Chegwin",
+  "starring": [ "Andy Millman", "Liza Tarbuck", "Andrew Buckley", "Jamie Chapman", "Sarah Moyle", "Keith Chegwin" ],
   "studio": "BBC One",
   "labels": [ "sitcom" ],
   "credit": "BBC Two",

@@ -8,7 +8,7 @@
   "parentYear": "1997-Present",
   "rating": "TV-G",
   "runtime": "5 seasons",
-  "starring": "Jesus Christ",
+  "starring": [ "Jesus Christ" ],
   "studio": "South Park Public Access",
   "labels": [ "talk show", "religion" ],
   "credit": "Comedy Central",

@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "TV-Y7",
   "runtime": "60 seasons",
-  "starring": "Krusty the Clown, Mr. Teeny, Sideshow Mel, Tina Ballerina, Sideshow Raheem, Sideshow Bob, Sideshow Cassandra",
+  "starring": [ "Krusty the Clown", "Mr. Teeny", "Sideshow Mel", "Tina Ballerina", "Sideshow Raheem", "Sideshow Bob", "Sideshow Cassandra" ],
   "studio": "Channel 6, HBOWTIME",
   "labels": [ "kids", "variety" ],
   "credit": "20th Television",

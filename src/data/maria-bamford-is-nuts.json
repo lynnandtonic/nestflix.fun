@@ -8,7 +8,7 @@
   "parentYear": "2016-2017",
   "rating": "TV-PG",
   "runtime": "1 season",
-  "starring": "Maria Bamford, Lance Banner, Andy Samberg, Sheryl Streep, Craig Gregg, Susan Beeber",
+  "starring": [ "Maria Bamford", "Lance Banner", "Andy Samberg", "Sheryl Streep", "Craig Gregg", "Susan Beeber" ],
   "director": "Karen Grisham",
   "studio": "Muskvision",
   "labels": [ "comedy" ],

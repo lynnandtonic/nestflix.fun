@@ -8,7 +8,7 @@
   "parentYear": "2006",
   "rating": "PG-13",
   "runtime": "1h 46m",
-  "starring": "John Krasinski, Paul Dooley",
+  "starring": [ "John Krasinski", "Paul Dooley" ],
   "labels": [ "drama", "crime" ],
   "credit": "Warner Independent Pictures",
   "altHero": "John Krasinski as Maricich and Paul Dooley as Devol, cops looking over paperwork",

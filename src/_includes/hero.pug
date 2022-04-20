@@ -1,7 +1,7 @@
 section.entry.hero
     div.entry-info
         h1.logo: img(src='/img/_logos/logo-' + slug + '.svg', alt=title)
-        small.meta
+        small.meta.meta-details
             span !{rating}
             span !{runtime}
             span !{tags[1]}
@@ -14,7 +14,11 @@ section.entry.hero
             blockquote !{quote}
         hr
         if starring
-            small.meta #[strong Cast:] !{starring}
+            small.meta.cast
+                strong Cast:
+                = ' '
+                each actor in starring
+                    span: a(href='/search?search=' + actor)= actor
         if director
             small.meta #[strong Director:] !{director}
         if producer

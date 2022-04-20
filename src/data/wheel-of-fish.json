@@ -7,7 +7,7 @@
   "parentYear": "1989",
   "rating": "TV-G",
   "runtime": "1 season",
-  "starring": "Kuni",
+  "starring": [ "Kuni" ],
   "studio": "Channel 62",
   "labels": [ "reality", "game show" ],
   "credit": "Orion Pictures",

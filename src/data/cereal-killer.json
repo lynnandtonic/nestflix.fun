@@ -8,7 +8,7 @@
   "parentYear": "1999-Present",
   "rating": "R",
   "runtime": "1h 41m",
-  "starring": "John Goodman, Charlie Sheen, Samuel L. Jackson, Dwayne Johnson",
+  "starring": [ "John Goodman", "Charlie Sheen", "Samuel L. Jackson", "Dwayne Johnson" ],
   "director": "Peter Griffin",
   "labels": [ "horror" ],
   "credit": "20th Television",

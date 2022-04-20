@@ -8,7 +8,7 @@
   "parentYear": "2006-2013",
   "rating": "TV-PG",
   "runtime": "6 seasons",
-  "starring": "John McEnroe, D’Fwan, Jenna Maroney",
+  "starring": [ "John McEnroe", "D’Fwan", "Jenna Maroney" ],
   "studio": "NBC",
   "labels": [ "reality", "competition", "singing" ],
   "credit": "NBCUniversal Television",

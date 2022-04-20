@@ -8,7 +8,7 @@
   "parentYear": "2015-2019",
   "rating": "TV-14",
   "runtime": "4 seasons",
-  "starring": "Wyatt Carver, Kell Guthrie",
+  "starring": [ "Wyatt Carver", "Kell Guthrie" ],
   "labels": [ "action", "sci-fi", "zombies" ],
   "credit": "Warner Bros. Television",
   "altHero": "a teen girl runs past two school buses, zombies following close behind",

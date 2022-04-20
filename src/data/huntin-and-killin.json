@@ -8,7 +8,7 @@
   "parentYear": "1997-Present",
   "rating": "TV-14",
   "runtime": "1 season",
-  "starring": "Jimbo Kern, Ned Gerblansky",
+  "starring": [ "Jimbo Kern", "Ned Gerblansky" ],
   "studio": "South Park Public Access",
   "labels": [ "talk show" ],
   "credit": "Comedy Central",

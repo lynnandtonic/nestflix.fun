@@ -7,7 +7,7 @@
   "parentYear": "1999-2013",
   "rating": "M-14",
   "runtime": "2h 12m",
-  "starring": "Calculon, Monique",
+  "starring": [ "Calculon", "Monique" ],
   "director": "Directing Unit 4",
   "labels": [ "action", "adventure", "robots" ],
   "credit": "20th Century Fox Television",

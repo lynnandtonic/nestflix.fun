@@ -8,7 +8,7 @@
   "parentYear": "1999",
   "rating": "TV-PG",
   "runtime": "54m",
-  "starring": "John Malkovich, Maxine Lund, Sean Penn, Christopher Bing, Johnson Heyward",
+  "starring": [ "John Malkovich", "Maxine Lund", "Sean Penn", "Christopher Bing", "Johnson Heyward" ],
   "studio": "American Arts & Culture",
   "labels": [ "documentary" ],
   "credit": "USA Films",

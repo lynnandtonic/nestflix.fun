@@ -8,7 +8,7 @@
   "parentYear": "1999",
   "rating": "R",
   "runtime": "3h 3m",
-  "starring": "Terrance Henry Stoot, Phillip Niles Argyle",
+  "starring": [ "Terrance Henry Stoot", "Phillip Niles Argyle" ],
   "labels": [ "comedy" ],
   "credit": "Paramount Pictures",
   "altHero": "Terrance stands on the couch next to Phillip",

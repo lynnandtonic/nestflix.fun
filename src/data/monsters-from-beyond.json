@@ -8,7 +8,7 @@
   "parentYear": "2012",
   "rating": "Unrated",
   "runtime": "4m",
-  "starring": "Sparky",
+  "starring": [ "Sparky" ],
   "director": "Victor Frankenstein",
   "labels": [ "short film", "amateur", "sci-fi", "monster" ],
   "credit": "Walt Disney Studios",

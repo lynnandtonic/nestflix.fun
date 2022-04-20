@@ -8,7 +8,7 @@
   "parentYear": "2006-2013",
   "rating": "TV-G",
   "runtime": "2 seasons",
-  "starring": "Maulik Pancholy, Kay Cannon, Dave Finkel, Matt Dickinson, Evan Harrington, Stu Rickel",
+  "starring": [ "Maulik Pancholy", "Kay Cannon", "Dave Finkel", "Matt Dickinson", "Evan Harrington", "Stu Rickel" ],
   "studio": "NBC",
   "labels": [ "sitcom" ],
   "credit": "NBCUniversal Television",

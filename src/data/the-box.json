@@ -8,7 +8,7 @@
   "parentYear": "2011-2017",
   "rating": "TV-14",
   "runtime": "1 season",
-  "starring": "Matt LeBlanc",
+  "starring": [ "Matt LeBlanc" ],
   "labels": [ "game show" ],
   "credit": "Showtime",
   "altHero": "a row of large glass boxes, illuminated in different colors, each with a person inside",

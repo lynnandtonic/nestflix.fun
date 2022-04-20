@@ -8,7 +8,7 @@
   "parentYear": "2002",
   "rating": "PG",
   "runtime": "2h 12m",
-  "starring": "Frank Jackson",
+  "starring": [ "Frank Jackson" ],
   "director": "Dusty Wong",
   "studio": "Marty Wolf Pictures",
   "labels": [ "family", "comedy", "fantasy" ],

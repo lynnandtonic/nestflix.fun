@@ -8,7 +8,7 @@
   "parentYear": "2006-2013",
   "rating": "TV-14",
   "runtime": "1h 43m",
-  "starring": "Candace Van der Shark",
+  "starring": [ "Candace Van der Shark" ],
   "studio": "Lifetime",
   "labels": [ "drama", "biography", "animals attack" ],
   "credit": "NBCUniversal Television",

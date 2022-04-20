@@ -8,7 +8,7 @@
   "parentYear": "2006-2014",
   "rating": "TV-14",
   "runtime": "6 seasons",
-  "starring": "Hilton Fox",
+  "starring": [ "Hilton Fox" ],
   "creator": "Jay Gianukos",
   "director": "Steve Rollins",
   "labels": [ "reality", "competition", "dating" ],

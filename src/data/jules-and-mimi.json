@@ -8,7 +8,7 @@
   "parentYear": "1998-2004",
   "rating": "TV-MA",
   "runtime": "2 series",
-  "starring": "Andrew Stewart-Jones, Vicky Cunningham",
+  "starring": [ "Andrew Stewart-Jones", "Vicky Cunningham" ],
   "studio": "BBC America",
   "labels": [ "drama", "romance" ],
   "credit": "HBO Entertainment",

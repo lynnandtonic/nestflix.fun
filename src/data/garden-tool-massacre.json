@@ -8,7 +8,7 @@
   "parentYear": "1988",
   "rating": "R",
   "runtime": "2h 19m",
-  "starring": "Charlie Spradling, Kristen Aldrich",
+  "starring": [ "Charlie Spradling", "Kristen Aldrich" ],
   "labels": [ "horror", "slasher" ],
   "credit": "TriStar Pictures",
   "altHero": "man in overalls and hockey mask wields a chainsaw",

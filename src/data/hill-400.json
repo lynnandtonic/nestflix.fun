@@ -7,7 +7,7 @@
   "parentYear": "2016-Present",
   "rating": "PG-13",
   "runtime": "2h 31m",
-  "starring": "Sylvester Stallone, Kevin Pearson",
+  "starring": [ "Sylvester Stallone", "Kevin Pearson" ],
   "director": "Ron Howard",
   "studio": "Twentieth Century Fox",
   "labels": [ "drama", "war" ],

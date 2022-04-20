@@ -8,7 +8,7 @@
   "parentYear": "2016-Present",
   "rating": "TV-MA",
   "runtime": "1 season",
-  "starring": "Rose Cranberry",
+  "starring": [ "Rose Cranberry" ],
   "labels": [ "true crime", "documentary" ],
   "credit": "HBO Entertainment",
   "altHero": "Thompson family portrait",

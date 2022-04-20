@@ -7,7 +7,7 @@
   "parentYear": "2005-2009",
   "rating": "TV-PG",
   "runtime": "3 seasons",
-  "starring": "Erik Estrada, Brian Dunkleman",
+  "starring": [ "Erik Estrada", "Brian Dunkleman" ],
   "labels": [ "reality", "game show" ],
   "credit": "20th Century Fox Television",
   "altHero": "Erik Estrada",
