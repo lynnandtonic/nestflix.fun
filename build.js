@@ -91,9 +91,12 @@ function readAllJsonFiles() {
             const output = {};
             for (const key of globalData.collections.search.fields) {
                 if (entry[key]) {
-                    output[key] = entry[key].toLowerCase
-                    ? entry[key].toLowerCase()
-                    : entry[key]
+                    const value = entry[key];
+                    output[key] = value.toLowerCase
+                    ? value.toLowerCase()
+                    : Array.isArray(value)
+                        ? value.join(', ').toLowerCase()
+                        : value;
                 }
             }
             return output;
