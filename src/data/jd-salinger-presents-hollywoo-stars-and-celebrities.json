@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "1 season",
   "starring": [ "Mr. Peanutbutter" ],
-  "director": "J.D. Salinger",
+  "director": [ "J.D. Salinger" ],
   "studio": "MBN",
   "labels": [ "game show" ],
   "credit": "Netflix",

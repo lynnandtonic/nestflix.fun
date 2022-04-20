@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "4m",
   "starring": [ "Sparky" ],
-  "director": "Victor Frankenstein",
+  "director": [ "Victor Frankenstein" ],
   "labels": [ "short film", "amateur", "sci-fi", "monster" ],
   "credit": "Walt Disney Studios",
   "altHero": "a handmade city scene with army men and a dinosaur breathing fire",

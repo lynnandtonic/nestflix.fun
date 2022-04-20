@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "1h 34m",
   "starring": [ "Sterling Archer", "Lana Kane" ],
-  "director": "Sterling Archer",
+  "director": [ "Sterling Archer" ],
   "labels": [ "action" ],
   "credit": "20th Television",
   "altHero": "Archer in the woods, sick with sunken eyes, wears a headscarf and points a gun",

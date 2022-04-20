@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "7m",
   "starring": [ "Aaron Mitchell", "Monchi" ],
-  "director": "Katie Mitchell",
+  "director": [ "Katie Mitchell" ],
   "labels": [ "short film", "comedy", "amateur" ],
   "credit": "Netflix",
   "altHero": "arms hold up a goofy pug dressed in a cop’s uniform",

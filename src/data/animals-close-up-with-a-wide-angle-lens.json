@@ -7,7 +7,7 @@
   "parentYear": "1997-Present",
   "rating": "Unrated",
   "runtime": "1 season",
-  "director": "Craig Tucker",
+  "director": [ "Craig Tucker" ],
   "studio": "South Park Elementary Closed Circuit Television",
   "labels": [ "reality", "animals" ],
   "credit": "Comedy Central",

@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "3 seasons",
   "starring": [ "Mr. Peanutbutter" ],
-  "director": "Flea Daniels, Karen Katata",
+  "director": [ "Flea Daniels", "Karen Katata" ],
   "studio": "MBN",
   "labels": [ "drama" ],
   "credit": "Netflix",

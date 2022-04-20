@@ -8,7 +8,7 @@
   "rating": "PG",
   "runtime": "4 episodes",
   "starring": [ "Michael Bluth", "George Oscar Bluth" ],
-  "director": "George Bluth",
+  "director": [ "George Bluth" ],
   "labels": [ "reality" ],
   "credit": "20th Television, Netflix",
   "altHero": "a boy pulls the hair of another boy dangling from a tree branch",

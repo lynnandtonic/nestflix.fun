@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "1 season",
   "studio": "Radioactive Animation Studios",
-  "director": "Gordon Brody",
+  "director": [ "Gordon Brody" ],
   "labels": [ "comedy" ],
   "credit": "20th Century Fox",
   "altHero": "a family of half human, half zebra centaurs approach the Statue of Liberty via boat",

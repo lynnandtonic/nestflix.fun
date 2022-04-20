@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "1h 36m",
   "starring": [ "Claire Danes", "Dermot Mulroney" ],
-  "director": "Sam Raimi",
+  "director": [ "Sam Raimi" ],
   "labels": [ "romance", "comedy" ],
   "credit": "Universal Pictures",
   "altHero": "an exasperated man in a tux speaks to a woman in a tree",

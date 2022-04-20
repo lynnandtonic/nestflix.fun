@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "1h 34m",
   "starring": [ "Tracy Jordan", "Kenneth Parcell" ],
-  "director": "Tracy Jordan",
+  "director": [ "Tracy Jordan" ],
   "labels": [ "drama", "history" ],
   "credit": "NBCUniversal Television",
   "altHero": "Tracy Jordan dressed as Thomas Jefferson",

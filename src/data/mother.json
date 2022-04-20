@@ -8,7 +8,7 @@
   "parentYear": "1994",
   "rating": "PG-13",
   "runtime": "1h 54m",
-  "director": "Sir Richard Attenborough",
+  "director": [ "Sir Richard Attenborough" ],
   "labels": [ "musical", "biography" ],
   "credit": "Paramount Pictures",
   "altHero": "Mother Teresa, gleeful with arms raised, runs through a village with hungry children holding out empty bowls",

@@ -7,7 +7,7 @@
   "parentYear": "2017",
   "rating": "Unrated",
   "runtime": "1h 15m",
-  "director": "James Pope",
+  "director": [ "James Pope" ],
   "labels": [ "family", "sci-fi", "adventure" ],
   "credit": "Sony Pictures Classics",
   "altHero": "Brigsby Bear in the desert raising his arms to the sky",

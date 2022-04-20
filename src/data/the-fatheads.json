@@ -8,7 +8,7 @@
   "parentYear": "1993-1996",
   "rating": "TV-14",
   "runtime": "893 episodes",
-  "director": "Rachel Bighead",
+  "director": [ "Rachel Bighead" ],
   "studio": "Bighead Studios",
   "labels": [ "comedy" ],
   "credit": "MTV Networks",

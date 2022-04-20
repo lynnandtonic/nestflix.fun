@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 12m",
   "starring": [ "James Van Der Beek", "Jason Biggs", "Mark Hamill" ],
-  "director": "Chaka Luther King",
+  "director": [ "Chaka Luther King" ],
   "labels": [ "action", "superheroes" ],
   "credit": "Miramax Films",
   "altHero": "Mark Hamill as Cock-Knocker in fighting pose with one giant fist",

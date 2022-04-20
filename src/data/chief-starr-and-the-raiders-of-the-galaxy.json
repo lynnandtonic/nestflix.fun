@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "1h 21m",
   "starring": [ "Ben Chang", "Jeff Winger", "Britta Perry", "Annie Edison", "Garrett Lambert", "Leonard Rodriguez" ],
-  "director": "Abed Nadir",
+  "director": [ "Abed Nadir" ],
   "studio": "Greendale Community College Film Department",
   "labels": [ "sci-fi", "action" ],
   "credit": "Sony Pictures Television",

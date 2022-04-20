@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 3m",
   "starring": [ "Drake Mallard" ],
-  "director": "Alistair Boorswan",
+  "director": [ "Alistair Boorswan" ],
   "studio": "McDuck Pictures",
   "labels": [ "action", "superheroes" ],
   "credit": "Disney Television Animation",

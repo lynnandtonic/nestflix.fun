@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "23m",
   "starring": [ "Joan of Arc", "Genghis Khan" ],
-  "director": "Joan of Arc",
+  "director": [ "Joan of Arc" ],
   "labels": [ "drama" ],
   "credit": "MTV Networks",
   "altHero": "a cracked, dry desert landscape with a tumbling top hat",

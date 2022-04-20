@@ -8,7 +8,7 @@
   "parentYear": "2002-2003",
   "rating": "Unrated",
   "runtime": "34m",
-  "director": "Abe Lincoln",
+  "director": [ "Abe Lincoln" ],
   "labels": [ "drama", "sports", "sci-fi" ],
   "credit": "MTV Networks",
   "altHero": "a giraffe runs to kick a football held by his teammate",

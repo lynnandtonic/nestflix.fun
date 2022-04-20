@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "1 season",
   "starring": [ "Taran Killam", "Cobie Smulders", "Thomas Barbusca", "Owen Vaccaro", "Steele Stebbins", "Savannah Kennick", "Jean Smart" ],
-  "director": "Ron Howard, Brian Grazer",
+  "director": [ "Ron Howard", "Brian Grazer" ],
   "studio": "Imagine Entertainment",
   "labels": [ "drama" ],
   "credit": "20th Television, Netflix",

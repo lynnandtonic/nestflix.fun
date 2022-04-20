@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "43m",
   "starring": [ "Gandhi", "George Washington Carver" ],
-  "director": "Gandhi",
+  "director": [ "Gandhi" ],
   "labels": [ "action", "crime", "amateur" ],
   "credit": "MTV Networks",
   "altHero": "Leon and Tandoori flying through the air with a big cloud of smoke behind them",

@@ -10,7 +10,7 @@
   "runtime": "2h 4m",
   "studio": "Carson Clay Pictures",
   "starring": [ "Carson Clay", "Sabine" ],
-  "director": "Carson Clay",
+  "director": [ "Carson Clay" ],
   "labels": [ "drama" ],
   "credit": "Universal Pictures",
   "altHero": "close-up of Carson Clay with dramatic lighting in a long hallway",

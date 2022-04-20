@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "1h 54m",
   "starring": [ "Jerry Skyler" ],
-  "director": "Jerry Skyler",
+  "director": [ "Jerry Skyler" ],
   "labels": [ "comedy" ],
   "credit": "Netflix",
   "altHero": "Mista Griggins, sharply dressed, in front of an electrical panel",

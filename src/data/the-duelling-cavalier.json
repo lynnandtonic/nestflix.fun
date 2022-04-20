@@ -9,7 +9,7 @@
   "rating": "PG",
   "runtime": "1h 23m",
   "starring": [ "Don Lockwood", "Lina Lamont" ],
-  "director": "Roscoe Dexter",
+  "director": [ "Roscoe Dexter" ],
   "studio": "Monumental Pictures",
   "labels": [ "drama", "romance" ],
   "credit": "Metro-Goldwyn-Mayer",

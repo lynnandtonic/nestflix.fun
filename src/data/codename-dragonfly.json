@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "2h 25m",
   "starring": [ "Valentine" ],
-  "director": "Andrezej, Paul Ballard",
+  "director": [ "Andrezej", "Paul Ballard" ],
   "studio": "Enzo Di Martini Productions",
   "labels": [ "sci-fi" ],
   "credit": "MGM Studios",

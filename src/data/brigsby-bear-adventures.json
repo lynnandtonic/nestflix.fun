@@ -8,7 +8,7 @@
   "parentYear": "2017",
   "rating": "Unrated",
   "runtime": "736 episodes",
-  "director": "Ted Mitchum",
+  "director": [ "Ted Mitchum" ],
   "labels": [ "kids", "adventure" ],
   "credit": "Sony Pictures Classics",
   "altHero": "Brigsby Bear, a bear costume with moving mouth and eyes",

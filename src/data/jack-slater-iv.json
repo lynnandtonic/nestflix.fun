@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "2h 23m",
   "starring": [ "Arnold Schwarzenegger", "Meredith Caprice", "Murray Josephson", "Anthony Quinn", "Art Carney", "Charles Dance" ],
-  "director": "Franco Columbu",
+  "director": [ "Franco Columbu" ],
   "labels": [ "action" ],
   "credit": "Columbia Pictures",
   "altHero": "Arnold as Jack Slater",

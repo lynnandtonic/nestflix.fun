@@ -7,7 +7,7 @@
   "parentYear": "1989-Present",
   "rating": "PG",
   "runtime": "2h 12m",
-  "director": "Randall Curtis",
+  "director": [ "Randall Curtis" ],
   "labels": [ "sci-fi" ],
   "credit": "20th Television",
   "altHero": "Yoda swings a light saber at a storm trooper",

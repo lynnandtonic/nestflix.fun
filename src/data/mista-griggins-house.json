@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "5 seasons",
   "starring": [ "Jerry Skyler" ],
-  "director": "Jerry Skyler",
+  "director": [ "Jerry Skyler" ],
   "labels": [ "comedy" ],
   "credit": "Netflix",
   "altHero": "Mista Griggins stands by a dinner table where people are eating",

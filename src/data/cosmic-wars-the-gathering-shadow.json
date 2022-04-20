@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "PG",
   "runtime": "2h 34m",
-  "director": "Randall Curtis",
+  "director": [ "Randall Curtis" ],
   "labels": [ "sci-fi" ],
   "credit": "20th Television",
   "altHero": "roll is being called at the galactic senate",

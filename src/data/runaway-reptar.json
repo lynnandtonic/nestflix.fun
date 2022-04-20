@@ -8,7 +8,7 @@
   "parentYear": "1991-2005",
   "rating": "MGR",
   "runtime": "1h 54m",
-  "director": "Jon Ho",
+  "director": [ "Jon Ho" ],
   "studio": "Rosenmount Pictures",
   "labels": [ "horror", "monster" ],
   "credit": "Nickelodeon Animation Studio",

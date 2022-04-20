@@ -9,7 +9,7 @@
   "rating": "PG",
   "runtime": "3m",
   "starring": [ "Kirk Gleason" ],
-  "director": "Kirk Gleason",
+  "director": [ "Kirk Gleason" ],
   "labels": [ "short film", "drama", "amateur" ],
   "credit": "Warner Bros. Television",
   "altHero": "a black and white scene of a man dancing in a living room surrounded by a stoic family",

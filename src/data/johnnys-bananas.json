@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "2 seasons",
   "starring": [ "Johnny Chase", "Andrew Dice Clay" ],
-  "director": "Billy Walsh",
+  "director": [ "Billy Walsh" ],
   "labels": [ "comedy" ],
   "credit": "HBO Entertainment",
   "altHero": "Johnny and Ronald are anthropomorphic cartoon monkeys",

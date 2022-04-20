@@ -7,7 +7,7 @@
   "parentYear": "2004",
   "rating": "G",
   "runtime": "1h 34m",
-  "director": "Gustav Sebald",
+  "director": [ "Gustav Sebald" ],
   "labels": [ "family", "animation" ],
   "credit": "DreamWorks Pictures",
   "altHero": "a CGI elf smiles big",

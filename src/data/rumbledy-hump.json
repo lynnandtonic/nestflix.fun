@@ -9,7 +9,7 @@
   "rating": "TV-Y",
   "runtime": "3 seasons",
   "starring": [ "Turanga Leela", "Philip J. Fry", "Amy Wong", "Bender Rodriguez", "John A. Zoidberg" ],
-  "director": "Abner Doubledeal, Turanga Leela",
+  "director": [ "Abner Doubledeal", "Turanga Leela" ],
   "studio": "Tickleodeon",
   "labels": [ "kids" ],
   "credit": "20th Century Fox Television",

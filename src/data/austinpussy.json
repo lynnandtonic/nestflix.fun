@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "1h 46m",
   "starring": [ "Tom Cruise", "Gwyneth Paltrow", "Kevin Spacy", "Danny DeVito", "John Travolta" ],
-  "director": "Steven Spielberg",
+  "director": [ "Steven Spielberg" ],
   "labels": [ "action", "espionage" ],
   "credit": "New Line Cinema",
   "altHero": "Tom Cruise dressed as Austin Powers in thick glasses and ruffly shirt",

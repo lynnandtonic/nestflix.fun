@@ -8,7 +8,7 @@
   "parentYear": "2002",
   "rating": "R",
   "runtime": "2h 4m",
-  "director": "Hilario Muñoz",
+  "director": [ "Hilario Muñoz" ],
   "labels": [ "drama", "romance" ],
   "credit": "Warner Sogefilms",
   "altHero": "a woman, Amparo, lies in bed and talks with a tiny man, Alfredo",

@@ -9,7 +9,7 @@
   "rating": "G",
   "runtime": "22m",
   "starring": [ "Roger Rabbit", "Baby Herman" ],
-  "director": "Raoul J Raoul",
+  "director": [ "Raoul J Raoul" ],
   "studio": "Maroon Cartoons",
   "labels": [ "short film", "comedy", "animation" ],
   "credit": "Touchstone Pictures",

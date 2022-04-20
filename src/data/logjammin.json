@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "54m",
   "starring": [ "Karl Hungus", "Bunny La Joya" ],
-  "director": "Jackie Treehorn",
+  "director": [ "Jackie Treehorn" ],
   "labels": [ "adult" ],
   "credit": "Working Title Films",
   "altHero": "Karl and Bunny",

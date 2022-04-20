@@ -20,7 +20,11 @@ section.entry.hero
                 each actor in starring
                     span: a(href='/search?search=' + actor)= actor
         if director
-            small.meta #[strong Director:] !{director}
+            small.meta.cast
+                strong Director:
+                = ' '
+                each person in director
+                    span: a(href='/search?search=' + person)= person
         if producer
             small.meta #[strong Producer:] !{producer}
         if creator

@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "G",
   "runtime": "8m",
-  "director": "Nick Park",
+  "director": [ "Nick Park" ],
   "labels": [ "short film", "comedy", "animation" ],
   "credit": "20th Television",
   "altHero": "claymation-style characters, a man (Willis), a woman, and a dog (Crumble) dressed up as a garden gnome",

@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "1h 34m",
   "studio": "Tannen Pictures Ltd.",
-  "director": "Douglas Carlton",
+  "director": [ "Douglas Carlton" ],
   "labels": [ "horror", "slasher" ],
   "credit": "NBCUniversal Television",
   "altHero": "the killer dressed in a tuxedo, wearing a mustached mask, and holding a sharp spike",

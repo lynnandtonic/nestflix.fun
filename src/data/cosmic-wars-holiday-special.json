@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "TV-G",
   "runtime": "30m",
-  "director": "Randall Curtis",
+  "director": [ "Randall Curtis" ],
   "labels": [ "sci-fi", "holiday" ],
   "credit": "20th Television",
   "altHero": "C-3PO and R2-D2 in holiday garb",

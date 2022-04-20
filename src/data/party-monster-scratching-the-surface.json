@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "2h 4m",
   "starring": [ "DJ Fingablast", "DJ Slizzard", "Fran Dodd", "Titus Andromedon" ],
-  "director": "DJ Fingablast",
+  "director": [ "DJ Fingablast" ],
   "studio": "House Flix, Columbia House Docs",
   "labels": [ "documentary" ],
   "credit": "Netflix",

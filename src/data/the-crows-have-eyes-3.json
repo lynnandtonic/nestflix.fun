@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "1h 54m",
   "starring": [ "Moira Rose" ],
-  "director": "Blaire",
+  "director": [ "Blaire" ],
   "studio": "Interflix",
   "labels": [ "horror", "monster" ],
   "credit": "Canadian Broadcasting Corporation",

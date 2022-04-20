@@ -8,7 +8,7 @@
   "rating": "PG",
   "runtime": "34m",
   "starring": [ "Roger Rabbit", "Baby Herman", "Jessica Rabbit" ],
-  "director": "R.K. Maroon",
+  "director": [ "R.K. Maroon" ],
   "studio": "Maroon Cartoons",
   "labels": [ "comedy", "animation" ],
   "credit": "Touchstone Pictures",

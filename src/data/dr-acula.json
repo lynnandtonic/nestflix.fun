@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "43m",
   "starring": [ "John Michael Dorian", "Christopher Turk" ],
-  "director": "John Michael Dorian",
+  "director": [ "John Michael Dorian" ],
   "labels": [ "horror" ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "JD in scrubs wearing an afro wig, Turk shirtless wearing a vampire cape and fake teeth",

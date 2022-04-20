@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "1h 41m",
   "starring": [ "John Goodman", "Charlie Sheen", "Samuel L. Jackson", "Dwayne Johnson" ],
-  "director": "Peter Griffin",
+  "director": [ "Peter Griffin" ],
   "labels": [ "horror" ],
   "credit": "20th Television",
   "altHero": "John Goodman as Peter Griffin holding a huge gun",

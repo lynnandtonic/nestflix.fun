@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "7 seasons",
   "starring": [ "Billy Dee Williams", "Kimber Andrews", "Alissa Jean Scott", "Johnny C.", "Rick Lapidus", "Nikki Fernandez" ],
-  "director": "Stephen Williams",
+  "director": [ "Stephen Williams" ],
   "labels": [ "action", "drama, crime" ],
   "credit": "Universal Pictures",
   "altHero": "Mr. LaShade in a fancy suit and hat",

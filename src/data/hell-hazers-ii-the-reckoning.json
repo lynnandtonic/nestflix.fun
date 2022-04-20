@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "1h 57m",
   "studio": "Warner Bros.",
-  "director": "McG",
+  "director": [ "McG" ],
   "labels": [ "horror" ],
   "credit": "Warner Bros. Television",
   "altHero": "a young brunette screams into the camera",

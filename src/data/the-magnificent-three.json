@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "1h 37m",
   "starring": [ "Harold Zoid", "Calculon", "John A. Zoidberg" ],
-  "director": "Harold Zoid",
+  "director": [ "Harold Zoid" ],
   "labels": [ "drama" ],
   "credit": "20th Century Fox Television",
   "altHero": "Harold Zoid as the President, stands with Calculon in the Oval Office",

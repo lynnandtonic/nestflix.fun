@@ -9,7 +9,7 @@
   "rating": "PG",
   "runtime": "57m",
   "starring": [ "George Valentin", "Constance Gray", "Jack the dog" ],
-  "director": "Otto Wagman",
+  "director": [ "Otto Wagman" ],
   "studio": "Kinograph Studios",
   "labels": [ "adventure, thriller" ],
   "credit": "Warner Bros. Pictures",

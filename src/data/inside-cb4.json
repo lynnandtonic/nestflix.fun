@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 15m",
   "starring": [ "MC Gusto", "Dead Mike", "Stab Master Arson" ],
-  "director": "A. White",
+  "director": [ "A. White" ],
   "studio": "Trustus Productions",
   "labels": [ "documentary", "music" ],
   "credit": "Universal Pictures",

@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "16m",
   "starring": [ "Barney Gumble" ],
-  "director": "Barney Gumble",
+  "director": [ "Barney Gumble" ],
   "labels": [ "short film", "amateur", "drama" ],
   "credit": "20th Television",
   "altHero": "arthouse style shot of Barney drinking a beer as wind blows through sheer curtains",

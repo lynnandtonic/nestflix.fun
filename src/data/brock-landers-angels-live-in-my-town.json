@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "1h 35m",
   "starring": [ "Dirk Diggler", "Reed Rothchild" ],
-  "director": "Jack Horner",
+  "director": [ "Jack Horner" ],
   "studio": "The Colonel James",
   "labels": [ "adult", "espionage" ],
   "credit": "New Line Cinema",

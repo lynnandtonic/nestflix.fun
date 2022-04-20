@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 4m",
   "starring": [ "Jonathan LaPaglia", "Daniel Baldwin", "George Pogatsia", "Lenny Ligotti" ],
-  "director": "Morgan Yam",
+  "director": [ "Morgan Yam" ],
   "creator": "Christopher Moltisanti",
   "labels": [ "slasher", "mobster" ],
   "credit": "HBO Entertainment",

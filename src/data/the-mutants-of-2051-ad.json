@@ -9,7 +9,7 @@
   "rating": "PG",
   "runtime": "1h 12m",
   "starring": [ "Doug McKenzie", "Bob McKenzie" ],
-  "director": "Doug McKenzie",
+  "director": [ "Doug McKenzie" ],
   "labels": [ "amateur", "sci-fi", "monster" ],
   "credit": "MGM Pictures",
   "altHero": "Doug McKenzie wearing a helmet and inspecting a broken model of the Statue of Liberty",

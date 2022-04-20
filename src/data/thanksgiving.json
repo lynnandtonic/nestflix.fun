@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 14m",
   "starring": [ "Jeff Rendell", "Mark Bakunas", "Michael Biehn", "Dan Frisch" ],
-  "director": "Eli Roth",
+  "director": [ "Eli Roth" ],
   "labels": [ "horror", "slasher" ],
   "credit": "Dimension Films",
   "altHero": "a Thanksgiving turkey with a knife stuck in it",

@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "1 season",
   "starring": [ "Peter Griffin", "Cleveland Brown", "Glenn Quagmire", "Joe Swanson" ],
-  "director": "Peter Griffin",
+  "director": [ "Peter Griffin" ],
   "labels": [ "reality", "home improvement" ],
   "credit": "20th Television",
   "altHero": "Peter, Joe, Cleveland, and Quagmire in overalls and hard hats",

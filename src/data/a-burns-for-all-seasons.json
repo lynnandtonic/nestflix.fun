@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "12m",
   "starring": [ "Charles Montgomery Burns", "Bumblebee Man", "Tommy Tune" ],
-  "director": "Señor Spielbergo",
+  "director": [ "Señor Spielbergo" ],
   "labels": [ "short film", "drama", "amateur" ],
   "credit": "20th Television",
   "altHero": "Mr. Burns, wearing a sombrero, rides a horse and raises a cane with open-mouthed excitement",

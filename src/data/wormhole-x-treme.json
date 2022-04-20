@@ -8,7 +8,7 @@
   "rating": "TV-14",
   "runtime": "10 seasons",
   "starring": [ "Nick Marlowe", "Yolanda Reese", "Raymond Gunne", "Douglas Anders" ],
-  "director": "Peter DeLuise",
+  "director": [ "Peter DeLuise" ],
   "creator": "Martin Lloyd",
   "studio": "Bridge Studios",
   "labels": [ "sci-fi" ],

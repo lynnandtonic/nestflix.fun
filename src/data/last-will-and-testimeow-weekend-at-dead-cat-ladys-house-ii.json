@@ -8,7 +8,7 @@
   "parentYear": "2013-Present",
   "rating": "PG-13",
   "runtime": "1h 36m",
-  "director": "Jerry Smith",
+  "director": [ "Jerry Smith" ],
   "studio": "Interdimensional Cable",
   "labels": [ "comedy", "romance" ],
   "credit": "Warner Bros. Television",
