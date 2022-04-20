@@ -10,7 +10,7 @@
   "runtime": "5 seasons",
   "starring": "Jerry Skyler",
   "director": "Jerry Skyler",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "Netflix",
   "altHero": "Mista Griggins stands by a dinner table where people are eating",
   "alt1": "a woman looks through a book at the table",

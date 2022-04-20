@@ -4,7 +4,10 @@ section.entry.hero
         small.meta
             span !{rating}
             span !{runtime}
-            span !{tags[1]}, !{labels}
+            span !{tags[1]}
+            span.labels
+                each item in labels
+                    span: a(href='/search?search=' + item)= item
         if description
             p !{description}
         if quote

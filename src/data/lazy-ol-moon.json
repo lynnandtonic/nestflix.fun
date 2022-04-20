@@ -10,7 +10,7 @@
   "runtime": "1h 30m",
   "starring": "Hobie Doyle, Whitey the horse",
   "studio": "Capitol Pictures",
-  "labels": "western, comedy",
+  "labels": [ "western", "comedy" ],
   "credit": "Universal Pictures",
   "altHero": "Hobie Doyle plays guitar and sings on a moonlit night",
   "alt1": "establishing shot of the cookhouse and a big watering trough",

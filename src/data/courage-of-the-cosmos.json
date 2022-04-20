@@ -10,7 +10,7 @@
   "runtime": "2h 4m",
   "starring": "Major Courage",
   "studio": "Duckburg Studios",
-  "labels": "sci-fi, adventure",
+  "labels": [ "sci-fi", "adventure" ],
   "credit": "Buena Vista Television",
   "altHero": "Major Courage, a strong-jawed duck",
   "alt1": "Major Courage speaks into a toaster",

@@ -7,7 +7,7 @@
   "parentYear": "2017-Present",
   "rating": "TV-MA",
   "runtime": "15 seasons",
-  "labels": "reality",
+  "labels": [ "reality" ],
   "credit": "Universal Pictures",
   "altHero": "a group of young people cheers shot glasses",
   "alt1": "hidden camera shot of a penthouse overlooking the city",

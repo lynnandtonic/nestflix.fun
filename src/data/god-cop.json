@@ -10,7 +10,7 @@
   "runtime": "1 season",
   "starring": "Jack Donaghy, Karl Malone",
   "studio": "NBC",
-  "labels": "drama, crime",
+  "labels": [ "drama", "crime" ],
   "credit": "NBCUniversal Television",
   "altHero": "two police detectives",
   "heroPosition": "left",

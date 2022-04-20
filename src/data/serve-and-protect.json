@@ -10,7 +10,7 @@
   "runtime": "15 seasons",
   "starring": "Mark Devereaux, Cassie Sinclair",
   "producer": "Gary Lurmax",
-  "labels": "drama, crime",
+  "labels": [ "drama", "crime" ],
   "credit": "NBCUniversal Television",
   "altHero": "Detective Cole Tracker holding up a bloody bra",
   "alt1": "a creepy man in his underwear talks with a young woman tied to a chair",

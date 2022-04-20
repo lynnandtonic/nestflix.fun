@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "4 seasons",
   "starring": "Presilah Nunez, Mike Powers",
-  "labels": "drama",
+  "labels": [ "drama" ],
   "credit": "Netflix",
   "altHero": "Olive Bishop with a dramatic look",
   "alt1": "Olive and the President stare at each other",

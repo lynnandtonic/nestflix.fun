@@ -8,7 +8,7 @@
   "parentYear": "2012-2016",
   "rating": "TV-G",
   "runtime": "2 seasons",
-  "labels": "reality, competition, kids",
+  "labels": [ "reality", "competition", "kids" ],
   "credit": "Disney Television Animation",
   "altHero": "two babies sit in a fenced ring with a big spotlight on them",
   "alt1": "two happy babies",

@@ -11,7 +11,7 @@
   "studio": "ABC",
   "starring": "Miss Piggy, Fozzie Bear, The Electric Mayhem",
   "producer": "Kermit the Frog",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "Miss Piggy in front of a red curtain",
   "alt1": "Miss Piggy at a late show desk interviewing Elizabeth Banks",

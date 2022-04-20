@@ -10,7 +10,7 @@
   "runtime": "3 seasons",
   "starring": "Sarah Marshall, Rick Schroder",
   "studio": "NBC",
-  "labels": "drama, medical",
+  "labels": [ "drama", "medical" ],
   "credit": "Universal Pictures",
   "altHero": "Claire, a blind surgeon, feels the face of a male doctor, Cole",
   "alt1": "Cole and Claire walk down a hospital hallway",

@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "5 seasons",
   "starring": "George McCord",
-  "labels": "soap opera, medical drama",
+  "labels": [ "soap opera", "medical" ],
   "credit": "Universal Pictures",
   "altHero": "a doctor with furrowed brow and two beautiful nurses",
   "alt1": "a doctor in a surgical cap and mask",

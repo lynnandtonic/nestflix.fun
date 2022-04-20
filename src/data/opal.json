@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "21 seasons",
   "starring": "Opal",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "20th Television",
   "altHero": "an Oprah-like talk show host named Opal",
   "alt1": "Opal speaking with a guest",

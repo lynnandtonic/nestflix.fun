@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "2 seasons",
   "starring": "Aubrey Fields",
-  "labels": "reality, variety",
+  "labels": [ "reality", "variety" ],
   "credit": "Netflix",
   "altHero": "Aubrey Fields on a small stage next to a trunk",
   "alt1": "actor David Harbour Jr. on stage",

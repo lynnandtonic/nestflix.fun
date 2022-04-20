@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 13m",
   "starring": "Treat Williams",
-  "labels": "thriller",
+  "labels": [ "thriller" ],
   "credit": "20th Television",
   "altHero": "General Sullivan holds up a determined fist",
   "alt1": "the General stands in front of panels of radar and map imaging",

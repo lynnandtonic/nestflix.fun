@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "10 seasons",
   "starring": "Hector Moreda, Juanita Gomez, Roberta Pino, Adolfo Dorita",
-  "labels": "telenovela",
+  "labels": [ "telenovela" ],
   "credit": "NBCUniversal Television",
   "altHero": "El Generalissimo in his uniform",
   "alt1": "El Generalissimo paces away from another man in a duel",

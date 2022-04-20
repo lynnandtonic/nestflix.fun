@@ -8,7 +8,7 @@
   "parentYear": "2010-2018",
   "rating": "R",
   "runtime": "2h 13m",
-  "labels": "thriller",
+  "labels": [ "thriller" ],
   "credit": "Warner Bros. Television",
   "altHero": "ship captain looks at nervous crewman watching a radar screen",
   "layout": "movie.pug",

@@ -10,7 +10,7 @@
   "runtime": "1 season",
   "starring": "Peter Venkman",
   "studio": "WKRR-TV Studio",
-  "labels": "talk show, paranormal",
+  "labels": [ "talk show", "paranormal" ],
   "credit": "Columbia Pictures",
   "altHero": "Peter Venkman with his finger against his temple pretending to send a psychic message",
   "alt1": "Peter sits on a talk show set with two guests",

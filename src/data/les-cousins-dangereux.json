@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "1h 47m",
   "director": "Francois and Gerard Sauterne",
-  "labels": "drama, romance",
+  "labels": [ "drama", "romance" ],
   "credit": "20th Television, Netflix",
   "altHero": "a teen boy gazes at his female cousin",
   "layout": "movie.pug",

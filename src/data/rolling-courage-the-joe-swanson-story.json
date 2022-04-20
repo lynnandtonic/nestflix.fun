@@ -10,7 +10,7 @@
   "runtime": "1h 46m",
   "starring": "Tony Danza, Valerie Bertinelli, Bea Arthur",
   "studio": "ABC",
-  "labels": "drama, biography",
+  "labels": [ "drama", "biography" ],
   "credit": "20th Television",
   "altHero": "Tony Danza as Joe Swanson winning a wheelchair race",
   "alt1": "Swanson in his police uniform ready to fight three dudes holding various weapons",

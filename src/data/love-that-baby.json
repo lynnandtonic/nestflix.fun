@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "2 seasons",
   "starring": "Mary Dahl, Tod Baker, June Winthrop, Tammy Vance, Brian Daly, Spunky Spencer",
-  "labels": "comedy, family",
+  "labels": [ "comedy", "family" ],
   "credit": "Warner Bros. Television",
   "altHero": "a family watches Baby Doll get a horse back ride from dad",
   "alt1": "Baby Doll stands innocently in a chaotic scene with a zebra and Scottish bagpipe players",

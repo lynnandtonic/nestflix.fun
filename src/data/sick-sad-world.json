@@ -8,7 +8,7 @@
   "parentYear": "1997-2002",
   "rating": "TV-MA",
   "runtime": "5 seasons",
-  "labels": "reality, documentary",
+  "labels": [ "reality", "documentary" ],
   "credit": "MTV Networks",
   "altHero": "a man double fists carrots at a table covered in carrots and a tree grows out the top of his head",
   "alt1": "a baby dressed in goth gear: black diaper with safety pins, studded wristbands, heavy boots, and a black pacifier",

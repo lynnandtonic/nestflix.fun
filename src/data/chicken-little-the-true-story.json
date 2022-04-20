@@ -8,7 +8,7 @@
   "parentYear": "2005",
   "rating": "PG",
   "runtime": "1h 42m",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "Walt Disney Pictures",
   "altHero": "Chicken Little as a cool action hero with sunglasses and headset",
   "alt1": "a spaceship flying through space and blowing up enemies",

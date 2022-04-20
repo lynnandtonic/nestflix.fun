@@ -8,7 +8,7 @@
   "rating": "TV-MA",
   "runtime": "5 seasons",
   "studio": "Interdimensional Cable",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "Warner Bros. Television",
   "altHero": "a Mr. T type tough guy shoots a machine gun",
   "alt1": "smooth looking bad guys shot guns from behind a crashed and smoking Jeep",

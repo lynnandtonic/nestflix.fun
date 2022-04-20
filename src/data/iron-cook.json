@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "8 seasons",
   "starring": "Chairman Koji, Hiroki, Aki, Ethan “Bubblegum” Tate, Morbo the Annihilator, Martha Stewart’s head",
-  "labels": "reality, cooking",
+  "labels": [ "reality", "cooking" ],
   "credit": "20th Century Fox Television",
   "altHero": "Chairman Koji stands before the obscured mystery ingredient",
   "alt1": "Bender and Elzar grab blocks of Soylent Green",

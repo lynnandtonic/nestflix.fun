@@ -9,7 +9,7 @@
   "rating": "TV-Y",
   "runtime": "3 seasons",
   "studio": "KTCE Television",
-  "labels": "kids",
+  "labels": [ "kids" ],
   "credit": "20th Century Fox Television",
   "altHero": "Polo, a happy puppet with overalls and backwards cap",
   "alt1": "Polo and Flora sitting on the roof of Groofus’ dog house",

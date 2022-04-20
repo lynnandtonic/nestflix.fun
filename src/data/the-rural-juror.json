@@ -9,7 +9,7 @@
   "runtime": "2h 23m",
   "starring": "Jenna Maroney, Tony Hawk",
   "director": "Casey Affleck",
-  "labels": "drama",
+  "labels": [ "drama" ],
   "credit": "NBCUniversal Television",
   "altHero": "Maroney as Constance Justice, a conservatively dressed woman in front of a family",
   "layout": "movie.pug",

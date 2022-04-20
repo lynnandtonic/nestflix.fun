@@ -10,7 +10,7 @@
   "runtime": "1 season",
   "starring": "Jimbo Kern, Ned Gerblansky",
   "studio": "South Park Public Access",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "Comedy Central",
   "altHero": "Jimbo and Ned each holding a gun",
   "alt1": "Jimbo",

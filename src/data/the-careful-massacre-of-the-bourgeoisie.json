@@ -10,7 +10,7 @@
   "runtime": "1h 34m",
   "studio": "Tannen Pictures Ltd.",
   "director": "Douglas Carlton",
-  "labels": "horror, slasher",
+  "labels": [ "horror", "slasher" ],
   "credit": "NBCUniversal Television",
   "altHero": "the killer dressed in a tuxedo, wearing a mustached mask, and holding a sharp spike",
   "alt1": "two yuppie teens sit at a fancy table set for a party",

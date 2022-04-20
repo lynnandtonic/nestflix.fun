@@ -11,7 +11,7 @@
   "starring": "Carly Shay, Sam Puckett",
   "producer": "Freddie Benson",
   "studio": "icarly.com",
-  "labels": "variety",
+  "labels": [ "variety" ],
   "credit": "Nickelodeon Productions",
   "altHero": "Carly and Sam",
   "alt1": "Carly holding a potato and a sports bra",

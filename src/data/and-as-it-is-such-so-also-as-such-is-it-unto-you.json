@@ -10,7 +10,7 @@
   "runtime": "2 seasons",
   "starring": "Pastor Terry Veal, Father Marsala",
   "studio": "The Miracle Network",
-  "labels": "talk show, religion",
+  "labels": [ "talk show", "religion" ],
   "credit": "20th Television, Netflix",
   "altHero": "a pastor and a priest sit on a talk show couch",
   "alt1": "the pastor and priest look at a guest",

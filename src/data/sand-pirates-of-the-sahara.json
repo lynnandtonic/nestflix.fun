@@ -11,7 +11,7 @@
   "starring": "Brett Armstrong, Ramón Jamón, Sandra Sinclair, Michael Sloane, Nigel Clive",
   "director": "Ferenc Árpád",
   "studio": "HHS Studios",
-  "labels": "action, adventure",
+  "labels": [ "action", "adventure" ],
   "credit": "Warner Bros. Pictures",
   "altHero": "Sandra Sinclair as Emily in Egyptian headdress looking at Brett Armstrong’s Roland",
   "alt1": "a mustached man holding up a lantern",

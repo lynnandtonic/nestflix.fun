@@ -10,7 +10,7 @@
   "runtime": "1h 34m",
   "starring": "Sterling Archer, Lana Kane",
   "director": "Sterling Archer",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "20th Television",
   "altHero": "Archer in the woods, sick with sunken eyes, wears a headscarf and points a gun",
   "alt1": "a pharmecist",

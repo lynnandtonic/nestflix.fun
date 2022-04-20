@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "2 seasons",
   "starring": "P. Ninny, Sylk Weavey",
-  "labels": "reality",
+  "labels": [ "reality" ],
   "credit": "Netflix",
   "altHero": "P. Ninny",
   "alt1": "a closeup of headphones and a hat embroidered P. Ninny",

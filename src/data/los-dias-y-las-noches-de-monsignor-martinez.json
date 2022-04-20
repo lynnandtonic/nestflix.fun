@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "12 seasons",
   "starring": "Eduardo Felipe",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "Monsigñor Martinez wearing sunglasses and pointing two guns",
   "alt1": "Monsigñor Martinez baptizes twin babies in a church",

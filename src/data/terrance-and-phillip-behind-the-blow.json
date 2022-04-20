@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "1h 34m",
   "starring": "Sir Phillip Niles Argyle, Sir Terrance Henry Stoot",
-  "labels": "documentary",
+  "labels": [ "documentary" ],
   "credit": "Comedy Central",
   "altHero": "Terrance and Phillip as young boys, wearing Canadian mountie hats",
   "alt1": "a school class photo of young children, with one child in a spotlight",

@@ -10,7 +10,7 @@
   "runtime": "1h 54m",
   "starring": "Tori Spelling, Luke Wilson, Heather Graham, David Schwimmer",
   "director": "Robert Rodriguez",
-  "labels": "horror, slasher",
+  "labels": [ "horror", "slasher" ],
   "credit": "Miramax",
   "altHero": "Heather Graham in a bathrobe looking scared on the phone",
   "alt1": "stovetop popcorn",

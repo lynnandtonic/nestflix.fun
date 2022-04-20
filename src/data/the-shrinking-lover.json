@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 4m",
   "director": "Hilario Muñoz",
-  "labels": "drama, romance",
+  "labels": [ "drama", "romance" ],
   "credit": "Warner Sogefilms",
   "altHero": "a woman, Amparo, lies in bed and talks with a tiny man, Alfredo",
   "alt1": "Alfredo watching Amparo work in her science lab",

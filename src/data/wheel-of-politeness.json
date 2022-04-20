@@ -8,7 +8,7 @@
   "parentYear": "1999-Present",
   "rating": "TV-G",
   "runtime": "20 seasons",
-  "labels": "game show",
+  "labels": [ "game show" ],
   "credit": "20th Television",
   "altHero": "a Wheel of Fortune type game show, the host and contestants have cartoonish crooked teeth",
   "layout": "movie.pug",

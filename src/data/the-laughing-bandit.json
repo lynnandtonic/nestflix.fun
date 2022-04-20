@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "1h 20m",
   "starring": "Neville Sinclair",
-  "labels": "action, adventure",
+  "labels": [ "action", "adventure" ],
   "credit": "Walt Disney Pictures",
   "altHero": "a heroic man in a mask grins while holding a sword",
   "alt1": "the shadows of two men sword fight on a stone wall",

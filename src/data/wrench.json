@@ -9,7 +9,7 @@
   "runtime": "2 seasons",
   "starring": "Moses Taylor",
   "studio": "Tantamount Studios",
-  "labels": "drama, crime",
+  "labels": [ "drama", "crime" ],
   "credit": "20th Television, Netflix",
   "altHero": "Moses Taylor as Frank Wrench",
   "alt1": "Wrench runs down a residential street carrying a woman in his arms",

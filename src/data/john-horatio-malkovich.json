@@ -10,7 +10,7 @@
   "runtime": "54m",
   "starring": "John Malkovich, Maxine Lund, Sean Penn, Christopher Bing, Johnson Heyward",
   "studio": "American Arts & Culture",
-  "labels": "documentary",
+  "labels": [ "documentary" ],
   "credit": "USA Films",
   "altHero": "an interview with John Malkovich",
   "alt1": "John Malkovich smiling",

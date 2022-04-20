@@ -10,7 +10,7 @@
   "runtime": "1h 57m",
   "studio": "Warner Bros.",
   "director": "McG",
-  "labels": "horror",
+  "labels": [ "horror" ],
   "credit": "Warner Bros. Television",
   "altHero": "a young brunette screams into the camera",
   "alt1": "the young brunette shines a flashlight in a creepy abandoned cabin",

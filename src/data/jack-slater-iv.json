@@ -10,7 +10,7 @@
   "runtime": "2h 23m",
   "starring": "Arnold Schwarzenegger, Meredith Caprice, Murray Josephson, Anthony Quinn, Art Carney, Charles Dance",
   "director": "Franco Columbu",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "Columbia Pictures",
   "altHero": "Arnold as Jack Slater",
   "alt1": "closeup of a man’s eye that looks like a scope‘s crosshairs",

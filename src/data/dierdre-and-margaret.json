@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "16 series",
   "studio": "BBC",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "NBCUniversal Television",
   "altHero": "Dierdre holding a painting of fruit",
   "alt1": "Dierdre and Margaret",

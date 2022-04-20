@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "1h 43m",
   "studio": "Sony TriStar Productions",
-  "labels": "horror",
+  "labels": [ "horror" ],
   "credit": "20th Television",
   "altHero": "four creepy children with white hair and glowing blue eyes",
   "alt1": "three dogs growl, showing their teeth",

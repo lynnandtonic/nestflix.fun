@@ -10,7 +10,7 @@
   "runtime": "1 season",
   "starring": "Andy Dick",
   "studio": "Y.O.M. Television",
-  "labels": "reality, entertainment",
+  "labels": [ "reality", "entertainment" ],
   "credit": "20th Television, Netflix",
   "altHero": "Andy Dick superimposed multiple times (even upside down) on a colorful background",
   "layout": "movie.pug",

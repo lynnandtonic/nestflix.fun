@@ -8,7 +8,7 @@
   "parentYear": "2011-Present",
   "rating": "PG-13",
   "runtime": "2h 21m",
-  "labels": "western",
+  "labels": [ "western" ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "a tough-looking cowboy strums a banjo",
   "layout": "movie.pug",

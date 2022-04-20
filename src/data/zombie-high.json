@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "4 seasons",
   "starring": "Wyatt Carver, Kell Guthrie",
-  "labels": "action, sci-fi, zombie",
+  "labels": [ "action", "sci-fi", "zombie" ],
   "credit": "Warner Bros. Television",
   "altHero": "a teen girl runs past two school buses, zombies following close behind",
   "alt1": "two teen boys kick zombies out a set of double doors",

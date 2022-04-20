@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "R",
   "runtime": "25h 23m",
-  "labels": "horror, sci-fi",
+  "labels": [ "horror", "sci-fi" ],
   "credit": "20th Television",
   "altHero": "a two-headed, multi-armed space mutant grabs two people",
   "alt1": "a multi-armed, multi-eyed space mutant grabs two other people",

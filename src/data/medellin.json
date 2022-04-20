@@ -9,7 +9,7 @@
   "runtime": "2h 43m",
   "starring": "Vincent Chase",
   "director": "Billy Walsh",
-  "labels": "drama, biography",
+  "labels": [ "drama", "biography" ],
   "credit": "HBO Entertainment",
   "altHero": "Pablo Escobar points a gun",
   "alt1": "a set of hands preparing bags of cocaine",

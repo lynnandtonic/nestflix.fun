@@ -8,7 +8,7 @@
   "rating": "TV-14",
   "runtime": "3 seasons",
   "starring": "Marta Estrella, Guillermo Ortiz",
-  "labels": "telenovela",
+  "labels": [ "telenovela" ],
   "credit": "20th Television, Netflix",
   "altHero": "Marta Estrella as a nurse holding a stuffed tiger",
   "layout": "movie.pug",

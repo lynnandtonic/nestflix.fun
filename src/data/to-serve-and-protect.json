@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 12m",
   "starring": "Cameron Drake",
-  "labels": "war, drama",
+  "labels": [ "war", "drama" ],
   "credit": "Paramount Pictures",
   "altHero": "Lieutenant Billy Stevens carrying an injured soldier, Danny, on his back",
   "alt1": "Billy carries Danny through the jungle as bombs explode",

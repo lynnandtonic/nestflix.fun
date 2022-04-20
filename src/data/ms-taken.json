@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "33m",
   "starring": "Courtney Portnoy",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "Netflix",
   "altHero": "Ms. Taken in a black leather jumpsuit points a gun",
   "alt1": "Ms. Taken (with her gun) approaches a rabbit in a trenchcoat in a mall department store",

@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "5 seasons",
   "starring": "Reid Harrison, Edison Hurrell Jones, Kwame Ngugo, Dame Agnes St. Clair",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "Netflix",
   "altHero": "Colt Luger, a dark-haired tough guy, holds a revolver",
   "alt1": "Luger punches Fidel Castro on an airplane",

@@ -9,7 +9,7 @@
   "runtime": "46m",
   "starring": "Fredrick Zoller",
   "director": "Alois von Eichberg",
-  "labels": "action, war",
+  "labels": [ "action", "war" ],
   "credit": "The Weinstein Company",
   "altHero": "Fredrick Zoller aims his gun out a window",
   "alt1": "closeup of Zoller aiming",

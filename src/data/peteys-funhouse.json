@@ -10,7 +10,7 @@
   "runtime": "1 season",
   "starring": "Peter Griffin",
   "studio": "Quahog Public Access",
-  "labels": "kids, variety",
+  "labels": [ "kids", "variety" ],
   "credit": "20th Television",
   "altHero": "Peter Griffin dressed in tramp clown garb plays piano on a stage in front of a hand-stitched patchwork curtain",
   "alt1": "Peter reads a book to an audience of kids",

@@ -10,7 +10,7 @@
   "runtime": "3m",
   "starring": "Kirk Gleason",
   "director": "Kirk Gleason",
-  "labels": "amateur, drama",
+  "labels": [ "short", "drama", "amateur" ],
   "credit": "Warner Bros. Television",
   "altHero": "a black and white scene of a man dancing in a living room surrounded by a stoic family",
   "alt1": "a man and woman approach a house on a foggy night",

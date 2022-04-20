@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "20 seasons",
   "starring": "Mel Dorado",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "Pixar Animation Studios",
   "altHero": "host Mel Dorado, an yellow Cadillac with glasses",
   "alt1": "Dorado",

@@ -9,7 +9,7 @@
   "rating": "PG",
   "runtime": "2h 45m",
   "starring": "Vicki Lester",
-  "labels": "musical, drama",
+  "labels": [ "musical", "drama" ],
   "credit": "Warner Bros. Pictures",
   "altHero": "a woman in a fancy suit sings in front of a wall of roses",
   "alt1": "a young woman sings in a spotlight",

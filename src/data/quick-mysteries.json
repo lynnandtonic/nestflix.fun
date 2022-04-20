@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "15 seasons",
   "studio": "Interdimensional Cable",
-  "labels": "crime, documentary",
+  "labels": [ "crime, documentary" ],
   "credit": "Warner Bros. Television",
   "altHero": "a Robert Stack-like host in a tan trench coat",
   "alt1": "a murder victim, a cop, and the perpetrator delivering the murder weapon and a fingerprint sheet",

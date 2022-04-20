@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "30m",
   "director": "Randall Curtis",
-  "labels": "sci-fi, holiday",
+  "labels": [ "sci-fi", "holiday" ],
   "credit": "20th Television",
   "altHero": "C-3PO and R2-D2 in holiday garb",
   "alt1": "a Star Wars-like cave room with various creatures enjoying a holiday meal",

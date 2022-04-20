@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "5 seasons",
   "studio": "TV Time!",
-  "labels": "comedy, family",
+  "labels": [ "comedy", "family" ],
   "credit": "New Line Cinema",
   "altHero": "George and Betty smiling",
   "alt1": "George hanging his hat on the rack by the door",

@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 2m",
   "studio": "Dick Schur’s Motion Pictures",
-  "labels": "musical, fantasy",
+  "labels": [ "musical", "fantasy" ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "Kevin, a farm boy in overalls, embraces a vampire named Destiny, more vampires in the background dance in unison",
   "alt1": "Kevin dances in a barn",

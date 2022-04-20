@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "7 seasons",
   "starring": "Jett Jackson, Nigel Essex, Riley Grant",
-  "labels": "action, espionage",
+  "labels": [ "action", "espionage" ],
   "credit": "Disney Channel",
   "altHero": "Silverstone with a laser pointed at his chest",
   "alt1": "Silverstone with Hawk who holds a disc",

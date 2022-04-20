@@ -11,7 +11,7 @@
   "starring": "Michael Scott, Dwight Schrute, Jim Halpert, Creed Bratton, Darryl Philbin, Troy Underbridge, Ryan Howard, Andy Bernard, Jan Levinson, Oscar Martinez, Stanley Hudson, Roy Anderson, Pam Beesley, Kevin Malone, Kelly Kapoor, Toby Flenderson, Meredith Palmer, Angela Martin, Phyllis Vance, Karen Filippelli, Todd Packer",
   "director": "Michael Scott",
   "studio": "Great Scott Film Industries",
-  "labels": "action, espionage",
+  "labels": [ "action", "espionage" ],
   "credit": "NBCUniversal Television",
   "altHero": "Michael Scott is Michael Scarn, shooting two guns",
   "alt1": "Scarn talks with his robot butler Samuel L. Chang (Schrute) in the Oval Office",

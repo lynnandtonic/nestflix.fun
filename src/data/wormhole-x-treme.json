@@ -11,7 +11,7 @@
   "director": "Peter DeLuise",
   "creator": "Martin Lloyd",
   "studio": "Bridge Studios",
-  "labels": "sci-fi",
+  "labels": [ "sci-fi" ],
   "credit": "MGM Domestic Television",
   "altHero": "four soldiers in camouflage uniforms",
   "alt1": "two soldiers peer over a rock",

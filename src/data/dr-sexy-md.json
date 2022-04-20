@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "10 seasons",
   "starring": "Christine Chatelain, Steve Bacic",
-  "labels": "drama, medical",
+  "labels": [ "drama", "medical" ],
   "credit": "Warner Bros. Television",
   "altHero": "Dr. Sexy and Dr. Piccolo stand next to each other in an elevator",
   "alt1": "Dr. Sexy and Dr. Piccolo in the elevator",

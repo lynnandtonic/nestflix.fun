@@ -7,8 +7,8 @@
   "parentYear": "2012-2016",
   "rating": "TV-G",
   "runtime": "1 season",
+  "labels": [ "sci-fi", "animals" ],
   "credit": "Disney Television Animation",
-  "labels": "sci-fi, animals",
   "altHero": "a tiger with a human arm growing out of its side is punched in the face by it",
   "layout": "movie.pug",
   "tags": [

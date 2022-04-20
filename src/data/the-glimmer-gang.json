@@ -11,7 +11,7 @@
   "starring": "Dickie Roberts",
   "director": "Sam Weisman",
   "studio": "NBC",
-  "labels": "comedy, family",
+  "labels": [ "comedy", "family" ],
   "credit": "Paramount Pictures",
   "altHero": "closeup of Dickie Roberts as a child",
   "layout": "movie.pug",

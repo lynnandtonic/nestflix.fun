@@ -8,7 +8,7 @@
   "parentYear": "2013-2019",
   "rating": "TV-PG",
   "runtime": "6 seasons",
-  "labels": "drama, teens, romance",
+  "labels": [ "drama", "teens", "romance" ],
   "credit": "Warner Bros. Television",
   "altHero": "Paulette, a red-haired girl, and Percy, a blonde boy, in camp clothes",
   "alt1": "Paulette in camp gear",

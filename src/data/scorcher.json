@@ -10,7 +10,7 @@
   "runtime": "1h 43m",
   "starring": "Tugg Speedman",
   "studio": "Universal Pictures",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "DreamWorks Pictures",
   "altHero": "Speedman in a vest, holding a gun with one hand and a baby in the other",
   "layout": "movie.pug",

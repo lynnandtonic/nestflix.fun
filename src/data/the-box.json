@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "1 season",
   "starring": "Matt LeBlanc",
-  "labels": "game show",
+  "labels": [ "game show" ],
   "credit": "Showtime",
   "altHero": "a row of large glass boxes, illuminated in different colors, each with a person inside",
   "alt1": "Matt LeBlanc smiles outside one of the boxes, a half-naked man stands inside",

@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "5 seasons",
   "starring": "Raven-Symoné",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "Netflix",
   "altHero": "Raven-Symoné on a talk show set",
   "alt1": "a studio audience",

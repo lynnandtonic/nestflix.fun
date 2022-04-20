@@ -10,7 +10,7 @@
   "runtime": "8 seasons",
   "starring": "Shmlony Shmlanza",
   "studio": "Interdimensional Cable",
-  "labels": "sitcom",
+  "labels": [ "sitcom" ],
   "credit": "Warner Bros. Television",
   "altHero": "Shmlony in bed reaching out to his family in the doorway",
   "layout": "movie.pug",

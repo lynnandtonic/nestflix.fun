@@ -10,7 +10,7 @@
   "runtime": "4 seasons",
   "starring": "Bolt, Penny",
   "studio": "Sovereign Entertainment",
-  "labels": "action, sci-fi",
+  "labels": [ "action", "sci-fi" ],
   "credit": "Walt Disney Animation Studios",
   "altHero": "Bolt the dog in a chamber with bolts of electricty all around",
   "alt1": "Penny holds a pair of binoculars to Bolt’s eyes as he growls",

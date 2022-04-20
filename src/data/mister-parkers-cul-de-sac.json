@@ -8,7 +8,7 @@
   "parentYear": "2016-Present",
   "rating": "TV-Y",
   "runtime": "30 seasons",
-  "labels": "kids, variety",
+  "labels": [ "kids", "variety" ],
   "credit": "Warner Bros. Television",
   "altHero": "Mr. Parker, a jovial man in a suit, entering a house through the green front door",
   "alt1": "Mr. Parker puts on a red sweater",

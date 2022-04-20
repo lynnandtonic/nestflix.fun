@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "15 seasons",
   "starring": "Tim Taylor, Al Borland, Heidi Keppert",
-  "labels": "reality, diy",
+  "labels": [ "reality", "diy" ],
   "credit": "Buena Vista Television",
   "altHero": "Tim Taylor and Al Borland",
   "alt1": "Heidi introduces the show",

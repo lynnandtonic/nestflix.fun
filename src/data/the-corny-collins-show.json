@@ -10,7 +10,7 @@
   "runtime": "5 seasons",
   "starring": "Corny Collins",
   "studio": "WZZT-TV",
-  "labels": "variety, music",
+  "labels": [ "variety", "music" ],
   "credit": "New Line Cinema",
   "altHero": "Corny Collins in front of his microphone with a stack of records nearby",
   "alt1": "the set of the show filled with teens dancing",

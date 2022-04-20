@@ -11,7 +11,7 @@
   "starring": "Hobie Doyle",
   "director": "Laurence Laurentz",
   "studio": "Capitol Pictures",
-  "labels": "drama, romance",
+  "labels": [ "drama", "romance" ],
   "credit": "Universal Pictures",
   "altHero": "Hobie Doyle in a tux",
   "alt1": "a man and woman dressed up in the back seat of a car",

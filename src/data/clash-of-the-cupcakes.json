@@ -10,7 +10,7 @@
   "studio": "Food TV",
   "starring": "Dev Shah, DJ Sweet Treats",
   "producer": "Jeff Pastore",
-  "labels": "reality, competition, cooking",
+  "labels": [ "reality", "competition", "cooking" ],
   "credit": "Netflix",
   "altHero": "Host Dev Shah on the set",
   "alt1": "Dev Shah on set with two competing baking teams",

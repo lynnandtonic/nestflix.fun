@@ -8,7 +8,7 @@
   "rating": "Unrated",
   "runtime": "1h 15m",
   "director": "James Pope",
-  "labels": "family, sci-fi, adventure",
+  "labels": [ "family", "sci-fi", "adventure" ],
   "credit": "Sony Pictures Classics",
   "altHero": "Brigsby Bear in the desert raising his arms to the sky",
   "alt1": "a Stardust Bandit with helmet and sceptor",

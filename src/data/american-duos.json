@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "5 seasons",
   "starring": "Lester Beacon, Nigel St. Nigel, Emilina Saffron, Zapato Dulce",
-  "labels": "reality, competition, music",
+  "labels": [ "reality", "competition", "music" ],
   "credit": "NBCUniversal Television",
   "altHero": "two awkward men in white tuxedos sing a duet",
   "alt1": "a man and woman in matching track jackets sing and dance",

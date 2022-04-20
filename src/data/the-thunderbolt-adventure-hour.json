@@ -8,7 +8,7 @@
   "rating": "TV-Y",
   "runtime": "3 seasons",
   "starring": "Paul Frees",
-  "labels": "kids, western",
+  "labels": [ "kids", "western" ],
   "credit": "Walt Disney Animation Studios",
   "altHero": "Thunderbolt, a german sheperd-like dog, pokes his head out from some desert rocks",
   "alt1": "Thunderbolt running",

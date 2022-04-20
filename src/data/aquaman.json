@@ -10,7 +10,7 @@
   "starring": "Vincent Chase, Mandy Moore, James Woods, Ray Liotta, Sharon Stone ",
   "director": "James Cameron",
   "studio": "Warner Bros. Pictures",
-  "labels": "action, superhero",
+  "labels": [ "action", "superhero" ],
   "credit": "HBO Entertainment",
   "altHero": "a man in a suit jumps into the ocean as a huge wave approaches",
   "alt1": "a crowded pier",

@@ -9,7 +9,7 @@
   "runtime": "1 episode",
   "studio": "CBS",
   "starring": "Deborah Vance",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "NBCUniversal Television",
   "altHero": "Deborah Vance giving a monologue in front of a stage curtain",
   "layout": "movie.pug",

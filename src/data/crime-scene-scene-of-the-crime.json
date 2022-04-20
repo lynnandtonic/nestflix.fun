@@ -10,7 +10,7 @@
   "runtime": "4 seasons",
   "studio": "NBC",
   "starring": "Sarah Marshall, Billy Baldwin",
-  "labels": "drama, crime",
+  "labels": [ "drama", "crime" ],
   "credit": "Universal Pictures",
   "altHero": "Maddy Stark and Hunter Rush speak to a woman at a crime scene",
   "alt1": "a tagged cadaver foot",

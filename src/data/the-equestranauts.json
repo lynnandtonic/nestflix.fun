@@ -8,7 +8,7 @@
   "parentYear": "2011-Present",
   "rating": "TV-G",
   "runtime": "10 seasons",
-  "labels": "kids",
+  "labels": [ "kids" ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "three colorful horses in armor and one tiny horse have a picnic under a rainbow",
   "alt1": "four colorful horses graze in a field outside a barn",

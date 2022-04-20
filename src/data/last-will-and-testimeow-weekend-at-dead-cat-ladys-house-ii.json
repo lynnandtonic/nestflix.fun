@@ -10,7 +10,7 @@
   "runtime": "1h 36m",
   "director": "Jerry Smith",
   "studio": "Interdimensional Cable",
-  "labels": "comedy, romance",
+  "labels": [ "comedy", "romance" ],
   "credit": "Warner Bros. Television",
   "altHero": "a man with an ice cream cone admires the woman he’s with who is clearly a decaying corpse surrounded by flies and semi-exposed cats’ tails",
   "alt1": "two cats find their owner, Mrs. Sullivan, dead on the floor",

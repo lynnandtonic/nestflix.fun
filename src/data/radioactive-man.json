@@ -9,7 +9,7 @@
   "rating": "PG",
   "runtime": "1h 38m",
   "starring": "Rainier Wolfcastle, Milhouse Van Houten, Krusty the Clown",
-  "labels": "action, superhero",
+  "labels": [ "action", "superhero" ],
   "credit": "20th Television",
   "altHero": "superheroes Radioactive Man and Fallout Boy fight aliens on the moon",
   "alt1": "an x-ray truck floods a pinned Milhouse’s head with green radiation as Radioactive Man runs to save him",

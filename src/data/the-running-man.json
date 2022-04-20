@@ -10,7 +10,7 @@
   "runtime": "15 seasons",
   "starring": "Damon Killian, Captain Freedom, Fireball, Dynamo, Buzzsaw, Professor Subzero",
   "studio": "ICS",
-  "labels": "reality, game show",
+  "labels": [ "reality", "game show" ],
   "credit": "TriStar Pictures",
   "altHero": "host Damon Killian surrounded by women",
   "alt1": "Killian raises his arms up excitedly",

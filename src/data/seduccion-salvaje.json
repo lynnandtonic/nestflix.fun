@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "4 seasons",
   "studio": "Estudio Gutierrez",
-  "labels": "telenovela",
+  "labels": [ "telenovela" ],
   "credit": "NBCUniversal Television",
   "altHero": "Armando, Carmen, and Colonel Rafael Obregon look at the camera",
   "alt1": "Carmen the maid is angry, holding a knife up to Maribel",

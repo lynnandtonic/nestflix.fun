@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "Unrated",
   "runtime": "3h",
-  "labels": "reality, adult",
+  "labels": [ "reality", "adult" ],
   "credit": "20th Television",
   "altHero": "a topless woman on the beach with a black censor bar over her chest",
   "layout": "movie.pug",

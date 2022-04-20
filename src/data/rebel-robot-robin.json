@@ -9,7 +9,7 @@
   "runtime": "2h 12m",
   "studio": "Miramount Studios",
   "starring": "Agent Robin",
-  "labels": "action, sci-fi",
+  "labels": [ "action", "sci-fi" ],
   "credit": "Drafthouse Films",
   "altHero": "Agent Robin in futuristic costume",
   "alt1": "Agent Robin swinging an electrified whip",

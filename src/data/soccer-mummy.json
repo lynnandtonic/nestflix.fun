@@ -9,7 +9,7 @@
   "rating": "PG",
   "runtime": "1h 46m",
   "starring": "Ed O’Neill",
-  "labels": "comedy, family",
+  "labels": [ "comedy", "family" ],
   "credit": "20th Television",
   "altHero": "a mummy with a sweatband in a soccer stadium",
   "alt1": "Justin lays in the mud as another player points and laughs",

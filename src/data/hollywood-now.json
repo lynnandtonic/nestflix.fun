@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "5 seasons",
   "starring": "Chuck Porter, Cindy Martin",
-  "labels": "talk show, entertainment",
+  "labels": [ "talk show", "entertainment" ],
   "credit": "Warner Independent Pictures",
   "altHero": "Chuck Porter and Cindy Martin",
   "alt1": "Martin and Porter, who is dressed with an old-timey detective",

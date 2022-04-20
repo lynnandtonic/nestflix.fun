@@ -10,7 +10,7 @@
   "runtime": "16m",
   "starring": "Barney Gumble",
   "director": "Barney Gumble",
-  "labels": "amateur, drama",
+  "labels": [ "amateur", "drama" ],
   "credit": "20th Television",
   "altHero": "arthouse style shot of Barney drinking a beer as wind blows through sheer curtains",
   "alt1": "aerial shot of Barney passed out on the couch, the curtains fluttering gracefully",

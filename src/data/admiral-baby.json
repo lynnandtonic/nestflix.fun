@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "1 season",
   "studio": "FOX",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "20th Television",
   "altHero": "two Navy men on a ship next to a crib with a baby wearing an admiral’s uniform",
   "layout": "movie.pug",

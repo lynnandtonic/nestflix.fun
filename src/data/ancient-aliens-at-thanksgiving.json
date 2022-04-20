@@ -10,7 +10,7 @@
   "runtime": "3h",
   "starring": "Duncan Everton, Charles Biggens, Kyle Broflovski, Stan Marsh",
   "studio": "The History Channel",
-  "labels": "documentary",
+  "labels": [ "documentary" ],
   "credit": "Comedy Central",
   "altHero": "a grainy photograph of the Pilgrims eating Thanksgiving dinner with the Native Americans as an alien serves them food",
   "alt1": "Pilgrims and Native Americans gather",

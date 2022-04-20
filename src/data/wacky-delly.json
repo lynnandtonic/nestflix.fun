@@ -11,7 +11,7 @@
   "starring": "Rocko Wallaby, Heffer Wolfe, Filburt Turtle",
   "director": "Rachel Bighead",
   "studio": "Bighead Studios",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "MTV Networks",
   "altHero": "a happy bologna with hair and bow in a crudely drawn deli",
   "alt1": "a crudely drawn store with sign “Wacky Delly”",

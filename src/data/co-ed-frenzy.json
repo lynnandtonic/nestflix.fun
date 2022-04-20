@@ -7,7 +7,7 @@
   "parentYear": "1981",
   "rating": "R",
   "runtime": "2h 12m",
-  "labels": "horror, slasher",
+  "labels": [ "horror", "slasher" ],
   "credit": "Filmways Pictures",
   "altHero": "a young woman in the shower and the sillouhette of a knife",
   "alt1": "a cop peers into a window and a knife is pulled behind him",

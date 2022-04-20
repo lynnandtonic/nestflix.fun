@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "1h 46m",
   "starring": "Lucy Hale, Shenae Grimes",
-  "labels": "horror, slasher",
+  "labels": [ "horror", "slasher" ],
   "credit": "Universal Pictures",
   "altHero": "Lucy Hale talks on a cordless house phone",
   "alt1": "Hale talks in the kitchen, holding a knife in her hands",

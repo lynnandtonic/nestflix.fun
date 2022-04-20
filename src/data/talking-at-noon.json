@@ -10,7 +10,7 @@
   "runtime": "5 seasons",
   "starring": "Tom Cotter, Joseph Weisberg, Carmen Lynch",
   "studio": "AMC",
-  "labels": "talk show, entertainment",
+  "labels": [ "talk show", "entertainment" ],
   "credit": "CBS Television",
   "altHero": "host Tom Cotter",
   "alt1": "Tom Cotter, Joseph Weisberg, and Carmen Lynch in a living room-like set",

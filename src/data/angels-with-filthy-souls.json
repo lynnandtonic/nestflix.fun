@@ -11,7 +11,7 @@
   "rating": "R",
   "runtime": "1h 47m",
   "starring": "Ralph Foody, Michael Guido",
-  "labels": "drama, thriller, mafia",
+  "labels": [ "drama", "thriller", "mafia" ],
   "credit": "20th Century Fox",
   "altHero": "mob boss Johnny wields a gun",
   "alt1": "a closeup of Johnny",

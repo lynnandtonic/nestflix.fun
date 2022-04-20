@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "1 season",
   "starring": "Alfredo",
-  "labels": "reality, crime",
+  "labels": [ "reality", "crime" ],
   "credit": "TV Tokyo",
   "altHero": "Punch and Judy in their cowboy garb back to back holding pistols",
   "alt1": "a criminal mug shot",

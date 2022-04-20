@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "1 season",
   "starring": "Judge Reinhold",
-  "labels": "reality",
+  "labels": [ "reality" ],
   "credit": "20th Television, Netflix",
   "altHero": "Judge Reinhold smiles from the bench",
   "alt1": "William Hung plays keyboard and sings with his band",

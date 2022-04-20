@@ -9,7 +9,7 @@
   "runtime": "2 seasons",
   "studio": "Spectra",
   "starring": "Simon Trent",
-  "labels": "action, superhero",
+  "labels": [ "action", "superhero" ],
   "credit": "Warner Bros. Television",
   "altHero": "the Gray Ghost, a caped hero, stands in a smokey doorway",
   "alt1": "two bad dudes threaten a man with chains",

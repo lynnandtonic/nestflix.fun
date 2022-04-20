@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "1h 13m",
   "starring": "Donald Cook, Evalyn Knapp",
-  "labels": "drama, romance",
+  "labels": [ "drama", "romance" ],
   "credit": "Warner Bros. Pictures",
   "altHero": "a husband and wife talk",
   "alt1": "the wife prays",

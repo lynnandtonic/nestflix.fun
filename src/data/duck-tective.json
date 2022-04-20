@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "3 seasons",
   "studio": "Gravity Falls Public Access TV",
-  "labels": "crime",
+  "labels": [ "crime" ],
   "credit": "Disney Television Animation",
   "altHero": "a duck with a detective hat sits at a desk with a pile of papers",
   "alt1": "Duck-tective yells “Murder?!”",

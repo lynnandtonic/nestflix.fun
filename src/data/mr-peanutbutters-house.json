@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "5 seasons",
   "starring": "Mr. Peanutbutter",
-  "labels": "comedy, family",
+  "labels": [ "comedy", "family" ],
   "credit": "Netflix",
   "altHero": "Mr. Peanutbutter in a 90s shirt carves pumpkins with two girls at a table",
   "alt1": "girl shows off a carved pumpkin",

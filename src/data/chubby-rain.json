@@ -10,7 +10,7 @@
   "runtime": "1h 46m",
   "starring": "Kit Ramsey, Jiff Ramsey, Daisy, Carol, Afrim, Slater",
   "director": "Bobby Bowfinger",
-  "labels": "sci-fi, action",
+  "labels": [ "sci-fi", "action" ],
   "credit": "Universal Pictures",
   "altHero": "Kit Ramsey looks up at the sky with wide arms and gritted teeth",
   "alt1": "Kit Ramsey and Daisy are held up at gunpoint",

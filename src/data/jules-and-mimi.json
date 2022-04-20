@@ -10,7 +10,7 @@
   "runtime": "2 series",
   "starring": "Andrew Stewart-Jones, Vicky Cunningham",
   "studio": "BBC America",
-  "labels": "drama, romance",
+  "labels": [ "drama", "romance" ],
   "credit": "HBO Entertainment",
   "altHero": "Jules happily greets Mimi at his door",
   "alt1": "Jules",

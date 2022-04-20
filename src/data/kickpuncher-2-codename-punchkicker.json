@@ -10,7 +10,7 @@
   "runtime": "2h 34m",
   "starring": "Don “The Demon” Donaldson",
   "director": "Kim Yang",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "Sony Pictures Television",
   "altHero": "Kickpuncher with cyborg face and glowing eye",
   "layout": "movie.pug",

@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "2 seasons",
   "studio": "BET",
-  "labels": "nature, animals",
+  "labels": [ "nature, animals" ],
   "credit": "20th Television",
   "altHero": "a cheetah running",
   "alt1": "a cheetah ready to pounce",

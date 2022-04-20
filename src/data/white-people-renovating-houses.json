@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "2 seasons",
   "starring": "Randy Marsh, Sharon Marsh",
-  "labels": "reality, diy",
+  "labels": [ "reality", "diy" ],
   "credit": "Comedy Central",
   "altHero": "Randy Marsh with toolbelt and goggles describing his vision to clients in their kitchen",
   "alt1": "Randy and Sharon Marsh standing outside a house that has recently sold",

@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "1h 43m",
   "starring": "Clive Owen, Greg Lindley-Jones",
-  "labels": "drama, biography",
+  "labels": [ "drama", "biography" ],
   "credit": "BBC Two",
   "layout": "movie.pug",
   "altHero": "closeup of Clive Owen",

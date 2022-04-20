@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "5 seasons",
   "starring": "Trish, Suze",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "two women (Trish and Suze) host a talk show while drinking mimosas",
   "alt1": "Trish and Suze look shocked as Steve Smith guests for a cooking segment",

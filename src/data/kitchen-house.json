@@ -10,7 +10,7 @@
   "runtime": "1 season",
   "starring": "Peter Griffin, Cleveland Brown, Glenn Quagmire, Joe Swanson",
   "director": "Peter Griffin",
-  "labels": "reality, home improvement",
+  "labels": [ "reality", "home improvement" ],
   "credit": "20th Television",
   "altHero": "Peter Griffin in overalls and hard hat discussing plans with a family",
   "alt1": "Peter, Cleveland, Quagmire, and Joe outside a house with a family",

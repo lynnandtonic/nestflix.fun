@@ -10,7 +10,7 @@
   "runtime": "1 season",
   "starring": "Rogelio De La Vega, Esteban Santiago, Fabian Regalo del Cielo",
   "studio": "Telemasivo Studios",
-  "labels": "telenovela",
+  "labels": [ "telenovela" ],
   "credit": "Warner Bros. Television",
   "altHero": "Guillermo looks concerned while talking to Hector",
   "alt1": "a tiny man riding an ant",

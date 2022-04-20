@@ -10,7 +10,7 @@
   "runtime": "1 season",
   "starring": "Elisabeth Shue",
   "studio": "FOX",
-  "labels": "drama, crime",
+  "labels": [ "drama", "crime" ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "Detective Lacey Sole and her partner examine a shoe at a murder crime scene",
   "alt1": "a wide shot of the crime scene at a shipping dock",

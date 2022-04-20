@@ -9,7 +9,7 @@
   "rating": "TV-Y",
   "runtime": "1 season",
   "starring": "Mickey",
-  "labels": "reality, game show",
+  "labels": [ "reality", "game show" ],
   "credit": "Sony Pictures",
   "altHero": "host Mickey with cash stuck to his palms",
   "alt1": "two women paint honey on a contestant",

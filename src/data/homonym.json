@@ -10,7 +10,7 @@
   "runtime": "2 seasons",
   "starring": "Steve Higgins",
   "studio": "NBC",
-  "labels": "game show",
+  "labels": [ "game show" ],
   "credit": "NBCUniversal Television",
   "altHero": "Homonym set, with Steve Higgins and a contestant each at a podium",
   "alt1": "a contestant",

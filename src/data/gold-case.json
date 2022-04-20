@@ -10,7 +10,7 @@
   "runtime": "1 episode",
   "starring": "John McEnroe",
   "studio": "NBC",
-  "labels": "game show",
+  "labels": [ "game show" ],
   "credit": "NBCUniversal Television",
   "altHero": "woman in green dress struggles to hold up a heavy suitcase",
   "alt1": "contestant with John McEnroe",

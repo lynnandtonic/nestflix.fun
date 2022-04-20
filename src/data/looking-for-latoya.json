@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "1 season",
   "starring": "Rose Cranberry",
-  "labels": "true crime, documentary",
+  "labels": [ "true crime", "documentary" ],
   "credit": "HBO Entertainment",
   "altHero": "Thompson family portrait",
   "alt1": "Rose Cranberry outside a Red Lobster",

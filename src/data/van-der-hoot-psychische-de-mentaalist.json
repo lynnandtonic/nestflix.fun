@@ -8,7 +8,7 @@
   "parentYear": "2006-2013",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "labels": "drama, crime",
+  "labels": [ "drama", "crime" ],
   "credit": "NBCUniversal Television",
   "altHero": "a woman holds a knife and has a revelation",
   "layout": "movie.pug",

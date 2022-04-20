@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "G",
   "runtime": "1h",
-  "labels": "holiday, musical",
+  "labels": [ "holiday", "musical" ],
   "credit": "20th Television",
   "altHero": "three goblins in striped shirts stand next to a concerned Santa",
   "alt1": "Santa talks with an elf next to two reindeer cardboard cutouts",

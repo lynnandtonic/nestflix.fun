@@ -8,7 +8,7 @@
   "rating": "TV-14",
   "runtime": "5 seasons",
   "starring": "Vontella",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "NBCUniversal Television",
   "altHero": "talk show host Vontella in front of her studio audience",
   "alt1": "Vontella gets serious",

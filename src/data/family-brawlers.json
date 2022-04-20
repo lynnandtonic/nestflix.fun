@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "2 seasons",
   "starring": "Mercedes",
-  "labels": "reality",
+  "labels": [ "reality" ],
   "credit": "Black Entertainment Television",
   "altHero": "Mercedes giving an interview",
   "alt1": "woman arguing",

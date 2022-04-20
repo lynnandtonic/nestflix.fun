@@ -8,7 +8,7 @@
   "rating": "TV-G",
   "runtime": "7 seasons",
   "starring": "Sam Sweet, Stan Sweet, Conrad Janis",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "Sony Pictures",
   "altHero": "two twins point at each other",
   "layout": "movie.pug",

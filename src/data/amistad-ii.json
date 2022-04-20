@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 41m",
   "starring": "Keenen Ivory Wayans, Lee R. Mayes, Mark Hoeppner",
-  "labels": "drama, history",
+  "labels": [ "drama", "history" ],
   "credit": "Dimension Films",
   "altHero": "a Black man on a boat raises his arms and yells triumphantly",
   "alt1": "a ship with large sails on the ocean",

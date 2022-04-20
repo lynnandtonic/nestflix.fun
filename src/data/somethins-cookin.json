@@ -11,7 +11,7 @@
   "starring": "Roger Rabbit, Baby Herman",
   "director": "Raoul J Raoul",
   "studio": "Maroon Cartoons",
-  "labels": "comedy, animation",
+  "labels": [ "comedy", "animation" ],
   "credit": "Touchstone Pictures",
   "altHero": "Roger Rabbit splayed against a wall surrounded by knives, forks, and corkscrews stuck in the wall",
   "alt1": "Baby Herman escapes from his pen",

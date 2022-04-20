@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "3 seasons",
   "starring": "Regina Hall, Scott Foley, Michael Jai White, Sarah Chaney, Nija Okoro",
-  "labels": "drama",
+  "labels": [ "drama" ],
   "credit": "HBO Entertainment",
   "altHero": "Ninny approaches Master Turnfellow at the dinner table.",
   "alt1": "Ninny reading a book",

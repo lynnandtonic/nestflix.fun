@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "34m",
   "director": "Abe Lincoln",
-  "labels": "drama, sports, sci-fi",
+  "labels": [ "drama", "sports", "sci-fi" ],
   "credit": "MTV Networks",
   "altHero": "a giraffe runs to kick a football held by his teammate",
   "alt1": "a football scoreboard: Heroes 10, Villains 12",

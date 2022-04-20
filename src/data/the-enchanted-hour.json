@@ -10,7 +10,7 @@
   "runtime": "1h 56m",
   "starring": "Norman Maine, Vicki Lester",
   "producer": "Oliver Niles",
-  "labels": "drama, romance",
+  "labels": [ "drama", "romance" ],
   "credit": "United Artists",
   "altHero": "a man and woman embrace",
   "layout": "movie.pug",

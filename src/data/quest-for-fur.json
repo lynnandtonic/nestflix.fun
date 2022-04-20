@@ -9,7 +9,7 @@
   "rating": "Unrated",
   "runtime": "43m",
   "starring": "Lois Griffin",
-  "labels": "adult",
+  "labels": [ "adult" ],
   "credit": "20th Television",
   "altHero": "Lois Griffin and a male costar dressed as cave people",
   "alt1": "the caveman holds a spear and looks in the distance, a pterodactyl hangs from string in the background",

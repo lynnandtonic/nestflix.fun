@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "1h 34m",
   "starring": "Simon Jeremi, Sandy Brookshield, Bob J. MacLef, Ryon O'Nouille, Don Voyelle, Clint Consonne, Pascal Pascal, Robert Miro",
-  "labels": "horror, slasher",
+  "labels": [ "horror", "slasher" ],
   "credit": "Pathé Distribution",
   "altHero": "Yuri, the Communist murderer wearing a welding hammer and wielding a hammer and sickle",
   "alt1": "Benjamin and Sandy huddle close, frightened",

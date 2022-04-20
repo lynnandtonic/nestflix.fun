@@ -11,7 +11,7 @@
   "starring": "Dirk Diggler, Reed Rothchild",
   "director": "Jack Horner",
   "studio": "The Colonel James",
-  "labels": "adult, espionage",
+  "labels": [ "adult", "espionage" ],
   "credit": "New Line Cinema",
   "altHero": "Brock Landers and Chest Rockwell, in audacious 1970s suits, walk toward the camera",
   "alt1": "Landers speaks to a woman at a bar",

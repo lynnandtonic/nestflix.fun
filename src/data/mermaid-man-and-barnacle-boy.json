@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "15 seasons",
   "starring": "Mermaid Man, Barnacle Boy",
-  "labels": "action, superhero",
+  "labels": [ "action", "superhero" ],
   "credit": "Nickelodeon Animation Studio",
   "altHero": "a portrait of Mermaid Man and Barnacle Boy in their youth",
   "alt1": "Mermaid Man and Barnacle Boy in a cave",

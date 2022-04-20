@@ -10,7 +10,7 @@
   "runtime": "5 seasons",
   "starring": "Jesus Christ",
   "studio": "South Park Public Access",
-  "labels": "talk show, religion",
+  "labels": [ "talk show", "religion" ],
   "credit": "Comedy Central",
   "altHero": "Jesus with hands folded next to a phone",
   "alt1": "Jesus holding a microphone amongst a studio audience",

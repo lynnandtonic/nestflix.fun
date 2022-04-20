@@ -11,7 +11,7 @@
   "starring": "Taran Killam, Cobie Smulders, Thomas Barbusca, Owen Vaccaro, Steele Stebbins, Savannah Kennick, Jean Smart",
   "director": "Ron Howard, Brian Grazer",
   "studio": "Imagine Entertainment",
-  "labels": "drama",
+  "labels": [ "drama" ],
   "credit": "20th Television, Netflix",
   "altHero": "Cobie Smulders as young Lucille Bluth, covering her mouth in horror as young Buster stands in front of her",
   "alt1": "young Michael Bluth in his banana stand uniform",

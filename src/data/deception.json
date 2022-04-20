@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "1h 51m",
   "starring": "Lindsay Lohan, James Franco",
-  "labels": "action, thriller",
+  "labels": [ "action", "thriller" ],
   "credit": "Columbia Pictures",
   "altHero": "Lindsay Lohan runs away from an approaching car",
   "alt1": "Lohan in the scope of a gun",

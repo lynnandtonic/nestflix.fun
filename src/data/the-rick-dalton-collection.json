@@ -8,7 +8,7 @@
   "rating": "R",
   "runtime": "2h 26m",
   "starring": "Rick Dalton",
-  "labels": "action, western",
+  "labels": [ "action", "western" ],
   "credit": "Columbia Pictures",
   "altHero": "Rick Dalton in a cowboy hat",
   "alt1": "Nebraska Jim",

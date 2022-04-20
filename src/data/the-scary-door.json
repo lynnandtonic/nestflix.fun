@@ -7,7 +7,7 @@
   "parentYear": "1999-2013",
   "rating": "TV-14",
   "runtime": "10 seasons",
-  "labels": "sci-fi, horror",
+  "labels": [ "sci-fi", "horror" ],
   "credit": "20th Century Fox Television",
   "altHero": "a man holds a droopy human face in his hands and the homeless man is revealed as a three-eyed purple alien",
   "alt1": "a man in a library screams but he has no hands, tongue, or eyes",

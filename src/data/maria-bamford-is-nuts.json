@@ -11,7 +11,7 @@
   "starring": "Maria Bamford, Lance Banner, Andy Samberg, Sheryl Streep, Craig Gregg, Susan Beeber",
   "director": "Karen Grisham",
   "studio": "Muskvision",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "Netflix",
   "altHero": "Maria with huge puffy hair and her arm around Lance Banner as Scott",
   "alt1": "two actors as Maria’s parents",

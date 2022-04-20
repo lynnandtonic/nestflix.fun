@@ -8,7 +8,7 @@
   "rating": "TV-MA",
   "runtime": "2 seasons",
   "studio": "ICS",
-  "labels": "reality, game show",
+  "labels": [ "reality", "game show" ],
   "credit": "TriStar Pictures",
   "altHero": "a man climbs a rope surrounded by razor wire and viscious dogs",
   "alt1": "man holds on to the rope with a stack of cash in his teeth",

@@ -10,7 +10,7 @@
   "runtime": "1h 46m",
   "director": "Edgar Wright",
   "studio": "Ichorus Pictures",
-  "labels": "horror",
+  "labels": [ "horror" ],
   "credit": "Dimension Films",
   "altHero": "two men and a woman looking mystified through an ornate gate",
   "alt1": "light shines through an open doorway into a dusty, abandoned room",

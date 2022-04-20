@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "4 seasons",
   "starring": "Jim Starling",
-  "labels": "action, superhero",
+  "labels": [ "action", "superhero" ],
   "credit": "Disney Television Animation",
   "altHero": "Darkwing Duck spreads his cape atop a building against a full moon",
   "alt1": "a crew of villains",

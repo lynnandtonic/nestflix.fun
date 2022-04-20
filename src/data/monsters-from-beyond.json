@@ -10,7 +10,7 @@
   "runtime": "4m",
   "starring": "Sparky",
   "director": "Victor Frankenstein",
-  "labels": "amateur, sci-fi, monster",
+  "labels": [ "amateur", "sci-fi", "monster" ],
   "credit": "Walt Disney Studios",
   "altHero": "a handmade city scene with army men and a dinosaur breathing fire",
   "alt1": "a handmade city with a flying dinosaur on strings above the city",

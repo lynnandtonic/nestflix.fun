@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "5 seasons",
   "starring": "Nosey",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "MTV Networks",
   "altHero": "Nosey talks into a microphone in front of her studio audience",
   "alt1": "Nosey introduces Rocko and Heffer",

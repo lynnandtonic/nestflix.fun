@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "2 seasons",
   "studio": "cde",
-  "labels": "game show",
+  "labels": [ "game show" ],
   "credit": "Walt Disney Studios",
   "altHero": "excited game show host in a bright bow tie stands in front of a distraught teacher with his hands and head in stocks",
   "alt1": "game show host in front of teacher in stocks",

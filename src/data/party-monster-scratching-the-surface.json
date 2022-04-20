@@ -11,7 +11,7 @@
   "starring": "DJ Fingablast, DJ Slizzard, Fran Dodd, Titus Andromedon",
   "director": "DJ Fingablast",
   "studio": "House Flix, Columbia House Docs",
-  "labels": "documentary",
+  "labels": [ "documentary" ],
   "credit": "Netflix",
   "altHero": "Richard Wayne Gary Wayne (DJ Slizzard) holds his hands up behind prison visitation glass",
   "alt1": "DJ Fingablast does research on a laptop while wearing a women’s bra and long wig",

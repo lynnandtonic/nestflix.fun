@@ -8,7 +8,7 @@
   "parentYear": "1989-Present",
   "rating": "TV-14",
   "runtime": "6 seasons",
-  "labels": "drama, mystery",
+  "labels": [ "drama", "mystery" ],
   "credit": "20th Television",
   "altHero": "four people with torches find a rock with cryptic etchings and a giant crank",
   "alt1": "the aftermath of a plane crash on a beach",

@@ -11,7 +11,7 @@
   "starring": "Ben Chang, Jeff Winger, Britta Perry, Annie Edison, Garrett Lambert, Leonard Rodriguez",
   "director": "Abed Nadir",
   "studio": "Greendale Community College Film Department",
-  "labels": "sci-fi, action",
+  "labels": [ "sci-fi", "action" ],
   "credit": "Sony Pictures Television",
   "altHero": "Chief Starr in a suit at his spaceship desk",
   "alt1": "Princess Meridian with the Mayor of space, a man in a billowy blouse with white hair and eyebrows",

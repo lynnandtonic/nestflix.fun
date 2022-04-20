@@ -10,7 +10,7 @@
   "runtime": "1h 54m",
   "director": "Jon Ho",
   "studio": "Rosenmount Pictures",
-  "labels": "horror, monster",
+  "labels": [ "horror", "monster" ],
   "credit": "Nickelodeon Animation Studio",
   "altHero": "Reptar, a giant t-rex, walks in a harbor toward the city",
   "alt1": "Dactar the pterodactyl on strings knocks a building over",

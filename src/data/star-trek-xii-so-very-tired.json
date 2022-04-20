@@ -9,7 +9,7 @@
   "rating": "PG",
   "runtime": "1h 56m",
   "starring": "William Shatner, Leonard Nimoy, DeForest Kelley, George Takei",
-  "labels": "sci-fi",
+  "labels": [ "sci-fi" ],
   "credit": "20th Television",
   "altHero": "the deck of the Enterprise with the crew looking very old and tired",
   "alt1": "Kirk is wrinkled and wearing glasses",

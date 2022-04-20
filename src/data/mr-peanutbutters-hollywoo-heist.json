@@ -10,7 +10,7 @@
   "runtime": "1h 48m",
   "starring": "BoJack Horseman, Naomi Watts, Wallace Shawn",
   "director": "Quentin Tarantulino",
-  "labels": "comedy, romance",
+  "labels": [ "comedy", "romance" ],
   "credit": "Netflix",
   "altHero": "BoJack Horseman as Mr. Peanutbutter hugs Naomi Watts as Diane",
   "layout": "movie.pug",

@@ -9,7 +9,7 @@
   "rating": "TV-Y",
   "runtime": "1 season",
   "starring": "Sheriff Woody, Jessie, Stinky Pete the Prospector, Bullseye",
-  "labels": "kids, western",
+  "labels": [ "kids", "western" ],
   "credit": "Pixar Animation Studios",
   "altHero": "Sheriff Woody in black and white",
   "alt1": "Woody rides Bullseye, both clearly being puppeted with strings",

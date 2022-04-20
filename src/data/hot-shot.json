@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "10 seasons",
   "starring": "Judge Hope, Judge Charity, Judge Wraith",
-  "labels": "reality, competition, music",
+  "labels": [ "reality", "competition", "music" ],
   "credit": "Netflix",
   "altHero": "Bing, a contestant on stage of Hot Shot",
   "alt1": "Abi, a singing contestant",

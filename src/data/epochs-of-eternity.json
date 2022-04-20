@@ -10,7 +10,7 @@
   "runtime": "1 season",
   "starring": "Luke Perry, Jennie Garth",
   "studio": "NBC",
-  "labels": "sci-fi",
+  "labels": [ "sci-fi" ],
   "credit": "Sony Pictures Television",
   "altHero": "a telephone booth",
   "alt1": "a man in a white hat emerges from a phone booth",

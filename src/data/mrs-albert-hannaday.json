@@ -9,7 +9,7 @@
   "rating": "PG-13",
   "runtime": "2h 12m",
   "starring": "Jack Black, Cloris Leachman, Jessica Alba",
-  "labels": "drama, romance",
+  "labels": [ "drama", "romance" ],
   "credit": "NBCUniversal Television",
   "altHero": "Sam (Jack Black) meets Lily (Leachman)",
   "alt1": "Sam is delighted",

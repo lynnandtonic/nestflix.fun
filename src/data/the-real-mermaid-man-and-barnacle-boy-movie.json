@@ -10,7 +10,7 @@
   "runtime": "34m",
   "starring": "Mermaid Man, Barnacle Boy, Sandy Cheeks",
   "director": "SpongeBob SquarePants",
-  "labels": "action, superhero",
+  "labels": [ "action", "superhero" ],
   "credit": "Nickelodeon Animation Studio",
   "altHero": "elderly Mermaid Man and Barnacle Boy",
   "alt1": "a homemade Kelp-Thing hangs from wires in a vault full of Krabby Patties",

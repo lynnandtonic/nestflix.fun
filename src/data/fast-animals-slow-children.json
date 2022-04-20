@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "1 season",
   "studio": "FOX",
-  "labels": "animals, action",
+  "labels": [ "animals, action" ],
   "credit": "20th Television",
   "altHero": "a tiger running fast",
   "alt1": "a tiger running",

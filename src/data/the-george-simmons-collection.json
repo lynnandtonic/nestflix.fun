@@ -9,7 +9,7 @@
   "runtime": "9h 23m",
   "starring": "George Simmons",
   "director": "Judd Apatow",
-  "labels": "collection, comedy",
+  "labels": [ "collection, comedy" ],
   "credit": "Universal Pictures",
   "altHero": "George Simmons doing standup",
   "alt1": "Little by Little",

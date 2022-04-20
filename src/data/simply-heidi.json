@@ -8,7 +8,7 @@
   "rating": "TV-PG",
   "runtime": "3 seasons",
   "starring": "Heidi",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "Comedy Central",
   "altHero": "host Heidi sits and chats with a female guest",
   "layout": "movie.pug",

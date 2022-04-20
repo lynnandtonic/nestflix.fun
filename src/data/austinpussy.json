@@ -10,7 +10,7 @@
   "runtime": "1h 46m",
   "starring": "Tom Cruise, Gwyneth Paltrow, Kevin Spacy, Danny DeVito, John Travolta",
   "director": "Steven Spielberg",
-  "labels": "action, espionage",
+  "labels": [ "action", "espionage" ],
   "credit": "New Line Cinema",
   "altHero": "Tom Cruise dressed as Austin Powers in thick glasses and ruffly shirt",
   "alt1": "Austin’s British flag car with “Shaguar” license plate",

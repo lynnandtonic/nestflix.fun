@@ -8,7 +8,7 @@
   "rating": "PG-13",
   "runtime": "2h 12m",
   "starring": "Anna Scott, Clarke Peters, Mischa Barton",
-  "labels": "sci-fi",
+  "labels": [ "sci-fi" ],
   "credit": "Universal Pictures",
   "altHero": "Anna Scott in a space suit",
   "layout": "movie.pug",

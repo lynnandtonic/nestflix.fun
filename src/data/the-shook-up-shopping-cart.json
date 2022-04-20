@@ -8,7 +8,7 @@
   "parentYear": "1993",
   "rating": "PG",
   "runtime": "1h 34m",
-  "labels": "comedy, family",
+  "labels": [ "comedy", "family" ],
   "credit": "Universal Pictures",
   "altHero": "a woman and a man with a gun look at a shopping cart",
   "alt1": "two robbers wearing striped shirts and eye masks point guns at the couple",

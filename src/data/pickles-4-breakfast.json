@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "100 episodes",
   "studio": "Hampton deView",
-  "labels": "kids",
+  "labels": [ "kids" ],
   "credit": "Comedy Central",
   "altHero": "an animated baby with bold eyebrows cronching on a pickle",
   "alt1": "a mom talks to her baby",

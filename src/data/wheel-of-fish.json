@@ -9,7 +9,7 @@
   "runtime": "1 season",
   "starring": "Kuni",
   "studio": "Channel 62",
-  "labels": "reality, game show",
+  "labels": [ "reality", "game show" ],
   "credit": "Orion Pictures",
   "altHero": "a woman reaches up to spin big game show wheel that is covered in various fish",
   "alt1": "show hostess presents a Wheel of Fish game board with differently colored rows of fish iconography",

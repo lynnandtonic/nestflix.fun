@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "5 seasons",
   "starring": "Glen Quagmire, Hee-Sun",
-  "labels": "soap opera, k-drama",
+  "labels": [ "soap opera", "k-drama" ],
   "credit": "20th Television",
   "altHero": "Glen Quagmire and Hee-Sun sitting on a bench holding hands",
   "alt1": "Quagmire as American Johnny, wearing an American flag jacket and sitting in a bar with Japanese coworkers",

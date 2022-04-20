@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "1 episode",
   "studio": "NBC",
-  "labels": "action",
+  "labels": [ "action" ],
   "credit": "NBCUniversal Television",
   "altHero": "Will Ferrell cocks a gun outside a bathroom door",
   "layout": "movie.pug",

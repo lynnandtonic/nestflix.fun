@@ -10,7 +10,7 @@
   "runtime": "1h 48m",
   "starring": "Colby Minifie, Jason Ralph",
   "director": "Robert Zemeckis",
-  "labels": "drama",
+  "labels": [ "drama" ],
   "credit": "Netflix",
   "layout": "movie.pug",
   "altHero": "a young man and woman sit solemnly on the curb outside a diner",

@@ -9,7 +9,7 @@
   "runtime": "2 seasons",
   "starring": "Haggis MacHaggis",
   "director": "Haggis MacHaggis",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "ViacomCBS Domestic Media",
   "altHero": "Haggis MacHaggis, a Scottish man in a kilt, raises his cane above his head, his scottie dog wears a hat and holds a briefcase full of cash",
   "layout": "movie.pug",

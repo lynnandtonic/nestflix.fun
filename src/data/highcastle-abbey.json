@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "6 seasons",
   "studio": "Clotho Productions",
-  "labels": "drama",
+  "labels": [ "drama" ],
   "credit": "Warner Bros. Television",
   "altHero": "an abbey in the countryside",
   "alt1": "a butler",

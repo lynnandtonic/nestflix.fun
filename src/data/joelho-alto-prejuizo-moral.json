@@ -11,7 +11,7 @@
   "starring": "Mariah Gutterman, Alexandro Ruebens, Brank Pranai",
   "director": "Roberto Schrabriguez",
   "studio": "Martela Estrada Filme Internacional",
-  "labels": "horror",
+  "labels": [ "horror" ],
   "credit": "Sony Pictures Television",
   "altHero": "a green gremlin peeks out of a wooden box",
   "alt1": "an old bearded man with a pipe",

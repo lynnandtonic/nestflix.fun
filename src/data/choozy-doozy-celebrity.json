@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "4 seasons",
   "starring": "Britt McShasaucey",
-  "labels": "game show",
+  "labels": [ "game show" ],
   "credit": "Paramount Pictures",
   "altHero": "show host Britt McShasaucey",
   "alt1": "McShasaucey",

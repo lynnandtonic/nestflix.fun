@@ -10,7 +10,7 @@
   "runtime": "30y",
   "starring": "Truman Burbank, Hannah Gill, Louis Coltrane, Alanis Montclair",
   "director": "Christof",
-  "labels": "reality",
+  "labels": [ "reality" ],
   "credit": "Paramount Pictures",
   "altHero": "Truman looking into his bathroom mirror",
   "alt1": "Truman as a child at the beach",

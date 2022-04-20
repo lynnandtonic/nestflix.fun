@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "1 season",
   "producer": "Tomik Pjölck, Bruce Helford",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "20th Television",
   "altHero": "a man and a robot with a wizard hat talk next to a washing machine",
   "layout": "movie.pug",

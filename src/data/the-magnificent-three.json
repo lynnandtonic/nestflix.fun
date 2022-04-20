@@ -10,7 +10,7 @@
   "runtime": "1h 37m",
   "starring": "Harold Zoid, Calculon, John A. Zoidberg",
   "director": "Harold Zoid",
-  "labels": "drama",
+  "labels": [ "drama" ],
   "credit": "20th Century Fox Television",
   "altHero": "Harold Zoid as the President, stands with Calculon in the Oval Office",
   "alt1": "Calculon speaks with Zoid",

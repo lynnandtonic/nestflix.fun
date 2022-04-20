@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "10 seasons",
   "starring": "Brüno Gehard",
-  "labels": "reality, fashion",
+  "labels": [ "reality", "fashion" ],
   "credit": "Universal Pictures",
   "altHero": "stylized image of Bruno in a dressing room",
   "alt1": "Bruno on the set of his show",

@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "3 seasons",
   "starring": "Dereca",
-  "labels": "reality, talk show",
+  "labels": [ "reality", "talk show" ],
   "credit": "Netflix",
   "altHero": "Dereca",
   "alt1": "Dereca scowling next to a man’s face",

@@ -11,7 +11,7 @@
   "starring": "Moira Rose",
   "director": "Blaire",
   "studio": "Interflix",
-  "labels": "horror, monster",
+  "labels": [ "horror", "monster" ],
   "credit": "Canadian Broadcasting Corporation",
   "altHero": "Moira Rose as Dr. Clara Mandrake who has started transforming into a crow-woman hybrid",
   "alt1": "two scientists walk through some trees",

@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "8 seasons",
   "starring": "Bill Cosby",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "Comedy Central",
   "altHero": "Fat Abbot",
   "alt1": "Fat Abbot talks with a friend",

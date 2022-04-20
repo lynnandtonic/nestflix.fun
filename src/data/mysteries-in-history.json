@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "50 episodes",
   "starring": "Peter Graves",
-  "labels": "documentary, mystery",
+  "labels": [ "documentary", "mystery" ],
   "credit": "Sony Pictures",
   "altHero": "host Peter Graves sitting in a study",
   "alt1": "against a cornfield, a group of “aliens” in sliver clothing approach a group of men dressed in black suits and sunglasses",

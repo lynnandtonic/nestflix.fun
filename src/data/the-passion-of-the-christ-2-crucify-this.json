@@ -10,7 +10,7 @@
   "runtime": "2h 22m",
   "starring": "Chris Tucker, Jim Caviziel",
   "director": "Mel Gibson",
-  "labels": "action, comedy",
+  "labels": [ "action", "comedy" ],
   "credit": "20th Television",
   "altHero": "Jesus driving a convertible with Chris Tucker in shotgun",
   "alt1": "the convertible makes a big jump in front of an explosion",

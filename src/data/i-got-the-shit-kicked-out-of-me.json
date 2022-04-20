@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "5 seasons",
   "starring": "Mary Rich",
-  "labels": "reality, game show",
+  "labels": [ "reality", "game show" ],
   "credit": "Universal Pictures",
   "altHero": "colorful host Mary Rich talks with Cassius Green",
   "alt1": "Mary Rich with another contestant who is soaking wet",

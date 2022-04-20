@@ -8,7 +8,7 @@
   "rating": "TV-PG",
   "runtime": "2 seasons",
   "starring": "Johnny Patrick",
-  "labels": "game show",
+  "labels": [ "game show" ],
   "credit": "CBS Enterprises",
   "altHero": "Johnny Patrick on a game show set with a giant map of the U.S. and Laura Petrie is the current contestant",
   "alt1": "Johnny Patrick laughs while talking to Laura",

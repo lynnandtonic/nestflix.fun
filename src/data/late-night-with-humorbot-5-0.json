@@ -8,7 +8,7 @@
   "rating": "TV-14",
   "runtime": "8 seasons",
   "starring": "Humorbot 5.0",
-  "labels": "talk show",
+  "labels": [ "talk show" ],
   "credit": "20th Century Fox Television",
   "altHero": "Humorbot at his talk show desk",
   "alt1": "Humorbot interviews Calculon",

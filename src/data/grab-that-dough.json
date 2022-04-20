@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "3 seasons",
   "starring": "Guy Corbin, Tiffany Blane",
-  "labels": "game show",
+  "labels": [ "game show" ],
   "credit": "Buena Vista Television",
   "altHero": "host Guy Corbin",
   "alt1": "game show set with two teams of four facing off at podiums",

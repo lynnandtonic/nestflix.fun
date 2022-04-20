@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "5 seasons",
   "creator": "Garion Brothers",
-  "labels": "drama, sci-fi",
+  "labels": [ "drama", "sci-fi" ],
   "credit": "Comedy Central",
   "altHero": "a woman in uniform and bathed in blue light points a gun offscreen",
   "alt1": "Joshua and Barbara hide from two people in full lab jumpsuits",

@@ -9,7 +9,7 @@
   "runtime": "1 season",
   "director": "Craig Tucker",
   "studio": "South Park Elementary Closed Circuit Television",
-  "labels": "reality",
+  "labels": [ "reality" ],
   "credit": "Comedy Central",
   "altHero": "a happy dog wearing a fez",
   "alt1": "a closeup of a dog’s snout",

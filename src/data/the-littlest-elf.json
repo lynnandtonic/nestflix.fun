@@ -8,7 +8,7 @@
   "rating": "G",
   "runtime": "1h 34m",
   "director": "Gustav Sebald",
-  "labels": "family, animation",
+  "labels": [ "family", "animation" ],
   "credit": "DreamWorks Pictures",
   "altHero": "a CGI elf smiles big",
   "alt1": "a storybook-like village of tree homes",

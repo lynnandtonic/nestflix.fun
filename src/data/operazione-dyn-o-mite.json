@@ -9,7 +9,7 @@
   "runtime": "2h 26m",
   "starring": "Rick Dalton, Margaret Lee",
   "director": "Antonio Margheriti",
-  "labels": "action, espionage",
+  "labels": [ "action", "espionage" ],
   "credit": "Columbia Pictures",
   "altHero": "Rick Dalton driving a car",
   "alt1": "Dalton grins while driving",

@@ -10,7 +10,7 @@
   "runtime": "5 seasons",
   "starring": "Charlie Pollock, Marta Reiman",
   "studio": "AMC",
-  "labels": "drama, crime",
+  "labels": [ "drama", "crime" ],
   "credit": "CBS Television",
   "altHero": "Charlie Pollock walks across a bridge with the city in the background",
   "alt1": "Pollack holds another man against a chain link fence",

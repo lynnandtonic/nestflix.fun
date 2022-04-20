@@ -9,7 +9,7 @@
   "rating": "TV-MA",
   "runtime": "3 seasons",
   "starring": "Jaylah Vivienne",
-  "labels": "reality, competition",
+  "labels": [ "reality", "competition" ],
   "credit": "Warner Bros. Television",
   "altHero": "host Jaylah Vivienne",
   "alt1": "shirtless Jamie Tartt talking to the camera with an island background",

@@ -9,7 +9,7 @@
   "runtime": "6h 5m",
   "starring": "Peppy Miller, George Valentin",
   "studio": "Kinograph Studios",
-  "labels": "comedy, romance",
+  "labels": [ "comedy", "romance" ],
   "credit": "Warner Bros. Pictures",
   "altHero": "Peppy Miller",
   "alt1": "Guardian Angel",

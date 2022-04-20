@@ -10,7 +10,7 @@
   "runtime": "1h 54m",
   "starring": "Jerry Skyler",
   "director": "Jerry Skyler",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "Netflix",
   "altHero": "Mista Griggins, sharply dressed, in front of an electrical panel",
   "alt1": "Mista Griggins looks at a topographical map illuminated on glass",

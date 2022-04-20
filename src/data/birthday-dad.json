@@ -11,7 +11,7 @@
   "starring": "Mr. Peanutbutter",
   "director": "Flea Daniels, Karen Katata",
   "studio": "MBN",
-  "labels": "drama",
+  "labels": [ "drama" ],
   "credit": "Netflix",
   "altHero": "Mr. Peanutbutter (a golden retriever) wears a scarf and stands atop empty bleachers",
   "alt1": "a birthday card",

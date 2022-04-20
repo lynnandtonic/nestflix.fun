@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "3 seasons",
   "starring": "Clancy Wiggum, Lenny Leonard, Carl Carlson",
-  "labels": "reality, crime",
+  "labels": [ "reality", "crime" ],
   "credit": "20th Television",
   "altHero": "Chief Wiggum talks on his radio outside his police car",
   "alt1": "Chief Wiggum talks down a man standing on the ledge of a building",

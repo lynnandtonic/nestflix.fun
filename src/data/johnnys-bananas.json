@@ -10,7 +10,7 @@
   "runtime": "2 seasons",
   "starring": "Johnny Chase, Andrew Dice Clay",
   "director": "Billy Walsh",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "HBO Entertainment",
   "altHero": "Johnny and Ronald are anthropomorphic cartoon monkeys",
   "alt1": "after a fender bender with Johnny, the other driver (an orangutan) angrily jumps on the top of his Jeep",

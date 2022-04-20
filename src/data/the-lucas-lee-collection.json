@@ -10,7 +10,7 @@
   "runtime": "8h 24m",
   "starring": "Lucas Lee",
   "studio": "Action Picture Classics, Oscar Wright Studios",
-  "labels": "collection, action",
+  "labels": [ "collection, action" ],
   "credit": "Universal Pictures",
   "layout": "movie.pug",
   "submovies": 4,

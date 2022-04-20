@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "3 seasons",
   "starring": "Chef Elzar",
-  "labels": "reality, cooking",
+  "labels": [ "reality", "cooking" ],
   "credit": "20th Century Fox Television",
   "altHero": "Elzar and a Neptunian slug",
   "alt1": "Elzar doing prep",

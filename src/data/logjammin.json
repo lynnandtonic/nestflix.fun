@@ -10,7 +10,7 @@
   "runtime": "54m",
   "starring": "Karl Hungus, Bunny La Joya",
   "director": "Jackie Treehorn",
-  "labels": "adult",
+  "labels": [ "adult" ],
   "credit": "Working Title Films",
   "altHero": "Karl and Bunny",
   "alt1": "Karl drives a convertible",

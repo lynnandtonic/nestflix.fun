@@ -10,7 +10,7 @@
   "runtime": "139 episodes",
   "starring": "Blade Ranger, Nick Lopez",
   "producer": "Rick Rotor",
-  "labels": "reality, crime",
+  "labels": [ "reality", "crime" ],
   "credit": "Walt Disney Studios",
   "altHero": "two police choppers flying between skyscrapers",
   "alt1": "two choppers talking with a red sports car",

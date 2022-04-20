@@ -8,7 +8,7 @@
   "parentYear": "1989-1998",
   "rating": "PG-13",
   "runtime": "1h 23m",
-  "labels": "sci-fi",
+  "labels": [ "sci-fi" ],
   "credit": "Columbia Pictures Television",
   "altHero": "a scientist in a futuristic suit with gloves and goggles, laughing maniacally at the sky",
   "layout": "movie.pug",

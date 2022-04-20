@@ -10,7 +10,7 @@
   "runtime": "2 seasons",
   "starring": "Tobias Funke",
   "director": "Carl Weathers",
-  "labels": "reality, documentary",
+  "labels": [ "reality", "documentary" ],
   "credit": "20th Television, Netflix",
   "altHero": "Tobias Funke as George Bluth hiding out in a dark crawl space with a lantern",
   "alt1": "George Bluth escaping the hospital by ladder",

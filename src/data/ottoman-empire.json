@@ -9,7 +9,7 @@
   "rating": "TV-G",
   "runtime": "4 seasons",
   "starring": "Johnny, Randy",
-  "labels": "reality, diy",
+  "labels": [ "reality", "diy" ],
   "credit": "Disney Television Animation",
   "altHero": "rooster brothers Johnny and Randy holding tools",
   "alt1": "Johnny and Randy present an ottoman to a displeased Flintheart Glomgold",

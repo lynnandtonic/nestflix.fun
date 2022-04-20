@@ -11,7 +11,7 @@
   "starring": "Mr. Peanutbutter",
   "director": "J.D. Salinger",
   "studio": "MBN",
-  "labels": "game show",
+  "labels": [ "game show" ],
   "credit": "Netflix",
   "altHero": "an obnoxious game show set with a giant golden retriever head (Mr. Peanutbutter) with dollar signs for eyes",
   "alt1": "Mr. Peanutbutter reads from a card",

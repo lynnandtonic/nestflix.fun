@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "10 seasons",
   "studio": "Clotho Productions",
-  "labels": "comedy",
+  "labels": [ "comedy" ],
   "credit": "Warner Bros. Television",
   "altHero": "a man and woman in a trendy Friends-like apartment",
   "alt1": "the woman gives the man a look",

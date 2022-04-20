@@ -9,7 +9,7 @@
   "runtime": "1h 12m",
   "starring": "June Bellamy",
   "studio": "I&S Studios",
-  "labels": "comedy, animation",
+  "labels": [ "comedy", "animation" ],
   "credit": "20th Television",
   "altHero": "Itchy ties Scratchy to some railroad tracks",
   "alt1": "Itchy goes to Engineering School",

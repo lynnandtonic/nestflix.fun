@@ -9,7 +9,7 @@
   "rating": "TV-PG",
   "runtime": "2 seasons",
   "starring": "Cher, Walt Tenor, Fernanda Lima",
-  "labels": "drama, crime",
+  "labels": [ "drama", "crime" ],
   "credit": "20th Century Fox",
   "altHero": "Honey and the Beaze running down the street",
   "alt1": "Honey Garret passes a tousled Mack Beasley",

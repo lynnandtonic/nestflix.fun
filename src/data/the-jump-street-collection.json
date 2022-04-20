@@ -9,7 +9,7 @@
   "rating": "R",
   "runtime": "2h 4m",
   "starring": "Jonah Hill, Channing Tatum, Ice Cube",
-  "labels": "action, comedy, crime",
+  "labels": [ "action", "comedy, crime" ],
   "credit": "MGM Pictures",
   "altHero": "Schmidt and Jenko in pilot gear",
   "alt1": "23 Jump Street: Medical School",

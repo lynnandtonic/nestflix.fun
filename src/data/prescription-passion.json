@@ -9,7 +9,7 @@
   "rating": "TV-14",
   "runtime": "5 seasons",
   "starring": "Evan Greer",
-  "labels": "soap opera, medical drama",
+  "labels": [ "soap opera", "medical drama" ],
   "credit": "NBCUniversal Television",
   "altHero": "Dr. Brock Sterling (Greer) in scrubs",
   "alt1": "Nurse Marie looks hopeful, an x-ray illuminated behind her",
