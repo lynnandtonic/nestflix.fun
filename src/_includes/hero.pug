@@ -34,7 +34,6 @@ section.entry.hero
         small.meta #[strong As seen in:] #[a(href='/search?search=' + parent) !{parent}] (!{parentYear})
             if parent2
                 span &nbsp;and #[a(href='/search?search=' + parent2) !{parent2}] (!{parent2Year})
-        //- button Details
     div.entry-image
         if heroPosition
             img(src='/img/' + slug + '.jpg' alt=altHero class=heroPosition)
