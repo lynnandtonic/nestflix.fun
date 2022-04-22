@@ -8,8 +8,14 @@
   "parentYear": "2011",
   "rating": "R",
   "runtime": "1h 38m",
-  "starring": [ "Anna Paquin", "Kristen Bell" ],
-  "labels": [ "horror", "slasher" ],
+  "starring": [
+    "Anna Paquin",
+    "Kristen Bell"
+  ],
+  "labels": [
+    "horror",
+    "slasher"
+  ],
   "credit": "Universal Pictures",
   "altHero": "Anna Paquin and Kristen Bell sit on a couch",
   "alt1": "Paquin looks at Bell",

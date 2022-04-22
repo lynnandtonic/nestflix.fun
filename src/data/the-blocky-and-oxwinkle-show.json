@@ -8,7 +8,10 @@
   "parentYear": "1991-2005",
   "rating": "TV-Y",
   "runtime": "10 seasons",
-  "labels": [ "kids" ],
+  "labels": [
+    "kids",
+    "animation"
+  ],
   "credit": "Nickelodeon Animation Studio",
   "altHero": "Blocky, a character with a cubed head, and Oxwinkle, a buffalo, are riding in an airplane",
   "alt1": "Uri and Svetana stand in the street next to a bomb",
@@ -19,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }

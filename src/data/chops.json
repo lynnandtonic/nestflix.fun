@@ -8,10 +8,17 @@
   "parentYear": "2014",
   "rating": "TV-PG",
   "runtime": "139 episodes",
-  "starring": [ "Blade Ranger", "Nick Lopez" ],
+  "starring": [
+    "Blade Ranger",
+    "Nick Lopez"
+  ],
   "creator": "Rick Rotor",
   "producer": "Paul Rudderwin",
-  "labels": [ "action", "crime" ],
+  "labels": [
+    "action",
+    "crime",
+    "buddy cops"
+  ],
   "credit": "Walt Disney Studios",
   "altHero": "two police choppers flying between skyscrapers",
   "alt1": "two choppers talking with a red sports car",
@@ -22,7 +29,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "action tv",
     "new on nestflix"
   ]

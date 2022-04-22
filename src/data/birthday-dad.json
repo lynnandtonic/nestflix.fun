@@ -8,10 +8,18 @@
   "parentYear": "2014-2020",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": [ "Mr. Peanutbutter" ],
-  "director": [ "Flea Daniels", "Karen Katata" ],
+  "starring": [
+    "Mr. Peanutbutter"
+  ],
+  "director": [
+    "Flea Daniels",
+    "Karen Katata"
+  ],
   "studio": "MBN",
-  "labels": [ "drama" ],
+  "labels": [
+    "drama",
+    "supernatural"
+  ],
   "credit": "Netflix",
   "altHero": "Mr. Peanutbutter (a golden retriever) wears a scarf and stands atop empty bleachers",
   "alt1": "a birthday card",
@@ -22,7 +30,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "tv dramas"
   ]
 }

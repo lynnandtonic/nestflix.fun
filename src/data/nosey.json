@@ -8,8 +8,12 @@
   "parentYear": "1993-1996",
   "rating": "TV-G",
   "runtime": "5 seasons",
-  "starring": [ "Nosey" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Nosey"
+  ],
+  "labels": [
+    "daytime talk show"
+  ],
   "credit": "MTV Networks",
   "altHero": "Nosey talks into a microphone in front of her studio audience",
   "alt1": "Nosey introduces Rocko and Heffer",
@@ -20,7 +24,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "talk shows"
   ]
 }

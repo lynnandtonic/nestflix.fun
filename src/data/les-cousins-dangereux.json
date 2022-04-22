@@ -8,8 +8,13 @@
   "parentYear": "2003-2006",
   "rating": "R",
   "runtime": "1h 47m",
-  "director": [ "Francois Sauterne", "Gerard Sauterne" ],
-  "labels": [ "drama", "romance" ],
+  "director": [
+    "Francois Sauterne",
+    "Gerard Sauterne"
+  ],
+  "labels": [
+    "romantic drama"
+  ],
   "credit": "20th Television, Netflix",
   "altHero": "a teen boy gazes at his female cousin",
   "layout": "movie.pug",

@@ -7,8 +7,13 @@
   "parentYear": "1988",
   "rating": "TV-Y",
   "runtime": "1 season",
-  "starring": [ "Frank Cross", "Roy Brocksmith" ],
-  "labels": [ "kids" ],
+  "starring": [
+    "Frank Cross",
+    "Roy Brocksmith"
+  ],
+  "labels": [
+    "kids"
+  ],
   "credit": "Paramount Pictures",
   "altHero": "a man in a dog costume outside a big dog house labeled “Frisbee”",
   "alt1": "Frisbee waves",
@@ -19,7 +24,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }

@@ -7,9 +7,15 @@
   "parentYear": "2016-Present",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": [ "Franklin Montague", "Nathan Wielder" ],
+  "starring": [
+    "Franklin Montague",
+    "Nathan Wielder"
+  ],
   "studio": "Black American Network",
-  "labels": [ "talk show", "politics" ],
+  "labels": [
+    "talk show",
+    "politics"
+  ],
   "credit": "20th Television",
   "altHero": "talk show host Franklin Montague",
   "alt1": "rapper Paper Boi on the show",
@@ -20,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "talk shows"
   ]
 }

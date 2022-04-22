@@ -8,9 +8,13 @@
   "parentYear": "2006-2013",
   "rating": "TV-G",
   "runtime": "1 episode",
-  "starring": [ "John McEnroe" ],
+  "starring": [
+    "John McEnroe"
+  ],
   "studio": "NBC",
-  "labels": [ "game show" ],
+  "labels": [
+    "game show"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "woman in green dress struggles to hold up a heavy suitcase",
   "alt1": "contestant with John McEnroe",
@@ -21,7 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "game shows"
   ]
 }

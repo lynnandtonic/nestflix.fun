@@ -8,10 +8,19 @@
   "parentYear": "2009-2015",
   "rating": "R",
   "runtime": "1h 34m",
-  "starring": [ "Mariah Gutterman", "Alexandro Ruebens", "Brank Pranai" ],
-  "director": [ "Roberto Schrabriguez" ],
+  "starring": [
+    "Mariah Gutterman",
+    "Alexandro Ruebens",
+    "Brank Pranai"
+  ],
+  "director": [
+    "Roberto Schrabriguez"
+  ],
   "studio": "Martela Estrada Filme Internacional",
-  "labels": [ "horror" ],
+  "labels": [
+    "horror",
+    "monsters"
+  ],
   "credit": "Sony Pictures Television",
   "altHero": "a green gremlin peeks out of a wooden box",
   "alt1": "an old bearded man with a pipe",

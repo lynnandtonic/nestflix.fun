@@ -4,7 +4,7 @@ section.entry.hero
         small.meta.meta-details
             span !{rating}
             span !{runtime}
-            span !{tags[1]}
+            span.category !{tags[1]}
             span.labels
                 each item in labels
                     span: a(href='/search?search=' + item)= item

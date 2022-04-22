@@ -8,9 +8,16 @@
   "parentYear": "2006-2013",
   "rating": "TV-PG",
   "runtime": "6 seasons",
-  "starring": [ "John McEnroe", "D’Fwan", "Jenna Maroney" ],
+  "starring": [
+    "John McEnroe",
+    "D’Fwan",
+    "Jenna Maroney"
+  ],
   "studio": "NBC",
-  "labels": [ "reality", "competition", "singing" ],
+  "labels": [
+    "reality competition",
+    "singing"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "a young boy sings in front of an American flag backdrop",
   "alt1": "a young girl looks tiny singing on a giant stage",
@@ -21,7 +28,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality competition shows"
   ]
 }

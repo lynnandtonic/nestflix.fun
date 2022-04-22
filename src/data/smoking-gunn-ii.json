@@ -8,9 +8,19 @@
   "parentYear": "1991",
   "rating": "R",
   "runtime": "1h 53m",
-  "starring": [ "Nick Lang", "Kelly Kalas", "D.J. Caruso", "Bubba Rubenstein" ],
-  "director": [ "David Sameth" ],
-  "labels": [ "action" ],
+  "starring": [
+    "Nick Lang",
+    "Kelly Kalas",
+    "D.J. Caruso",
+    "Bubba Rubenstein"
+  ],
+  "director": [
+    "David Sameth"
+  ],
+  "labels": [
+    "action",
+    "adventure"
+  ],
   "credit": "Universal Pictures",
   "altHero": "Nick Lang as Joe Gunn",
   "alt1": "a tropical background and a ninja ready to attack",

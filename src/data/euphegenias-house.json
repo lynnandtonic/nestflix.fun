@@ -8,10 +8,15 @@
   "parentYear": "1993",
   "rating": "TV-Y",
   "runtime": "4 seasons",
-  "starring": [ "Daniel Hillard" ],
+  "starring": [
+    "Daniel Hillard"
+  ],
   "creator": "Daniel Hillard",
   "studio": "KTVU",
-  "labels": [ "kids", "variety" ],
+  "labels": [
+    "kids",
+    "variety show"
+  ],
   "credit": "20th Century Fox",
   "altHero": "Euphegenia, a nice elderly English woman, sits in her living room looking at a globe with a chimp puppet",
   "alt1": "Euphegenia talks with the chimp puppet, Kovacs",
@@ -22,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids variety shows"
   ]
 }

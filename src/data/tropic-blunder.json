@@ -8,9 +8,21 @@
   "parentYear": "2008",
   "rating": "R",
   "runtime": "2h 45m",
-  "starring": [ "Tugg Speedman", "Kirk Lazarus", "Jeff Portnoy", "Kevin Sandusky", "Alpa Chino" ],
-  "director": [ "Damien Cockburn" ],
-  "labels": [ "action", "war" ],
+  "starring": [
+    "Tugg Speedman",
+    "Kirk Lazarus",
+    "Jeff Portnoy",
+    "Kevin Sandusky",
+    "Alpa Chino"
+  ],
+  "director": [
+    "Damien Cockburn"
+  ],
+  "labels": [
+    "war drama",
+    "action",
+    "oscar winner"
+  ],
   "credit": "DreamWorks Pictures",
   "altHero": "Tugg Speedman, dirty and torn from war, raises his arms in exhaustion as the jungle behind him burns",
   "alt1": "American soldiers walking through the Vietnam jungle",

@@ -9,7 +9,9 @@
   "rating": "TV-14",
   "runtime": "1 season",
   "studio": "Interdimensional Cable",
-  "labels": [ "reality" ],
+  "labels": [
+    "reality"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "Stealy, a long-armed man wearing a vest with many pockets, stands in front of an office cubicle",
   "alt1": "Stealy putting objects in his pockets",
@@ -20,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality tv"
   ]
 }

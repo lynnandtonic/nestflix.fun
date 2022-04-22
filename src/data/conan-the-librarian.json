@@ -8,9 +8,14 @@
   "parentYear": "1989",
   "rating": "PG-13",
   "runtime": "54m",
-  "starring": [ "Roger Callard" ],
+  "starring": [
+    "Roger Callard"
+  ],
   "studio": "Channel 62",
-  "labels": [ "action", "fantasy" ],
+  "labels": [
+    "action",
+    "fantasy"
+  ],
   "credit": "Orion Pictures",
   "altHero": "Concan the Barbarian in a library",
   "alt1": "Conan lifts up and scowls at a frightened library patron",

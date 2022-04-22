@@ -8,16 +8,23 @@
   "parentYear": "2003",
   "rating": "TV-PG",
   "runtime": "7 seasons",
-  "starring": [ "Dickie Roberts" ],
-  "director": [ "Sam Weisman" ],
+  "starring": [
+    "Dickie Roberts"
+  ],
+  "director": [
+    "Sam Weisman"
+  ],
   "studio": "NBC",
-  "labels": [ "sitcom", "family" ],
+  "labels": [
+    "sitcom",
+    "family"
+  ],
   "credit": "Paramount Pictures",
   "altHero": "closeup of Dickie Roberts as a child",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "family sitcoms"
   ]
 }

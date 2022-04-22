@@ -8,13 +8,15 @@
   "parentYear": "1999-Present",
   "rating": "TV-PG",
   "runtime": "1 season",
-  "labels": [ "crime" ],
+  "labels": [
+    "crime drama"
+  ],
   "credit": "20th Television",
   "altHero": "a man in a beanie points a banana at a scared cop with arms raised",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "crime shows"
   ]
 }

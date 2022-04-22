@@ -7,7 +7,10 @@
   "parentYear": "2015-2018",
   "rating": "TV-MA",
   "runtime": "15 seasons",
-  "labels": [ "reality", "competition", "dating" ],
+  "labels": [
+    "reality competition",
+    "dating"
+  ],
   "credit": "Lifetime",
   "altHero": "a row of women in evening dresses",
   "alt1": "Adam Cromwell and Graham",
@@ -18,7 +21,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality dating shows"
   ]
 }

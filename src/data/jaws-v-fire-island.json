@@ -8,7 +8,11 @@
   "parentYear": "1999-Present",
   "rating": "R",
   "runtime": "2h 3m",
-  "labels": [ "horror", "monster" ],
+  "labels": [
+    "horror",
+    "monsters",
+    "animals attack"
+  ],
   "credit": "20th Television",
   "altHero": "two men float at the surface as a giant shark looks up at them from below",
   "layout": "movie.pug",

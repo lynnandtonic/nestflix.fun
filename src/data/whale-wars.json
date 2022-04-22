@@ -8,8 +8,15 @@
   "parentYear": "1997-Present",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": [ "Paul Watson", "Stan Marsh" ],
-  "labels": [ "reality" ],
+  "starring": [
+    "Paul Watson",
+    "Stan Marsh"
+  ],
+  "labels": [
+    "reality",
+    "animals",
+    "boats"
+  ],
   "credit": "Comedy Central",
   "altHero": "a ship in the ocean",
   "alt1": "Paul Watson on his ship",
@@ -20,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "animals on tv"
   ]
 }

@@ -8,10 +8,17 @@
   "parentYear": "2017-2021",
   "rating": "R",
   "runtime": "2h 3m",
-  "starring": [ "Drake Mallard" ],
-  "director": [ "Alistair Boorswan" ],
+  "starring": [
+    "Drake Mallard"
+  ],
+  "director": [
+    "Alistair Boorswan"
+  ],
   "studio": "McDuck Pictures",
-  "labels": [ "action", "superheroes" ],
+  "labels": [
+    "action",
+    "superheroes"
+  ],
   "credit": "Disney Television Animation",
   "altHero": "Commissioner Haggard pleads with Darkwing on the roof",
   "alt1": "the city, still illuminated",

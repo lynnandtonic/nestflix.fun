@@ -8,7 +8,10 @@
   "parentYear": "2009-2015",
   "rating": "TV-14",
   "runtime": "6 episodes",
-  "labels": [ "comedy" ],
+  "labels": [
+    "comedy",
+    "british TV"
+  ],
   "credit": "Sony Pictures Television",
   "altHero": "Bath abbey",
   "alt1": "four friends sit in a living room having tea",
@@ -19,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "british tv"
   ]
 }

@@ -8,8 +8,14 @@
   "parentYear": "1981",
   "rating": "R",
   "runtime": "1h 33m",
-  "director": [ "Mel Brooks" ],
-  "labels": [ "comedy" ],
+  "director": [
+    "Mel Brooks"
+  ],
+  "labels": [
+    "comedy",
+    "history",
+    "space"
+  ],
   "credit": "Universal Pictures",
   "altHero": "vikings with hands on their hearts",
   "alt1": "Hitler ice skating",

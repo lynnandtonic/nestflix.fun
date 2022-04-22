@@ -8,9 +8,17 @@
   "parentYear": "2001",
   "rating": "R",
   "runtime": "1h 43m",
-  "starring": [ "Matt Damon", "Ben Affleck", "Scott William Winters" ],
-  "director": [ "Gus Van Sant" ],
-  "labels": [ "drama" ],
+  "starring": [
+    "Matt Damon",
+    "Ben Affleck",
+    "Scott William Winters"
+  ],
+  "director": [
+    "Gus Van Sant"
+  ],
+  "labels": [
+    "drama"
+  ],
   "credit": "Miramax Films",
   "altHero": "Will (Matt Damon) holds a gun and Chuckie (Ben Afflec) makes a squinty face",
   "alt1": "Chuckie holds his fists up to fight",

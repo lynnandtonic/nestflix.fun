@@ -8,10 +8,20 @@
   "parentYear": "1999-2007",
   "rating": "R",
   "runtime": "2h 4m",
-  "starring": [ "Jonathan LaPaglia", "Daniel Baldwin", "George Pogatsia", "Lenny Ligotti" ],
-  "director": [ "Morgan Yam" ],
+  "starring": [
+    "Jonathan LaPaglia",
+    "Daniel Baldwin",
+    "George Pogatsia",
+    "Lenny Ligotti"
+  ],
+  "director": [
+    "Morgan Yam"
+  ],
   "creator": "Christopher Moltisanti",
-  "labels": [ "slasher", "mobster" ],
+  "labels": [
+    "slasher",
+    "mobsters"
+  ],
   "credit": "HBO Entertainment",
   "altHero": "a bloody, stitched up man",
   "alt1": "a mob boss in a bathrobe meets with his guys in a basement",

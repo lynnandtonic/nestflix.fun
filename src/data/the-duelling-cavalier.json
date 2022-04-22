@@ -8,10 +8,17 @@
   "parentYear": "1952",
   "rating": "PG",
   "runtime": "1h 23m",
-  "starring": [ "Don Lockwood", "Lina Lamont" ],
-  "director": [ "Roscoe Dexter" ],
+  "starring": [
+    "Don Lockwood",
+    "Lina Lamont"
+  ],
+  "director": [
+    "Roscoe Dexter"
+  ],
   "studio": "Monumental Pictures",
-  "labels": [ "drama", "romance" ],
+  "labels": [
+    "romantic drama"
+  ],
   "credit": "Metro-Goldwyn-Mayer",
   "altHero": "Lina Lamont as Yvonne in French dress with Don Lockwood in the background as the courting Count Pierre",
   "alt1": "Yvonne walks with a handful of other women, also in elaborate dress",

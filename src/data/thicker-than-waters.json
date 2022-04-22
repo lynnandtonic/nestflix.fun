@@ -8,8 +8,13 @@
   "parentYear": "1989-Present",
   "rating": "TV-G",
   "runtime": "4 seasons",
-  "starring": [ "Digby Sheridan" ],
-  "labels": [ "sitcom" ],
+  "starring": [
+    "Digby Sheridan"
+  ],
+  "labels": [
+    "sitcom",
+    "family"
+  ],
   "credit": "20th Television",
   "altHero": "a family portrait of the Waters: mom, dad, young son, and teen daughter",
   "alt1": "Patrick Waters the dentist is sprayed with water by his son",
@@ -20,7 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "family sitcoms"
   ]
 }

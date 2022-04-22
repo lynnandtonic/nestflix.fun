@@ -7,8 +7,13 @@
   "parentYear": "1997-Present",
   "rating": "PG-13",
   "runtime": "1h 14m",
-  "starring": [ "Rob Schneider" ],
-  "labels": [ "comedy" ],
+  "starring": [
+    "Rob Schneider"
+  ],
+  "labels": [
+    "comedy",
+    "metamorphosis"
+  ],
   "credit": "Comedy Central",
   "altHero": "Rob Schneider as a giant stapler, sitting on a desk with papers in his lap",
   "alt1": "stapler Rob’s face smashed into the papers",

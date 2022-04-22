@@ -7,9 +7,18 @@
   "parentYear": "1999-2013",
   "rating": "M-14",
   "runtime": "2h 12m",
-  "starring": [ "Calculon", "Monique" ],
-  "director": [ "Directing Unit 4" ],
-  "labels": [ "action", "adventure", "robots" ],
+  "starring": [
+    "Calculon",
+    "Monique"
+  ],
+  "director": [
+    "Directing Unit 4"
+  ],
+  "labels": [
+    "action",
+    "adventure",
+    "robots"
+  ],
   "credit": "20th Century Fox Television",
   "altHero": "Calculon raises his hand and furrows his robot brow",
   "alt1": "a sexy robot points a gun in a Bond-like hazy intro scene",

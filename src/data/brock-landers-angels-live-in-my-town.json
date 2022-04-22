@@ -8,10 +8,19 @@
   "parentYear": "1997",
   "rating": "Unrated",
   "runtime": "1h 35m",
-  "starring": [ "Dirk Diggler", "Reed Rothchild" ],
-  "director": [ "Jack Horner" ],
+  "starring": [
+    "Dirk Diggler",
+    "Reed Rothchild"
+  ],
+  "director": [
+    "Jack Horner"
+  ],
   "studio": "The Colonel James",
-  "labels": [ "adult", "espionage" ],
+  "labels": [
+    "adult",
+    "espionage",
+    "buddy cops"
+  ],
   "credit": "New Line Cinema",
   "altHero": "Brock Landers and Chest Rockwell, in audacious 1970s suits, walk toward the camera",
   "alt1": "Landers speaks to a woman at a bar",

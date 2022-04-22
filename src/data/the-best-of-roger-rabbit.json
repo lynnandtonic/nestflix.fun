@@ -7,10 +7,20 @@
   "parentYear": "1988",
   "rating": "PG",
   "runtime": "34m",
-  "starring": [ "Roger Rabbit", "Baby Herman", "Jessica Rabbit" ],
-  "director": [ "R.K. Maroon" ],
+  "starring": [
+    "Roger Rabbit",
+    "Baby Herman",
+    "Jessica Rabbit"
+  ],
+  "director": [
+    "R.K. Maroon"
+  ],
   "studio": "Maroon Cartoons",
-  "labels": [ "comedy", "animation" ],
+  "labels": [
+    "collection",
+    "comedy",
+    "animation"
+  ],
   "credit": "Touchstone Pictures",
   "altHero": "Roger Rabit",
   "alt1": "Babes in Arms",

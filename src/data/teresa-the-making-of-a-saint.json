@@ -8,9 +8,19 @@
   "parentYear": "2008",
   "rating": "NC-17",
   "runtime": "1h 56m",
-  "starring": [ "Sophie Maes", "Sir Ben Queensley", "Dame Peggy Aitken", "Tod Rivera" ],
-  "director": [ "Mel Cohen" ],
-  "labels": [ "drama", "biography" ],
+  "starring": [
+    "Sophie Maes",
+    "Sir Ben Queensley",
+    "Dame Peggy Aitken",
+    "Tod Rivera"
+  ],
+  "director": [
+    "Mel Cohen"
+  ],
+  "labels": [
+    "historical drama",
+    "biography"
+  ],
   "credit": "Paramount Pictures",
   "altHero": "Sophie Maes, a young beautiful white woman, as Teresa dressed in a nun’s habit",
   "alt1": "priest touches the face of Teresa through an iron gate",

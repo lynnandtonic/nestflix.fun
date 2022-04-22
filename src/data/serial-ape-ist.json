@@ -7,8 +7,14 @@
   "parentYear": "2007-2019",
   "rating": "R",
   "runtime": "1h 24m",
-  "starring": [ "Penny Hofstadter (as Penny)" ],
-  "labels": [ "horror", "monster" ],
+  "starring": [
+    "Penny Hofstadter (as Penny)"
+  ],
+  "labels": [
+    "horror",
+    "monsters",
+    "metamorphosis"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "Penny screams in the shower as a gorilla attacks her with an axe",
   "layout": "movie.pug",

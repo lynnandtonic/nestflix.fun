@@ -8,9 +8,15 @@
   "rating": "TV-PG",
   "runtime": "1 season",
   "studio": "Food TV",
-  "starring": [ "Dev Shah", "DJ Sweet Treats" ],
+  "starring": [
+    "Dev Shah",
+    "DJ Sweet Treats"
+  ],
   "producer": "Jeff Pastore",
-  "labels": [ "reality", "competition", "cooking" ],
+  "labels": [
+    "reality competition",
+    "cooking"
+  ],
   "credit": "Netflix",
   "altHero": "Host Dev Shah on the set",
   "alt1": "Dev Shah on set with two competing baking teams",
@@ -21,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality competition shows"
   ]
 }

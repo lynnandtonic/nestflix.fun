@@ -7,9 +7,21 @@
   "parentYear": "2009-2015",
   "rating": "TV-Y7",
   "runtime": "3 seasons",
-  "starring": [ "Andy Dwyer", "Perd Hapley", "Leslie Knope", "Ron Swanson", "April Ludgate-Karate-Dwyer", "Ben Wyatt", "Gary Gergrench", "Donna Meagle" ],
+  "starring": [
+    "Andy Dwyer",
+    "Perd Hapley",
+    "Leslie Knope",
+    "Ron Swanson",
+    "April Ludgate-Karate-Dwyer",
+    "Ben Wyatt",
+    "Gary Gergrench",
+    "Donna Meagle"
+  ],
   "creator": "Andy Dwyer",
-  "labels": [ "kids", "variety" ],
+  "labels": [
+    "kids",
+    "variety show"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "Andy Dwyer as Johnny Karate",
   "alt1": "Donna Meagle as the Chief talking with FBI agent, Burt Macklin",
@@ -20,7 +32,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids variety shows"
   ]
 }

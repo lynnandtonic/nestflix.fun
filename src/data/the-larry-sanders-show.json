@@ -8,8 +8,13 @@
   "parentYear": "1992-1998",
   "rating": "TV-PG",
   "runtime": "10 seasons",
-  "starring": [ "Larry Sanders", "Hank Kingsley" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Larry Sanders",
+    "Hank Kingsley"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
   "credit": "20th Television",
   "altHero": "Larry Sanders at his talk show desk",
   "alt1": "Sanders with sidekick Hank Kingsley",
@@ -20,7 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "late night talk shows"
   ]
 }

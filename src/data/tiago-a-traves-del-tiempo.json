@@ -8,9 +8,15 @@
   "parentYear": "2014-2019",
   "rating": "TV-14",
   "runtime": "2 seasons",
-  "starring": [ "Rogelio De La Vega", "Adriana Chavando" ],
+  "starring": [
+    "Rogelio De La Vega",
+    "Adriana Chavando"
+  ],
   "studio": "Telemasivo Studios",
-  "labels": [ "telenovela" ],
+  "labels": [
+    "telenovela",
+    "time travel"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "Tiago as a Frenchman during Marie Antoinette’s reign",
   "alt1": "Tiago raises a brick at the Stonewall rebellion",
@@ -21,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "telenovelas"
   ]
 }

@@ -8,9 +8,14 @@
   "parentYear": "1991-2005",
   "rating": "MGR",
   "runtime": "1h 54m",
-  "director": [ "Jon Ho" ],
+  "director": [
+    "Jon Ho"
+  ],
   "studio": "Rosenmount Pictures",
-  "labels": [ "horror", "monster" ],
+  "labels": [
+    "horror",
+    "monsters"
+  ],
   "credit": "Nickelodeon Animation Studio",
   "altHero": "Reptar, a giant t-rex, walks in a harbor toward the city",
   "alt1": "Dactar the pterodactyl on strings knocks a building over",

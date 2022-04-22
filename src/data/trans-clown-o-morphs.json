@@ -8,7 +8,11 @@
   "parentYear": "1989-Present",
   "rating": "TV-Y7",
   "runtime": "2 seasons",
-  "labels": [ "kids", "animation" ],
+  "labels": [
+    "kids",
+    "animation",
+    "robots"
+  ],
   "credit": "20th Television",
   "altHero": "a flying clown robot with helicopter blades on his head",
   "alt1": "a transformed blue car",
@@ -19,7 +23,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }

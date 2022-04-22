@@ -7,8 +7,13 @@
   "parentYear": "2011-Present",
   "rating": "R",
   "runtime": "1h 54m",
-  "starring": [ "Linda Blair" ],
-  "labels": [ "horror", "monster" ],
+  "starring": [
+    "Linda Blair"
+  ],
+  "labels": [
+    "horror",
+    "monsters"
+  ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "a closeup of an animatronic shark’s head",
   "layout": "movie.pug",

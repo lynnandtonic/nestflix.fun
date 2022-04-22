@@ -9,7 +9,10 @@
   "rating": "R",
   "runtime": "2h 3m",
   "studio": "A Good Enough Picture",
-  "labels": [ "horror", "zombies" ],
+  "labels": [
+    "horror",
+    "zombies"
+  ],
   "credit": "Disney Television Animation",
   "altHero": "a frightened Trixandra grabs Chadley’s shoulder, but he is also scared",
   "layout": "movie.pug",

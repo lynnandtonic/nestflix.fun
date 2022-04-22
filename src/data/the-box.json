@@ -8,8 +8,12 @@
   "parentYear": "2011-2017",
   "rating": "TV-14",
   "runtime": "1 season",
-  "starring": [ "Matt LeBlanc" ],
-  "labels": [ "game show" ],
+  "starring": [
+    "Matt LeBlanc"
+  ],
+  "labels": [
+    "game show"
+  ],
   "credit": "Showtime",
   "altHero": "a row of large glass boxes, illuminated in different colors, each with a person inside",
   "alt1": "Matt LeBlanc smiles outside one of the boxes, a half-naked man stands inside",
@@ -20,7 +24,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "game shows with a bit of danger!"
   ]
 }

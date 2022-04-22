@@ -8,9 +8,15 @@
   "parentYear": "2017-Present",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": [ "Jerry Skyler" ],
-  "director": [ "Jerry Skyler" ],
-  "labels": [ "comedy" ],
+  "starring": [
+    "Jerry Skyler"
+  ],
+  "director": [
+    "Jerry Skyler"
+  ],
+  "labels": [
+    "comedy"
+  ],
   "credit": "Netflix",
   "altHero": "Mista Griggins stands by a dinner table where people are eating",
   "alt1": "a woman looks through a book at the table",
@@ -21,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "comedy tv"
   ]
 }

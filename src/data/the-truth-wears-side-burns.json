@@ -8,9 +8,18 @@
   "parentYear": "2002-2003",
   "rating": "Unrated",
   "runtime": "23m",
-  "starring": [ "Joan of Arc", "Genghis Khan" ],
-  "director": [ "Joan of Arc" ],
-  "labels": [ "drama" ],
+  "starring": [
+    "Joan of Arc",
+    "Genghis Khan"
+  ],
+  "director": [
+    "Joan of Arc"
+  ],
+  "labels": [
+    "drama",
+    "arthouse",
+    "amateur"
+  ],
   "credit": "MTV Networks",
   "altHero": "a cracked, dry desert landscape with a tumbling top hat",
   "alt1": "a dead bird",

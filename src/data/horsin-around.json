@@ -8,9 +8,17 @@
   "parentYear": "2014-2020",
   "rating": "TV-G",
   "runtime": "9 seasons",
-  "starring": [ "BoJack Horseman", "Joelle Clarke", "Bradley Hitler-Smith", "Sarah Lynn" ],
+  "starring": [
+    "BoJack Horseman",
+    "Joelle Clarke",
+    "Bradley Hitler-Smith",
+    "Sarah Lynn"
+  ],
   "studio": "Parrotmount Studios",
-  "labels": [ "sitcom", "family" ],
+  "labels": [
+    "sitcom",
+    "family"
+  ],
   "credit": "Netflix",
   "altHero": "the Horse gives a thumbs up and three happy children eat a giant ice cream sundae",
   "alt1": "the Horse looks disapprovingly at Sabrina whose hand is stuck in a candy dispensing machine",
@@ -21,7 +29,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "family sitcoms"
   ]
 }

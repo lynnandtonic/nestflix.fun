@@ -8,8 +8,14 @@
   "parentYear": "2007-2019",
   "rating": "Unrated",
   "runtime": "254 episodes",
-  "starring": [ "Sheldon Cooper", "Amy Farrah Fowler" ],
-  "labels": [ "talk show", "educational" ],
+  "starring": [
+    "Sheldon Cooper",
+    "Amy Farrah Fowler"
+  ],
+  "labels": [
+    "talk show",
+    "educational"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "Sheldon Cooper on his couch, gesturing at his whiteboard behind him",
   "alt1": "Cooper with Wil Wheaton who is holding a United Federation of Planets flag",

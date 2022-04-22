@@ -8,7 +8,10 @@
   "parentYear": "1989-Present",
   "rating": "G",
   "runtime": "2 seasons",
-  "labels": [ "kids", "religion" ],
+  "labels": [
+    "kids",
+    "religion"
+  ],
   "credit": "20th Television",
   "altHero": "a claymation dog, Jobriath, and boy, Gravey, in a workshop",
   "alt1": "Gravey holds up a pipe bomb",
@@ -19,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "religious programming"
   ]
 }

@@ -8,9 +8,19 @@
   "parentYear": "1999-Present",
   "rating": "PG",
   "runtime": "34m",
-  "starring": [ "Mermaid Man", "Barnacle Boy", "Sandy Cheeks" ],
-  "director": [ "SpongeBob SquarePants" ],
-  "labels": [ "action", "superheroes" ],
+  "starring": [
+    "Mermaid Man",
+    "Barnacle Boy",
+    "Sandy Cheeks"
+  ],
+  "director": [
+    "SpongeBob SquarePants"
+  ],
+  "labels": [
+    "action",
+    "superheroes",
+    "amateur"
+  ],
   "credit": "Nickelodeon Animation Studio",
   "altHero": "elderly Mermaid Man and Barnacle Boy",
   "alt1": "a homemade Kelp-Thing hangs from wires in a vault full of Krabby Patties",

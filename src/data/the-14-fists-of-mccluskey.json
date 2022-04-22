@@ -8,8 +8,13 @@
   "parentYear": "2019",
   "rating": "R",
   "runtime": "2h 26m",
-  "starring": [ "Rick Dalton" ],
-  "labels": [ "action", "war" ],
+  "starring": [
+    "Rick Dalton"
+  ],
+  "labels": [
+    "war drama",
+    "action"
+  ],
   "credit": "Columbia Pictures",
   "altHero": "Rick Dalton as Sgt. Mike Lewis shooting a flame thrower from a balcony",
   "alt1": "Lewis shooting a machine gun",

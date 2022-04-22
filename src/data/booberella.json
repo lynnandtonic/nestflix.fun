@@ -7,8 +7,13 @@
   "parentYear": "1992-2004",
   "rating": "Unrated",
   "runtime": "43m",
-  "starring": [ "Patsy Stone" ],
-  "labels": [ "adult" ],
+  "starring": [
+    "Patsy Stone"
+  ],
+  "labels": [
+    "adult",
+    "aliens"
+  ],
   "credit": "BBC One",
   "altHero": "Booberella poses in a black leather jumpsuit with big blonde hair",
   "alt1": "a UFO lands in a neighborhood",

@@ -8,9 +8,14 @@
   "parentYear": "2004",
   "rating": "TV-14",
   "runtime": "2 seasons",
-  "starring": [ "Billy Bush" ],
+  "starring": [
+    "Billy Bush"
+  ],
   "studio": "EBS",
-  "labels": [ "reality", "dating" ],
+  "labels": [
+    "reality",
+    "dating"
+  ],
   "credit": "Paramount Pictures",
   "altHero": "Billy Bush on a tropical island tiki set with sort of basic looking white couple",
   "alt1": "the man smiling with a beautiful woman in a bikini",
@@ -21,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality dating shows"
   ]
 }

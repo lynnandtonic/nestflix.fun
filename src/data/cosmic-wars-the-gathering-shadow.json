@@ -8,8 +8,14 @@
   "parentYear": "1989-Present",
   "rating": "PG",
   "runtime": "2h 34m",
-  "director": [ "Randall Curtis" ],
-  "labels": [ "sci-fi" ],
+  "director": [
+    "Randall Curtis"
+  ],
+  "labels": [
+    "sci-fi",
+    "adventure",
+    "space"
+  ],
   "credit": "20th Television",
   "altHero": "roll is being called at the galactic senate",
   "alt1": "an AT-AT sits down to read a newspaper",

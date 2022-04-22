@@ -7,8 +7,16 @@
   "parentYear": "2014",
   "rating": "R",
   "runtime": "2h 34m",
-  "starring": [ "Andre Allen", "Taraji P. Henson", "Gabourey Sidibe", "Anthony Anderson" ],
-  "labels": [ "drama", "biography" ],
+  "starring": [
+    "Andre Allen",
+    "Taraji P. Henson",
+    "Gabourey Sidibe",
+    "Anthony Anderson"
+  ],
+  "labels": [
+    "historical drama",
+    "biography"
+  ],
   "credit": "Paramount Pictures",
   "altHero": "Andre Allen as Dutty Boukman leading men in rebellion",
   "alt1": "Haitian men walk through the jungle",

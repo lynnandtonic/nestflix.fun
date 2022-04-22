@@ -7,15 +7,21 @@
   "parentYear": "1991-1996",
   "rating": "TV-14",
   "runtime": "2 seasons",
-  "starring": [ "Haggis MacHaggis" ],
-  "director": [ "Haggis MacHaggis" ],
-  "labels": [ "comedy" ],
+  "starring": [
+    "Haggis MacHaggis"
+  ],
+  "director": [
+    "Haggis MacHaggis"
+  ],
+  "labels": [
+    "comedy"
+  ],
   "credit": "ViacomCBS Domestic Media",
   "altHero": "Haggis MacHaggis, a Scottish man in a kilt, raises his cane above his head, his scottie dog wears a hat and holds a briefcase full of cash",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "comedy tv"
   ]
 }

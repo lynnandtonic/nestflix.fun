@@ -8,8 +8,14 @@
   "parentYear": "2009-2015",
   "rating": "TV-PG",
   "runtime": "1 episode",
-  "starring": [ "Rachel Berry", "Carrot Top" ],
-  "labels": [ "sitcom" ],
+  "starring": [
+    "Rachel Berry",
+    "Carrot Top"
+  ],
+  "labels": [
+    "sitcom",
+    "pilot"
+  ],
   "credit": "20th Century Fox Television",
   "altHero": "closeup of Rachel Berry in her NY apartment",
   "alt1": "Rachel drags a suitcase while Cert uncovers a purple piano",
@@ -20,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "sitcoms"
   ]
 }

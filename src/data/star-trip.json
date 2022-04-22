@@ -9,7 +9,10 @@
   "rating": "TV-PG",
   "runtime": "3 seasons",
   "studio": "Clotho Productions",
-  "labels": [ "sci-fi" ],
+  "labels": [
+    "sci-fi",
+    "space"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "Captain Lance and Captain Ava in uniform on the bridge of the USS Faterider",
   "alt1": "Captain Lance and Captain Ava",
@@ -20,7 +23,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "sci-fi tv"
   ]
 }

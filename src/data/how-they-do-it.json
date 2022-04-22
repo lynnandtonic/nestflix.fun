@@ -8,7 +8,10 @@
   "rating": "TV-G",
   "runtime": "30 seasons",
   "studio": "Interdimensional Cable",
-  "labels": [ "reality", "educational" ],
+  "labels": [
+    "documentary",
+    "educational"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "a machine stamping a big sheet of pink material",
   "alt1": "a factory worker next to hanging drapery of pink with colorful flecks of something all over it",
@@ -19,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "documentary series"
   ]
 }

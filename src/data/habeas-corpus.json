@@ -8,8 +8,16 @@
   "parentYear": "1992",
   "rating": "R",
   "runtime": "2h 6m",
-  "starring": [ "Julia Roberts", "Bruce Willis", "Susan Sarandon", "Peter Falk" ],
-  "labels": [ "drama" ],
+  "starring": [
+    "Julia Roberts",
+    "Bruce Willis",
+    "Susan Sarandon",
+    "Peter Falk"
+  ],
+  "labels": [
+    "crime drama",
+    "courtroom"
+  ],
   "credit": "Fine Line Features",
   "altHero": "Julia Roberts as Marsha Kent behind bars",
   "alt1": "Sarandon and Falk in an execution viewing gallery",

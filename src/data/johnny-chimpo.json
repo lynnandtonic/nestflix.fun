@@ -8,7 +8,10 @@
   "parentYear": "2001",
   "rating": "Unrated",
   "runtime": "3 seasons",
-  "labels": [ "comedy", "animation" ],
+  "labels": [
+    "comedy",
+    "animation"
+  ],
   "credit": "Fox Searchlight Pictures",
   "altHero": "Johnny Chimpo, a monkey in a cutoff tshirt and hat, gives a thumbs up while riding a donkey",
   "alt1": "a round red bird with narrow beak",
@@ -19,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "comedy tv"
   ]
 }

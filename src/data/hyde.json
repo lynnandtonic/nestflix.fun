@@ -8,10 +8,18 @@
   "parentYear": "2015",
   "rating": "R",
   "runtime": "2h 36m",
-  "starring": [ "Vincent Chase", "Johnny Chase" ],
-  "director": [ "Vincent Chase" ],
+  "starring": [
+    "Vincent Chase",
+    "Johnny Chase"
+  ],
+  "director": [
+    "Vincent Chase"
+  ],
   "studio": "Hillside Avenue Productions",
-  "labels": [ "sci-fi" ],
+  "labels": [
+    "sci-fi",
+    "dystopia"
+  ],
   "credit": "Warner Bros. Pictures",
   "altHero": "Vincent Chase as Hyde in a hoodie, holding up a small vial of glowing liquid",
   "alt1": "glowing liquid drops are rained on a crowd with their mouths open",

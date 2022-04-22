@@ -9,7 +9,11 @@
   "rating": "TV-14",
   "runtime": "1 season",
   "studio": "FOX",
-  "labels": [ "animals, action" ],
+  "labels": [
+    "action",
+    "animals",
+    "animals attack"
+  ],
   "credit": "20th Television",
   "altHero": "a tiger running fast",
   "alt1": "a tiger running",
@@ -20,7 +24,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "animals on tv"
   ]
 }

@@ -8,8 +8,15 @@
   "parentYear": "1988",
   "rating": "TV-G",
   "runtime": "2h 23min",
-  "starring": [ "Buddy Hackett", "Jamie Farr", "the Solid Gold Dancers", "Mary-Lou Retton", "Sir John Houseman"],
-  "labels": [ "holiday" ],
+  "starring": [
+    "Buddy Hackett",
+    "Jamie Farr",
+    "the Solid Gold Dancers",
+    "Mary-Lou Retton",
+    "Sir John Houseman"],
+  "labels": [
+    "holiday"
+  ],
   "credit": "Paramount Pictures",
   "altHero": "Scrooge stands in a snowy city street",
   "alt1": "the Solid Gold Dancers dance in unison",
@@ -20,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv special",
+    "TV special",
     "for the holidays"
   ]
 }

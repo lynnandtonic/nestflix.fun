@@ -7,13 +7,15 @@
   "parentYear": "2011-Present",
   "rating": "TV-14",
   "runtime": "6 seasons",
-  "labels": [ "drama" ],
+  "labels": [
+    "historical drama"
+  ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "fancy aristocrats toast glasses outside a manor while two servants stand nearby",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "tv dramas"
   ]
 }

@@ -8,8 +8,12 @@
   "parentYear": "1997-Present",
   "rating": "Unrated",
   "runtime": "10 episodes",
-  "starring": [ "Eric Cartman" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Eric Cartman"
+  ],
+  "labels": [
+    "talk show"
+  ],
   "credit": "Comedy Central",
   "altHero": "Eric Cartman surrounded by graphs and marquee chyrons with Facebook stats",
   "alt1": "Cartman passionately talking at a desk",

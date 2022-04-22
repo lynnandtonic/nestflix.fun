@@ -8,7 +8,10 @@
   "parentYear": "2017-Present",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "labels": [ "reality", "makeover" ],
+  "labels": [
+    "reality",
+    "makeover"
+  ],
   "credit": "Netflix",
   "altHero": "three men stand outside a home with a Trump lawn sign",
   "alt1": "the gang pulls up to a house covered in Trump signs and Confederate flags",
@@ -19,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality tv"
   ]
 }

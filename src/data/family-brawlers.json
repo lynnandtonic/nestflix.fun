@@ -8,8 +8,12 @@
   "parentYear": "2013-2019",
   "rating": "TV-MA",
   "runtime": "2 seasons",
-  "starring": [ "Mercedes" ],
-  "labels": [ "reality" ],
+  "starring": [
+    "Mercedes"
+  ],
+  "labels": [
+    "reality"
+  ],
   "credit": "Black Entertainment Television",
   "altHero": "Mercedes giving an interview",
   "alt1": "woman arguing",
@@ -20,7 +24,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality tv"
   ]
 }

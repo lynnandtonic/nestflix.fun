@@ -8,8 +8,13 @@
   "parentYear": "2011",
   "rating": "PG-13",
   "runtime": "1h 38m",
-  "starring": [ "Jason Segel", "Rashida Jones" ],
-  "labels": [ "comedy", "romance" ],
+  "starring": [
+    "Jason Segel",
+    "Rashida Jones"
+  ],
+  "labels": [
+    "romantic comedy"
+  ],
   "credit": "Screen Gems",
   "altHero": "Bryce and Madison talking at a bar",
   "alt1": "Bryce meeting Madison with flowers at Grand Central Station",

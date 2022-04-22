@@ -8,8 +8,13 @@
   "parentYear": "1997-2010",
   "rating": "TV-MA",
   "runtime": "12 seasons",
-  "starring": [ "Eduardo Felipe" ],
-  "labels": [ "action" ],
+  "starring": [
+    "Eduardo Felipe"
+  ],
+  "labels": [
+    "action",
+    "mercenaries"
+  ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "Monsigñor Martinez wearing sunglasses and pointing two guns",
   "alt1": "Monsigñor Martinez baptizes twin babies in a church",
@@ -20,7 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "action tv"
   ]
 }

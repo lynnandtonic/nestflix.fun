@@ -8,9 +8,14 @@
   "parentYear": "1988",
   "rating": "TV-Y",
   "runtime": "5 seasons",
-  "starring": [ "Corny Collins" ],
+  "starring": [
+    "Corny Collins"
+  ],
   "studio": "WZZT-TV",
-  "labels": [ "variety", "music" ],
+  "labels": [
+    "variety shows",
+    "music"
+  ],
   "credit": "New Line Cinema",
   "altHero": "Corny Collins in front of his microphone with a stack of records nearby",
   "alt1": "the set of the show filled with teens dancing",
@@ -21,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "variety shows"
   ]
 }

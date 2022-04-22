@@ -8,9 +8,23 @@
   "parentYear": "2013",
   "rating": "R",
   "runtime": "2h 34m",
-  "starring": [ "Danny Trejo", "Michelle Rodriguez", "Sofía Vergara", "Alexa Vega", "Justin Bieber", "Lady Gaga", "Leonardo DiCaprio" ],
-  "director": [ "Robert Rodriguez" ],
-  "labels": [ "action", "sci-fi" ],
+  "starring": [
+    "Danny Trejo",
+    "Michelle Rodriguez",
+    "Sofía Vergara",
+    "Alexa Vega",
+    "Justin Bieber",
+    "Lady Gaga",
+    "Leonardo DiCaprio"
+  ],
+  "director": [
+    "Robert Rodriguez"
+  ],
+  "labels": [
+    "action",
+    "sci-fi",
+    "space"
+  ],
   "credit": "Open Road Films",
   "altHero": "Machete, with starry space behind him, holds his machete which is glowing like a light saber",
   "alt1": "Michelle Rodriguez as Luz",

@@ -8,8 +8,13 @@
   "parentYear": "2017",
   "rating": "TV-G",
   "runtime": "3 seasons",
-  "starring": [ "Balthazar Bratt" ],
-  "labels": [ "kids", "action" ],
+  "starring": [
+    "Balthazar Bratt"
+  ],
+  "labels": [
+    "kids",
+    "action"
+  ],
   "credit": "Universal Pictures",
   "altHero": "a kid in 80s purple jumpsuit (Evil Bratt) with a robot friend",
   "alt1": "Evil Bratt holding a sack of money and riding a kid’s tricycle away from police cars",
@@ -20,7 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }

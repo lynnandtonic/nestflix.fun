@@ -8,8 +8,15 @@
   "parentYear": "1993",
   "rating": "PG-13",
   "runtime": "2h 12m",
-  "starring": [ "Arnold Schwarzenegger", "Tina Turner", "Frank McRae", "Tom Noonan" ],
-  "labels": [ "action" ],
+  "starring": [
+    "Arnold Schwarzenegger",
+    "Tina Turner",
+    "Frank McRae",
+    "Tom Noonan"
+  ],
+  "labels": [
+    "action"
+  ],
   "credit": "Columbia Pictures",
   "altHero": "closeup of Arnold as Jack Slater",
   "alt1": "a police chief yells",

@@ -8,10 +8,18 @@
   "parentYear": "1989-Present",
   "rating": "PG",
   "runtime": "12m",
-  "starring": [ "Homer Simpson" ],
-  "director": [ "Bart Simpson" ],
+  "starring": [
+    "Homer Simpson"
+  ],
+  "director": [
+    "Bart Simpson"
+  ],
   "studio": "Nickel ‘n’ Dime Animation Studio",
-  "labels": [ "short film", "comedy", "animation" ],
+  "labels": [
+    "short film",
+    "animation",
+    "oscar winner"
+  ],
   "credit": "20th Television",
   "altHero": "a poorly drawn Homer Simpson is angry",
   "alt1": "Homer is angry, crumpling his drink cup in a fast food restaurant",

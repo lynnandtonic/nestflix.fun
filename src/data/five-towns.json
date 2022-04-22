@@ -8,9 +8,14 @@
   "parentYear": "2004-2011",
   "rating": "TV-MA",
   "runtime": "2 seasons",
-  "starring": [ "Johnny Chase", "Jamie-Lynn Sigler" ],
+  "starring": [
+    "Johnny Chase",
+    "Jamie-Lynn Sigler"
+  ],
   "producer": "Edward Burns",
-  "labels": [ "drama" ],
+  "labels": [
+    "drama"
+  ],
   "credit": "HBO Entertainment",
   "altHero": "Johnny Chase smokes a cigarette in a warehouse",
   "alt1": "Chase chats with a delivery guy",
@@ -21,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "tv dramas"
   ]
 }

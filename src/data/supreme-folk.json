@@ -7,9 +7,23 @@
   "parentYear": "2003",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": [ "George Menschell", "Terry Bohner", "Laurie Bohner", "Sissy Knox", "Sean Halloran", "Tony Pollono", "Jerald Smithers", "Johnny Athenakis", "Mike Maryama" ],
+  "starring": [
+    "George Menschell",
+    "Terry Bohner",
+    "Laurie Bohner",
+    "Sissy Knox",
+    "Sean Halloran",
+    "Tony Pollono",
+    "Jerald Smithers",
+    "Johnny Athenakis",
+    "Mike Maryama"
+  ],
   "creator": "Mike LaFontaine",
-  "labels": [ "reality", "crime", "music" ],
+  "labels": [
+    "real crime",
+    "courtroom",
+    "music"
+  ],
   "credit": "Warner Bros. Pictures",
   "altHero": "Laurie Bohner dressed as a judge on the stand",
   "alt1": "The New Main Street Singers as Supreme Court judges",
@@ -20,7 +34,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "criminal justice reality tv"
   ]
 }

@@ -8,9 +8,18 @@
   "parentYear": "1989-Present",
   "rating": "Unrated",
   "runtime": "16m",
-  "starring": [ "Barney Gumble" ],
-  "director": [ "Barney Gumble" ],
-  "labels": [ "short film", "amateur", "drama" ],
+  "starring": [
+    "Barney Gumble"
+  ],
+  "director": [
+    "Barney Gumble"
+  ],
+  "labels": [
+    "short film",
+    "drama",
+    "arthouse",
+    "amateur"
+  ],
   "credit": "20th Television",
   "altHero": "arthouse style shot of Barney drinking a beer as wind blows through sheer curtains",
   "alt1": "aerial shot of Barney passed out on the couch, the curtains fluttering gracefully",

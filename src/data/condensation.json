@@ -9,13 +9,16 @@
   "rating": "TV-PG",
   "runtime": "2 seasons",
   "studio": "BBC Four",
-  "labels": [ "drama" ],
+  "labels": [
+    "drama",
+    "british TV"
+  ],
   "credit": "20th Television",
   "altHero": "a man and woman dramatically look out the window, a glass of ice water sits on the table",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "british tv"
   ]
 }

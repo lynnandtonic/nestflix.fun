@@ -7,9 +7,16 @@
   "parentYear": "2009",
   "rating": "Unrated",
   "runtime": "46m",
-  "starring": [ "Fredrick Zoller" ],
-  "director": [ "Alois von Eichberg" ],
-  "labels": [ "action", "war" ],
+  "starring": [
+    "Fredrick Zoller"
+  ],
+  "director": [
+    "Alois von Eichberg"
+  ],
+  "labels": [
+    "war drama",
+    "action"
+  ],
   "credit": "The Weinstein Company",
   "altHero": "Fredrick Zoller aims his gun out a window",
   "alt1": "closeup of Zoller aiming",

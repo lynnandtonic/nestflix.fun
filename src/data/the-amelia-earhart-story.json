@@ -9,7 +9,10 @@
   "rating": "PG",
   "runtime": "1h 34m",
   "studio": "MMM",
-  "labels": [ "drama", "biography" ],
+  "labels": [
+    "historical drama",
+    "biography"
+  ],
   "credit": "Netflix",
   "altHero": "Amelia Earhart near an airplane and talking with an anthropomorphic owl in a suit and hat",
   "layout": "movie.pug",

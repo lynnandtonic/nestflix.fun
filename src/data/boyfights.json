@@ -7,9 +7,17 @@
   "parentYear": "2003-2006",
   "rating": "PG",
   "runtime": "4 episodes",
-  "starring": [ "Michael Bluth", "George Oscar Bluth" ],
-  "director": [ "George Bluth" ],
-  "labels": [ "reality" ],
+  "starring": [
+    "Michael Bluth",
+    "George Oscar Bluth"
+  ],
+  "director": [
+    "George Bluth"
+  ],
+  "labels": [
+    "reality",
+    "fighting"
+  ],
   "credit": "20th Television, Netflix",
   "altHero": "a boy pulls the hair of another boy dangling from a tree branch",
   "alt1": "a younger boy looks apprehensive",

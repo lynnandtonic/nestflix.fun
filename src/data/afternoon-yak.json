@@ -9,7 +9,9 @@
   "rating": "TV-PG",
   "runtime": "10 seasons",
   "studio": "The Estrogen Network",
-  "labels": [ "talk show" ],
+  "labels": [
+    "daytime talk show"
+  ],
   "credit": "20th Television",
   "altHero": "a talk show set with four women sitting around a coffee table",
   "alt1": "an older woman addresses the camera",
@@ -20,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "talk shows"
   ]
 }

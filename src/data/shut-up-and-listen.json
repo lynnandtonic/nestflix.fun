@@ -7,8 +7,12 @@
   "parentYear": "2001",
   "rating": "TV-G",
   "runtime": "2 seasons",
-  "starring": [ "Lilly Moscovitz" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Lilly Moscovitz"
+  ],
+  "labels": [
+    "talk show"
+  ],
   "credit": "Walt Disney Pictures",
   "altHero": "host Lilly Moscovitz with guest Jeremiah Hart",
   "alt1": "Melissa introduces Lilly next to a big gong",
@@ -19,7 +23,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "public-access talk shows"
   ]
 }

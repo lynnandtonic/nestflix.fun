@@ -8,8 +8,13 @@
   "parentYear": "2017-Present",
   "rating": "TV-MA",
   "runtime": "2 seasons",
-  "starring": [ "P. Ninny", "Sylk Weavey" ],
-  "labels": [ "reality" ],
+  "starring": [
+    "P. Ninny",
+    "Sylk Weavey"
+  ],
+  "labels": [
+    "reality"
+  ],
   "credit": "Netflix",
   "altHero": "P. Ninny",
   "alt1": "a closeup of headphones and a hat embroidered P. Ninny",
@@ -20,7 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality tv"
   ]
 }

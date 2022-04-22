@@ -8,8 +8,12 @@
   "parentYear": "2011",
   "rating": "TV-G",
   "runtime": "20 seasons",
-  "starring": [ "Mel Dorado" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Mel Dorado"
+  ],
+  "labels": [
+    "talk show"
+  ],
   "credit": "Pixar Animation Studios",
   "altHero": "host Mel Dorado, an yellow Cadillac with glasses",
   "alt1": "Dorado",
@@ -20,7 +24,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "talk shows"
   ]
 }

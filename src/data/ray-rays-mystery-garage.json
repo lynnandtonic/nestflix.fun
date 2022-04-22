@@ -8,15 +8,21 @@
   "parentYear": "2006-2013",
   "rating": "TV-Y7",
   "runtime": "2 seasons",
-  "starring": [ "Tracy Jordan", "Raw Dog" ],
+  "starring": [
+    "Tracy Jordan",
+    "Raw Dog"
+  ],
   "studio": "Nickelodeon",
-  "labels": [ "kids", "variety" ],
+  "labels": [
+    "kids",
+    "variety shows"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "two young kids singing with coordinated hand motions",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids variety shows"
   ]
 }

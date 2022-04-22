@@ -8,16 +8,22 @@
   "parentYear": "2006-2013",
   "rating": "TV-14",
   "runtime": "1 season",
-  "starring": [ "Jack Donaghy", "Karl Malone" ],
+  "starring": [
+    "Jack Donaghy",
+    "Karl Malone"
+  ],
   "studio": "NBC",
-  "labels": [ "drama", "crime" ],
+  "labels": [
+    "crime drama",
+    "religion"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "two police detectives",
   "heroPosition": "left",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "crime shows"
   ]
 }

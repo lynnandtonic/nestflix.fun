@@ -8,10 +8,21 @@
   "parentYear": "1999-2013",
   "rating": "TV-Y",
   "runtime": "3 seasons",
-  "starring": [ "Turanga Leela", "Philip J. Fry", "Amy Wong", "Bender Rodriguez", "John A. Zoidberg" ],
-  "director": [ "Abner Doubledeal", "Turanga Leela" ],
+  "starring": [
+    "Turanga Leela",
+    "Philip J. Fry",
+    "Amy Wong",
+    "Bender Rodriguez",
+    "John A. Zoidberg"
+  ],
+  "director": [
+    "Abner Doubledeal",
+    "Turanga Leela"
+  ],
   "studio": "Tickleodeon",
-  "labels": [ "kids" ],
+  "labels": [
+    "kids"
+  ],
   "credit": "20th Century Fox Television",
   "altHero": "the Humplings are magical creatures with unique looks: a round dino with a megaphone nose, a vase with wild hair, a screw-shaped guy, a red and black spotted bee, and a cupcake with a crown",
   "alt1": "Doingg lifting up a raccoon (played by Nibbler)",
@@ -22,7 +33,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }

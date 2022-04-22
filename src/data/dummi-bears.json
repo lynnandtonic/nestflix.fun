@@ -8,7 +8,9 @@
   "parentYear": "1991-2005",
   "rating": "TV-Y",
   "runtime": "5 seasons",
-  "labels": [ "kids" ],
+  "labels": [
+    "kids"
+  ],
   "credit": "Nickelodeon Animation Studio",
   "altHero": "two Dummi Bears happyily dancing",
   "alt1": "a conveyor belt making hearts",
@@ -19,7 +21,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }

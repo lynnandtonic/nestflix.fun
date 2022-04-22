@@ -8,8 +8,15 @@
   "parentYear": "1999-Present",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": [ "Bryant Gumbel", "Greg Gumbel" ],
-  "labels": [ "action", "crime" ],
+  "starring": [
+    "Bryant Gumbel",
+    "Greg Gumbel"
+  ],
+  "labels": [
+    "action",
+    "crime",
+    "buddy cops"
+  ],
   "credit": "20th Television",
   "altHero": "Bryant and Greg in cop polo shirts, palm tree behind",
   "alt1": "the Gumbels on a doc next to a police motorcycle with sidecar",
@@ -20,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "buddy cops"
   ]
 }

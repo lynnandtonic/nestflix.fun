@@ -8,15 +8,19 @@
   "parentYear": "2013-Present",
   "rating": "TV-14",
   "runtime": "7 seasons",
-  "starring": [ "Lorenzo Music" ],
+  "starring": [
+    "Lorenzo Music"
+  ],
   "studio": "Interdimensional Cable",
-  "labels": [ "comedy" ],
+  "labels": [
+    "comedy"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "Garfield and Jon but Jon has four arms and both have arms for ears",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "comedy tv"
   ]
 }

@@ -8,8 +8,13 @@
   "parentYear": "2017-Present",
   "rating": "TV-MA",
   "runtime": "3 seasons",
-  "starring": [ "Dereca" ],
-  "labels": [ "reality", "talk show" ],
+  "starring": [
+    "Dereca"
+  ],
+  "labels": [
+    "reality",
+    "talk show"
+  ],
   "credit": "Netflix",
   "altHero": "Dereca",
   "alt1": "Dereca scowling next to a man’s face",
@@ -20,7 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "talk shows"
   ]
 }

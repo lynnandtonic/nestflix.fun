@@ -7,14 +7,21 @@
   "parentYear": "1996",
   "rating": "TV-G",
   "runtime": "7 seasons",
-  "starring": [ "Sam Sweet", "Stan Sweet", "Conrad Janis" ],
-  "labels": [ "sitcom" ],
+  "starring": [
+    "Sam Sweet",
+    "Stan Sweet",
+    "Conrad Janis"
+  ],
+  "labels": [
+    "sitcom",
+    "family"
+  ],
   "credit": "Sony Pictures",
   "altHero": "two twins point at each other",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "family sitcoms"
   ]
 }

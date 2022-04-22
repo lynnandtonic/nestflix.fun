@@ -7,8 +7,14 @@
   "parentYear": "2009-2015",
   "rating": "Unrated",
   "runtime": "5s",
-  "director": [ "Ben Wyatt" ],
-  "labels": [ "short film", "drama", "animation" ],
+  "director": [
+    "Ben Wyatt"
+  ],
+  "labels": [
+    "short film",
+    "animation",
+    "amateur"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "a clay model man stands near a bed in a diorama-type room",
   "layout": "movie.pug",

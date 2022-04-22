@@ -8,10 +8,20 @@
   "parentYear": "2009-2015",
   "rating": "Unrated",
   "runtime": "5m",
-  "starring": [ "Jeff Winger", "Britta Perry", "Abed Nadir" ],
-  "director": [ "Abed Nadir" ],
+  "starring": [
+    "Jeff Winger",
+    "Britta Perry",
+    "Abed Nadir"
+  ],
+  "director": [
+    "Abed Nadir"
+  ],
   "studio": "Abed is Awesome Productions, Cool Abed Films, A.B.E.D. Pictures Entertainment",
-  "labels": [ "short film", "drama", "amateur" ],
+  "labels": [
+    "short film",
+    "drama",
+    "amateur"
+  ],
   "credit": "Sony Pictures Television",
   "altHero": "Abed’s head surrounded by MRI scans and a syringe",
   "alt1": "Abed’s head on a baby’s body circling the moon in space",

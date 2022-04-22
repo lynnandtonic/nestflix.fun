@@ -7,8 +7,14 @@
   "parentYear": "2004",
   "rating": "G",
   "runtime": "1h 34m",
-  "director": [ "Gustav Sebald" ],
-  "labels": [ "family", "animation" ],
+  "director": [
+    "Gustav Sebald"
+  ],
+  "labels": [
+    "family",
+    "fantasy",
+    "animation"
+  ],
   "credit": "DreamWorks Pictures",
   "altHero": "a CGI elf smiles big",
   "alt1": "a storybook-like village of tree homes",

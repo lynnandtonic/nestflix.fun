@@ -8,8 +8,13 @@
   "parentYear": "1932",
   "rating": "PG-13",
   "runtime": "1h 13m",
-  "starring": [ "Donald Cook", "Evalyn Knapp" ],
-  "labels": [ "drama", "romance" ],
+  "starring": [
+    "Donald Cook",
+    "Evalyn Knapp"
+  ],
+  "labels": [
+    "romantic drama"
+  ],
   "credit": "Warner Bros. Pictures",
   "altHero": "a husband and wife talk",
   "alt1": "the wife prays",

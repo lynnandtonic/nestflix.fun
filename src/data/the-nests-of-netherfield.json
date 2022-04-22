@@ -9,7 +9,10 @@
   "rating": "TV-14",
   "runtime": "4 seasons",
   "studio": "British Bird Channel (BBC)",
-  "labels": [ "drama", "period piece" ],
+  "labels": [
+    "historical drama",
+    "british TV"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "two anthropomorphic birds dressed in Regency era English clothing",
   "alt1": "the male bird is courting the female",
@@ -20,7 +23,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "british tv"
   ]
 }

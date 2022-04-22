@@ -7,9 +7,16 @@
   "parentYear": "2006-2013",
   "rating": "PG-13",
   "runtime": "2h 23m",
-  "starring": [ "Jenna Maroney", "Tony Hawk" ],
-  "director": [ "Casey Affleck" ],
-  "labels": [ "drama" ],
+  "starring": [
+    "Jenna Maroney",
+    "Tony Hawk"
+  ],
+  "director": [
+    "Casey Affleck"
+  ],
+  "labels": [
+    "drama"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "Maroney as Constance Justice, a conservatively dressed woman in front of a family",
   "layout": "movie.pug",

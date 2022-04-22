@@ -8,9 +8,18 @@
   "parentYear": "2012",
   "rating": "Unrated",
   "runtime": "4m",
-  "starring": [ "Sparky" ],
-  "director": [ "Victor Frankenstein" ],
-  "labels": [ "short film", "amateur", "sci-fi", "monster" ],
+  "starring": [
+    "Sparky"
+  ],
+  "director": [
+    "Victor Frankenstein"
+  ],
+  "labels": [
+    "short film",
+    "sci-fi",
+    "monsters",
+    "amateur"
+  ],
   "credit": "Walt Disney Studios",
   "altHero": "a handmade city scene with army men and a dinosaur breathing fire",
   "alt1": "a handmade city with a flying dinosaur on strings above the city",

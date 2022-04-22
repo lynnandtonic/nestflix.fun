@@ -8,9 +8,18 @@
   "parentYear": "2012-2016",
   "rating": "TV-PG",
   "runtime": "1 season",
-  "starring": [ "Gideon Gleeful", "Killbone", "Ghost-Eyes", "Bud Gleeful" ],
+  "starring": [
+    "Gideon Gleeful",
+    "Killbone",
+    "Ghost-Eyes",
+    "Bud Gleeful"
+  ],
   "studio": "Gravity Falls Public Access TV",
-  "labels": [ "reality" ],
+  "labels": [
+    "reality",
+    "crime",
+    "inside prison"
+  ],
   "credit": "Disney Television Animation",
   "altHero": "Li’l Gideon waves from behind prison visitation glass, wearing an orange jumpsuit and hairnet",
   "alt1": "Li’l Gideon leads a group session with other inmates",
@@ -21,7 +30,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "criminal justice reality tv"
   ]
 }

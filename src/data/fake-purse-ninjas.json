@@ -7,9 +7,21 @@
   "parentYear": "1999",
   "rating": "PG-13",
   "runtime": "1h 54m",
-  "starring": [ "Jiff Ramsey", "Bobby Bowfinger", "Daisy", "Carol", "Afrim", "Slater" ],
-  "director": [ "Bobby Bowfinger" ],
-  "labels": [ "action", "martial arts" ],
+  "starring": [
+    "Jiff Ramsey",
+    "Bobby Bowfinger",
+    "Daisy",
+    "Carol",
+    "Afrim",
+    "Slater"
+  ],
+  "director": [
+    "Bobby Bowfinger"
+  ],
+  "labels": [
+    "action",
+    "martial arts"
+  ],
   "credit": "Universal Pictures",
   "altHero": "Jiff Ramsey as a ninja",
   "alt1": "Asian purse makers",

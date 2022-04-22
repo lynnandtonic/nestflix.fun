@@ -8,8 +8,14 @@
   "parentYear": "1985-1992",
   "rating": "TV-PG",
   "runtime": "3 seasons",
-  "starring": [ "Guy Corbin", "Tiffany Blane" ],
-  "labels": [ "game show" ],
+  "starring": [
+    "Guy Corbin",
+    "Tiffany Blane"
+  ],
+  "labels": [
+    "game show",
+    "spin the wheel"
+  ],
   "credit": "Buena Vista Television",
   "altHero": "host Guy Corbin",
   "alt1": "game show set with two teams of four facing off at podiums",
@@ -20,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "game shows"
   ]
 }

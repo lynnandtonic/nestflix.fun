@@ -7,8 +7,16 @@
   "parentYear": "1996",
   "rating": "PG",
   "runtime": "1h 32m",
-  "starring": [ "Tracy Reiner", "Barry Sobel", "Dave Oliver" ],
-  "labels": [ "sci-fi", "monster" ],
+  "starring": [
+    "Tracy Reiner",
+    "Barry Sobel",
+    "Dave Oliver"
+  ],
+  "labels": [
+    "sci-fi",
+    "monsters",
+    "aliens"
+  ],
   "credit": "20th Century Fox",
   "altHero": "at a beach party, a woman, Anita, and her boyfriend, Rick, have a disagreemnt while another man, Goofball, dances",
   "alt1": "women in swimsuits dance at the beach",

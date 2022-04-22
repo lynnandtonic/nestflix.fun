@@ -8,7 +8,10 @@
   "parentYear": "1973",
   "rating": "TV-14",
   "runtime": "1 season",
-  "labels": [ "soap opera", "medical" ],
+  "labels": [
+    "soap opera",
+    "medical drama"
+  ],
   "credit": "Columbia Pictures",
   "altHero": "Nurse Cleo looks despondent as Dr. Boyd talks to her from the side",
   "alt1": "Dr. Boyd Sr. gets ready for surgery",
@@ -19,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "soap operas"
   ]
 }

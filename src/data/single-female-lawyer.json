@@ -8,7 +8,10 @@
   "parentYear": "1999-2013",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "labels": [ "drama", "legal" ],
+  "labels": [
+    "drama",
+    "courtroom"
+  ],
   "credit": "20th Century Fox Television",
   "altHero": "Jenny McNeal scolds a judge with bathroom stalls behind",
   "alt1": "the judge shrugs",
@@ -19,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "tv dramas"
   ]
 }

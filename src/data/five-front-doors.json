@@ -8,9 +8,19 @@
   "parentYear": "1999-Present",
   "rating": "TV-G",
   "runtime": "1 season",
-  "starring": [ "Peter Griffin", "Cleveland Brown", "Glenn Quagmire", "Joe Swanson" ],
-  "director": [ "Peter Griffin" ],
-  "labels": [ "reality", "home improvement" ],
+  "starring": [
+    "Peter Griffin",
+    "Cleveland Brown",
+    "Glenn Quagmire",
+    "Joe Swanson"
+  ],
+  "director": [
+    "Peter Griffin"
+  ],
+  "labels": [
+    "reality",
+    "home improvement"
+  ],
   "credit": "20th Television",
   "altHero": "Peter, Joe, Cleveland, and Quagmire in overalls and hard hats",
   "alt1": "closeup of the gang",
@@ -21,7 +31,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "home and diy"
   ]
 }

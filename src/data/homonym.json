@@ -8,9 +8,14 @@
   "parentYear": "2006-2013",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": [ "Steve Higgins" ],
+  "starring": [
+    "Steve Higgins"
+  ],
   "studio": "NBC",
-  "labels": [ "game show" ],
+  "labels": [
+    "game show",
+    "trivia"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "Homonym set, with Steve Higgins and a contestant each at a podium",
   "alt1": "a contestant",
@@ -21,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "game shows"
   ]
 }

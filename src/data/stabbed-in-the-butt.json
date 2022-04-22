@@ -8,13 +8,15 @@
   "parentYear": "1999-Present",
   "rating": "TV-14",
   "runtime": "1 season",
-  "labels": [ "game show" ],
+  "labels": [
+    "game show"
+  ],
   "credit": "20th Television",
   "altHero": "a game show set, the host is pointing as inmates with knives and swords chase a contestant",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "game shows with a bit of danger!"
   ]
 }

@@ -8,9 +8,18 @@
   "parentYear": "1999-Present",
   "rating": "R",
   "runtime": "2h 22m",
-  "starring": [ "Chris Tucker", "Jim Caviziel" ],
-  "director": [ "Mel Gibson" ],
-  "labels": [ "action", "comedy" ],
+  "starring": [
+    "Chris Tucker",
+    "Jim Caviziel"
+  ],
+  "director": [
+    "Mel Gibson"
+  ],
+  "labels": [
+    "action comedy",
+    "religion",
+    "high-speed chases"
+  ],
   "credit": "20th Television",
   "altHero": "Jesus driving a convertible with Chris Tucker in shotgun",
   "alt1": "the convertible makes a big jump in front of an explosion",

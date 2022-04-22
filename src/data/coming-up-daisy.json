@@ -8,9 +8,16 @@
   "parentYear": "2008",
   "rating": "PG-13",
   "runtime": "1h 36m",
-  "starring": [ "Claire Danes", "Dermot Mulroney" ],
-  "director": [ "Sam Raimi" ],
-  "labels": [ "romance", "comedy" ],
+  "starring": [
+    "Claire Danes",
+    "Dermot Mulroney"
+  ],
+  "director": [
+    "Sam Raimi"
+  ],
+  "labels": [
+    "romantic comedy"
+  ],
   "credit": "Universal Pictures",
   "altHero": "an exasperated man in a tux speaks to a woman in a tree",
   "layout": "movie.pug",

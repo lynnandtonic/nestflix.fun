@@ -8,7 +8,9 @@
   "parentYear": "2000-2005",
   "rating": "TV-MA",
   "runtime": "1 season",
-  "labels": [ "drama" ],
+  "labels": [
+    "drama"
+  ],
   "credit": "Warner Bros. Domestic Television",
   "altHero": "a table of men toast wine glasses",
   "alt1": "two men talk at the dinner table",
@@ -19,7 +21,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "tv dramas"
   ]
 }

@@ -8,7 +8,10 @@
   "parentYear": "2006",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "labels": [ "variety", "music" ],
+  "labels": [
+    "variety show",
+    "music"
+  ],
   "credit": "Warner Independent Pictures",
   "altHero": "the hip host of Chillaxin’",
   "alt1": "graffiti logo on the floor",
@@ -19,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "variety shows"
   ]
 }

@@ -8,10 +8,19 @@
   "parentYear": "2014-2020",
   "rating": "TV-MA",
   "runtime": "1.5 seasons",
-  "starring": [ "BoJack Horseman", "Gina Cazador", "Mr. Peanutbutter", "Wesley D. Morgo", "Sandra Von Crinkle", "Hercules Garcia" ],
+  "starring": [
+    "BoJack Horseman",
+    "Gina Cazador",
+    "Mr. Peanutbutter",
+    "Wesley D. Morgo",
+    "Sandra Von Crinkle",
+    "Hercules Garcia"
+  ],
   "creator": "Flip McVicker",
   "studio": "What Time Is It Right Now?",
-  "labels": [ "drama", "crime" ],
+  "labels": [
+    "crime drama"
+  ],
   "credit": "Netflix",
   "altHero": "BoJack Horseman is Philbert, holding a cigarette and talking to Sassy Malone at a party",
   "alt1": "Philbert has been shot by a lizard woman in a dress",
@@ -22,7 +31,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "crime shows"
   ]
 }

@@ -7,8 +7,13 @@
   "parentYear": "1989-Present",
   "rating": "TV-PG",
   "runtime": "3 seasons",
-  "starring": [ "Xoxchitla" ],
-  "labels": [ "kids", "variety" ],
+  "starring": [
+    "Xoxchitla"
+  ],
+  "labels": [
+    "kids",
+    "variety shows"
+  ],
   "credit": "20th Television",
   "altHero": "jovial woman, Xoxchitla, in feathered headdress and tassled bodice dances between a giant letter B and C",
   "alt1": "a stage with giant alphabet letters, Xoxchitla in feathered dress, a pineapple character, alligator charator, and giant flamingo character",
@@ -19,7 +24,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids variety shows"
   ]
 }

@@ -8,9 +8,15 @@
   "parentYear": "1989-Present",
   "rating": "PG",
   "runtime": "3h 43m",
-  "starring": [ "Declan Desmond" ],
-  "director": [ "Declan Desmond" ],
-  "labels": [ "documentary" ],
+  "starring": [
+    "Declan Desmond"
+  ],
+  "director": [
+    "Declan Desmond"
+  ],
+  "labels": [
+    "documentary"
+  ],
   "credit": "20th Television",
   "altHero": "Declan Desmond holding up a bag outside of Krusty Burger",
   "alt1": "security footage of Krusty stapling a burger back together",

@@ -8,9 +8,18 @@
   "parentYear": "2021",
   "rating": "Unrated",
   "runtime": "7m",
-  "starring": [ "Aaron Mitchell", "Monchi" ],
-  "director": [ "Katie Mitchell" ],
-  "labels": [ "short film", "comedy", "amateur" ],
+  "starring": [
+    "Aaron Mitchell",
+    "Monchi"
+  ],
+  "director": [
+    "Katie Mitchell"
+  ],
+  "labels": [
+    "short film",
+    "comedy",
+    "amateur"
+  ],
   "credit": "Netflix",
   "altHero": "arms hold up a goofy pug dressed in a cop’s uniform",
   "alt1": "a model cop car on a stick drives in front of a street backdrop",

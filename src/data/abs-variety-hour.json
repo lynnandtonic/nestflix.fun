@@ -9,14 +9,19 @@
   "rating": "TV-G",
   "runtime": "2 seasons",
   "studio": "ABS",
-  "starring": [ "Tommy Tahoe" ],
-  "labels": [ "variety", "music" ],
+  "starring": [
+    "Tommy Tahoe"
+  ],
+  "labels": [
+    "variety show",
+    "music"
+  ],
   "credit": "Netflix",
   "altHero": "Tommy Tahoe in front of a colorful backdrop holding a microphone",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "variety shows",
     "new on nestflix"
   ]

@@ -9,9 +9,15 @@
   "rating": "TV-14",
   "runtime": "3 seasons",
   "studio": "ABC",
-  "starring": [ "Miss Piggy", "Fozzie Bear", "The Electric Mayhem" ],
+  "starring": [
+    "Miss Piggy",
+    "Fozzie Bear",
+    "The Electric Mayhem"
+  ],
   "producer": "Kermit the Frog",
-  "labels": [ "talk show" ],
+  "labels": [
+    "late night talk show"
+  ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "Miss Piggy in front of a red curtain",
   "alt1": "Miss Piggy at a late show desk interviewing Elizabeth Banks",
@@ -22,7 +28,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "late night talk shows",
     "new on nestflix"
   ]

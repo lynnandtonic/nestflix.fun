@@ -8,9 +8,19 @@
   "parentYear": "2002-2003",
   "rating": "Unrated",
   "runtime": "43m",
-  "starring": [ "Gandhi", "George Washington Carver" ],
-  "director": [ "Gandhi" ],
-  "labels": [ "action", "crime", "amateur" ],
+  "starring": [
+    "Gandhi",
+    "George Washington Carver"
+  ],
+  "director": [
+    "Gandhi"
+  ],
+  "labels": [
+    "action",
+    "crime",
+    "amateur",
+    "buddy cops"
+  ],
   "credit": "MTV Networks",
   "altHero": "Leon and Tandoori flying through the air with a big cloud of smoke behind them",
   "alt1": "Leon looking into a microscope with calculations on a blackboard behind him",

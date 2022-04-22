@@ -8,9 +8,15 @@
   "parentYear": "1989-Present",
   "rating": "TV-PG",
   "runtime": "20 seasons",
-  "starring": [ "June Bellamy" ],
+  "starring": [
+    "June Bellamy"
+  ],
   "studio": "I&S Studios",
-  "labels": [ "kids" ],
+  "labels": [
+    "kids",
+    "comedy",
+    "animation"
+  ],
   "credit": "20th Television",
   "altHero": "Itchy sticks a vacuum hose in Scratchy’s mouth, some bees are buzzing about",
   "alt1": "Itchy is blowing glass and Scratchy is inside the glass bubble",
@@ -21,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }

@@ -8,9 +8,19 @@
   "parentYear": "1997",
   "rating": "Unrated",
   "runtime": "1h 12m",
-  "starring": [ "Dirk Diggler", "Reed Rothchild", "Jack Horner", "Rollergirl" ],
-  "director": [ "Amber Waves" ],
-  "labels": [ "documentary", "biography" ],
+  "starring": [
+    "Dirk Diggler",
+    "Reed Rothchild",
+    "Jack Horner",
+    "Rollergirl"
+  ],
+  "director": [
+    "Amber Waves"
+  ],
+  "labels": [
+    "documentary",
+    "biography"
+  ],
   "credit": "New Line Cinema",
   "altHero": "Dirk Diggler looks pensive while standing on a bridge",
   "alt1": "Diggler in sunglasses giving an interview",

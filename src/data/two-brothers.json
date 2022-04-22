@@ -8,7 +8,12 @@
   "rating": "R",
   "runtime": "3h 12m",
   "studio": "Interdimensional Cable",
-  "labels": [ "action", "sci-fi" ],
+  "labels": [
+    "action",
+    "sci-fi",
+    "dystopia",
+    "aliens"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "two cool brothers wearing sunglasses can’t believe what’s going on",
   "alt1": "two huge cats with sharp teeth attack the brothers",

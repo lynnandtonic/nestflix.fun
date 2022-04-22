@@ -8,8 +8,13 @@
   "parentYear": "1989-Present",
   "rating": "R",
   "runtime": "2h 13m",
-  "starring": [ "Treat Williams" ],
-  "labels": [ "thriller" ],
+  "starring": [
+    "Treat Williams"
+  ],
+  "labels": [
+    "thriller",
+    "outbreak"
+  ],
   "credit": "20th Television",
   "altHero": "General Sullivan holds up a determined fist",
   "alt1": "the General stands in front of panels of radar and map imaging",

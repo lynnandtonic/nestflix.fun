@@ -8,10 +8,18 @@
   "parentYear": "2006-2013",
   "rating": "PG",
   "runtime": "1h 34m",
-  "starring": [ "Jenna Maroney", "Philip Rosenthal" ],
-  "director": [ "Shawn Connelly" ],
+  "starring": [
+    "Jenna Maroney",
+    "Philip Rosenthal"
+  ],
+  "director": [
+    "Shawn Connelly"
+  ],
   "studio": "Splatterflix",
-  "labels": [ "family" ],
+  "labels": [
+    "family",
+    "holiday"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "a man in a creepy baby mask and apron wearing a santa hat",
   "alt1": "the santa baby mask man walks into a dungeon-like room with blood on the walls, a woman in a cage, and a blue muppet",

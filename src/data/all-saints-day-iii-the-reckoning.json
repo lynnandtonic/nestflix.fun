@@ -8,7 +8,10 @@
   "parentYear": "2005-2020",
   "rating": "R",
   "runtime": "2h 3m",
-  "labels": [ "horror" ],
+  "labels": [
+    "horror",
+    "slasher"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "closeup of the Hatchet Man with a disfigured face and Hannibal Lecter mask",
   "alt1": "80s teen boy with sweatband and headphones screams, covered in blood",
@@ -20,6 +23,6 @@
   "tags": [
     "entry",
     "movie",
-    "horror movies"
+    "slasher flicks"
   ]
 }

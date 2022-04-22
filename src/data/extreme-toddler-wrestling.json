@@ -8,7 +8,11 @@
   "rating": "TV-Y",
   "runtime": "1 season",
   "studio": "Tickleodeon",
-  "labels": [ "reality", "competition", "kids" ],
+  "labels": [
+    "reality",
+    "fighting",
+    "babies"
+  ],
   "credit": "20th Century Fox Television",
   "altHero": "two babies in a crib fighting",
   "alt1": "a baby walking down an arena entry with fans cheering",
@@ -19,7 +23,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "babies in action"
   ]
 }

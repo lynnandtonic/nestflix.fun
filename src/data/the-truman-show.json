@@ -8,9 +8,18 @@
   "parentYear": "1998",
   "rating": "TV-PG",
   "runtime": "30y",
-  "starring": [ "Truman Burbank", "Hannah Gill", "Louis Coltrane", "Alanis Montclair" ],
-  "director": [ "Christof" ],
-  "labels": [ "reality" ],
+  "starring": [
+    "Truman Burbank",
+    "Hannah Gill",
+    "Louis Coltrane",
+    "Alanis Montclair"
+  ],
+  "director": [
+    "Christof"
+  ],
+  "labels": [
+    "reality"
+  ],
   "credit": "Paramount Pictures",
   "altHero": "Truman looking into his bathroom mirror",
   "alt1": "Truman as a child at the beach",
@@ -21,7 +30,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality tv"
   ]
 }

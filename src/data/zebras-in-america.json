@@ -9,8 +9,13 @@
   "rating": "TV-MA",
   "runtime": "1 season",
   "studio": "Radioactive Animation Studios",
-  "director": [ "Gordon Brody" ],
-  "labels": [ "comedy" ],
+  "director": [
+    "Gordon Brody"
+  ],
+  "labels": [
+    "comedy",
+    "alternative legs"
+  ],
   "credit": "20th Century Fox",
   "altHero": "a family of half human, half zebra centaurs approach the Statue of Liberty via boat",
   "alt1": "Harry the zebra centaur",
@@ -21,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "comedy tv",
     "new on nestflix"
   ]

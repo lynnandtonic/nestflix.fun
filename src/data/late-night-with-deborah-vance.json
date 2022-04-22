@@ -8,14 +8,18 @@
   "rating": "TV-MA",
   "runtime": "1 episode",
   "studio": "CBS",
-  "starring": [ "Deborah Vance" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Deborah Vance"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "Deborah Vance giving a monologue in front of a stage curtain",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "late night talk shows"
   ]
 }

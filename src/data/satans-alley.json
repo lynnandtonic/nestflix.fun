@@ -8,9 +8,15 @@
   "parentYear": "2008",
   "rating": "R",
   "runtime": "2h 54m",
-  "starring": [ "Kirk Lazarus", "Tobey Maguire" ],
+  "starring": [
+    "Kirk Lazarus",
+    "Tobey Maguire"
+  ],
   "studio": "Fox Searchlight Pictures",
-  "labels": [ "drama" ],
+  "labels": [
+    "drama",
+    "religion"
+  ],
   "credit": "DreamWorks Pictures",
   "altHero": "Lazarus as a monk outside a monastery",
   "alt1": "Lazarus in front of some church candles",

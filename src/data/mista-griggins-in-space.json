@@ -8,9 +8,16 @@
   "parentYear": "2017-Present",
   "rating": "PG-13",
   "runtime": "1h 54m",
-  "starring": [ "Jerry Skyler" ],
-  "director": [ "Jerry Skyler" ],
-  "labels": [ "comedy" ],
+  "starring": [
+    "Jerry Skyler"
+  ],
+  "director": [
+    "Jerry Skyler"
+  ],
+  "labels": [
+    "comedy",
+    "space"
+  ],
   "credit": "Netflix",
   "altHero": "Mista Griggins, sharply dressed, in front of an electrical panel",
   "alt1": "Mista Griggins looks at a topographical map illuminated on glass",

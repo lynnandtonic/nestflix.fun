@@ -7,10 +7,21 @@
   "parentYear": "2004-2011",
   "rating": "PG-13",
   "runtime": "2h 8m",
-  "starring": [ "Vincent Chase", "Mandy Moore", "James Woods", "Ray Liotta", "Sharon Stone " ],
-  "director": [ "James Cameron" ],
+  "starring": [
+    "Vincent Chase",
+    "Mandy Moore",
+    "James Woods",
+    "Ray Liotta",
+    "Sharon Stone "
+  ],
+  "director": [
+    "James Cameron"
+  ],
   "studio": "Warner Bros. Pictures",
-  "labels": [ "action", "superheroes" ],
+  "labels": [
+    "action",
+    "superheroes"
+  ],
   "credit": "HBO Entertainment",
   "altHero": "a man in a suit jumps into the ocean as a huge wave approaches",
   "alt1": "a crowded pier",

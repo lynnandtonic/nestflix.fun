@@ -8,9 +8,15 @@
   "parentYear": "1997-Present",
   "rating": "TV-MA",
   "runtime": "16 seasons",
-  "starring": [ "Phillip Niles Argyle", "Terrance Henry Stoot" ],
+  "starring": [
+    "Phillip Niles Argyle",
+    "Terrance Henry Stoot"
+  ],
   "studio": "Cartoon Central, The Canada Channel",
-  "labels": [ "comedy" ],
+  "labels": [
+    "comedy",
+    "canada"
+  ],
   "credit": "Comedy Central",
   "altHero": "dramatic shot of Terrance and Phillip against black",
   "alt1": "Terrance and Phillip on the couch",
@@ -21,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "comedy tv"
   ]
 }

@@ -8,7 +8,12 @@
   "rating": "PG",
   "runtime": "8m",
   "studio": "I&S Studios",
-  "labels": [ "short film", "comedy", "animation" ],
+  "labels": [
+    "short film",
+    "comedy",
+    "animation",
+    "boats"
+  ],
   "credit": "20th Television",
   "altHero": "Itchy at the helm of a boat (in the style of Steamboat Willy)",
   "alt1": "a tugboat",

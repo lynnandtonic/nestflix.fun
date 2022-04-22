@@ -8,9 +8,14 @@
   "parentYear": "2009-2016",
   "rating": "TV-MA",
   "runtime": "5 seasons",
-  "starring": [ "Charlie Pollock", "Marta Reiman" ],
+  "starring": [
+    "Charlie Pollock",
+    "Marta Reiman"
+  ],
   "studio": "AMC",
-  "labels": [ "drama", "crime" ],
+  "labels": [
+    "crime drama"
+  ],
   "credit": "CBS Television",
   "altHero": "Charlie Pollock walks across a bridge with the city in the background",
   "alt1": "Pollack holds another man against a chain link fence",
@@ -21,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "tv dramas"
   ]
 }

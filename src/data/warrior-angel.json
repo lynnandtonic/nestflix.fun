@@ -7,8 +7,13 @@
   "parentYear": "2001-2011",
   "rating": "PG-13",
   "runtime": "2h 12m",
-  "starring": [ "Rachel Davenport" ],
-  "labels": [ "action", "superheroes" ],
+  "starring": [
+    "Rachel Davenport"
+  ],
+  "labels": [
+    "action",
+    "superheroes"
+  ],
   "credit": "Warner Bros. Domestic Television",
   "altHero": "a superhero flies through the sky",
   "alt1": "a woman in a dress is topped by someone pointing a gun at her",

@@ -8,8 +8,15 @@
   "parentYear": "1999-Present",
   "rating": "PG",
   "runtime": "1h 32m",
-  "starring": [ "Gene Simmons", "Paul Stanley", "Tommy Thayer", "Eric Singer" ],
-  "labels": [ "holiday" ],
+  "starring": [
+    "Gene Simmons",
+    "Paul Stanley",
+    "Tommy Thayer",
+    "Eric Singer"
+  ],
+  "labels": [
+    "holiday"
+  ],
   "credit": "20th Television",
   "altHero": "the rock band KISS at the North Pole with Mrs. Claus",
   "alt1": "KISS gives the metal sign from a helicopter",

@@ -9,7 +9,10 @@
   "rating": "TV-14",
   "runtime": "10 seasons",
   "studio": "FOX",
-  "labels": [ "reality", "competition", "dating" ],
+  "labels": [
+    "reality competition",
+    "dating"
+  ],
   "credit": "20th Television",
   "altHero": "a handsome man hands a rose to a woman",
   "alt1": "a tropical mansion set",
@@ -20,7 +23,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality dating shows"
   ]
 }

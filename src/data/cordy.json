@@ -7,9 +7,18 @@
   "parentYear": "1999-2004",
   "rating": "TV-PG",
   "runtime": "2 seasons",
-  "starring": [ "Cordelia Chase", "Gregory Dunne", "Elliott Simms", "Carol Wright" ],
-  "director": [ "Phlegmont and Mendoza" ],
-  "labels": [ "sitcom" ],
+  "starring": [
+    "Cordelia Chase",
+    "Gregory Dunne",
+    "Elliott Simms",
+    "Carol Wright"
+  ],
+  "director": [
+    "Phlegmont and Mendoza"
+  ],
+  "labels": [
+    "sitcom"
+  ],
   "credit": "20th Century Fox Television",
   "altHero": "Cordelia shrugs with a big smile",
   "alt1": "Cordelia models a dress in her apartment",
@@ -20,7 +29,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "sitcoms"
   ]
 }

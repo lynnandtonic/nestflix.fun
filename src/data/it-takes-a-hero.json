@@ -8,8 +8,15 @@
   "parentYear": "2002-2003",
   "rating": "Unrated",
   "runtime": "34m",
-  "director": [ "Abe Lincoln" ],
-  "labels": [ "drama", "sports", "sci-fi" ],
+  "director": [
+    "Abe Lincoln"
+  ],
+  "labels": [
+    "drama",
+    "sci-fi",
+    "sports",
+    "amateur"
+  ],
   "credit": "MTV Networks",
   "altHero": "a giraffe runs to kick a football held by his teammate",
   "alt1": "a football scoreboard: Heroes 10, Villains 12",

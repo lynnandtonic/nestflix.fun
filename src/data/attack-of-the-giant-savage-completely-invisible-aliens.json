@@ -8,7 +8,11 @@
   "parentYear": "1988-1999",
   "rating": "PG-13",
   "runtime": "1h 12m",
-  "labels": [ "sci-fi", "horror", "aliens" ],
+  "labels": [
+    "sci-fi",
+    "horror",
+    "aliens"
+  ],
   "credit": "BBC Two",
   "altHero": "men run down an alley as an alien ship hovers in the sky",
   "alt1": "people run away from the alien ship",

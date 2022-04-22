@@ -8,8 +8,15 @@
   "parentYear": "1993",
   "rating": "PG",
   "runtime": "2h 6m",
-  "starring": [ "Lawrence Woolsey", "Ruth Corday" ],
-  "labels": [ "sci-fi", "monster" ],
+  "starring": [
+    "Lawrence Woolsey",
+    "Ruth Corday"
+  ],
+  "labels": [
+    "sci-fi",
+    "monster",
+    "metamorphosis"
+  ],
   "credit": "Universal Pictures",
   "altHero": "a human-sized ant (Mant) in a suit talks with a woman",
   "alt1": "a doctor shows a woman a diagram of the brain",

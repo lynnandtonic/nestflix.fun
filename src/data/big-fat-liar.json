@@ -8,10 +8,18 @@
   "parentYear": "2002",
   "rating": "PG",
   "runtime": "2h 12m",
-  "starring": [ "Frank Jackson" ],
-  "director": [ "Dusty Wong" ],
+  "starring": [
+    "Frank Jackson"
+  ],
+  "director": [
+    "Dusty Wong"
+  ],
   "studio": "Marty Wolf Pictures",
-  "labels": [ "family", "comedy", "fantasy" ],
+  "labels": [
+    "family comedy",
+    "fantasy",
+    "extreme-sized people"
+  ],
   "credit": "Universal Pictures",
   "altHero": "Kenny Trooper is a giant man looks over a city with destruction debris and fallen electrical lines",
   "alt1": "a closeup of Kenny",

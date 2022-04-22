@@ -8,10 +8,19 @@
   "parentYear": "1993",
   "rating": "R",
   "runtime": "2h 15m",
-  "starring": [ "MC Gusto", "Dead Mike", "Stab Master Arson" ],
-  "director": [ "A. White" ],
+  "starring": [
+    "MC Gusto",
+    "Dead Mike",
+    "Stab Master Arson"
+  ],
+  "director": [
+    "A. White"
+  ],
   "studio": "Trustus Productions",
-  "labels": [ "documentary", "music" ],
+  "labels": [
+    "documentary",
+    "music"
+  ],
   "credit": "Universal Pictures",
   "altHero": "MC Gusto backlit on stage",
   "alt1": "CB4 walking up the stairs together to go on stage",

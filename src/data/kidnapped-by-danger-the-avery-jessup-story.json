@@ -8,10 +8,21 @@
   "parentYear": "2006-2013",
   "rating": "TV-14",
   "runtime": "1h 34m",
-  "starring": [ "Jenna Maroney", "Lance Drake Mandrell", "Michael Chan", "Cynthia Nixon", "Michelle Turner" ],
-  "director": [ "Shawn Connelly" ],
+  "starring": [
+    "Jenna Maroney",
+    "Lance Drake Mandrell",
+    "Michael Chan",
+    "Cynthia Nixon",
+    "Michelle Turner"
+  ],
+  "director": [
+    "Shawn Connelly"
+  ],
   "studio": "NBC",
-  "labels": [ "drama" ],
+  "labels": [
+    "drama",
+    "biography"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "Jenna Maroney as Jessup, reaching out as she is force up a helicopter dangling ladder",
   "alt1": "a man forces Jessup to climb the helicopter ladder",

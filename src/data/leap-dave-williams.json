@@ -8,8 +8,15 @@
   "parentYear": "2006-2013",
   "rating": "PG",
   "runtime": "1h 52m",
-  "starring": [ "Jim Carrey", "Andie MacDowell" ],
-  "labels": [ "comedy", "family" ],
+  "starring": [
+    "Jim Carrey",
+    "Andie MacDowell"
+  ],
+  "labels": [
+    "family comedy",
+    "holiday",
+    "metamorphosis"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "Dave Williams looks in the mirror to see he’s sporting Leap Day William’s signature hat, mustache, and gills",
   "alt1": "Dave, still in his bathrobe, first sees the mustache and gills in the bathroom mirror",

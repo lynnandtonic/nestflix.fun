@@ -8,8 +8,14 @@
   "parentYear": "2007-2019",
   "rating": "R",
   "runtime": "1h 48m",
-  "starring": [ "Wil Wheaton", "Penny Hofstadter (as Penny)"],
-  "labels": [ "horror", "monster" ],
+  "starring": [
+    "Wil Wheaton",
+    "Penny Hofstadter (as Penny)"],
+  "labels": [
+    "horror",
+    "monsters",
+    "metamorphosis"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "Penny, covered in gorilla hair, screams in a cage",
   "alt1": "Wil Wheaton as a scientist talking to Penny in her cage",

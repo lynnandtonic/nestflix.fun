@@ -9,7 +9,9 @@
   "rating": "TV-Y",
   "runtime": "1 season",
   "studio": "Tickleodeon",
-  "labels": [ "kids" ],
+  "labels": [
+    "kids"
+  ],
   "credit": "20th Century Fox Television",
   "altHero": "two fancily-dressed, young girls outside a limo",
   "alt1": "a limo school bus with extendable stop sign",
@@ -20,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }

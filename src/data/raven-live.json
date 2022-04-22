@@ -8,8 +8,12 @@
   "parentYear": "2015-Present",
   "rating": "TV-PG",
   "runtime": "5 seasons",
-  "starring": [ "Raven-Symoné" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Raven-Symoné"
+  ],
+  "labels": [
+    "daytime talk show"
+  ],
   "credit": "Netflix",
   "altHero": "Raven-Symoné on a talk show set",
   "alt1": "a studio audience",
@@ -20,7 +24,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "talk shows"
   ]
 }

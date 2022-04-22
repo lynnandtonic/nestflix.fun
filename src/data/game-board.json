@@ -8,8 +8,15 @@
   "parentYear": "2006-2013",
   "rating": "Unrated",
   "runtime": "1 season",
-  "starring": [ "Maurice Moss", "Newton Sinclair", "Roger Booth" ],
-  "labels": [ "talk show", "games" ],
+  "starring": [
+    "Maurice Moss",
+    "Newton Sinclair",
+    "Roger Booth"
+  ],
+  "labels": [
+    "talk show",
+    "games"
+  ],
   "credit": "Fremantle",
   "altHero": "Maurice, Newton, and Booth play board games on a frilly table cloth",
   "alt1": "Newton in front of some board games",

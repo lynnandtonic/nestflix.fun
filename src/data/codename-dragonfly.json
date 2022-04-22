@@ -8,10 +8,19 @@
   "parentYear": "2001",
   "rating": "PG-13",
   "runtime": "2h 25m",
-  "starring": [ "Valentine" ],
-  "director": [ "Andrezej", "Paul Ballard" ],
+  "starring": [
+    "Valentine"
+  ],
+  "director": [
+    "Andrezej",
+    "Paul Ballard"
+  ],
   "studio": "Enzo Di Martini Productions",
-  "labels": [ "sci-fi" ],
+  "labels": [
+    "sci-fi",
+    "espionage",
+    "space"
+  ],
   "credit": "MGM Studios",
   "altHero": "Dragonfly is a beautiful woman resting on a clean, white surface that perfectly contours her body and head",
   "alt1": "a spaceship lands on the moon",

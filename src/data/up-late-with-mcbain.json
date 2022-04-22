@@ -8,9 +8,15 @@
   "parentYear": "1989-Present",
   "rating": "TV-14",
   "runtime": "2 seasons",
-  "starring": [ "Rainier Wolfcastle", "Obergruppenfuhrer Wolfcastle", "Scoey" ],
+  "starring": [
+    "Rainier Wolfcastle",
+    "Obergruppenfuhrer Wolfcastle",
+    "Scoey"
+  ],
   "studio": "FOX",
-  "labels": [ "talk show" ],
+  "labels": [
+    "late night talk show"
+  ],
   "credit": "20th Television",
   "altHero": "McBain in a suit, in front of a curtain",
   "alt1": "Obergruppenfuhrer Wolfcastle, German general, announcing the show",
@@ -21,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "late night talk shows"
   ]
 }

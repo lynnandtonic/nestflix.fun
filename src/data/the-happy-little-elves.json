@@ -8,7 +8,10 @@
   "parentYear": "1989-Present",
   "rating": "TV-Y",
   "runtime": "5 seasons",
-  "labels": [ "kids" ],
+  "labels": [
+    "kids",
+    "fantasy"
+  ],
   "credit": "20th Television",
   "altHero": "two male elves and one female elf stand in an elf house with big smiles and arms open wide",
   "alt1": "a young and old elf talk in the snow",
@@ -19,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }

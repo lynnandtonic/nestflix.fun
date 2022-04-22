@@ -7,9 +7,15 @@
   "parentYear": "1989",
   "rating": "TV-G",
   "runtime": "1 season",
-  "starring": [ "Kuni" ],
+  "starring": [
+    "Kuni"
+  ],
   "studio": "Channel 62",
-  "labels": [ "reality", "game show" ],
+  "labels": [
+    "reality",
+    "game show",
+    "spin the wheel"
+  ],
   "credit": "Orion Pictures",
   "altHero": "a woman reaches up to spin big game show wheel that is covered in various fish",
   "alt1": "show hostess presents a Wheel of Fish game board with differently colored rows of fish iconography",
@@ -19,7 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "game shows"
   ]
 }

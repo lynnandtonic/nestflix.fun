@@ -8,8 +8,16 @@
   "parentYear": "1999-2013",
   "rating": "PG-13",
   "runtime": "2h 3m",
-  "starring": [ "Calculon", "Monique", "Reverend Lionel Preacherbot" ],
-  "labels": [ "drama", "romance", "robots" ],
+  "starring": [
+    "Calculon",
+    "Monique",
+    "Reverend Lionel Preacherbot"
+  ],
+  "labels": [
+    "drama",
+    "romance",
+    "robots"
+  ],
   "credit": "20th Century Fox Television",
   "altHero": "Calculon weeps in the rain over a dead Coilette",
   "layout": "movie.pug",

@@ -9,7 +9,9 @@
   "rating": "TV-Y7",
   "runtime": "3 seasons",
   "creator:": "Samantha Pepper",
-  "labels": [ "kids" ],
+  "labels": [
+    "kids"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "anthropomorphic spoon and pear hug while crying",
   "alt1": "waffle crying",
@@ -20,7 +22,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }

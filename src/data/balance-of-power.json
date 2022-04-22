@@ -8,9 +8,14 @@
   "parentYear": "2004",
   "rating": "TV-PG",
   "runtime": "1 season",
-  "starring": [ "Meredith Vieira" ],
+  "starring": [
+    "Meredith Vieira"
+  ],
   "studio": "EBS",
-  "labels": [ "game show" ],
+  "labels": [
+    "game show",
+    "trivia"
+  ],
   "credit": "Paramount Pictures",
   "altHero": "a man and a woman sit on a game show stage with a host in front of them",
   "alt1": "Meredith Vieira on the game show set",
@@ -21,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "game shows"
   ]
 }

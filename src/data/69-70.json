@@ -8,8 +8,13 @@
   "parentYear": "2001",
   "rating": "PG-13",
   "runtime": "1h 54m",
-  "director": [ "Paul Ballard" ],
-  "labels": [ "documentary" ],
+  "director": [
+    "Paul Ballard"
+  ],
+  "labels": [
+    "documentary",
+    "arthouse"
+  ],
   "credit": "MGM Studios",
   "altHero": "a grid of stills of everyday life like a teapot, watch, and phone",
   "alt1": "a man’s reflection in a mirror films from behind a camera",

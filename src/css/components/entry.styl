@@ -49,6 +49,10 @@ $bp-entry = 800px
         display: inline-block
       &.labels > span:not(:last-child)::after
         content: ', '
+      &.category,
+      &.labels {
+        text-transform: capitalize
+      }
     &.cast > span:not(:last-child)::after
       content: ', '
     a

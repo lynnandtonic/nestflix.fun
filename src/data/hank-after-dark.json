@@ -7,14 +7,18 @@
   "parentYear": "2014-2020",
   "rating": "TV-PG",
   "runtime": "6 seasons",
-  "starring": [ "Hank Hippopopalous" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Hank Hippopopalous"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
   "credit": "20th Television",
   "altHero": "a guest tries to grab the human baby who has attached herself to Hank’s arm",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "late night talk shows"
   ]
 }

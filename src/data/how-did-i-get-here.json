@@ -9,13 +9,15 @@
   "rating": "TV-G",
   "runtime": "1 season",
   "studio": "Interdimensional Cable",
-  "labels": [ "game show" ],
+  "labels": [
+    "game show"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "a confused woman standing on top of a tall light post",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "game shows"
   ]
 }

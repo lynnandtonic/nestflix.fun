@@ -8,8 +8,14 @@
   "parentYear": "2017-Present",
   "rating": "TV-MA",
   "runtime": "5 seasons",
-  "starring": [ "Shelli Boone", "Zan Gomes-Headley", "P. Ninny" ],
-  "labels": [ "drama" ],
+  "starring": [
+    "Shelli Boone",
+    "Zan Gomes-Headley",
+    "P. Ninny"
+  ],
+  "labels": [
+    "drama"
+  ],
   "credit": "Netflix",
   "altHero": "Cupcake, wearing a fur coat and big gold jewelry",
   "alt1": "Cupcake’s son covers his crotch with papers while another shirtless boy crouches underneath the grand piano",
@@ -20,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "tv dramas"
   ]
 }

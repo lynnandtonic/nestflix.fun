@@ -8,8 +8,14 @@
   "parentYear": "1994-2004",
   "rating": "Unrated",
   "runtime": "46m",
-  "starring": [ "Phoebe Buffay" ],
-  "labels": [ "adult", "fantasy" ],
+  "starring": [
+    "Phoebe Buffay"
+  ],
+  "labels": [
+    "adult",
+    "fantasy",
+    "vampires"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "Phoebe Buffay in a leather bodice and giant hair holding a wooden stake",
   "alt1": "a low-budget set featuring a coffin surrounded by candles",

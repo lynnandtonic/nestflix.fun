@@ -8,9 +8,15 @@
   "parentYear": "2002",
   "rating": "PG",
   "runtime": "1h 54m",
-  "starring": [ "Jaleel White" ],
+  "starring": [
+    "Jaleel White"
+  ],
   "studio": "Marty Wolf Pictures",
-  "labels": [ "action", "comedy", "crime" ],
+  "labels": [
+    "action comedy",
+    "crime",
+    "buddy cops"
+  ],
   "credit": "Universal Pictures",
   "altHero": "a chicken, Whitaker, in a cop’s uniform",
   "alt1": "a man, Fowl sitting in a cop car with coffee cups on the dash",

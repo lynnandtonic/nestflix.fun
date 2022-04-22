@@ -8,8 +8,14 @@
   "parentYear": "2005-2007",
   "rating": "PG-13",
   "runtime": "1h 43m",
-  "starring": [ "Clive Owen", "Greg Lindley-Jones" ],
-  "labels": [ "drama", "biography" ],
+  "starring": [
+    "Clive Owen",
+    "Greg Lindley-Jones"
+  ],
+  "labels": [
+    "historical drama",
+    "biography"
+  ],
   "credit": "BBC Two",
   "layout": "movie.pug",
   "altHero": "closeup of Clive Owen",

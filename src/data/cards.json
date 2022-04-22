@@ -8,9 +8,14 @@
   "parentYear": "1989-Present",
   "rating": "PG",
   "runtime": "1h 54m",
-  "starring": [ "Eddie Murphy" ],
+  "starring": [
+    "Eddie Murphy"
+  ],
   "studio": "DreamWorks",
-  "labels": [ "comedy", "family" ],
+  "labels": [
+    "family comedy",
+    "animation"
+  ],
   "credit": "20th Television",
   "altHero": "anthropomorphic father and son playing cards walk down the street",
   "alt1": "a city made of playing cards, poker chips and dice",

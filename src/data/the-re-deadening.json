@@ -8,8 +8,13 @@
   "parentYear": "1989-Present",
   "rating": "R",
   "runtime": "1h 56m",
-  "starring": [ "Donald Sutherland", "Lenny Leonard" ],
-  "labels": [ "horror" ],
+  "starring": [
+    "Donald Sutherland",
+    "Lenny Leonard"
+  ],
+  "labels": [
+    "horror"
+  ],
   "credit": "20th Television",
   "altHero": "a woman looks scared in a dark hallway as a spooky hand reaches out to grab her",
   "alt1": "a young girl sits alone in a rocking chair in a dark room, only illuminated by the moonlight through a window",

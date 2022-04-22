@@ -8,8 +8,13 @@
   "parentYear": "2016-Present",
   "rating": "TV-PG",
   "runtime": "6 seasons",
-  "starring": [ "Kevin Pearson" ],
-  "labels": [ "sitcom" ],
+  "starring": [
+    "Kevin Pearson"
+  ],
+  "labels": [
+    "sitcom",
+    "babies"
+  ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "a shirtless Kevin Pearson holds a baby",
   "alt1": "Alan Thicke talks with the Manny",
@@ -20,7 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "family sitcoms"
   ]
 }

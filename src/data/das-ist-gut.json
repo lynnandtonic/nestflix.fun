@@ -8,7 +8,9 @@
   "parentYear": "1999-Present",
   "rating": "TV-G",
   "runtime": "1 season",
-  "labels": [ "talk show" ],
+  "labels": [
+    "talk show"
+  ],
   "credit": "20th Television",
   "altHero": "a jovial man behind a desk",
   "alt1": "man shows a picture of a sunset and sailboat",
@@ -19,7 +21,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "talk shows"
   ]
 }

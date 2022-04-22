@@ -8,15 +8,21 @@
   "parentYear": "2014-2019",
   "rating": "TV-14",
   "runtime": "1 season",
-  "starring": [ "Esteban Santiago", "Rogelio De La Vega" ],
+  "starring": [
+    "Esteban Santiago",
+    "Rogelio De La Vega"
+  ],
   "studio": "Telemasivo Studios",
-  "labels": [ "telenovela" ],
+  "labels": [
+    "telenovela",
+    "space"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "a field of stars with a woman in a fancy dress and space helmet looking up at Rogelio De La Vega’s floating head (also in a space helmet)",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "telenovelas"
   ]
 }

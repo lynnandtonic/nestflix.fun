@@ -8,7 +8,10 @@
   "rating": "PG",
   "runtime": "47m",
   "studio": "Veronal Film Co",
-  "labels": [ "mystery", "romance" ],
+  "labels": [
+    "mystery",
+    "romance"
+  ],
   "credit": "Universal Pictures",
   "altHero": "a man and woman in fancy attire hold hands",
   "alt1": "a man faces the camera while a woman faces away",

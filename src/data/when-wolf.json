@@ -9,13 +9,18 @@
   "rating": "TV-14",
   "runtime": "2 seasons",
   "studio": "Interdimensional Cable",
-  "labels": [ "sci-fi", "fantasy" ],
+  "labels": [
+    "sci-fi",
+    "fantasy",
+    "time travel",
+    "werewolves"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "a vampire in a loincloth pleads with a werewolf",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "sci-fi tv"
   ]
 }

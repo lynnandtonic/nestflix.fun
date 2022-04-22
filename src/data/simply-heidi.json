@@ -7,14 +7,18 @@
   "parentYear": "1997-Present",
   "rating": "TV-PG",
   "runtime": "3 seasons",
-  "starring": [ "Heidi" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Heidi"
+  ],
+  "labels": [
+    "daytime talk show"
+  ],
   "credit": "Comedy Central",
   "altHero": "host Heidi sits and chats with a female guest",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "talk shows"
   ]
 }

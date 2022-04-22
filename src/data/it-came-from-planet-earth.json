@@ -8,7 +8,11 @@
   "parentYear": "1999-2013",
   "rating": "R",
   "runtime": "1h 28m",
-  "labels": [ "horror", "sci-fi" ],
+  "labels": [
+    "horror",
+    "sci-fi",
+    "aliens"
+  ],
   "credit": "20th Century Fox Television",
   "altHero": "a robot in a human costume with sharp teeth emerges from some bushes",
   "alt1": "two frightened robot teens in a parked car",

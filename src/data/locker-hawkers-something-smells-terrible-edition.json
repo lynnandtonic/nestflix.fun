@@ -8,7 +8,9 @@
   "parentYear": "2003-2006",
   "rating": "TV-PG",
   "runtime": "5 seasons",
-  "labels": [ "reality" ],
+  "labels": [
+    "reality"
+  ],
   "credit": "20th Television, Netflix",
   "altHero": "a group of people peer into a newly opened storage locker",
   "alt1": "people stand around outside a storage locker waiting for it to be opened",
@@ -19,7 +21,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality tv"
   ]
 }

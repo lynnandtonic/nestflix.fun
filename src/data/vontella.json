@@ -7,8 +7,12 @@
   "parentYear": "2006-2013",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": [ "Vontella" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Vontella"
+  ],
+  "labels": [
+    "daytime talk show"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "talk show host Vontella in front of her studio audience",
   "alt1": "Vontella gets serious",
@@ -19,7 +23,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "talk shows"
   ]
 }

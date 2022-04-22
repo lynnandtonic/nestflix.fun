@@ -8,8 +8,16 @@
   "parentYear": "2013",
   "rating": "R",
   "runtime": "1h 56m",
-  "starring": [ "Seth Rogen", "James Franco", "Danny McBride", "Craig Robinson" ],
-  "labels": [ "comedy", "action" ],
+  "starring": [
+    "Seth Rogen",
+    "James Franco",
+    "Danny McBride",
+    "Craig Robinson"
+  ],
+  "labels": [
+    "action comedy",
+    "stoners"
+  ],
   "credit": "Columbia Pictures",
   "altHero": "amateur footage of Dale and Saul driving a fake car",
   "alt1": "Dale and Saul chatting on a couch",

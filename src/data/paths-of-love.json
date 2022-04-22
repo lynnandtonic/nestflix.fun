@@ -8,10 +8,17 @@
   "parentYear": "2006-2014",
   "rating": "TV-14",
   "runtime": "6 seasons",
-  "starring": [ "Hilton Fox" ],
+  "starring": [
+    "Hilton Fox"
+  ],
   "creator": "Jay Gianukos",
-  "director": [ "Steve Rollins" ],
-  "labels": [ "reality", "competition", "dating" ],
+  "director": [
+    "Steve Rollins"
+  ],
+  "labels": [
+    "reality competition",
+    "dating"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "woman stands in front of rows of men in a heart ceremony",
   "alt1": "woman bachelorette looks nervous but excited",
@@ -22,7 +29,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality dating shows"
   ]
 }

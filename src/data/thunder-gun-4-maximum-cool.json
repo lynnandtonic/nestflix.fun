@@ -8,8 +8,15 @@
   "parentYear": "2005-Present",
   "rating": "PG-13",
   "runtime": "1h 37m",
-  "starring": [ "Dolph Lundgren", "Emily Chang", "Carlin James", "Kirk Bovill" ],
-  "labels": [ "action" ],
+  "starring": [
+    "Dolph Lundgren",
+    "Emily Chang",
+    "Carlin James",
+    "Kirk Bovill"
+  ],
+  "labels": [
+    "action"
+  ],
   "credit": "20th Television",
   "altHero": "Thundergun is anguished watching activists on a holograph",
   "alt1": "Dr. Ling’s assistant Max shows Thundergun a hologram of Colonel Washington",

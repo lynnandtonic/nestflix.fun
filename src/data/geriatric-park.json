@@ -7,8 +7,13 @@
   "parentYear": "1994",
   "rating": "PG-13",
   "runtime": "2h 13m",
-  "director": [ "Steven Spielberg" ],
-  "labels": [ "action", "thriller" ],
+  "director": [
+    "Steven Spielberg"
+  ],
+  "labels": [
+    "action",
+    "thriller"
+  ],
   "credit": "Paramount Pictures",
   "altHero": "a giant rubber walker foot next to a theme park Jeep in the rain",
   "alt1": "two kids shine a flashlight at two cups of water",

@@ -8,9 +8,14 @@
   "parentYear": "2010",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": [ "Sarah Marshall", "Rick Schroder" ],
+  "starring": [
+    "Sarah Marshall",
+    "Rick Schroder"
+  ],
   "studio": "NBC",
-  "labels": [ "drama", "medical" ],
+  "labels": [
+    "medical drama"
+  ],
   "credit": "Universal Pictures",
   "altHero": "Claire, a blind surgeon, feels the face of a male doctor, Cole",
   "alt1": "Cole and Claire walk down a hospital hallway",
@@ -21,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "tv dramas"
   ]
 }

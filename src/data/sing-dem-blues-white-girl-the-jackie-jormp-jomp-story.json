@@ -7,8 +7,14 @@
   "parentYear": "2006-2013",
   "rating": "R",
   "runtime": "1h 56m",
-  "starring": [ "Jenna Maroney" ],
-  "labels": [ "drama", "biography" ],
+  "starring": [
+    "Jenna Maroney"
+  ],
+  "labels": [
+    "drama",
+    "biography",
+    "music"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "Jackie Jormp-Jomp (a Janis Joplin-type) in hippie garb presses herself against a large window",
   "layout": "movie.pug",

@@ -8,9 +8,15 @@
   "parentYear": "2013-Present",
   "rating": "R",
   "runtime": "2h 33m",
-  "starring": [ "Jan-Michael Vincent" ],
+  "starring": [
+    "Jan-Michael Vincent"
+  ],
   "studio": "Interdimensional Cable",
-  "labels": [ "action", "sci-fi" ],
+  "labels": [
+    "action",
+    "sci-fi",
+    "dystopia"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "many clones of one man, Jan-Michael Vincent",
   "alt1": "drone choppers patrol a dystopian city with walls and armed guards",

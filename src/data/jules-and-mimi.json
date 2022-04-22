@@ -8,9 +8,15 @@
   "parentYear": "1998-2004",
   "rating": "TV-MA",
   "runtime": "2 series",
-  "starring": [ "Andrew Stewart-Jones", "Vicky Cunningham" ],
+  "starring": [
+    "Andrew Stewart-Jones",
+    "Vicky Cunningham"
+  ],
   "studio": "BBC America",
-  "labels": [ "drama", "romance" ],
+  "labels": [
+    "romantic drama",
+    "british TV"
+  ],
   "credit": "HBO Entertainment",
   "altHero": "Jules happily greets Mimi at his door",
   "alt1": "Jules",
@@ -21,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "british tv"
   ]
 }

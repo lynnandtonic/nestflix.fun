@@ -8,9 +8,18 @@
   "parentYear": "1983",
   "rating": "PG",
   "runtime": "1h 12m",
-  "starring": [ "Doug McKenzie", "Bob McKenzie" ],
-  "director": [ "Doug McKenzie" ],
-  "labels": [ "amateur", "sci-fi", "monster" ],
+  "starring": [
+    "Doug McKenzie",
+    "Bob McKenzie"
+  ],
+  "director": [
+    "Doug McKenzie"
+  ],
+  "labels": [
+    "sci-fi",
+    "monsters",
+    "amateur"
+  ],
   "credit": "MGM Pictures",
   "altHero": "Doug McKenzie wearing a helmet and inspecting a broken model of the Statue of Liberty",
   "alt1": "Doug standing on some rocks by the water, wearing a helmet and underwear over his pants",

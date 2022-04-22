@@ -7,10 +7,17 @@
   "parentYear": "2016-Present",
   "rating": "PG-13",
   "runtime": "2h 31m",
-  "starring": [ "Sylvester Stallone", "Kevin Pearson" ],
-  "director": [ "Ron Howard" ],
+  "starring": [
+    "Sylvester Stallone",
+    "Kevin Pearson"
+  ],
+  "director": [
+    "Ron Howard"
+  ],
   "studio": "Twentieth Century Fox",
-  "labels": [ "drama", "war" ],
+  "labels": [
+    "war drama"
+  ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "closeup shot of a soldier in battle",
   "layout": "movie.pug",

@@ -9,8 +9,13 @@
   "rating": "G",
   "runtime": "1h 23m",
   "studio": "Shadow Studios",
-  "starring": [ "Paul Buchman" ],
-  "labels": [ "documentary" ],
+  "starring": [
+    "Paul Buchman"
+  ],
+  "labels": [
+    "documentary",
+    "boats"
+  ],
   "credit": "Columbia Pictures Television",
   "altHero": "Paul interviews the director",
   "alt1": "the director looks bored",

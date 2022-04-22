@@ -8,7 +8,11 @@
   "parentYear": "1999-Present",
   "rating": "R",
   "runtime": "1h 56m",
-  "labels": [ "horror", "slasher" ],
+  "labels": [
+    "horror",
+    "slasher",
+    "religion"
+  ],
   "credit": "20th Television",
   "altHero": "the Pope with a huge grin and samurai sword strapped to his back",
   "alt1": "a Pope hat poking up from behind a hedge",

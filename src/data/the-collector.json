@@ -7,8 +7,13 @@
   "parentYear": "2000",
   "rating": "R",
   "runtime": "2h 15m",
-  "starring": [ "Anne Laurent" ],
-  "labels": [ "thriller" ],
+  "starring": [
+    "Anne Laurent"
+  ],
+  "labels": [
+    "thriller",
+    "psychological"
+  ],
   "credit": "Artificial Eye",
   "altHero": "Anne Laurent in a white blazer looks back at the camera in front of a large window",
   "alt1": "Laurent stands with a man in a suit who lights a cigarette",

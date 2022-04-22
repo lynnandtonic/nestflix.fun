@@ -8,9 +8,27 @@
   "rating": "Unrated",
   "runtime": "1h 2m",
   "studio": "Oseary Drakoulias",
-  "starring": [ "Steve Zissou", "Esteban du Plantier", "Klaus Daimler", "Vikram Ray", "Bobby Ogata", "Renzo Pietro", "Vladimir Wolodarsky", "Anne-Marie Sakowitz", "Pelé dos Santos", "Eleanor Zissou" ],
-  "director": [ "Steve Zissou" ],
-  "labels": [ "documentary", "educational" ],
+  "starring": [
+    "Steve Zissou",
+    "Esteban du Plantier",
+    "Klaus Daimler",
+    "Vikram Ray",
+    "Bobby Ogata",
+    "Renzo Pietro",
+    "Vladimir Wolodarsky",
+    "Anne-Marie Sakowitz",
+    "Pelé dos Santos",
+    "Eleanor Zissou"
+  ],
+  "director": [
+    "Steve Zissou"
+  ],
+  "labels": [
+    "documentary",
+    "educational",
+    "animals",
+    "boats"
+  ],
   "credit": "Buena Vista Pictures",
   "altHero": "Steve Zissou in scuba gear in front of a school of brightly colored pink fish",
   "alt1": "Klaus Daimler on the boat",

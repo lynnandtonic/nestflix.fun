@@ -8,9 +8,23 @@
   "parentYear": "2011",
   "rating": "PG-13",
   "runtime": "5m",
-  "starring": [ "Martin Read", "Joe Lamb", "Preston Scott", "Alice Dainard", "Cary McCarthy", "Charles Kaznyk" ],
-  "director": [ "Charles Kaznyk" ],
-  "labels": [ "short film", "sci-fi", "zombies", "amateur" ],
+  "starring": [
+    "Martin Read",
+    "Joe Lamb",
+    "Preston Scott",
+    "Alice Dainard",
+    "Cary McCarthy",
+    "Charles Kaznyk"
+  ],
+  "director": [
+    "Charles Kaznyk"
+  ],
+  "labels": [
+    "short film",
+    "sci-fi",
+    "zombies",
+    "amateur"
+  ],
   "credit": "Paramount Pictures",
   "altHero": "a teen boy and girl in a field, the boy raises a gun",
   "alt1": "teen boy dressed as an investigator taking notes on a pad of paper",

@@ -7,9 +7,16 @@
   "parentYear": "1973",
   "rating": "PG-13",
   "runtime": "2h 19m",
-  "starring": [ "Chris MacNeil" ],
-  "director": [ "Burke Dennings" ],
-  "labels": [ "drama" ],
+  "starring": [
+    "Chris MacNeil"
+  ],
+  "director": [
+    "Burke Dennings"
+  ],
+  "labels": [
+    "drama",
+    "college"
+  ],
   "credit": "Warner Bros. Pictures",
   "altHero": "a woman speaks on a megaphone in a crowd of protestors",
   "layout": "movie.pug",

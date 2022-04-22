@@ -8,9 +8,18 @@
   "parentYear": "2021",
   "rating": "Unrated",
   "runtime": "5m",
-  "starring": [ "Katie Mitchell", "Monchi" ],
-  "director": [ "Katie Mitchell" ],
-  "labels": [ "short film", "comedy", "amateur" ],
+  "starring": [
+    "Katie Mitchell",
+    "Monchi"
+  ],
+  "director": [
+    "Katie Mitchell"
+  ],
+  "labels": [
+    "short film",
+    "comedy",
+    "amateur"
+  ],
   "credit": "Netflix",
   "altHero": "a felt burger puppet with googly eyes and top hat",
   "alt1": "a girl eating a fast food burger",

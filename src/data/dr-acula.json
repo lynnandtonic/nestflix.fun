@@ -8,9 +8,18 @@
   "parentYear": "2001-2010",
   "rating": "Unrated",
   "runtime": "43m",
-  "starring": [ "John Michael Dorian", "Christopher Turk" ],
-  "director": [ "John Michael Dorian" ],
-  "labels": [ "horror" ],
+  "starring": [
+    "John Michael Dorian",
+    "Christopher Turk"
+  ],
+  "director": [
+    "John Michael Dorian"
+  ],
+  "labels": [
+    "horror",
+    "amateur",
+    "vampires"
+  ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "JD in scrubs wearing an afro wig, Turk shirtless wearing a vampire cape and fake teeth",
   "layout": "movie.pug",

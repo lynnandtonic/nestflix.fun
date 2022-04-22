@@ -8,9 +8,17 @@
   "parentYear": "2009-Present",
   "rating": "Unrated",
   "runtime": "1h 34m",
-  "starring": [ "Sterling Archer", "Lana Kane" ],
-  "director": [ "Sterling Archer" ],
-  "labels": [ "action" ],
+  "starring": [
+    "Sterling Archer",
+    "Lana Kane"
+  ],
+  "director": [
+    "Sterling Archer"
+  ],
+  "labels": [
+    "action drama",
+    "mobsters"
+  ],
   "credit": "20th Television",
   "altHero": "Archer in the woods, sick with sunken eyes, wears a headscarf and points a gun",
   "alt1": "a pharmecist",

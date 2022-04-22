@@ -8,9 +8,17 @@
   "parentYear": "2006-2013",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": [ "Angie Jordan", "Tracy Jordan", "Portia", "D’Fwan", "Randi" ],
+  "starring": [
+    "Angie Jordan",
+    "Tracy Jordan",
+    "Portia",
+    "D’Fwan",
+    "Randi"
+  ],
   "studio": "Bravo",
-  "labels": [ "reality" ],
+  "labels": [
+    "reality"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "Angie Jordan gives a smug look to the camera",
   "alt1": "Angie Jordan in the recording studio holding two fluffy dogs",
@@ -21,7 +29,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality tv"
   ]
 }

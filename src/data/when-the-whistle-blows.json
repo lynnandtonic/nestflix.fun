@@ -8,9 +8,19 @@
   "parentYear": "2005-2007",
   "rating": "TV-14",
   "runtime": "3 seasons",
-  "starring": [ "Andy Millman", "Liza Tarbuck", "Andrew Buckley", "Jamie Chapman", "Sarah Moyle", "Keith Chegwin" ],
+  "starring": [
+    "Andy Millman",
+    "Liza Tarbuck",
+    "Andrew Buckley",
+    "Jamie Chapman",
+    "Sarah Moyle",
+    "Keith Chegwin"
+  ],
   "studio": "BBC One",
-  "labels": [ "sitcom" ],
+  "labels": [
+    "sitcom",
+    "british TV"
+  ],
   "credit": "BBC Two",
   "altHero": "Andy Millman as Ray Stokes, an awkward man with curly hair and large-framed, red glasses",
   "alt1": "the employees of the factory sit at a table in the break room",
@@ -21,7 +31,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "british tv"
   ]
 }

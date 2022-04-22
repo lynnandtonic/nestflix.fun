@@ -9,7 +9,10 @@
   "rating": "TV-MA",
   "runtime": "2 seasons",
   "studio": "Interdimensional Cable",
-  "labels": [ "drama", "crime" ],
+  "labels": [
+    "crime drama",
+    "alternative legs"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "a gun-wielding detective has baby legs (diaper and all) and has difficulty walking",
   "alt1": "a police chief speaks to a shorter detective",
@@ -20,7 +23,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "crime shows"
   ]
 }

@@ -8,8 +8,13 @@
   "parentYear": "1998",
   "rating": "TV-MA",
   "runtime": "1 season",
-  "starring": [ "Alfredo" ],
-  "labels": [ "reality", "crime" ],
+  "starring": [
+    "Alfredo"
+  ],
+  "labels": [
+    "reality",
+    "real crime"
+  ],
   "credit": "TV Tokyo",
   "altHero": "Punch and Judy in their cowboy garb back to back holding pistols",
   "alt1": "a criminal mug shot",
@@ -20,7 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "criminal justice reality tv"
   ]
 }

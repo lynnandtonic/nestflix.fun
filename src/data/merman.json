@@ -8,9 +8,17 @@
   "parentYear": "2009",
   "rating": "PG",
   "runtime": "1h 56m",
-  "starring": [ "George Simmons", "Elizabeth Banks" ],
-  "director": [ "Judd Apataow" ],
-  "labels": [ "comedy" ],
+  "starring": [
+    "George Simmons",
+    "Elizabeth Banks"
+  ],
+  "director": [
+    "Judd Apataow"
+  ],
+  "labels": [
+    "comedy",
+    "alternative legs"
+  ],
   "credit": "Universal Pictures",
   "altHero": "George Simmons, with a fish‘s tail, sits in a hotel bathrobe on the phone",
   "layout": "movie.pug",

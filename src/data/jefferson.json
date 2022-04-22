@@ -8,9 +8,16 @@
   "parentYear": "2006-2013",
   "rating": "PG-13",
   "runtime": "1h 34m",
-  "starring": [ "Tracy Jordan", "Kenneth Parcell" ],
-  "director": [ "Tracy Jordan" ],
-  "labels": [ "drama", "history" ],
+  "starring": [
+    "Tracy Jordan",
+    "Kenneth Parcell"
+  ],
+  "director": [
+    "Tracy Jordan"
+  ],
+  "labels": [
+    "historical drama"
+  ],
   "credit": "NBCUniversal Television",
   "altHero": "Tracy Jordan dressed as Thomas Jefferson",
   "alt1": "Jefferson with a fellow soldier",

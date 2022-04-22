@@ -8,8 +8,13 @@
   "parentYear": "2005-Present",
   "rating": "R",
   "runtime": "2h 12m",
-  "director": [ "Tearjerker" ],
-  "labels": [ "drama", "history", "war" ],
+  "director": [
+    "Tearjerker"
+  ],
+  "labels": [
+    "historical drama",
+    "war drama"
+  ],
   "credit": "Disney-ABC Domestic Television",
   "altHero": "a black and white shot of Roger the alien playing Oscar with protruding teeth and dressed in wartime clothing",
   "alt1": "Nazi trucks drive through a city that has been destroyed",

@@ -8,7 +8,10 @@
   "parentYear": "1991-2005",
   "rating": "MGR",
   "runtime": "2h 9m",
-  "labels": [ "horror", "monster" ],
+  "labels": [
+    "horror",
+    "monsters"
+  ],
   "credit": "Nickelodeon Animation Studio",
   "altHero": "Reptar, a giant t-rex, encased in a huge ice pillar",
   "alt1": "Dr. Ventnor in a space helmet, pilots a spaceship",

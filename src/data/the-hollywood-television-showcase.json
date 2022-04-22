@@ -7,8 +7,13 @@
   "parentYear": "1996",
   "rating": "TV-G",
   "runtime": "2 seasons",
-  "starring": [ "Troy Chesterfield" ],
-  "labels": [ "variety", "entertainment" ],
+  "starring": [
+    "Troy Chesterfield"
+  ],
+  "labels": [
+    "variety shows",
+    "entertainment"
+  ],
   "credit": "20th Century Fox",
   "altHero": "host Troy Chesterfield introduces an act",
   "alt1": "Chesterfield surrounded by dancers",
@@ -19,7 +24,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "variety shows"
   ]
 }

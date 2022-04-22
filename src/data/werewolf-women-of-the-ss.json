@@ -8,9 +8,22 @@
   "parentYear": "2007",
   "rating": "R",
   "runtime": "2h 12m",
-  "starring": [ "Udo Kier", "Sheri Moon Zombie", "Tom Towles", "Sybil Danning", "Bill Moseley", "Nicolas Cage" ],
-  "director": [ "Rob Zombie" ],
-  "labels": [ "horror", "monster" ],
+  "starring": [
+    "Udo Kier",
+    "Sheri Moon Zombie",
+    "Tom Towles",
+    "Sybil Danning",
+    "Bill Moseley",
+    "Nicolas Cage"
+  ],
+  "director": [
+    "Rob Zombie"
+  ],
+  "labels": [
+    "horror",
+    "monsters",
+    "werewolves"
+  ],
   "credit": "Dimension Films",
   "altHero": "a werewolf in a Nazi uniform holding a large gun",
   "alt1": "Udo Kier as a Nazi officer",

@@ -7,8 +7,12 @@
   "parentYear": "1999-2013",
   "rating": "TV-14",
   "runtime": "8 seasons",
-  "starring": [ "Humorbot 5.0" ],
-  "labels": [ "talk show" ],
+  "starring": [
+    "Humorbot 5.0"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
   "credit": "20th Century Fox Television",
   "altHero": "Humorbot at his talk show desk",
   "alt1": "Humorbot interviews Calculon",
@@ -19,7 +23,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "late night talk shows"
   ]
 }

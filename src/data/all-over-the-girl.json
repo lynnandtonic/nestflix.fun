@@ -8,8 +8,13 @@
   "parentYear": "2019",
   "rating": "R",
   "runtime": "1h 38m",
-  "starring": [ "Nicole Barber" ],
-  "labels": [ "comedy", "romance", "teens" ],
+  "starring": [
+    "Nicole Barber"
+  ],
+  "labels": [
+    "teen comedy",
+    "coming-of-age"
+  ],
   "credit": "Netflix",
   "altHero": "a teen girl stands on the stairs at a party",
   "alt1": "a boy and girl talk",

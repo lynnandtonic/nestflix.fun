@@ -8,8 +8,15 @@
   "parentYear": "1997-Present",
   "rating": "TV-G",
   "runtime": "2 seasons",
-  "starring": [ "Randy Marsh", "Sharon Marsh" ],
-  "labels": [ "reality", "diy" ],
+  "starring": [
+    "Randy Marsh",
+    "Sharon Marsh"
+  ],
+  "labels": [
+    "reality",
+    "home improvement",
+    "diy"
+  ],
   "credit": "Comedy Central",
   "altHero": "Randy Marsh with toolbelt and goggles describing his vision to clients in their kitchen",
   "alt1": "Randy and Sharon Marsh standing outside a house that has recently sold",
@@ -20,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "home and diy"
   ]
 }

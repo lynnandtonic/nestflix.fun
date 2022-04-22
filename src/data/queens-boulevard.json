@@ -8,9 +8,18 @@
   "parentYear": "2004-2011",
   "rating": "R",
   "runtime": "2h 26m",
-  "starring": [ "Vincent Chase", "Ethan Suplee", "Zooey Deschanel", "Robert Duvall" ],
-  "director": [ "Billy Walsh" ],
-  "labels": [ "drama" ],
+  "starring": [
+    "Vincent Chase",
+    "Ethan Suplee",
+    "Zooey Deschanel",
+    "Robert Duvall"
+  ],
+  "director": [
+    "Billy Walsh"
+  ],
+  "labels": [
+    "drama"
+  ],
   "credit": "HBO Entertainment",
   "altHero": "Chase and Suplee meeting in an alley in the rain",
   "layout": "movie.pug",

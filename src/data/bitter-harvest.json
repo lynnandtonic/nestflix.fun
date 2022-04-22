@@ -9,8 +9,12 @@
   "rating": "TV-G",
   "runtime": "1h 46m",
   "studio": "Lifetime",
-  "starring": [ "Valerie Bertinelli" ],
-  "labels": [ "drama" ],
+  "starring": [
+    "Valerie Bertinelli"
+  ],
+  "labels": [
+    "drama"
+  ],
   "credit": "MGM Distribution Co.",
   "altHero": "Valerie Bertinelli with dark circles under her eyes and wearing a headscarf",
   "layout": "movie.pug",

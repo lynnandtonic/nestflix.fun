@@ -8,9 +8,15 @@
   "parentYear": "1997-Present",
   "rating": "TV-MA",
   "runtime": "2 seasons",
-  "starring": [ "Russell Crowe" ],
+  "starring": [
+    "Russell Crowe"
+  ],
   "studio": "HBC",
-  "labels": [ "reality", "travel" ],
+  "labels": [
+    "reality",
+    "travel",
+    "fighting"
+  ],
   "credit": "Comedy Central",
   "altHero": "Russell Crowe angrily lifts up a director",
   "alt1": "Crowe pumps his fist at a man walking down a pier",
@@ -21,7 +27,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality tv"
   ]
 }

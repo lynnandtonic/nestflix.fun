@@ -8,8 +8,14 @@
   "parentYear": "1994-2004",
   "rating": "TV-PG",
   "runtime": "1 season",
-  "starring": [ "Joey Tribbiani" ],
-  "labels": [ "comedy", "crime" ],
+  "starring": [
+    "Joey Tribbiani"
+  ],
+  "labels": [
+    "comedy",
+    "buddy cops",
+    "robots"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "Detective Mac and his robot partner, C.H.E.E.S.E.",
   "alt1": "Mac and C.H.E.E.S.E. talk in a dirty locker room",
@@ -20,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "buddy cops"
   ]
 }

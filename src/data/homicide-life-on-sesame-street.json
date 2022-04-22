@@ -8,7 +8,9 @@
   "parentYear": "1999-Present",
   "rating": "TV-MA",
   "runtime": "2 seasons",
-  "labels": [ "drama", "crime" ],
+  "labels": [
+    "crime drama"
+  ],
   "credit": "20th Television",
   "altHero": "a city street",
   "alt1": "an arm reaches out of bed for the telephone",
@@ -19,7 +21,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "crime shows"
   ]
 }

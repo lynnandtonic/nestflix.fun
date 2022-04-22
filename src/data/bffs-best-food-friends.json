@@ -9,9 +9,16 @@
   "rating": "TV-14",
   "runtime": "1 season",
   "studio": "Food TV",
-  "starring": [ "Dev Shah", "Jeff Pastore" ],
+  "starring": [
+    "Dev Shah",
+    "Jeff Pastore"
+  ],
   "producer": "Jeff Pastore",
-  "labels": [ "reality", "travel", "cooking" ],
+  "labels": [
+    "reality",
+    "travel",
+    "cooking"
+  ],
   "credit": "Netflix",
   "altHero": "Dev and Jeff laughing while eating at a restaurant counter",
   "alt1": "a hand delicately dresses a bowl of ramen",
@@ -22,7 +29,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality tv"
   ]
 }

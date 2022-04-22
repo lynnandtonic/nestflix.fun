@@ -8,9 +8,14 @@
   "parentYear": "2002",
   "rating": "TV-Y",
   "runtime": "2 seasons",
-  "starring": [ "Sheldon Mopes" ],
+  "starring": [
+    "Sheldon Mopes"
+  ],
   "studio": "Kidnet Television",
-  "labels": [ "kids", "variety" ],
+  "labels": [
+    "kids",
+    "variety show"
+  ],
   "credit": "Warner Bros. Pictures",
   "altHero": "Smoochy the Rhino",
   "alt1": "Smoochy cheering with a bunch of kids",
@@ -21,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids variety shows"
   ]
 }

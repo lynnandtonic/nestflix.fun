@@ -7,8 +7,15 @@
   "parentYear": "1999-2006",
   "rating": "TV-14",
   "runtime": "5 seasons",
-  "starring": [ "Mark Gottfried", "Chris Eisen", "Marjorie Clarke" ],
-  "labels": [ "talk show", "politics" ],
+  "starring": [
+    "Mark Gottfried",
+    "Chris Eisen",
+    "Marjorie Clarke"
+  ],
+  "labels": [
+    "talk show",
+    "politics"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "the Capital Beat desk with Mark Gottfried and guests",
   "alt1": "Republican commentator Ainsley Hayes",
@@ -19,7 +26,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "talk shows"
   ]
 }

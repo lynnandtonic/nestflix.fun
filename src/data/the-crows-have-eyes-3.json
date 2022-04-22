@@ -8,10 +8,18 @@
   "parentYear": "2015-2020",
   "rating": "PG-13",
   "runtime": "1h 54m",
-  "starring": [ "Moira Rose" ],
-  "director": [ "Blaire" ],
+  "starring": [
+    "Moira Rose"
+  ],
+  "director": [
+    "Blaire"
+  ],
   "studio": "Interflix",
-  "labels": [ "horror", "monster" ],
+  "labels": [
+    "horror",
+    "monsters",
+    "metamorphosis"
+  ],
   "credit": "Canadian Broadcasting Corporation",
   "altHero": "Moira Rose as Dr. Clara Mandrake who has started transforming into a crow-woman hybrid",
   "alt1": "two scientists walk through some trees",

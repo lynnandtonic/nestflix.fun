@@ -8,8 +8,12 @@
   "parentYear": "2020-present",
   "rating": "TV-MA",
   "runtime": "3 seasons",
-  "starring": [ "Jaylah Vivienne" ],
-  "labels": [ "reality", "competition" ],
+  "starring": [
+    "Jaylah Vivienne"
+  ],
+  "labels": [
+    "reality competition"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "host Jaylah Vivienne",
   "alt1": "shirtless Jamie Tartt talking to the camera with an island background",
@@ -20,7 +24,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "reality competition shows"
   ]
 }

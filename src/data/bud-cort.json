@@ -7,14 +7,20 @@
   "parentYear": "2003-2006",
   "rating": "TV-14",
   "runtime": "1 season",
-  "starring": [ "Bud Cort", "Franklin" ],
-  "labels": [ "reality", "crime" ],
+  "starring": [
+    "Bud Cort",
+    "Franklin"
+  ],
+  "labels": [
+    "real crime",
+    "courtroom"
+  ],
   "credit": "20th Television, Netflix",
   "altHero": "closeup of actor Bud Cort in judge’s robes",
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "criminal justice reality tv"
   ]
 }

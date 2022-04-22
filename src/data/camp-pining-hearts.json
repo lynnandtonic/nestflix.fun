@@ -8,7 +8,11 @@
   "parentYear": "2013-2019",
   "rating": "TV-PG",
   "runtime": "6 seasons",
-  "labels": [ "drama", "romance", "teens" ],
+  "labels": [
+    "teen drama",
+    "romance",
+    "canada"
+  ],
   "credit": "Warner Bros. Television",
   "altHero": "Paulette, a red-haired girl, and Percy, a blonde boy, in camp clothes",
   "alt1": "Paulette in camp gear",
@@ -19,7 +23,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "tv series",
+    "TV series",
     "kids tv"
   ]
 }
