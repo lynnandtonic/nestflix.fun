@@ -1,0 +1,28 @@
+{
+  "slug": "gina-tracker-fbi",
+  "title": "Gina Tracker, FBI",
+  "featuredTitle": "Gina Tracker, FBI",
+  "description": "The perp won’t get away for long when Gina Tracker is on the case. She always finds a way. Also she’s good at tracking.",
+  "quote": "I’ve never seen a cold trail… except for that time in Glacier National Park in January because of the snow, which is cold.",
+  "parent": "Central Park",
+  "parentYear": "2020-Present",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "20th Television",
+  "altHero": "Gina Tracker, a Black woman agent wearing a red tracksuit",
+  "alt1": "Gina kneels in an alley to examine some footprints while a mustached cop talks nearby",
+  "alt2": "a closeup of Gina’s face",
+  "alt3": "Gina walks toward the mustached cop at a crime scene",
+  "alt4": "Gina and the cop talk",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
