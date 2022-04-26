@@ -1,0 +1,40 @@
+{
+  "slug": "the-mr-frog-show",
+  "title": "The Mr. Frog Show",
+  "featuredTitle": "The Mr. Frog Show",
+  "description": "The iconic Mr. Frog in his long-running, record-breaking show that caused nationwide Frogmania.",
+  "quote": "I’m Mr. Frog. This is my show. I ate the bug.",
+  "parent": "Smiling Friends",
+  "parentYear": "2022-Present",
+  "rating": "TV-PG",
+  "runtime": "47 seasons",
+  "starring": [
+    "Mr. Frog",
+    "Bug",
+    "John Zippi",
+    "Peter Zippi",
+    "Timothy Wimmithy",
+    "John McGovern",
+    "Luke Landon",
+    "Matthew Stevenson",
+    "Daniel Freak"
+  ],
+  "studio": "Mr. Frog Studios",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Mr. Frog, a frog with long arms in brown shorts, smiles in a swamp",
+  "alt1": "Mr. Frog talks to a long-nosed bug sitting on a rock",
+  "alt2": "Mr. Frog shoves the bug into his wide open mouth",
+  "alt3": "a business man with bulging red eyes angrily shoves a contract in Mr. Frog’s face",
+  "alt4": "the business man screams in terror as Mr. Frog eats him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv",
+    "new on nestflix"
+  ]
+}
