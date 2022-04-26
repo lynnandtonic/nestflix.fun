@@ -1,0 +1,35 @@
+{
+  "slug": "the-cooper-clan",
+  "title": "The Cooper Clan",
+  "featuredTitle": "The Cooper Clan",
+  "description": "Tune in to America’s favorite family. It’s time to join the super duper Cooper Clan.",
+  "quote": "Our dog is a hippie!",
+  "parent": "Monk",
+  "parentYear": "2002-2009",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Christine Rapp",
+    "Brendan Collins",
+    "Gail Rodono",
+    "Lauren Perkins",
+    "Steven Dorn"
+  ],
+  "labels": [
+    "sitcom, family"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "Mr. and Mrs. Cooper give each other a smiling look",
+  "alt1": "the Cooper kids hanging out in the living room of their midcentury home",
+  "alt2": "two of the Cooper kids sit on the stairs",
+  "alt3": "Scamp the dog runs by with a vinyl record in his mouth",
+  "alt4": "two more of the Cooper kids",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
