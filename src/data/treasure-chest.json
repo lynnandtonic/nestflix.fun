@@ -1,0 +1,35 @@
+{
+  "slug": "treasure-chest",
+  "title": "Treasure Chest",
+  "featuredTitle": "Treasure Chest",
+  "description": "Contestants answer multiple choice trivia questions to win cash and prizes.",
+  "quote": "Let’s grab those shovels and go digging!",
+  "parent": "Monk",
+  "parentYear": "2002-2009",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Roddy Lankman",
+    "Lizzie Talvo"
+  ],
+  "producer": "Dwight Ellison",
+  "studio": "West Way Studios",
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "host Roddy Lankman at a podium and assistant Lizzie Talvo stands near a big treasure chest",
+  "alt1": "Lankman asks a question for a contestant",
+  "alt2": "Lankman reading a question card",
+  "alt3": "three contestants",
+  "alt4": "Talvo holding a mini treasure chest for a contestant",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
