@@ -1,0 +1,31 @@
+{
+  "slug": "crime-lab-sf",
+  "title": "Crime Lab S.F.",
+  "featuredTitle": "Crime Lab S.F.",
+  "description": "The popular <em>Crime Lab</em> spinoff that follows crime scene investigators in the hills of San Francisco.",
+  "quote": "You killed the hooker with a bullet made from your own frozen blood. Isn’t that right, Senator?",
+  "parent": "Monk",
+  "parentYear": "2002-2009",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "starring": [
+    "Brad Terry"
+  ],
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "three crime scene investigators discuss a crime scene",
+  "alt1": "a female investigator scans the wall of a crime scene with a handheld device",
+  "alt2": "male investigator in sunglasses dips his finger in a small bag of cocaine",
+  "alt3": "a syringe injects blood into a plastic mold",
+  "alt4": "a woman in flashy shorts and fishnet stockings looks scared",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
