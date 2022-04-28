@@ -1,0 +1,29 @@
+{
+  "slug": "roscoe",
+  "title": "Roscoe",
+  "featuredTitle": "Roscoe",
+  "description": "Roscoe, with his dual personalities and hijinks, stars in the classic television spinoff of the <em>Dark Quiet Death</em> film franchise.",
+  "parent": "Mythic Quest",
+  "parentYear": "2020-Present",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "studio": "Oubliette Studios",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Apple Inc.",
+  "altHero": "Roscoe, a pink hairy blob creature with thick eyebrows and a snaggle tooth",
+  "alt1": "Roscoe strains to pull on some shoes",
+  "alt2": "Roscoe is delighted with his bunny slippers",
+  "alt3": "Roscoe looks stunned and in pain",
+  "alt4": "Roscoe with his foot stuck in a mouse trap has become an anger monster with red eyes and many sharp teeth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
