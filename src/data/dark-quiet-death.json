@@ -1,0 +1,37 @@
+{
+  "slug": "dark-quiet-death",
+  "title": "Dark Quiet Death",
+  "featuredTitle": "Dark Quiet Death",
+  "description": "Darkness will fall, but one warrior will not go quietly. Ash Light from the <em>Dark Quiet Death</em> video game franchise makes her big screen debut.",
+  "quote": "Lights out, baby!",
+  "parent": "Mythic Quest",
+  "parentYear": "2020-Present",
+  "rating": "R",
+  "runtime": "",
+  "starring": [
+    "Tiffany Winter",
+    "Chad Pit"
+  ],
+  "director": [
+    "Stellan Drisko"
+  ],
+  "studio": "Oubliette Studios",
+  "labels": [
+    "action",
+    "horror"
+  ],
+  "credit": "Apple Inc.",
+  "altHero": "Ash light, a strong blonde woman",
+  "alt1": "a monster with pulsing skin, yellow eyes, and sharp teeth",
+  "alt2": "a female college student screams",
+  "alt3": "a woman in a motorcycle jacket and helmet holds up a silver flashlight",
+  "alt4": "Ash Light covered in dirt and blood holds two guns out to her sides",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
