@@ -1,0 +1,31 @@
+{
+  "slug": "today-in-fashion",
+  "title": "Today in Fashion",
+  "featuredTitle": "Today in Fashion",
+  "description": "Nathalie Lake discusses the latest in fashion and culture with special guests.",
+  "parent": "Mars Attacks!",
+  "parentYear": "1996",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Nathalie Lake"
+  ],
+  "labels": [
+    "daytime talk show",
+    "fashion"
+  ],
+  "credit": "Warner Bros.",
+  "altHero": "Nathalie Lake smiles in a pink suit and polka dot backdrop",
+  "alt1": "Lake sits in an egg chair across from guest Professor Donald Kessler",
+  "alt2": "Lake’s chihuahua sleeping",
+  "alt3": "Lake holding some question cards",
+  "alt4": "Lake and Kessler emerge from their egg chairs looking concerned",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
