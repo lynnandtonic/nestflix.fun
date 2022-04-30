@@ -1,0 +1,40 @@
+{
+  "slug": "blood-ocean",
+  "title": "Blood Ocean",
+  "description": "Experience the recovered, critically acclaimed blood thirsty carnage of a motion picture from the brutal minds of Dethklok. Space vikings, serial killers, an oil rig with a haunted crypt, and more.",
+  "parent": "Metalocalypse",
+  "parentYear": "2006-2013",
+  "rating": "PG-13",
+  "runtime": "1h 46m",
+  "starring": [
+    "Nathan Explosion",
+    "Skwisgaar Skwigelf",
+    "Pickles",
+    "William Murderface",
+    "Toki Wartooth",
+    "J.M. Amarth"
+  ],
+  "director": [
+    "B.M. Flift"
+  ],
+  "studio": "Behemoth Productions",
+  "labels": [
+    "sci-fi",
+    "action",
+    "space"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Nathan Explosion sinks into the blood ocean holding up his arm wearing a futuristic gauntlet",
+  "alt1": "William Murderface sitting on an inflated raft on the blood ocean",
+  "alt2": "Skwisgaar Skwigelf as a space Viking floating through space on a Viking ship",
+  "alt3": "Pickles wearing a karate uniform in front of an oil rig in the blood ocean",
+  "alt4": "Nathan Explosion sitting on the raft in the blood ocean",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films",
+    "new on nestflix"
+  ]
+}
