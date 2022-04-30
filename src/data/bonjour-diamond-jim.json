@@ -1,0 +1,35 @@
+{
+  "slug": "bonjour-diamond-jim",
+  "title": "Bonjour, Diamond Jim",
+  "description": "Perhaps the most expensive 3 minutes in cinema, a drama about a man named Diamond Jim, based on the poem by Jim Joe Kelly.",
+  "quote": "A girl can not say no to diamonds.",
+  "parent": "Tim and Eric’s Billion Dollar Movie",
+  "parentYear": "2012",
+  "rating": "Unrated",
+  "runtime": "3m",
+  "starring": [
+    "Fake Johnny Depp"
+  ],
+  "director": [
+    "Tim Heidecker",
+    "Eric Wareheim"
+  ],
+  "studio": "Schlaaang Films",
+  "labels": [
+    "romantic drama"
+  ],
+  "credit": "Magnet Releasing",
+  "altHero": "a Johnny Depp look-alike on a Paris street wearing a faceted, reflective suit",
+  "alt1": "Diamond Jim walks down a street and nods at a woman with a stroller",
+  "alt2": "Diamond Jim hands a beggar some diamonds",
+  "alt3": "Diamond Jim speaks with a brunette woman",
+  "alt4": "Diamond Jim presents the woman with a comically huge diamond ring",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas",
+    "new on nestflix"
+  ]
+}
