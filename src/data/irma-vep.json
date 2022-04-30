@@ -1,0 +1,34 @@
+{
+  "slug": "irma-vep",
+  "title": "Irma Vep",
+  "description": "René Vidal’s unfinished reimagining of Louis Feuillade’s silent serial film <em>Les Vampires</em> focusing on Irma Vep, the mistress of vampires.",
+  "parent": "Irma Vep",
+  "parentYear": "1996",
+  "rating": "Unrated",
+  "runtime": "32m",
+  "starring": [
+    "Maggie Cheung"
+  ],
+  "director": [
+    "René Vidal"
+  ],
+  "labels": [
+    "thriller",
+    "silent",
+    "vampires"
+  ],
+  "credit": "",
+  "altHero": "black and white film: a woman in a leather catsuit and a ski mask walks up a flight of stairs",
+  "alt1": "closeup of the woman in the ski mask",
+  "alt2": "a man stands with the woman unmasked, a beautiful Asian woman",
+  "alt3": "a blurry shot of the masked woman running across a rooftop, scribbley asterisks are composited on top",
+  "alt4": "a blurry closeup of the woman with rows of black circles superimposed over her eyes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
