@@ -1,0 +1,22 @@
+{
+  "slug": "fish-bowl-ii",
+  "title": "Fish Bowl II",
+  "description": "The classic follow-up series to <em>Fish Bowl I</em>.",
+  "parent": "Ed, Edd n Eddy",
+  "parentYear": "1999-2009",
+  "rating": "TV-Y",
+  "runtime": "1 season",
+  "labels": [
+    "nature",
+    "animals"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "an aquarium scene with paper cutout drawings of fish moving around via wooden sticks",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv",
+    "new on nestflix"
+  ]
+}
