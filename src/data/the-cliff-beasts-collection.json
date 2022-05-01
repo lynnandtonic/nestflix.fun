@@ -1,0 +1,37 @@
+{
+  "slug": "the-cliff-beasts-collection",
+  "title": "The Cliff Beasts Collection",
+  "description": "Mankind is threatened with a new kind of beast. Catch up with the 23rd biggest action franchise ever and the five films that led up to the ill-fated <em>Cliff Beasts 6: Battle for Everest: Memories of a Requiem.</em>",
+  "parent": "The Bubble",
+  "parentYear": "2022",
+  "rating": "PG-13",
+  "runtime": "10h 45m",
+  "starring": [
+    "Sean Knox",
+    "Carol Cobb",
+    "Lauren Van Chance",
+    "Dustin Mulray",
+    "Howie Frangopolous"
+  ],
+  "labels": [
+    "collection",
+    "action",
+    "sci-fi",
+    "dinosaurs"
+  ],
+  "credit": "Netflix",
+  "altHero": "Carol Cobb as Dr. Lacey Nightingale in front of a Chinese temple and flying dinosaur",
+  "alt1": "Cliff Beasts",
+  "alt2": "Cliff Beasts 2: Re-Extinction",
+  "alt3": "Cliff Beasts 3: Oceana",
+  "alt4": "Cliff Beasts 4: Beijing Beast",
+  "alt5": "Cliff Beasts 5: Space Fury",
+  "layout": "movie.pug",
+  "submovies": 5,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films",
+    "new on nestflix"
+  ]
+}
