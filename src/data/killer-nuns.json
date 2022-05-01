@@ -1,0 +1,39 @@
+{
+  "slug": "killer-nuns",
+  "title": "Killer Nuns",
+  "description": "The Sisters of Eternal Sorrows take their vows very, very seriously. They’re cleaning up the streets in their own special way. They’re nuns with a bad habit.",
+  "quote": "Say your prayers…",
+  "parent": "The Comeback Trail",
+  "parentYear": "2020",
+  "rating": "R",
+  "runtime": "2h 11m",
+  "starring": [
+    "Olivia Mangrove",
+    "Angela Chesterton",
+    "Barb Blackthorn"
+  ],
+  "director": [
+    "Ted Lee"
+  ],
+  "producer": "Max Barber, Walter Creason",
+  "studio": "Miracle Motion Pictures",
+  "labels": [
+    "action",
+    "religion",
+    "pulp noir"
+  ],
+  "credit": "Cloudburst Entertainment",
+  "altHero": "sexy nuns pose in a church wearing habits and revealing lingerie",
+  "alt1": "the sexy nuns hold weapons and talk to some gangster looking dudes at a table",
+  "alt2": "one of the nuns holds a bunch of cash in her hands",
+  "alt3": "the nuns corner a drug dealer in a park, one nun has a knife to his throat",
+  "alt4": "a clearly fake decapitated head of the drug dealer",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
