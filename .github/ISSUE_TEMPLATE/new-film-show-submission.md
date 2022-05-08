@@ -1,7 +1,7 @@
 ---
 name: New film/show submission
 about: New films and shows to be added to Nestflix
-title: Add [Title]
+title: Add [Title] from [Parent film/show]
 labels: suggested title
 assignees: ''
 
