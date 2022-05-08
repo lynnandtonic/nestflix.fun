@@ -1,0 +1,32 @@
+{
+  "slug": "the-jerry-langford-show",
+  "title": "The Jerry Langford Show",
+  "description": "Host Jerry Langford welcomes celebrities, entertainers, and other fascinating folks for conversation and comedy.",
+  "quote": "Say hello to Jerry!",
+  "parent": "The King of Comedy",
+  "parentYear": "1982",
+  "rating": "TV-PG",
+  "runtime": "10 seasons",
+  "starring": [
+    "Jerry Langford",
+    "Ed Herlihy",
+    "Lou Brown"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "Jerry Langford in front of a purple curtain",
+  "alt1": "announcer Ed Herlihy",
+  "alt2": "Jerry Langford",
+  "alt3": "band leader Lou Brown",
+  "alt4": "comedian and criminal Rupert Pupkin",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows",
+    "new on nestflix"
+  ]
+}
