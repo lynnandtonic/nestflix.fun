@@ -1,0 +1,39 @@
+{
+  "slug": "southwest-general",
+  "title": "Southwest General",
+  "description": "The medical staff at Southwest General deals in secrets, romance, betrayal, soliloquies, and more.",
+  "quote": "If you want to win me over you’ll have to deal with my mind and not my lips.",
+  "parent": "Tootsie",
+  "parentYear": "1982",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": [
+    "John Van Horn",
+    "Julie Nichols",
+    "April Page",
+    "Dorothy Michaels"
+  ],
+  "director": [
+    "Ron Carlisle"
+  ],
+  "producer": "Rita Marshall",
+  "studio": "National Studios",
+  "labels": [
+    "soap opera",
+    "medical drama"
+  ],
+  "credit": "Columbia Pictures",
+  "altHero": "a young female nurse and an older female administrator",
+  "alt1": "the administrator giving a stern talk to a male doctor",
+  "alt2": "the administrator speaking with a patient",
+  "alt3": "the young nurse speaks passionately with her arms gripping the male doctor’s arms",
+  "alt4": "the administrator",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas",
+    "new on nestflix"
+  ]
+}
