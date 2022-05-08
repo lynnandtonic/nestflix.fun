@@ -1,0 +1,33 @@
+{
+  "slug": "citizen-starlight",
+  "title": "Citizen Starlight",
+  "description": "This small town girl next door wanted to change the world. But the world had other plans. Battered and beaten, a phoenix rose from the ashes with a message so loud, so raw it couldn’t come from forth as anything less than a roar.",
+  "quote": "I’m done taking any more shit.",
+  "parent": "The Boys",
+  "parentYear": "2019-Present",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": [
+    "Starlight",
+    "The Deep"
+  ],
+  "studio": "Vought Studios",
+  "labels": [
+    "reality",
+    "superheroes"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "Starlight raises her arms on stage",
+  "alt1": "Starlight walks the red carpet with her mother",
+  "alt2": "Starlight and The Deep on stage together",
+  "alt3": "the silhouette of a woman slapping a man in the face",
+  "alt4": "Starlight doing some punches",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
