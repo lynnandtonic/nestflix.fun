@@ -1,0 +1,28 @@
+{
+  "slug": "dont-count-out-the-ham-and-egger",
+  "title": "Don’t Count Out the Ham and Egger",
+  "description": "A former boxer working in a string factory doesn’t have much left in him. He agrees to fight to earn enough for a meal. A tale of love, loss, blood, and revenge.",
+  "quote": "Hey string, wanna tangle?",
+  "parent": "Bob’s Burgers",
+  "parentYear": "2011-Present",
+  "rating": "PG",
+  "runtime": "1h 56m",
+  "labels": [
+    "drama",
+    "sports"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "a shirtless boxer in the ring",
+  "alt1": "the shirtless boxer getting ready to punch a big spool of string",
+  "alt2": "the boxer in a hoodie visiting a lady friend and presenting her with some string from a paper bag",
+  "alt3": "a blonde boxer gets punched in the face",
+  "alt4": "our shirtless boxer looking defeated on the floor of the ring while the referee counts and his lady friend looks concerned",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
