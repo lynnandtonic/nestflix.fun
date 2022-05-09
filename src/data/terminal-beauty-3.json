@@ -1,0 +1,34 @@
+{
+  "slug": "terminal-beauty-3",
+  "title": "Terminal Beauty 3",
+  "description": "A private detective, working the biggest case of her life, crosses paths with a smooth-talking con man with a dark, mysterious past. They soon find themselves caught up in a dangerous game of cat-and-mouse.",
+  "quote": "You got the right to remain silent, bitch.",
+  "parent": "The Boys",
+  "parentYear": "2019-Present",
+  "rating": "R",
+  "runtime": "2h 3m",
+  "starring": [
+    "Popclaw",
+    "Billy Zane"
+  ],
+  "studio": "Vought Studios",
+  "labels": [
+    "action",
+    "crime",
+    "superheroes"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "Popclaw as a vampy detective",
+  "alt1": "a man runs down a dark alley with a woman following behind",
+  "alt2": "the man is backed up against a chain fence",
+  "alt3": "closeup of Billy Zane, the con man",
+  "alt4": "the detective interrogates the con man from behind",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}

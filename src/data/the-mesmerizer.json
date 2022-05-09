@@ -1,0 +1,33 @@
+{
+  "slug": "the-mesmerizer",
+  "title": "The Mesmerizer",
+  "description": "New York. The hearts of 7 million men and women beat inside this city. But there’s only one person who can see inside their hearts and read their minds.",
+  "quote": "There are no secrets from me.",
+  "parent": "The Boys",
+  "parentYear": "2019-Present",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Mesmer"
+  ],
+  "studio": "Vought Studios",
+  "labels": [
+    "crime drama",
+    "paranormal",
+    "superheroes"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "Mesmer stars as Lt. Howser, a young boy detective",
+  "alt1": "a meeting at a police precinct",
+  "alt2": "Lt. Howser, a young boy in a suit and coat",
+  "alt3": "across an interrogation table, a boy’s hand reaches out and touches a man’s hand",
+  "alt4": "closeup of Lt. Howser thinking with his eyes closed",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}

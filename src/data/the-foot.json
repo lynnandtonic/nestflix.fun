@@ -1,0 +1,32 @@
+{
+  "slug": "the-foot",
+  "title": "The Foot",
+  "description": "A young couple seeks shelter for the night in an abandoned home. They soon realize something weird is afoot and this house holds a sinister secret.",
+  "quote": "Did you just kick me?",
+  "parent": "Diary of a Wimpy Kid: Rodrick Rules",
+  "parentYear": "2011",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "director": [
+    "Leonardo Lara"
+  ],
+  "studio": "Stockport Films",
+  "labels": [
+    "horror",
+    "paranormal"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "a severed foot sticks its pinkie toe into the nose of a screaming woman",
+  "alt1": "a menacing oil portrait of a man with wild hair",
+  "alt2": "a severed foot walks across the floor of an old house",
+  "alt3": "a young man and woman explore an old house by candlelight",
+  "alt4": "a woman’s two feet and one man’s foot stick out the end of bedsheets",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}

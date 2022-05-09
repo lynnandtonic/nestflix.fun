@@ -1,0 +1,27 @@
+{
+  "slug": "suspicion-island",
+  "title": "Suspicion Island",
+  "description": "On Suspicion Island, if you don’t stay suspicious, you won’t stay alive. An addictive series honoring the reality tv tradition of beautiful people doing dumb things while stuff explodes.",
+  "quote": "These pterodactyls are clones of my dead brother!",
+  "parent": "Amphibia",
+  "parentYear": "2019-Present",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality competition"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "a woman screaming as she is carried away by giant talons, a shirtles man ponders pushing a giant red button, and another woman is upside holding her breath under water",
+  "alt1": "a man and woman in tattered clothes are surrounded by pterodactyls",
+  "alt2": "a group in tattered clothes walks through the jungle",
+  "alt3": "a woman points and yells at a shirtless man",
+  "alt4": "a woman holds a torch and screams as she sees the cave is full of animal skulls",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}

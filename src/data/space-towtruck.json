@@ -1,0 +1,28 @@
+{
+  "slug": "space-towtruck",
+  "title": "Space Towtruck",
+  "description": "Space towtruck. Flying over the rings with a comet’s density. Space towtruck. Providing helpful convenience with cosmic intensity!",
+  "quote": "Space towtruck forever!",
+  "parent": "The Powerpuff Girls",
+  "parentYear": "2016-2019",
+  "rating": "TV-Y",
+  "runtime": "1 season",
+  "labels": [
+    "kids",
+    "space"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a towtruck flying through space",
+  "alt1": "space towtruck hitting hyperspeed",
+  "alt2": "space towtruck flying by a ringed planet",
+  "alt3": "space towtruck",
+  "alt4": "space towtruck flying by a planet",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
