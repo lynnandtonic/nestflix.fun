@@ -1,0 +1,38 @@
+{
+  "slug": "super-in-america",
+  "title": "Super in America",
+  "description": "Camera crews follow The Seven as they lend a helping hand in the community, visit with local people, and tell stories about their incredible lives.",
+  "parent": "The Boys",
+  "parentYear": "2019-Present",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Homelander",
+    "Queen Maeve",
+    "A-Train",
+    "The Deep",
+    "Black Noir",
+    "Translucent",
+    "Starlight"
+  ],
+  "studio": "Vought Studios",
+  "labels": [
+    "reality",
+    "documentary",
+    "superheroes"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "Homelander laughs and spins with a kid on his shoulders",
+  "alt1": "The Deep helping folks pick up trash on the beach",
+  "alt2": "Queen Maeve smiling in a humanitarian camp",
+  "alt3": "A-Train running next to amputees in wheelchairs",
+  "alt4": "a swing in the air with no one in it",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series",
+    "new on nestflix"
+  ]
+}
