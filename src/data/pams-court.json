@@ -1,0 +1,29 @@
+{
+  "slug": "pams-court",
+  "title": "Pam’s Court",
+  "description": "This is the court room of Judge Pam, and Judge Pam has the final word. We’ll see you in court.",
+  "quote": "I sentence you to stay tuned.",
+  "parent": "Bob’s Burgers",
+  "parentYear": "2011-Present",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "studio": "Channel 13",
+  "labels": [
+    "real crime",
+    "courtroom"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Judge Pam on the stand holding up her gavel",
+  "alt1": "wide shot of a courtroom",
+  "alt2": "Judge Pam speaking while holding her gavel",
+  "alt3": "Bob Belcher points at Jimmy Pesto and his lawyer",
+  "alt4": "the Belchers are smothered with orange foam from above",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv",
+    "new on nestflix"
+  ]
+}
