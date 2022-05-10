@@ -1,0 +1,32 @@
+{
+  "slug": "family-fracas",
+  "title": "Family Fracas",
+  "description": "A new game show that makes people do weird stuff and then dumps foam on them. Families compete in physical challenges for the chance to win big prizes (or more foam).",
+  "quote": "Let’s get Frackin!",
+  "parent": "Bob’s Burgers",
+  "parentYear": "2011-Present",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Chuck Charles"
+  ],
+  "studio": "Channel 13",
+  "labels": [
+    "game show",
+    "spin the wheel"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "host Chuck Charles with two families on a colorful game show set",
+  "alt1": "two sets of mothers and daughters use giant spoons to remove flies from giant bowls of soup",
+  "alt2": "two men hang from harnesses with their heads submerged in a blue ball pit",
+  "alt3": "foam cam showing two people getting covered in orange foam",
+  "alt4": "contestant Louise Belcher screams in frustration next to a wheel of prizes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
