@@ -1,0 +1,28 @@
+{
+  "slug": "way-too-complicated",
+  "title": "Way Too Complicated!",
+  "description": "He’s a big city dinosaur detective who leaps through time to adopt seven interracial children. She’s a ghost with seven interracial ghost children of her own. Now they’re all moving to the country to become district attorneys. And watch the sparks fly when mother moves in!",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "studio": "ABC",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "a Brady Bunch like grid of family members made up of various dinosaurs and ghosts",
+  "alt1": "a male dinosaur in a shirt and tie and trenchcoat",
+  "alt2": "the dinosaur surrounded by his seven dinosaur children",
+  "alt3": "a ghost surrounded by her seven ghost children",
+  "alt4": "a dinosaur grandma in a bathrobe and night cap",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
