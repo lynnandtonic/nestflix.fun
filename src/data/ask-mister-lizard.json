@@ -1,0 +1,29 @@
+{
+  "slug": "ask-mister-lizard",
+  "title": "Ask Mister Lizard",
+  "description": "Mister Lizard and his lab helper Timmy learn about family-friendly science topics like nitroglycerin, jet engines, and geothermal energy.",
+  "quote": "We’re gonna need another Timmy!",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "science",
+    "educational"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "Mister Lizard and Timmy in the lab",
+  "alt1": "Timmy stands by as Mister Lizard sparks a lighter",
+  "alt2": "Mister Lizard calls out to the producers while Timmy is headless from an explosion",
+  "alt3": "Mister Lizard and Timmy stand near a jet engine that says “Danger”",
+  "alt4": "Mister Lizard peeks out from behind a blast shield",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
