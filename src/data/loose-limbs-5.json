@@ -1,0 +1,28 @@
+{
+  "slug": "loose-limbs-5",
+  "title": "Loose Limbs 5: the Anatomy of Fear",
+  "description": "The fifth installment in the <em>Loose Limbs</em> horror series made famous by its condensed sex and violence.",
+  "quote": "Don’t thank me, thank science!",
+  "parent": "Evil Ed",
+  "parentYear": "1995",
+  "rating": "R",
+  "runtime": "1h 30m",
+  "labels": [
+    "horror",
+    "slasher"
+  ],
+  "credit": "Evil Ed Productions",
+  "altHero": "a long-haired, wide-eyed man in scrubs holding a cleaver",
+  "alt1": "a man in surgeon garb holds up a syringe filled with green liquid",
+  "alt2": "the surgeon pulls back to stick a woman’s foot with the syringe",
+  "alt3": "the surgeon uses forceps on the woman’s toe",
+  "alt4": "the woman screams with blood on her face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks",
+    "new on nestflix"
+  ]
+}
