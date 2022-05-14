@@ -1,0 +1,32 @@
+{
+  "slug": "camp-bloodbath",
+  "title": "Camp Bloodbath",
+  "description": "Welcome to Camp Blue Finch, where romance in the sun can turn deadly! Where the days are warm, the girls are cool, the nights are always hot… and evil lurks around every corner.",
+  "quote": "Did I miss the Kumbaya circle?",
+  "parent": "The Final Girls",
+  "parentYear": "2015",
+  "rating": "R",
+  "runtime": "1h 42m",
+  "starring": [
+    "Amanda Cartwright"
+  ],
+  "studio": "VideoVerse Entertainment",
+  "labels": [
+    "horror",
+    "slasher"
+  ],
+  "credit": "Stage 6 Films",
+  "altHero": "a summer camp cabin in the rain",
+  "alt1": "Amanda Cartwright as Nancy, a blonde camp counselor",
+  "alt2": "a young woman screams as she sees something in a freezer",
+  "alt3": "a man wearing a mask and gloves grabs the face of a terried male counselor",
+  "alt4": "a young woman looks fed up as she rests a machete across her shoulders",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks",
+    "new on nestflix"
+  ]
+}
