@@ -1,0 +1,30 @@
+{
+  "slug": "tonight-with-katherine-newbury",
+  "title": "Tonight with Katherine Newbury",
+  "description": "Host of <em>Tonight</em> for nearly 30 years, Katherine Newbury is an icon of late night televison.",
+  "quote": "I hope I earned the privilege of your time.",
+  "parent": "Late Night",
+  "parentYear": "2019",
+  "rating": "TV-PG",
+  "runtime": "29 seasons",
+  "starring": [
+    "Katherine Newbury"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "Katherine Newbury laughs in front of a blue velvet curtain",
+  "alt1": "Newbury chats with YouTube star Mimi Mismatch",
+  "alt2": "Newbury in her “White Savior” sketch talking to two Black men on the streets of New York",
+  "alt3": "Newbury interviewing comedian Daniel Tennant",
+  "alt4": "Newbury giving an emotional opening monologue",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows",
+    "new on nestflix"
+  ]
+}
