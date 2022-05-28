@@ -1,0 +1,33 @@
+{
+  "slug": "from-the-moment-our-eyes-met",
+  "title": "From The Moment Our Eyes Met",
+  "description": "A nerdy goth girl is surprised when she starts getting attention from a popular jock at school.",
+  "quote": "Ya know, without these glasses, you’re beautiful.",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "rating": "PG",
+  "runtime": "1h 23m",
+  "starring": [
+    "Larry Needlemeyer"
+  ],
+  "director": [
+    "Larry Needlemeyer"
+  ],
+  "labels": [
+    "romantic comedy"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "split screen with a football player and a goth nerd girl joining hands in the middle",
+  "alt1": "goth nerd girl reading a book in the bleachers",
+  "alt2": "a jock with a mullet",
+  "alt3": "a football player happily spinning in circles",
+  "alt4": "the reverse spinning shot with the nerd girl, now without her glasses",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies",
+    "new on nestflix"
+  ]
+}
