@@ -1,0 +1,30 @@
+{
+  "slug": "ben",
+  "title": "Ben",
+  "description": "Talk show with host Gentle Ben who speaks with regular folks, like mothers and daughters, and takes questions from the audience.",
+  "quote": "Grrrrr!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Gentle Ben"
+  ],
+  "labels": [
+    "daytime talk show"
+  ],
+  "credit": "20th Television",
+  "altHero": "Gentle Ben, a brown bear with a microphone attached to its head peeks out from behind a curtain",
+  "alt1": "six women sitting in chairs on a talk show stage",
+  "alt2": "Ben, wearing his microphone helmet, looks at a studio audience",
+  "alt3": "Ben holds his head low so a woman in the audience can speak into it",
+  "alt4": "people in “Ben Control” vests shoot darts at Ben while he eats a fish at a crafts table",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
