@@ -1,0 +1,35 @@
+{
+  "slug": "zombies-in-the-snow",
+  "title": "Zombies in the Snow",
+  "description": "Rolf and Gerta must protect the children when zombies rise from the snowbanks surrounding their sleepy Alpine fishing village.",
+  "quote": "You’re a tasty treat for the walking dead.",
+  "parent": "A Series of Unfortunate Events",
+  "parentYear": "2017-2019",
+  "rating": "PG",
+  "runtime": "1h 12m",
+  "starring": [
+    "Gustav Sebald",
+    "Jacquelyn Scieszka"
+  ],
+  "director": [
+    "Gustav Sebald"
+  ],
+  "studio": "Vitiated Film Distribution",
+  "labels": [
+    "musical, zombies"
+  ],
+  "credit": "Netflix",
+  "altHero": "a hand emerges from the snow illuminated by a full moon",
+  "alt1": "a man and woman, Rolf and Gerta, stand in a village square; subtitles read “Traditions are important, Rolf.”",
+  "alt2": "townspeople have gathered and a man says “Sing about it!”",
+  "alt3": "Gerta rides a fake horse statue across the village square",
+  "alt4": "Gerta comforts Rolf, who is leaning injured against a pile of snow; subtitles read “Don’t shed tears sweet Gerta. I promise this isn’t goodbye.” “No one’s preparing to die, Rolf. Put on this warm scarf.",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "new on nestflix"
+  ]
+}
