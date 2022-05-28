@@ -1,0 +1,28 @@
+{
+  "slug": "the-adventures-of-nathaniel-and-isabel",
+  "title": "The Adventures of Nathaniel and Isabel",
+  "description": "Based on the classic children’s book, orphan siblings Nathaniel and Isabel go on adventures and escape the grasp of the evil Nurse Caterwaul.",
+  "quote": "Persimmon and pineapple, Isabel!",
+  "parent": "Six Feet Under",
+  "parentYear": "2001-2005",
+  "rating": "TV-G",
+  "runtime": "4 episodes",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a young girl (Isabel) and her bespectacled younger brother (Nathaniel) on a desert island look into the distance",
+  "alt1": "Nathaniel prays over the body of an unconscious Isabel",
+  "alt2": "Isabel’s hand with a glowing teardrop",
+  "alt3": "Nathaniel and Isabel see a sailing ship approach the island",
+  "alt4": "the evil looking Nurse Caterwaul is on the ship",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
