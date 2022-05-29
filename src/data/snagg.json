@@ -1,0 +1,30 @@
+{
+  "slug": "snagg",
+  "title": "Snagg!",
+  "description": "Host Snagglepuss talks with interesting guests and provides important paternity test services.",
+  "quote": "Time to start the complex process of DNA testing.",
+  "parent": "Jellystone!",
+  "parentYear": "2021-Present",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Snagglepuss"
+  ],
+  "labels": [
+    "daytime talk show"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "a talk show set with host Snagglepuss and guests Captain Caveman and Cavey Jr.",
+  "alt1": "Snagglepuss with handfuls of hair, plucked from his caveman guests",
+  "alt2": "the studio audience",
+  "alt3": "Snagglepuss next to a giant machine with knobs and levers",
+  "alt4": "Snagglepuss next to Captain Caveman holding Cavey Jr. upside down",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
