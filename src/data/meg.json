@@ -1,0 +1,38 @@
+{
+  "slug": "meg",
+  "title": "Meg",
+  "description": "Loosely based on the life of Peg Entwistle, Meg Ennis is an aspiring actress who moves to Tinseltown and finds hardship and love.",
+  "quote": "This movie is a hit. And Meg Ennis is a star.",
+  "parent": "Hollywood",
+  "parentYear": "2020",
+  "rating": "PG",
+  "runtime": "1h 54m",
+  "starring": [
+    "Jack Castello",
+    "Camille Washington",
+    "Claire Wood",
+    "Anna May Wong",
+    "Ernest West"
+  ],
+  "director": [
+    "Raymond Ainsley"
+  ],
+  "studio": "Ace Studios",
+  "labels": [
+    "romantic drama"
+  ],
+  "credit": "Netflix",
+  "altHero": "Camille Washington as Meg",
+  "alt1": "Ernest West as a Hollywood executive",
+  "alt2": "Jack Castello in a sweater",
+  "alt3": "Meg climbs hill toward the Hollywoodland sign",
+  "alt4": "Meg embraces her love",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas",
+    "new on nestflix"
+  ]
+}
