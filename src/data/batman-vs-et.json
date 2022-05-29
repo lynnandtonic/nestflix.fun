@@ -1,0 +1,25 @@
+{
+  "slug": "batman-vs-et",
+  "title": "Batman vs E.T.",
+  "description": "The dark knight of Gotham faces off against a different alien visitor. Who will win?",
+  "quote": "E.T. forgive Bat.",
+  "parent": "Chip 'n Dale: Rescue Rangers",
+  "parentYear": "2022",
+  "rating": "PG-13",
+  "runtime": "2h 54m",
+  "labels": [
+    "action",
+    "adventure",
+    "superheroes",
+    "aliens"
+  ],
+  "credit": "Walt Disney Pictures",
+  "altHero": "split screen of E.T. and Batman",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "new on nestflix"
+  ]
+}
