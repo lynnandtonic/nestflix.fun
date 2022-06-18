@@ -1,0 +1,35 @@
+{
+  "slug": "orgazmo",
+  "title": "Orgazmo",
+  "description": "Superhero Orgazmo and his sidekick Choda Boy fight crime in hopes of taking down super villain Jizzmaster Zero.",
+  "quote": "My Orgazmorator should take care of you!",
+  "parent": "Orgazmo",
+  "parentYear": "1997",
+  "rating": "XXX",
+  "runtime": "1h 23m",
+  "starring": [
+    "Tom Hung",
+    "Ben Chapleski"
+  ],
+  "director": [
+    "Maxxx Orbison"
+  ],
+  "labels": [
+    "adult",
+    "superheroes"
+  ],
+  "credit": "October Films",
+  "altHero": "Orgazmo in low-budget superhero costume holding up a futuristic weapon",
+  "alt1": "a shocked, mustached, shirtless man with JM hand-painted on his foredead",
+  "alt2": "Orgazmo with closed eyes and look of disgust as a topless woman tries to kiss him",
+  "alt3": "Ogazmo and his sidekick Choda Boy who wears a dildo hat",
+  "alt4": "two men in jackets (but with no shirts) tied up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "adults 18+",
+    "new on nestflix"
+  ]
+}
