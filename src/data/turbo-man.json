@@ -1,0 +1,29 @@
+{
+  "slug": "turbo-man",
+  "title": "Turbo Man",
+  "description": "Look to the sky and find Turbo Man and his pet tiger Booster fighting crime and the evil mastermind Dementor.",
+  "quote": "It’s Turbo Time!",
+  "parent": "Jingle All the Way",
+  "parentYear": "1996",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "action",
+    "kids",
+    "superheroes"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "superhero Turbo Man",
+  "alt1": "Turbo Man flying horizontally with a jetpack",
+  "alt2": "Villain Dementor kidnaps a kid",
+  "alt3": "Booster the pink tiger fights a bad guy",
+  "alt4": "Turbo Man smiles holding a boomerang",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action tv",
+    "new on nestflix"
+  ]
+}
