@@ -1,0 +1,34 @@
+{
+  "slug": "tomb-buster",
+  "title": "Tomb Buster",
+  "description": "When danger is near, Steven Grant has no fear. Join Grant and his helpful sidekick Rosser as they search the jungle for ancient Aztec treasure.",
+  "quote": "It’s all right. Those old bones can’t hurt you.",
+  "parent": "Moon Knight",
+  "parentYear": "2022-Present",
+  "rating": "PG",
+  "runtime": "1h 46m",
+  "starring": [
+    "Doug Perlin",
+    "Melissa Russel",
+    "Dylan Beck"
+  ],
+  "studio": "Timely Atlas Studios",
+  "labels": [
+    "action",
+    "adventure"
+  ],
+  "credit": "Marvel Studios",
+  "altHero": "explorer Steve Grant reaches out to touch an ancient artifact in the jungle",
+  "alt1": "Rosser, Grant’s young helper, holds up a flashlight in the jungle",
+  "alt2": "Steve Grant holds up a machete to a human skeleton hanging from above",
+  "alt3": "a hand holds a compass",
+  "alt4": "Steve Grant looks determined",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action adventure movies",
+    "new on nestflix"
+  ]
+}
