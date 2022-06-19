@@ -1,0 +1,30 @@
+{
+  "slug": "lee",
+  "title": "Lee",
+  "description": "Ted Danson is Robert E. Lee, Confederate general who lost the American Civil War.",
+  "quote": "Gentlemen, I believe I need some time to myself.",
+  "parent": "Curb Your Enthusiasm",
+  "parentYear": "2000-Present",
+  "rating": "PG-13",
+  "runtime": "2h 12m",
+  "starring": [
+    "Ted Danson"
+  ],
+  "labels": [
+    "war drama"
+  ],
+  "credit": "HBO",
+  "altHero": "Ted Danson as Robert E. Lee, Confederate general",
+  "alt1": "a battle in the American Civil War",
+  "alt2": "Confederate generals stand around a table",
+  "alt3": "a map",
+  "alt4": "closeup of the generals",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas",
+    "new on nestflix"
+  ]
+}
