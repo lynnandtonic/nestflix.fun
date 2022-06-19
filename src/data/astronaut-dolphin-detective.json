@@ -1,0 +1,32 @@
+{
+  "slug": "astronaut-dolphin-detective",
+  "title": "Astronaut Dolphin Detective",
+  "description": "Astronaut Dolphin Detective is newly released from space prison and on the case to find and eliminate bad dudes like Evil Space Shrimp.",
+  "quote": "The chainsaw spaceship it about to cut the sun in half!",
+  "parent": "Mr. Pickles",
+  "parentYear": "2014-2019",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "starring": [
+    "Astronaut Dolphin Detective"
+  ],
+  "labels": [
+    "crime",
+    "action",
+    "space"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a dolphin in an astronaut helmet on a desert planet pointing a machine gun",
+  "alt1": "Astronaut Dolphin being released from space prison",
+  "alt2": "Space Captain eating noodles out of takeout box",
+  "alt3": "Astronaut Dolphin in a car with his human detective partner",
+  "alt4": "tiny evil space shrimp sitting in a small chair as a human woman speaks with him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
