@@ -1,0 +1,29 @@
+{
+  "slug": "lauren-is-explorin",
+  "title": "Lauren Is Explorin’",
+  "description": "Lauren is explorin’ and invites you to explore things like colors, places, and sounds",
+  "quote": "Red, red, red, things are red.",
+  "parent": "Foster’s Home for Imaginary Friends",
+  "parentYear": "2004-2009",
+  "rating": "TV-Y",
+  "runtime": "5 seasons",
+  "studio": "Cartoon Studio",
+  "labels": [
+    "kids",
+    "educational"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a cartoon girl Lauren, young and white with pigtails, overalls, and a fanny pack",
+  "alt1": "Lauren walking down a nature path",
+  "alt2": "Lauren holding an apple",
+  "alt3": "Lauren’s head floating over a couple apples",
+  "alt4": "Lauren in front of a red barn",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
