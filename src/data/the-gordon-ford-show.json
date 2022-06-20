@@ -1,0 +1,31 @@
+{
+  "slug": "the-gordon-ford-show",
+  "title": "The Gord Ford Show",
+  "description": "Each weeknight, Gordon Ford interviews top talents of the entertainment world like Lenny Bruce, Groucho Marx, and Alfred Hitchcock. ",
+  "quote": "How about we get some Ritz Crackers and whiskey for everyone in the audience?",
+  "parent": "The Marvelous Mrs. Maisel",
+  "parentYear": "2017-Present",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "starring": [
+    "Gordon Ford"
+  ],
+  "studio": "NBC",
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "Amazon Prime Video",
+  "altHero": "host Gordon Ford as his talk show desk",
+  "alt1": "comedian Lenny Bruce",
+  "alt2": "Ford smiling",
+  "alt3": "Ford speaking with Alfed Hitchcock",
+  "alt4": "comedian Sophie Lennon",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows",
+    "new on nestflix"
+  ]
+}
