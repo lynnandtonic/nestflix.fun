@@ -1,0 +1,37 @@
+{
+  "slug": "private-eyes",
+  "title": "Private Eyes: the Hall & Oates Story",
+  "description": "The true story of the start and rise of American pop rock duo, Hall and Oates. ",
+  "quote": "Grab your axe, it’s chart breaking time!",
+  "parent": "The Afterparty",
+  "parentYear": "2022-Present",
+  "rating": "PG-13",
+  "runtime": "2h 4m",
+  "starring": [
+    "Xavier",
+    "Channing Tatum"
+  ],
+  "director": [
+    "Stefanie Preston"
+  ],
+  "studio": "Columbia Pictures",
+  "labels": [
+    "drama",
+    "biography",
+    "music"
+  ],
+  "credit": "Sony Pictures Television",
+  "altHero": "Xavier and Channing Tatum as Hall and Oates",
+  "alt1": "Oates angrily yelling in the studio",
+  "alt2": "Hall looks over surprised",
+  "alt3": "Oates hunches over a desk",
+  "alt4": "Hall raises both hands to show his excitement level",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramatic biopics",
+    "new on nestflix"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "hungry-hungry-hippos",
+  "title": "Hungry Hungry Hippos",
+  "description": "Von Poacher has injected the hippos with a serum that makes them hungry and it’s no easy game for Captain Chuck Hazard.",
+  "quote": "Those hungry, hungry hippos have lost their marbles.",
+  "parent": "The Afterparty",
+  "parentYear": "2022-Present",
+  "rating": "PG",
+  "runtime": "1h 43m",
+  "starring": [
+    "Xavier",
+    "Will Forte"
+  ],
+  "director": [
+    "Stefanie Preston"
+  ],
+  "studio": "Columbia Pictures",
+  "labels": [
+    "family",
+    "adventure",
+    "animals"
+  ],
+  "credit": "Sony Pictures Television",
+  "altHero": "two men in safari garb looking off camera at something intimidating",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "family films",
+    "new on nestflix"
+  ]
+}
