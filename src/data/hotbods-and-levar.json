@@ -1,0 +1,28 @@
+{
+  "slug": "hotbods-and-levar",
+  "title": "H.O.T.B.O.D.S. and Levar",
+  "description": "By day, they’re swingin’ sexy aerobics instructors at a Santa Monica health club called H.O.T.B.O.D.S. But, unknown to the public, H.O.T.B.O.D.S. is a CIA code name for the Headquarters of the Bureau of Organized Defense Security. This elite force of female intelligence agents and their chauffeur Levar defend America from the forces of evil.",
+  "parent": "The Ratings Game",
+  "parentYear": "1984",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "studio": "MBC",
+  "labels": [
+    "crime",
+    "action"
+  ],
+  "credit": "Showtime",
+  "altHero": "three hot women crime fighters with their bodyguard Levar",
+  "alt1": "three women in unitards walk through a gym",
+  "alt2": "a woman in a steam room talks to a high-tech device",
+  "alt3": "H.O.T.B.O.D.S. logo",
+  "alt4": "three women in a high-tech office give a man at a desk a thumbs up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
