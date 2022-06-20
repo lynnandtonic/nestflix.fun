@@ -1,0 +1,39 @@
+{
+  "slug": "wet-side-story",
+  "title": "Wet Side Story",
+  "description": "Tanner, a surfer guy, and Lela, a biker girl, share a secret love, while trying to unite the rivaling gangs as an evil real estate mogul tries to turn their hangout into a resort.",
+  "quote": "Hey, get your salty surfer mitts off my baby sister.",
+  "parent": "Teen Beach Movie",
+  "parentYear": "2013",
+  "rating": "PG",
+  "runtime": "1h 54m",
+  "starring": [
+    "Hayden Holt",
+    "Austin Aims",
+    "Ryan Ramsey",
+    "Andrew Hart",
+    "Alexandra Gray",
+    "Ella Green",
+    "Jake Jensen",
+    "Grace Gallagher",
+    "Samantha Baker"
+  ],
+  "labels": [
+    "musical",
+    "romance"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Tanner dancing and dips Lela",
+  "alt1": "teens on the beach dancing with beach balls",
+  "alt2": "a beach hug hangot called Big Momma’s",
+  "alt3": "Lela singing on stage",
+  "alt4": "the biker gang",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "new on nestflix"
+  ]
+}
