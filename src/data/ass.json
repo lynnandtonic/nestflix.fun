@@ -1,0 +1,23 @@
+{
+  "slug": "ass",
+  "title": "Ass",
+  "description": "The hit comedy that swept the nation, winning eight Oscars including Best Screenplay.",
+  "quote": "fart noise",
+  "parent": "Idiocracy",
+  "parentYear": "2006",
+  "rating": "G",
+  "runtime": "1h 30m",
+  "labels": [
+    "comedy",
+    "oscar winner"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "a butt",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
