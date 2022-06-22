@@ -1,0 +1,31 @@
+{
+  "slug": "bannigan",
+  "title": "Bannigan",
+  "description": "Criminals don’t stand a chance when Bannigan is on the case.",
+  "quote": "You can call the Supreme Court for all I care.",
+  "parent": "Lookwell",
+  "parentYear": "1991",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Ty Lookwell"
+  ],
+  "labels": [
+    "crime drama",
+    "action"
+  ],
+  "credit": "NBC",
+  "altHero": "Ty Lookwell as police detective Bannigan",
+  "alt1": "a vintage car spins out on a dirt road",
+  "alt2": "Bannigan runs down the street",
+  "alt3": "Bannigan holds a gun and peers out from behind a dumpster",
+  "alt4": "Bannigan smiles at a blonde woman like a goof ",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
