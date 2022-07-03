@@ -1,0 +1,22 @@
+{
+  "slug": "kakie-the-cake-monster",
+  "title": "Kakie the Cake Monster",
+  "description": "Kakie is one happy monster. Kakie love cake. Yummy! Tummy get a tummy-ache. Kakie share with Wuzzlelumplebum.",
+  "quote": "A real monster always shares!",
+  "parent": "Hotel Transylvania 2",
+  "parentYear": "2015",
+  "rating": "TV-Y",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Sony Pictures Releasing",
+  "altHero": "Kakie, a pink furry monster puppet with a cake hat, smiles and holds a birthday cake in a fake kitchen",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
