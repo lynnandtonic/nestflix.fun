@@ -1,0 +1,31 @@
+{
+  "slug": "the-survivalist-with-burt-gummer",
+  "title": "The Survivalist with Burt Gummer",
+  "description": "Burt Gummer is a survivalist. He’s scoured the dirt and dust of Nevada and Mexico, putting his life on the line to hunt super-size subterranean man-eating predators called Graboids.",
+  "quote": "Who’s hungry?",
+  "parent": "Tremors 5: Bloodlines",
+  "parentYear": "2015",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": [
+    "Burt Gummer"
+  ],
+  "labels": [
+    "reality",
+    "nature"
+  ],
+  "credit": "Universal Studios",
+  "altHero": "Burt Gummer looks into the scope of a gun",
+  "alt1": "Gummer’s silhouette holding a gun in the desert",
+  "alt2": "Gummer speaks to the camera holding a gun",
+  "alt3": "a graboid monster emerging from the sand",
+  "alt4": "Gummer smiling with his gun slung over his shoulder",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
