@@ -1,0 +1,41 @@
+{
+  "slug": "tales-of-the-old-testament",
+  "title": "Tales of the Old Testament",
+  "description": "Dramatic retellings of your favorite Bible stories like Jonah and the Whale and the Judgement of Solomon.",
+  "quote": "Look out, Jonah! It’s a whale!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG",
+  "runtime": "13h 20m",
+  "starring": [
+    "Jeremy Freedman",
+    "Horatio McCallister",
+    "Roy Snyder",
+    "Luann Van Houten",
+    "Edna Krabappel",
+    "Carl Carlson",
+    "Hans Moleman"
+  ],
+  "director": [
+    "Ned Flanders"
+  ],
+  "studio": "Burns’ Celluloid Whimsies",
+  "labels": [
+    "drama",
+    "religion"
+  ],
+  "credit": "20th Television",
+  "altHero": "a huge whale opens its mouth to swallow a man in a boat",
+  "alt1": "a fisherman in shock as a whale swims away from a destroyed boat",
+  "alt2": "a fisherman’s severed head is splattered against the screen with cartoonish blood",
+  "alt3": "King Solomon stands over a cradle as two women and other people watch",
+  "alt4": "Solomon raises a sword above the cradle",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "religious programming",
+    "new on nestflix"
+  ]
+}
