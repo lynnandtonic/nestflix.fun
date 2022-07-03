@@ -1,0 +1,37 @@
+{
+  "slug": "jerry",
+  "title": "Jerry",
+  "description": "A show about nothing. Comedian Jerry Seinfeld’s sitcom pilot that never made it as a full series. ",
+  "quote": "Who said you could go out with my butler?!",
+  "parent": "Seinfeld",
+  "parentYear": "1989-1998",
+  "rating": "TV-PG",
+  "runtime": "1 episode",
+  "starring": [
+    "Jerry Seinfeld",
+    "Michael Barth",
+    "Sandi Robbins",
+    "Tom Pepper"
+  ],
+  "producer": "Morris Brandes",
+  "creator": "Jerry Seinfeld, George Costanza",
+  "studio": "NBC",
+  "labels": [
+    "sitcom",
+    "pilot"
+  ],
+  "credit": "Columbia Pictures Television",
+  "altHero": "Jerry Seinfeld shrugging in his apartment kitchen",
+  "alt1": "Jerry doing standup in a comedy club",
+  "alt2": "Michael Barth as George Costanza",
+  "alt3": "Tom Pepper as Kramer",
+  "alt4": "Jerry stands between Elaine (Sandi Robbins) and his new butler",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}
