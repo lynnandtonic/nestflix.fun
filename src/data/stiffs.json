@@ -1,0 +1,30 @@
+{
+  "slug": "stiffs",
+  "title": "Stiffs",
+  "description": "A corpse will tell you a story, if you’re ready to listen.",
+  "quote": "Well, like our killer, we’ll just have to take a stab at it.",
+  "parent": "Two and a Half Men",
+  "parentYear": "2003-2015",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Kandi Harper"
+  ],
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "an attractive woman in glasses and a low-cut shirt speaks to a colleague",
+  "alt1": "a cheerleader has been murdered",
+  "alt2": "the attractive female detective wears exam gloves and leans over the crime scene with her cleavage showing",
+  "alt3": "a male detective",
+  "alt4": "the female detective takes off her glasses",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
