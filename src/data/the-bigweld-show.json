@@ -1,0 +1,32 @@
+{
+  "slug": "the-bigweld-show",
+  "title": "The Bigweld Show",
+  "description": "Bigweld of Bigweld Industries encourages robots from all walks of life to become inventors. Good ideas can come from anywhere.",
+  "quote": "You can shine, no matter what you’re made of.",
+  "parent": "Robots",
+  "parentYear": "2005",
+  "rating": "TV-G",
+  "runtime": "15 seasons",
+  "starring": [
+    "Bigweld"
+  ],
+  "studio": "Bigweld Industries",
+  "labels": [
+    "variety",
+    "reality"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "Bigweld, a round and jovial robot",
+  "alt1": "Bigweld speaks with a small doorman robot",
+  "alt2": "a robot missing his top half surrounded by a cloud of smoke",
+  "alt3": "Bigweld stands by a row of dominoes",
+  "alt4": "knocked down dominoes illuminate a lightbulb",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows",
+    "new on nestflix"
+  ]
+}
