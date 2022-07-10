@@ -1,0 +1,31 @@
+{
+  "slug": "nighthawks-hideaway",
+  "title": "Nighthawks Hideaway",
+  "description": "Join Alistair Covax for a sophisticated little soiree with jazz, stimulating conversation, beautiful ladies, and more jazz. A single episode you can watch over and over. It feels different every time.",
+  "quote": "Sometimes when the jazz is playing, I like to do this. I move my chin just a little.",
+  "parent": "American Dad!",
+  "parentYear": "2005-Present",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "starring": [
+    "Alistair Covax"
+  ],
+  "labels": [
+    "late night talk show",
+    "music"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Alistair Covax in a tux holding a cigarette stands by Charlie at the piano",
+  "alt1": "elevator buttons with the top one illuminated with an icon of a hawk",
+  "alt2": "Covax talks with a woman at a cocktail party",
+  "alt3": "Covax talks with another man on the couch as they are served by a cocktail waitress",
+  "alt4": "Covax and guests wave at the camera",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows",
+    "new on nestflix"
+  ]
+}
