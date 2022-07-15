@@ -1,0 +1,24 @@
+{
+  "slug": "pony-heist",
+  "title": "Pony Heist",
+  "description": "It’s a pony heist. But the ponies are filled with TNT!",
+  "quote": "It’s neigh day.",
+  "parent": "Gravity Falls",
+  "parentYear": "2012-2016",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "labels": [
+    "family",
+    "action",
+    "animals"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "two brightly colored ponies with tongues sticking out run toward each other in a forest",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "family films",
+    "new on nestflix"
+  ]
+}
