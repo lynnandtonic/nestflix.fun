@@ -1,0 +1,27 @@
+{
+  "slug": "backwards-gary",
+  "title": "Backwards Gary",
+  "description": "Incessant, funny screaming. He’ll brighten your day. Face the wrong way. Backwards Gary’s here to stay!",
+  "quote": "Aaaah!!",
+  "parent": "Animaniacs",
+  "parentYear": "2020-Present",
+  "rating": "Unrated",
+  "runtime": "2 seasons",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a man with a face on the back of his head",
+  "alt1": "a man with no face",
+  "alt2": "Backwards Gary stands in line",
+  "alt3": "Backwards Gary screams",
+  "alt4": "Backwards Gary screams as he rides his bike along a grassy hill",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "web shows",
+    "new on nestflix"
+  ]
+}
