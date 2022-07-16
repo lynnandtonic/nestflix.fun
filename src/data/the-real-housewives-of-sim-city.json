@@ -1,0 +1,22 @@
+{
+  "slug": "the-real-housewives-of-sim-city",
+  "title": "The Real Housewives of Sim City",
+  "description": "The housewives of Sim City balance friendships, family life, and business ventures in this world-famous bustling metropolis.",
+  "quote": "She needs to reset. I’ll say it to her face.",
+  "parent": "Futurama",
+  "parentYear": "1999-2013",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
