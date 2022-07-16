@@ -1,0 +1,34 @@
+{
+  "slug": "trust-in-the-law",
+  "title": "Trust in the Law!",
+  "description": "The 1921 silent film dramatizing the life of Bass Reeves, the first black deputy U.S. marshal west of the Mississippi.",
+  "quote": "There will be no mob justice today.",
+  "parent": "Watchmen",
+  "parentYear": "2019",
+  "rating": "Unrated",
+  "runtime": "1h 12m",
+  "starring": [
+    "Louis De Boulder",
+    "Jack Lucas"
+  ],
+  "producer": "Oscar Micheaux",
+  "labels": [
+    "drama",
+    "biography",
+    "silent"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Bass Reeves",
+  "alt1": "a hooded person rides a horse",
+  "alt2": "the hooded horse rider captures a man on the ground in front of a small church",
+  "alt3": "a priest looks distraught",
+  "alt4": "star badge: U.S. Marshal Deputy Oklahoma Terr.",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramatic biopics",
+    "new on nestflix"
+  ]
+}
