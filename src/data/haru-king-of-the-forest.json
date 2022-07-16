@@ -1,0 +1,40 @@
+{
+  "slug": "haru-king-of-the-forest",
+  "title": "Haru: King of the Forest",
+  "description": "This anime classic follows the forest adventures of Haru and his magical friends.",
+  "quote": "Only those with a strong heart like yours can break this curse.",
+  "parent": "Craig of the Creek",
+  "parentYear": "2018-Present",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Noël Wells",
+    "Mela Lee",
+    "Zachary Steel",
+    "Xavier Scott",
+    "Ashley Thomas",
+    "Perin Maclean"
+  ],
+  "director": [
+    "Yoshi Miyanori"
+  ],
+  "producer": "Hisashi Masayuki",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Haru, a Japanese boy wearing a flower headband, salutes from a large tree branch",
+  "alt1": "Haru cries as a small hand holds a glowing flower",
+  "alt2": "a small flower creature holds the glowinf flower",
+  "alt3": "a group of fantasy woodland characters cheer",
+  "alt4": "Haru hangs with his friends",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
