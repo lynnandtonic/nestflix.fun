@@ -1,0 +1,31 @@
+{
+  "slug": "life-with-mikey",
+  "title": "Life with Mikey",
+  "description": "He’s wacky, he’s wild, he’s everyone’s favorite child. It’s life with Mikey.",
+  "quote": "Any chance of getting time off for good behavior?",
+  "parent": "Life with Mikey",
+  "parentYear": "1993",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": [
+    "Michael Chapman"
+  ],
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Buena Vista Pictures",
+  "altHero": "Mikey (a young boy, standing on the stairs",
+  "alt1": "Mikey’s sister being comforted by their parents",
+  "alt2": "Mikey trying to look innocent while his sister rolls her eyes",
+  "alt3": "the family decorating the Christmas tree",
+  "alt4": "Mikey’s parents give each other a look",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
