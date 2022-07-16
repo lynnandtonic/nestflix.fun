@@ -1,0 +1,31 @@
+{
+  "slug": "the-fearless-ferret",
+  "title": "The Fearless Ferret",
+  "description": "A new kind of caped crusading duo. The Fearless Ferret and Wonder Weasel protect the city from all kinds of bad guys.",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Timothy North",
+    "Weasel Wisinski"
+  ],
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "two superheroes: a man in a ferret costume and a caped weasel",
+  "alt1": "Timothy North approaches a ferret head bust",
+  "alt2": "Fearless Ferret punches a skunk villain with a “Sock!”",
+  "alt3": "Wonder Weasel punches a green villain with a “Pow!”",
+  "alt4": "Fearless Ferret and Wonder Weasel on a rooftop",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv",
+    "new on nestflix"
+  ]
+}
