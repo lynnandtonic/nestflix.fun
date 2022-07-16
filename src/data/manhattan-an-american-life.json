@@ -1,0 +1,27 @@
+{
+  "slug": "manhattan-an-american-life",
+  "title": "Manhattan: An American Life",
+  "description": "Jon Osterman was the victim of an atomic mishap and emerged an immortal god, impervious to the passage of time. This docuseries explores the legacy of this literally self-made man in hopes of understanding why he was here, and why he left.",
+  "parent": "Watchmen",
+  "parentYear": "2019",
+  "rating": "TV-MA",
+  "runtime": "10h",
+  "labels": [
+    "documentary",
+    "biography"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "drawing of Dr. Manhattan on the moon with an American astronaut",
+  "alt1": "a black and white photo of a young boy and his father",
+  "alt2": "a collage-style portrait of Dr. Manhattan with his face crossed out and the text “American Cancer”",
+  "alt3": "a chain link fence with a hole in it and a sign that reads “Gila Flats test site keep out",
+  "alt4": "a giant Dr. Manhattan walks along the Vietnam battlefields",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series",
+    "new on nestflix"
+  ]
+}
