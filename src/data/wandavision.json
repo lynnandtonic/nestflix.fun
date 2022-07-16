@@ -1,0 +1,40 @@
+{
+  "slug": "wandavision",
+  "title": "Wandavision",
+  "description": "Wanda and Vision move to the suburbs of Westview to settle down and start a family. A short series that feels like it spans decades.",
+  "quote": "Don’t worry, darling. I have everything under control.",
+  "parent": "Wandavision",
+  "parentYear": "2021",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Wanda Maximoff",
+    "Vision",
+    "Billy Maximoff",
+    "Tommy Maximoff",
+    "Pietro Maximoff"
+  ],
+  "director": [
+    "Abe Brown"
+  ],
+  "producer": "Babs Digby",
+  "labels": [
+    "sitcom",
+    "family",
+    "superheroes"
+  ],
+  "credit": "Marvel Studios",
+  "altHero": "Wanda and Vision in 50s black and white",
+  "alt1": "Wanda and Vision in a 70s style living room",
+  "alt2": "Wanda and Vision with their two kids having a picnic",
+  "alt3": "Wanda and Vision dressed in comic-style costumes while their kids play with Uncle Pietro",
+  "alt4": "Wanda gives a confessional style interview",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
