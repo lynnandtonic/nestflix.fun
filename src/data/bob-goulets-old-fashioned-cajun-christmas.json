@@ -1,0 +1,26 @@
+{
+  "slug": "bob-goulets-old-fashioned-cajun-christmas",
+  "title": "Bob Goulet’s Old Fashioned Cajun Christmas",
+  "description": "America’s best-loved singer invites you to share a home-style holiday.",
+  "parent": "Scrooged",
+  "parentYear": "1988",
+  "rating": "TV-G",
+  "runtime": "1h 43m",
+  "starring": [
+    "Bob Goulet"
+  ],
+  "studio": "IBC",
+  "labels": [
+    "holiday",
+    "music"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "Bob Goulet in a tuxedo paddling a boat down the bayou",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV special",
+    "for the holidays",
+    "new on nestflix"
+  ]
+}
