@@ -1,0 +1,37 @@
+{
+  "slug": "sittin-pretty",
+  "title": "Sittin’ Pretty",
+  "description": "Kim and Misty are expecting their third college roommate when Hubble Wainwright the Third shows up.",
+  "quote": "Isn’t it a hoot?",
+  "parent": "The Ratings Game",
+  "parentYear": "1984",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": [
+    "Vic DeSalvo",
+    "Denton Doyle Jr.",
+    "Bob Hoover",
+    "Stacy Beldin",
+    "Bambi Beldin"
+  ],
+  "producer": "Vic DeSalvo",
+  "studio": "MBC",
+  "labels": [
+    "sitcom",
+    "college"
+  ],
+  "credit": "Showtime",
+  "altHero": "Hubble Wainwright the Third, a very small man wearing a college sweater",
+  "alt1": "Hubble lounges on the lawn with Kim and Misty, two blonde twins",
+  "alt2": "the dean, an older man in a suit",
+  "alt3": "a coach blows a whistle",
+  "alt4": "Hubble arriving to Kim and Misty’s dorm room",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}
