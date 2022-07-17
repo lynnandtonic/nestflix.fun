@@ -1,0 +1,33 @@
+{
+  "slug": "joplin",
+  "title": "Joplin",
+  "description": "In Joplin, Missouri, a mother tries to protect her teenage daughter from an abusive relationship and is forced to deal with the demons in her own past.",
+  "quote": "I don’t want you to make the same mistakes that I did.",
+  "parent": "Barry",
+  "parentYear": "2018-Present",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": [
+    "Sally Reed",
+    "Katie Harris"
+  ],
+  "creator": "Sally Reed",
+  "studio": "BanShe",
+  "labels": [
+    "drama"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Sally Reed",
+  "alt1": "Sally Reed looking concerned",
+  "alt2": "Katie Harris as Chloe talking in a therapy session",
+  "alt3": "a therapist",
+  "alt4": "profile of Chloe’s face with her mother in the background",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
