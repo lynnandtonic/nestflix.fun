@@ -1,0 +1,35 @@
+{
+  "slug": "the-adventures-of-nuktuk-hero-of-the-south",
+  "title": "The Adventures of Nuktuk: Hero of the South",
+  "description": "Nuktuk, along with his trusted companions Roh-Tan and Juji, must fight the evil Unalaq to save the South from the Northern Water Tribe.",
+  "quote": "I will save my true love and the South!",
+  "parent": "The Legend of Korra",
+  "parentYear": "2012-2014",
+  "rating": "Unrated",
+  "runtime": "10h",
+  "starring": [
+    "Bolin",
+    "Ginger",
+    "Naga",
+    "Pabu"
+  ],
+  "studio": "Varrick Global Industries",
+  "labels": [
+    "action",
+    "adventure"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Nuktuk flexes his muscles",
+  "alt1": "Nuktuk, Roh-Tan, and Juji walk through snowy mountains",
+  "alt2": "Nuktuk punches Unalaq in the face",
+  "alt3": "Ginger has been captured and Unalaq holds her chin while talking to her",
+  "alt4": "Nuktuk fighting two giant droids",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "mover series",
+    "action adventure movies",
+    "new on nestflix"
+  ]
+}
