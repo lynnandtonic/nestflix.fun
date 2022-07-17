@@ -1,0 +1,30 @@
+{
+  "slug": "action-hank",
+  "title": "Action Hank",
+  "description": "There is no woman in distress that Action Hank can’t save. He fights a plethora of villains including the Claw, the Wrecking Crew, Black Ninja, and Bertha the Barbarian.",
+  "quote": "Sometimes pain is a good thing.",
+  "parent": "Dexter’s Laboratory",
+  "parentYear": "1996-2003",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": [
+    "Action Hank"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Action Hank, a buff black man with a cool beard",
+  "alt1": "Action Hank riding a motorcycle through a window",
+  "alt2": "evil villain The Claw has a woman tied up above a tank of alligators",
+  "alt3": "a warrior style villain named Bertha the Barbarian",
+  "alt4": "Action Hank being approached by several sharp weapons",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv",
+    "new on nestflix"
+  ]
+}
