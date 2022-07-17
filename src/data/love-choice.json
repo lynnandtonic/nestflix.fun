@@ -1,0 +1,28 @@
+{
+  "slug": "love-choice",
+  "title": "Love Choice",
+  "description": "In the not so distant future, three grounded yet supernatural teens must navigate their feelings if they hope to survive. Will Constance choose Hunter or Alastair?",
+  "quote": "Constance, my cybernetic abs belong to you and you alone.",
+  "parent": "Amphibia",
+  "parentYear": "2019-Present",
+  "rating": "PG-13",
+  "runtime": "1h 56m",
+  "labels": [
+    "romantic drama",
+    "dystopia"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "a teen girl (Constance) stands in the ruins of a city",
+  "alt1": "a buff boy with a robot arm (Hunter) lifts his shirt to show neon abs",
+  "alt2": "a deer boy (Alastair) in a hoodie sits on a couch in the woods with Constance",
+  "alt3": "Alastair rides a stampede of deer",
+  "alt4": "Hunter and Alastair chase after a crying Constance who is being carried away by giant bird talons",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas",
+    "new on nestflix"
+  ]
+}
