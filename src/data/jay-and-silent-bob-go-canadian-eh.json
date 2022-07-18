@@ -1,0 +1,38 @@
+{
+  "slug": "jay-and-silent-bob-go-canadian-eh",
+  "title": "Jay and Silent Bob Go Canadian, Eh!",
+  "description": "Unable to go back and finish high school in America, Jay and Silent Bob head to our friendly neighbor to the north and to Degrassi High.",
+  "quote": "You’re gonna learn the dual languages of my home and native land and you’re gonna savor my poutine!",
+  "parent": "Degrassi: the Next Generation",
+  "parentYear": "2001-2015",
+  "rating": "PG-13",
+  "runtime": "2h 3m",
+  "starring": [
+    "Kevin Smith",
+    "Jason Mewes",
+    "Alanis Morissette",
+    "Manny Santos",
+    "Ellie Nash"
+  ],
+  "director": [
+    "Kevin Smith"
+  ],
+  "studio": "View Askew Productions",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Entertainment One",
+  "altHero": "Jay and Silent Bob at the principal’s office",
+  "alt1": "Alanis Morissette as a very Canadian principal",
+  "alt2": "Jay and Silent Bob walk down the hallway of a high school",
+  "alt3": "Silent Bob holds a sword and does a praying mantis in front of a ninja",
+  "alt4": "Jay and Silent Bob speaking at graduation and everything is covered in Canadian flags",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
