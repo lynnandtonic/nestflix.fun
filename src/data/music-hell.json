@@ -1,0 +1,28 @@
+{
+  "slug": "music-hell",
+  "title": "Music Hell",
+  "description": "A fever dream comedy and music show featuring up and coming bands and artists. This is Music Hell.",
+  "quote": "That’s sensEYEtional!",
+  "parent": "We Are Little Zombies",
+  "parentYear": "2019",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "variety shows",
+    "music"
+  ],
+  "credit": "Nikkatsu",
+  "altHero": "a CGI, brightly colored tv set with a host who has painted yellow skin and wearing furry blue centaur overalls",
+  "alt1": "wide shot of the Music Hell set, a colorful fever dream",
+  "alt2": "a backdrop of a crowd of zombies",
+  "alt3": "four kids from the band We Are Little Zombies in outrageous outfits",
+  "alt4": "a green hand holds a giant eyeball and has a pink furry tail",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows",
+    "new on nestflix"
+  ]
+}
