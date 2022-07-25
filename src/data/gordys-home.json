@@ -1,0 +1,34 @@
+{
+  "slug": "gordys-home",
+  "title": "Gordy’s Home!",
+  "description": "The infamous ’90s sitcom about the Houstons, a family of space enthusiasts, and their chimp, Gordy.",
+  "parent": "Nope",
+  "parentYear": "2022",
+  "rating": "TV-G",
+  "runtime": "1.5 seasons",
+  "starring": [
+    "Tom Bogan",
+    "Myllis Mayberry",
+    "Mary Joe Elliot",
+    "Ricky “Jupe” Park"
+  ],
+  "labels": [
+    "sitcom",
+    "family",
+    "animals"
+  ],
+  "credit": "Monkeypaw Productions",
+  "altHero": "an Asian boy and a chimp fist bump in front of a telescope and night’s sky",
+  "alt1": "a family of four and their chimp on their way to go fishing",
+  "alt2": "Gordy the chimp in a bellboy’s uniform lifting a cloche to reveal a banana underneath and giving a thumbs up",
+  "alt3": "the dad dressed as a skyskraper and holding a pie",
+  "alt4": "the young Asian boy hiding under the dining table",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
