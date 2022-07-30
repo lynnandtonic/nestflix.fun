@@ -1,0 +1,31 @@
+{
+  "slug": "the-crowned-queen",
+  "title": "The Crowned Queen",
+  "description": "To ensure her safety, a queen hires a kisaeng who looks similar to take her place in the palace.",
+  "quote": "If you hide in the mountains, I will cut down all the trees to find you.",
+  "parent": "Hotel del Luna",
+  "parentYear": "2019",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": [
+    "Yu O"
+  ],
+  "studio": "tvM",
+  "labels": [
+    "period drama"
+  ],
+  "credit": "tvN",
+  "altHero": "a young queen in lavish, traditional Asian clothing and jewels",
+  "alt1": "a young king",
+  "alt2": "the king and his men are surrounded",
+  "alt3": "the king sheds a tear as he embraces the queen",
+  "alt4": "the king from behind as he walks past his men",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
