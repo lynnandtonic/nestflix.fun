@@ -1,0 +1,29 @@
+{
+  "slug": "saving-the-last-soldier",
+  "title": "Saving the Last Soldier",
+  "description": "War is hell and all this soldier wants is to get himself and his brother home alive.",
+  "parent": "Hello, Me!",
+  "parentYear": "2021",
+  "rating": "PG-13",
+  "runtime": "2h 5m",
+  "starring": [
+    "Anthony"
+  ],
+  "labels": [
+    "war drama"
+  ],
+  "credit": "Netflix",
+  "altHero": "a man in military gear and war paint cries out as he holds a fallen soldier",
+  "alt1": "wide shot of a war zone: a pebbled valley on fire with explosions",
+  "alt2": "a soldier yells and runs holding a gun, a medic runs behind him",
+  "alt3": "soldiers run amongst smoke and explosions",
+  "alt4": "a soldier does chest compressions on a fallen soldier",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas",
+    "new on nestflix"
+  ]
+}
