@@ -1,0 +1,33 @@
+{
+  "slug": "olimpo-a-casa-dos-deuses",
+  "title": "Olimpo: a Casa dos Deuses",
+  "description": "Seven mortals must live together as Greek gods, competing to see who gets to gain Zeus’ (and the audience’s) approval to ultimately stay on Mount Olympus.",
+  "quote": "Tonight there’s going to be blood in the Gods’ House.",
+  "parent": "Reality Z",
+  "parentYear": "2020",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "starring": [
+    "Divina McCall"
+  ],
+  "director": [
+    "Brandão"
+  ],
+  "labels": [
+    "reality competition"
+  ],
+  "credit": "Netflix",
+  "altHero": "host Divina McCall in front of CG clouds and lightning",
+  "alt1": "two contestants look in the mirror",
+  "alt2": "the Greek gods in a fancy living room waving at the audience",
+  "alt3": "two of the contestants",
+  "alt4": "three contestants stand on pedestals in front of Divina McCall on a tv screen",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
