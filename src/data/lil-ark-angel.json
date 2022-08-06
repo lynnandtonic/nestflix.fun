@@ -1,0 +1,36 @@
+{
+  "slug": "lil-ark-angel",
+  "title": "Lil Ark Angel",
+  "description": "Child star Darla Dimple stars in this musical take on Noah’s Ark.",
+  "quote": "I built a little boat as cute as it can be, and I put all the animals two-by-two in my little boat on the sea.",
+  "parent": "Cats Don’t Dance",
+  "parentYear": "1997",
+  "rating": "G",
+  "runtime": "1h 25m",
+  "starring": [
+    "Darla Dimple"
+  ],
+  "director": [
+    "Flanigan"
+  ],
+  "studio": "Mammoth Pictures",
+  "labels": [
+    "musical",
+    "religion",
+    "animals"
+  ],
+  "credit": "Warner Bros.",
+  "altHero": "Darla Dimple, a young girl with golden curly hair, is dressed as an angel and approaches a pink and blue set depicting Noah’s ark",
+  "alt1": "the angel stands on a building as huge tidal waves roll in",
+  "alt2": "the angel dances and sings above waves as two unicorns look on concerned",
+  "alt3": "the angel sits on a bull’s head",
+  "alt4": "the angel swings on an anchor toward two cats",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "new on nestflix"
+  ]
+}
