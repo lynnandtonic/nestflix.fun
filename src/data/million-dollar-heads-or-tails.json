@@ -1,0 +1,31 @@
+{
+  "slug": "million-dollar-heads-or-tails",
+  "title": "Million Dollar Heads or Tails",
+  "description": "A game show where a coin flip could win a million dollars. What’s it gonna be? Heads or Tails?",
+  "quote": "Marnie, flip that coin!",
+  "parent": "How I Met Your Mother",
+  "parentYear": "2005-2014",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Regis Philbin",
+    "Alex Trebek"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "host Regis Philbin talks with a contestant",
+  "alt1": "Regis Philbin",
+  "alt2": "Alex Trebek",
+  "alt3": "a contestant looks anguished",
+  "alt4": "Marnie flips the coin",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
