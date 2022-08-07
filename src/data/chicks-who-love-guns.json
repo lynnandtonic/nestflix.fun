@@ -1,0 +1,28 @@
+{
+  "slug": "chicks-who-love-guns",
+  "title": "Chicks Who Love Guns",
+  "description": "If you love chicks and you love guns, this video series is for you. Meet Sidney and friends and their guns of choice.",
+  "quote": "I love my TEC-9!",
+  "parent": "Jackie Brown",
+  "parentYear": "1997",
+  "rating": "TV-MA",
+  "runtime": "5 episodes",
+  "labels": [
+    "reality",
+    "adult"
+  ],
+  "credit": "Miramax Films",
+  "altHero": "a blonde, muscular woman in an American flag bikini holds up a TEC-9 gun",
+  "alt1": "the blonde woman shooting the TEC-9",
+  "alt2": "a brunette in a leather studded bikini shooting a gun",
+  "alt3": "a brunette in a silver bikini holding a rifle",
+  "alt4": "closeup of another brunette holding an AK-47",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
