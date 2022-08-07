@@ -1,0 +1,27 @@
+{
+  "slug": "dawn-patrol",
+  "title": "Dawn Patrol",
+  "description": "The story of those unsung heroes who toil while you sleep. The hopes, dreams, and fears of a big city sanitation crew. A warm human drama that will both touch and move you.",
+  "parent": "The Ratings Game",
+  "parentYear": "1984",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "studio": "MBC",
+  "labels": [
+    "drama"
+  ],
+  "credit": "Showtime",
+  "altHero": "a garbage truck approaching from over a hill",
+  "alt1": "a man wearing a beret sits next to a trash can and reads a philosophy book",
+  "alt2": "two sanitation workers",
+  "alt3": "garbage trucks at the dump",
+  "alt4": "three workers embrace at the dump",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
