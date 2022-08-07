@@ -1,0 +1,29 @@
+{
+  "slug": "batgirl",
+  "title": "Batgirl",
+  "description": "It’s a Caped Crusader like you’ve never seen before. And this time, he’s a girl!",
+  "parent": "Batman: The Brave and the Bold",
+  "parentYear": "2008-2011",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "studio": "Warner Bros. Animation",
+  "labels": [
+    "action",
+    "animation",
+    "superheroes"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Batgirl posing in an alley",
+  "alt1": "a villain in a black body suit and red goggles holds a flame thrower",
+  "alt2": "Batgirl peeks out from a fire escape",
+  "alt3": "Batgirl avoids the flame thrower",
+  "alt4": "Batman with cape flapping in the wind",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes",
+    "new on nestflix"
+  ]
+}
