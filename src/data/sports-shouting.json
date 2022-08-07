@@ -1,0 +1,23 @@
+{
+  "slug": "sports-shouting",
+  "title": "Sports Shouting",
+  "description": "The loudest voices in sports commentary all in one place.",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "TV-PG",
+  "runtime": "10 seasons",
+  "producer": "Scottie Shofar",
+  "labels": [
+    "talk show",
+    "sports"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "a grid of four sports pundits passionately talking at the same time",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sports commentary",
+    "new on nestflix"
+  ]
+}
