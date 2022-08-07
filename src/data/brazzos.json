@@ -1,24 +1,26 @@
 {
   "slug": "brazzos",
   "title": "Brazzos",
-  "description": "He’s not some dumb cop you see on TV. He’s Brazzos.",
+  "description": "He’s not some dumb cop you see on TV. Charles-Haden Savage stars as Brazzos in this classic crime drama and the 2022 sequel series starring Naomi Jackson.",
   "quote": "This sends the investigation into a whole new direction.",
   "parent": "Only Murders in the Building",
   "parentYear": "2021-Present",
   "rating": "TV-PG",
-  "runtime": "9 seasons",
+  "runtime": "10 seasons",
   "starring": [
-    "Charles-Haden Savage"
+    "Charles-Haden Savage",
+    "Naomi Jackson"
   ],
   "labels": [
     "crime drama"
   ],
+  "studio": "CBS",
   "credit": "Hulu",
   "altHero": "Charles-Haden Savage as Brazzos, a sunglasses-wearing detective",
-  "alt1": "Brazzos leans against a wall while a man in a denim jacket sits handcuffed at an interrogation table",
-  "alt2": "closeup of Brazzos",
-  "alt3": "closeup of the man in handcuffs",
-  "alt4": "Brazzos flosses his teeth",
+  "alt1": "a man in handcuffs sits at an interrogation table",
+  "alt2": "Brazzos flosses his teeth",
+  "alt3": "Naomi Jackson as the new Brazzos, a black woman detective inspecting some evidence",
+  "alt4": "Savage as original Brazzos, older and in a wheelchair",
   "layout": "movie.pug",
   "stills": true,
   "tags": [
