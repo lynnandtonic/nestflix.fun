@@ -1,0 +1,33 @@
+{
+  "slug": "chicks-picks-with-chick-hicks",
+  "title": "Chick’s Picks with Chick Hicks",
+  "description": "All the latest racing stats and analysis with former and forever Piston Cup champion, Chick Hicks.",
+  "parent": "Cars 3",
+  "parentYear": "2017",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Chick Hicks",
+    "Natalie Certain"
+  ],
+  "studio": "Racing Sports Network",
+  "labels": [
+    "talk show",
+    "sports",
+    "cars"
+  ],
+  "credit": "Pixar Animation Studios",
+  "altHero": "Chick Hicks, a green car with big eyes and mustache next to a racing trophy",
+  "alt1": "a purple car, Natalie Certain, talks with Chick",
+  "alt2": "closeup of a racetrack",
+  "alt3": "Natalie Certain analyzes racers",
+  "alt4": "Chick with Lightning McQueen on the screen behind him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sports commentary",
+    "new on nestflix"
+  ]
+}
