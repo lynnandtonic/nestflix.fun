@@ -1,0 +1,32 @@
+{
+  "slug": "mirror-father-mirror",
+  "title": "Mirror, Father, Mirror",
+  "description": "A piece by amateur filmmaker Roberta Allsworth about who she is and what it feels like to inhabit her specific skin.",
+  "quote": "Mirror. Father. Mirror.",
+  "parent": "Ghost World",
+  "parentYear": "2001",
+  "rating": "Unrated",
+  "runtime": "19m",
+  "director": [
+    "Roberta Allsworth"
+  ],
+  "labels": [
+    "drama",
+    "amateur",
+    "arthouse"
+  ],
+  "credit": "United Artists",
+  "altHero": "a black and white shot of a child’s doll",
+  "alt1": "shadow of a person walking up stairs",
+  "alt2": "a toilet filled with doll parts",
+  "alt3": "crosses in front of sheer curtains blowing in the wind",
+  "alt4": "high contrast and rotated shot of the doll parts",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
