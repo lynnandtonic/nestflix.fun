@@ -1,0 +1,23 @@
+{
+  "slug": "gay-sportscenter",
+  "title": "Gay SportsCenter",
+  "description": "The brutally honest sports commentary you never knew you needed.",
+  "quote": "Yuck, no. Next! Boring. Who?",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "labels": [
+    "talk show",
+    "sports"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "an anchor in a suit sits at a talk show desk looking confused",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sports commentary",
+    "new on nestflix"
+  ]
+}
