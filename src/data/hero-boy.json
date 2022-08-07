@@ -1,0 +1,29 @@
+{
+  "slug": "hero-boy",
+  "title": "Hero Boy",
+  "description": "Hero Boy protects Tokyo from men and monsters determined to wreak havoc on the city.",
+  "quote": "I must succeed!",
+  "parent": "Freakazoid!",
+  "parentYear": "1995-1997",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "action",
+    "animation",
+    "superheroes"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a black and white cartoon boy hero flying through the air",
+  "alt1": "a giant lizard stomping through a city",
+  "alt2": "an army general holding binoculars",
+  "alt3": "two sumo wrestlers hold hands and call out",
+  "alt4": "Hero Boy lands near the lizard’s giant foot",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes",
+    "new on nestflix"
+  ]
+}
