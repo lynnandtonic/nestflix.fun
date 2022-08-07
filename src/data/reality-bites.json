@@ -1,0 +1,38 @@
+{
+  "slug": "reality-bites",
+  "title": "Reality Bites",
+  "description": "The lost pilot for the reality series <em>Reality Bites</em> about four Gen-X friends living together in Houston, Texas.",
+  "quote": "I am not under any orders to make the world a better place.",
+  "parent": "Reality Bites",
+  "parentYear": "1994",
+  "rating": "TV-14",
+  "runtime": "1 episode",
+  "starring": [
+    "Lelaina Pierce",
+    "Troy Dyer",
+    "Sammy Gray",
+    "Vickie Miner"
+  ],
+  "producer": "Michael Grates",
+  "creator": "Lelaina Pierce",
+  "studio": "In Your Face TV",
+  "labels": [
+    "reality",
+    "documentary",
+    "pilot"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Lelaina and Troy on a rooftop",
+  "alt1": "Vickie sitting on a bed talking to the camera",
+  "alt2": "Troy by the ocean",
+  "alt3": "Lelaina covering her face while giving a graduation speech",
+  "alt4": "Sammy talking to the camera",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
