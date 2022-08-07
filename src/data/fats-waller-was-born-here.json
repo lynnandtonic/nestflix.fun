@@ -1,0 +1,39 @@
+{
+  "slug": "fats-waller-was-born-here",
+  "title": "Fats Waller Was Born Here",
+  "description": "The story of American jazz pianist Thomas “Fats” Waller and the little town of Passaic, New Jersey.",
+  "quote": "Fats was the star that made the whole town shine.",
+  "parent": "Be Kind Rewind",
+  "parentYear": "2008",
+  "rating": "Unrated",
+  "runtime": "43m",
+  "starring": [
+    "Mike Coolwell",
+    "Jerry McLean",
+    "Elroy Fletcher"
+  ],
+  "director": [
+    "Mike Coolwell",
+    "Jerry McLean"
+  ],
+  "labels": [
+    "documentary",
+    "biography",
+    "music",
+    "amateur"
+  ],
+  "credit": "New Line Cinema",
+  "altHero": "Fats Waller, a black musician wearing a bow tie and smoking a cigarette",
+  "alt1": "Mike and Jerry interview Elroy Fletcher outside his video store",
+  "alt2": "Fats playing an organ with many pipes",
+  "alt3": "Fats at the organ",
+  "alt4": "Fats playing organ in an exaggerated scene with many people blowing pipes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
