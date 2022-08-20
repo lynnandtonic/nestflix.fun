@@ -1,0 +1,30 @@
+{
+  "slug": "goodlooking",
+  "title": "Goodlooking",
+  "description": "Jenna Maroney is Alexis Goodlooking. She’s good-looking and her special ability is being good at looking for clues.",
+  "quote": "Maybe the perp’s in the system. Unlike my husband’s killer, who got away, and it haunts me.",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "starring": [
+    "Jenna Maroney"
+  ],
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "Jenna Maroney as a detective investigating a house, her partner interviews a man in the background",
+  "alt1": "a dimly lit loading dock crime scene",
+  "alt2": "Jenna Maroney",
+  "alt3": "a blood spot on the carpet",
+  "alt4": "Jenna Maroney",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
