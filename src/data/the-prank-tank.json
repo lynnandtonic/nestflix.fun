@@ -1,0 +1,23 @@
+{
+  "slug": "the-prank-tank",
+  "title": "The Prank Tank",
+  "description": "Your boy Duncan is delivering epic pranks every week.",
+  "quote": "For today’s wacky prank, we filled Principal Johnson’s car with Splish brand soda!",
+  "parent": "Big City Greens",
+  "parentYear": "2018-Present",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "labels": [
+    "reality",
+    "pranks"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "a hip kid stands on top of a car pointing at a man who has just been pranked, neon green soda flowing out of his car and onto the ground",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
