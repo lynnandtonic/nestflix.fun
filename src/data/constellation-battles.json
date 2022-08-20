@@ -1,0 +1,44 @@
+{
+  "slug": "constellation-battles",
+  "title": "Constellation Battles",
+  "description": "Dante Mooniker teams up with Princess Starra and Old Man Bobi-1 to travel across the universe and stop Dark Star from gathering all the galaxy crystals.",
+  "quote": "These galaxy crystals possess immense power. Do not let them fall into the wrong hands.",
+  "parent": "Big City Greens",
+  "parentYear": "2018-Present",
+  "rating": "PG",
+  "runtime": "2h 3m",
+  "starring": [
+    "Ham Lambill",
+    "Kenny Alex",
+    "Fairy Kisher",
+    "Garth Crator",
+    "Yola",
+    "Harry Chevy",
+    "Killjoy Scar",
+    "Libby Label",
+    "Tony Baloney",
+    "John Smith",
+    "Klattu Barrada"
+  ],
+  "director": [
+    "Ray Moniker"
+  ],
+  "labels": [
+    "sci-fi",
+    "space"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Dante Mooniker, Princess Starra, and Old Man Bobi-1 escaping in a space ship",
+  "alt1": "Dark Star‘s spaceship shooting lasers",
+  "alt2": "Yola holding up a purple crystal",
+  "alt3": "Dark Star holding three brightly colored crystals",
+  "alt4": "Dante Mooniker lifts up his hair to reveal a green crystal on his forehead",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films",
+    "new on nestflix"
+  ]
+}
