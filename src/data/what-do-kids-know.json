@@ -1,0 +1,32 @@
+{
+  "slug": "what-do-kids-know",
+  "title": "What Do Kids Know?",
+  "description": "America’s longest-running quiz show and the place where three kids get to challenge three adults. In the end, we’ll see who’s the boss.",
+  "parent": "Magnolia",
+  "parentYear": "1999",
+  "rating": "TV-G",
+  "runtime": "33 seasons",
+  "starring": [
+    "Jimmy Gator",
+    "Dick Jennings"
+  ],
+  "studio": "WDKK",
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "New Line Cinema",
+  "altHero": "host Jimmy Gator reading a card",
+  "alt1": "Gator as host in the 1970s",
+  "alt2": "Gator as host in the 1990s",
+  "alt3": "a team of three kids",
+  "alt4": "Gator on the game show set with three adult challengers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
