@@ -1,0 +1,40 @@
+{
+  "slug": "krillhunter-collection",
+  "title": "Krillhunter Collection",
+  "description": "Experience the Krillhunter saga from the very beginning. Installments 9-13 coming soon.",
+  "parent": "Milo Murphy’s Law",
+  "parentYear": "2016-2019",
+  "rating": "PG-13",
+  "runtime": "23h 3m",
+  "starring": [
+    "Tobias Trollhammer",
+    "Gretchen Flammkuchen",
+    "Sherwin Dusterwinkle"
+  ],
+  "studio": "Factual Pictures, Blurry Features, Yellow Hydrant Pictures, Flash in a Pan Productions, Blown Deadline Entertainment, Fake Production Co., Blink! and You’ll Miss It Entertainment, Hard to Watch Films, 12 Frame Pictures, All Over the Place Productions, Cliché Pictures, Trope Media, Redundancy Productions, Train Wreck Films, Cheese Films, Pause Here Productions",
+  "labels": [
+    "collection",
+    "action",
+    "animals"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Krillhunter, a blonde man on a boat wearing bib overalls, points a spear gun at the water",
+  "alt1": "Krillhunter",
+  "alt2": "Krillhunter 2: Krilling Me Softly",
+  "alt3": "Krillhunter 3: Psycho Kriller",
+  "alt4": "Krillhunter 4: Krill Bill 2",
+  "alt5": "Krillhunter 5: The Beverly Krillbillies",
+  "alt6": "Krillhunter 6: House on Haunted Krill",
+  "alt7": "Krillhunter 7: License to Krill",
+  "alt8": "Krillhunter 8: Good Krill Hunting",
+  "alt9": "Krillhunter 14: We Don’t Know What We’re Doing",
+  "alt10": "Krillhunter: Lady Krillers",
+  "layout": "movie.pug",
+  "submovies": 10,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
