@@ -1,0 +1,37 @@
+{
+  "slug": "the-rusty-venture-show",
+  "title": "The Rusty Venture Show",
+  "description": "The animated escapades of boy adventurer Rusty Venture and Team Venture. Brought to you by: smoking!",
+  "quote": "Keep him up there, Kano! I don’t care if he wets himself and your head!",
+  "parent": "The Venture Brothers",
+  "parentYear": "2004-2018",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Rusty Venture",
+    "Dr. Jonas Venture",
+    "Kano",
+    "Hector",
+    "H.E.L.P.eR."
+  ],
+  "studio": "Venture-Industries",
+  "labels": [
+    "action",
+    "adventure",
+    "animation"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Rusty Venture, a young red-haired boy, standing on the back of a pterodactyl",
+  "alt1": "Team Venture in their airplane",
+  "alt2": "the military shooting at a giant robot in the desert",
+  "alt3": "Dr. Venture flying with jetpacks in front of a red sky",
+  "alt4": "Rusty Venture hanging on a rope in front of a huge fire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv",
+    "new on nestflix"
+  ]
+}
