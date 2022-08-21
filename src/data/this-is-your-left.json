@@ -1,0 +1,29 @@
+{
+  "slug": "this-is-your-left",
+  "title": "This Is Your Left",
+  "description": "A program for those who can’t tell their right from their left. It’s funny if you like public television.",
+  "quote": "This is your left, that’s your left. This is your left, that’s your left!",
+  "parent": "Aqua Teen Hunger Force",
+  "parentYear": "2000-2015",
+  "rating": "TV-Y",
+  "runtime": "1 season",
+  "labels": [
+    "kids",
+    "educational",
+    "music"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a puppet of a boy in a striped shirt in front of a psychedelic background",
+  "alt1": "the puppet raises his foot and the word “Left” scrolls across the bottom",
+  "alt2": "the puppet’s feet and the word “Right”",
+  "alt3": "the puppet tilts his head, the background is four tilted smiley faces",
+  "alt4": "a closeup of the puppet waving",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
