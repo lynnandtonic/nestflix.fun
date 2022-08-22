@@ -1,0 +1,32 @@
+{
+  "slug": "beyond-our-dreams",
+  "title": "Beyond Our Dreams",
+  "description": "Drama is inescapable in Ashford Falls. Follow the tangled lives of billionaire patriarch Carter Hedison, his heirs Rachel and Blake, Dr. Paul Kirkwood, and Nurse Helen Caldwell.",
+  "quote": "These heart-lung-liver transplants are almost routine. He’ll be as good as new.",
+  "parent": "Delirious",
+  "parentYear": "1991",
+  "rating": "TV-MA",
+  "runtime": "10 seasons",
+  "starring": [
+    "Laura Claybourne"
+  ],
+  "producer": "Jack Gable, Lou Sherwood, Arlene Sherwood",
+  "labels": [
+    "soap opera",
+    "medical drama"
+  ],
+  "credit": "Metro-Goldwyn-Mayer",
+  "altHero": "Rachel speaks with Dr. Kirkwood",
+  "alt1": "Rachel and the Dr. stand above her father in a hospital bed",
+  "alt2": "nurse Helen’s hand touches Carter Hedison’s hand",
+  "alt3": "Blake visits his father",
+  "alt4": "Helen peers through a hospital door window",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas",
+    "new on nestflix"
+  ]
+}
