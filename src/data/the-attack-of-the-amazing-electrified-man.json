@@ -1,0 +1,29 @@
+{
+  "slug": "the-attack-of-the-amazing-electrified-man",
+  "title": "The Attack of the Amazing Electrified Man",
+  "description": "A science experiment goes horribly wrong and a man with little left to lose discovers a new source of power.",
+  "quote": "You want to inject me with this corpuscle to see if I can survive the chair, is that it?",
+  "parent": "Popcorn",
+  "parentYear": "1991",
+  "rating": "R",
+  "runtime": "1h 12m",
+  "producer": "Sol Blitzky",
+  "labels": [
+    "sci-fi",
+    "horror"
+  ],
+  "credit": "Studio Three Film",
+  "altHero": "a man gestures wildly with an electric chair cap on",
+  "alt1": "a prisoner looks distraught next to a prison guard and a priest",
+  "alt2": "a man’s hand grips another man’s face, sending electricity throughout his head",
+  "alt3": "two men and a woman huddle looking frightened",
+  "alt4": "the man and woman kiss, electricity running through them",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films",
+    "new on nestflix"
+  ]
+}
