@@ -1,0 +1,32 @@
+{
+  "slug": "big-baby",
+  "title": "Big Baby",
+  "description": "Beware, ladies. There’s a man-sized baby on the loose, and he has an axe to grind.",
+  "quote": "Who’s the big baby now?!",
+  "parent": "Allegoria",
+  "parentYear": "2022",
+  "rating": "R",
+  "runtime": "1h 46m",
+  "director": [
+    "Eddie Park"
+  ],
+  "labels": [
+    "horror",
+    "slasher",
+    "babies"
+  ],
+  "credit": "RLJE Films",
+  "altHero": "a man in a pink jumper covered in blood wears a baby face mask holds an axe",
+  "alt1": "two frightened young women huddle together in the dark",
+  "alt2": "the man in the baby mask covered in blood",
+  "alt3": "a blonde woman looks scared as the baby man is behind her",
+  "alt4": "the frightened woman scrambling on the ground",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks",
+    "new on nestflix"
+  ]
+}
