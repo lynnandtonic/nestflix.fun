@@ -1,0 +1,29 @@
+{
+  "slug": "buckle-your-shoes",
+  "title": "Buckle Your Shoes",
+  "description": "Heathstead, an assistant deacon who sleeps with the constable’s daughter, is forced to hide out as a lady shoe salesman at Kevinson’s Cobblery. Includes the long-awaited Holiday Special.",
+  "quote": "Beatrix, can I fetch you a pair of wellies?",
+  "parent": "You’re the Worst",
+  "parentYear": "2014-2019",
+  "rating": "TV-PG",
+  "runtime": "12 seasons",
+  "labels": [
+    "drama",
+    "period drama",
+    "britsh TV"
+  ],
+  "credit": "20th Television",
+  "altHero": "Heathstead wearing his signature yellow jacket and bowler cap",
+  "alt1": "Beatrix speaks to Heathstead",
+  "alt2": "a snowy signpost in front of Big Ben",
+  "alt3": "Heathstead looks at the sky",
+  "alt4": "Heathstead and Beatrix stand outside the cobblery looking away from each other",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "british tv",
+    "new on nestflix"
+  ]
+}
