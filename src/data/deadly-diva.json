@@ -1,0 +1,35 @@
+{
+  "slug": "deadly-diva",
+  "title": "Deadly Diva",
+  "description": "Beware men who cross this woman. A first date can be deadly.",
+  "quote": "Last time I saw a woman drink like that, she was drowning.",
+  "parent": "Poetic Justice",
+  "parentYear": "1993",
+  "rating": "NC-17",
+  "runtime": "1h 49m",
+  "starring": [
+    "Billy Zane",
+    "Lori Petty"
+  ],
+  "director": [
+    "Alan Smithee"
+  ],
+  "labels": [
+    "thriller",
+    "erotic"
+  ],
+  "credit": "Columbia Pictures",
+  "altHero": "Billy Zane gives a coy smile toward a his date",
+  "alt1": "Billy Zane",
+  "alt2": "Lori Petty",
+  "alt3": "Zane and Petty kissing",
+  "alt4": "Petty pulling out a gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
