@@ -1,0 +1,28 @@
+{
+  "slug": "skunknophobia",
+  "title": "Skunknophobia",
+  "description": "Horatio has a deadly fear of skunks and finds himself in a rural town experiencing an odorous infestation.",
+  "quote": "Oh no! A skunk!",
+  "parent": "Tiny Toon Adventures: How I Spent My Vacation",
+  "parentYear": "1992",
+  "rating": "PG-13",
+  "runtime": "1h 48m",
+  "labels": [
+    "horror",
+    "animals"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "a man, Horatio, screams as he raises a bucket from a well holding a huge skunk with sharp teeth and red eyes",
+  "alt1": "Horatio driving a car",
+  "alt2": "Horatio has a flat tire",
+  "alt3": "Horatio screams",
+  "alt4": "a state trooper with a mustache",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
