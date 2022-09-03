@@ -1,0 +1,24 @@
+{
+  "slug": "baby-justice",
+  "title": "Baby Justice",
+  "description": "That show about a sassy toddler named Justice who’s also the honorary sheriff of a small town in Ohio.",
+  "quote": "I’m gettin’ too old for this poop.",
+  "parent": "Happy Endings",
+  "parentYear": "2011-2013",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "crime drama",
+    "action",
+    "babies"
+  ],
+  "credit": "Sony Pictures Television",
+  "altHero": "a baby sheriff on the telephone",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "babies in action",
+    "new on nestflix"
+  ]
+}
