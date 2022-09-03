@@ -1,0 +1,34 @@
+{
+  "slug": "americas-top-talent",
+  "title": "America’s Top Talent",
+  "description": "Singing hopefuls perform for a panel of judges with dreams of becoming the next big music sensation.",
+  "quote": "I... love your shoes!",
+  "parent": "Hannah Montana",
+  "parentYear": "2006-2011",
+  "parent2": "Austin & Ally",
+  "parent2Year": "2011-2016",
+  "rating": "TV-G",
+  "runtime": "15 seasons",
+  "starring": [
+    "Jett Deely",
+    "Kara DioGuardi"
+  ],
+  "labels": [
+    "reality competition",
+    "singing"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "host Jett Deely",
+  "alt1": "contestant Agnes Roach sings in front of the judges in their spinning chairs",
+  "alt2": "Austin Moon and Ally Dawson as guest judges",
+  "alt3": "judges Andy, Byron, and guest judge Hannah Montana",
+  "alt4": "Oliver Oken singing on the show",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
