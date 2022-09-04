@@ -1,0 +1,29 @@
+{
+  "slug": "the-adventures-of-otto",
+  "title": "The Adventures of Otto",
+  "description": "The adventures of Otto, the vest-wearing turtle. A school-appropriate film that’s both entertaining and harmless.",
+  "quote": "I haven’t seen a man who looks like that, but if he stole a book from the libaray, I’m down to help you find him.",
+  "parent": "Joe Pera Talks With You",
+  "parentYear": "2018-2021",
+  "rating": "G",
+  "runtime": "1h 12m",
+  "studio": "Fern Productions",
+  "labels": [
+    "family",
+    "animals"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Otto the turtle in a vest on a plaid blanket in a canoe",
+  "alt1": "a gardening woman speaks with Otto the turtle by a garden shed",
+  "alt2": "the gardening woman in a straw hat",
+  "alt3": "Otto the turtle sitting on a phone book in a car",
+  "alt4": "a vintage blue car drives down a rural road",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films",
+    "new on nestflix"
+  ]
+}
