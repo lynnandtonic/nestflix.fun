@@ -11,7 +11,9 @@
     "Mel Dorado"
   ],
   "labels": [
-    "talk show, sports, cars"
+    "talk show",
+    "sports",
+    "cars"
   ],
   "credit": "Pixar Animation Studios",
   "altHero": "host Mel Dorado, an yellow Cadillac with glasses",
@@ -23,6 +25,7 @@
   "stills": true,
   "tags": [
     "entry",
-    "TV series"
+    "TV series",
+    "sports commentary"
   ]
 }
