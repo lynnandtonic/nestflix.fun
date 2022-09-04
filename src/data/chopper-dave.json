@@ -1,0 +1,28 @@
+{
+  "slug": "chopper-dave",
+  "title": "Chopper Dave",
+  "description": "Chopper Dave is a helicopter pilot who at night turns into a crime-fighting werewolf. Includes the made-for-TV movie <em>Chopper Dave: Blades of Vengeance!</em>",
+  "parent": "Sealab 2021",
+  "parentYear": "2000",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "action",
+    "crime",
+    "werewolves"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a helicopter pilot",
+  "alt1": "a fleet of helicopters in the sky",
+  "alt2": "a pilot with a set of binoculars",
+  "alt3": "a helicopter over the ocean",
+  "alt4": "the helicopter is a werewolf",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv",
+    "new on nestflix"
+  ]
+}

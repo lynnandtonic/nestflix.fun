@@ -1,0 +1,30 @@
+{
+  "slug": "tinfins",
+  "title": "Tinfins",
+  "description": "In the world’s second-most advanced research facility, a brilliant scientest has created a new life form. But in order to survive, they’ll have to destroy his creation.",
+  "quote": "Would you put your brain in a robot body?",
+  "parent": "Sealab 2021",
+  "parentYear": "2000",
+  "rating": "AS",
+  "runtime": "1h 54m",
+  "studio": "Seventy-Thirty Productions",
+  "labels": [
+    "horror",
+    "monster",
+    "animals attack"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a big robot shark approaches two divers in a cage",
+  "alt1": "two divers weld a robot shark",
+  "alt2": "a robot shark fin emerges between the legs of a woman in a bubble bath",
+  "alt3": "a green hologram head speaks to a group of soldiers",
+  "alt4": "a submarine with long arms wrestles with the robot shark",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ]
+}
