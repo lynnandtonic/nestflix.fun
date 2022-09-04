@@ -1,0 +1,32 @@
+{
+  "slug": "american-dreamz",
+  "title": "American Dreamz",
+  "description": "Every season a new batch of dreamers compete to win this inspiring, but sometimes brutal singing competition.",
+  "quote": "You are like a musical Ebola virus.",
+  "parent": "American Dreamz",
+  "parentYear": "2006",
+  "rating": "TV-G",
+  "runtime": "8 seasons",
+  "starring": [
+    "Martin Tweed",
+    "Sally Kendoo"
+  ],
+  "labels": [
+    "reality competition",
+    "singing"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Sally Kendoo singing on stage",
+  "alt1": "host Martin Tweed",
+  "alt2": "dreamer Omer Obeidi getting a critique from Martin Tweed",
+  "alt3": "dreamer Sholem Glickstein performing on stage",
+  "alt4": "Sally Kendoo as the new host",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
