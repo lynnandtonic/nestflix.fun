@@ -1,0 +1,35 @@
+{
+  "slug": "the-lazarus-bowl",
+  "title": "The Lazarus Bowl",
+  "description": "Based on the real story of Cardinal Augustine O’Fallon. The Lazarus Bowl follows the Cigarette Smoking Pontiff as he searches for the titular artifact in order to raise an army of zombies before FBI agents Fox Mulder and Dana Scully can stop him.",
+  "quote": "My zombie snipers are everywhere!",
+  "parent": "The X-Files",
+  "parentYear": "1993-2018",
+  "rating": "PG-13",
+  "runtime": "2h 13m",
+  "starring": [
+    "Garry Shandling",
+    "Téa Leoni",
+    "Tony Amendola"
+  ],
+  "producer": "Wayne Federman",
+  "labels": [
+    "thriller",
+    "mystery",
+    "zombies"
+  ],
+  "credit": "20th Television",
+  "altHero": "Garry Shandling as Mulder holding up a golden bowl",
+  "alt1": "the pope grits his teeth while holding a woman hostage",
+  "alt2": "Mulder hides behind a headstone while rifle lasers point at him",
+  "alt3": "the pope holding a gun up to Scully",
+  "alt4": "a close-up of a zombie’s face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
