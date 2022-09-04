@@ -1,0 +1,35 @@
+{
+  "slug": "mosquito",
+  "title": "Mosquito!",
+  "description": "The President of the United States races to mobilize armed forces to stop a nuclear mutant giant mosquito causing terror across the city.",
+  "quote": "This is one hell of a bug.",
+  "parent": "Popcorn",
+  "parentYear": "1991",
+  "rating": "R",
+  "runtime": "1h 24m",
+  "starring": [
+    "Randall Todd",
+    "Alison Holt",
+    "Cubby Scott"
+  ],
+  "studio": "Condor Films",
+  "labels": [
+    "horror",
+    "monster",
+    "animals"
+  ],
+  "credit": "Studio Three Film",
+  "altHero": "a giant mosquito in the sky",
+  "alt1": "a giant mosquito on the roof of a car",
+  "alt2": "a group of people looking frightened",
+  "alt3": "mosquito arms breaking through a window",
+  "alt4": "people cower as giant mosquito arms spread across the room",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ]
+}
