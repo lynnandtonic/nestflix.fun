@@ -1,0 +1,31 @@
+{
+  "slug": "mcbain-lets-get-silly",
+  "title": "McBain: Let’s Get Silly",
+  "description": "Known as perhaps the most poorly budgeted film ever, McBain tells jokes in front of a brick wall for 90 minutes.",
+  "quote": "That’s the joke.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "rating": "PG-13",
+  "runtime": "1h 30m",
+  "starring": [
+    "Rainier Wolfcastle"
+  ],
+  "labels": [
+    "comedy",
+    "standup"
+  ],
+  "credit": "20th Television",
+  "altHero": "McBain on stage at a comedy club",
+  "alt1": "still on stage, McBain shoots a big gun",
+  "alt2": "McBain pulls the ring from a grenade",
+  "alt3": "McBain throwing the grenade",
+  "alt4": "bright flash and man’s glasses fly in the air",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
