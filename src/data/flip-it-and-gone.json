@@ -1,0 +1,33 @@
+{
+  "slug": "flip-it-and-gone",
+  "title": "Flip It & Gone",
+  "description": "Chosen to be HRTV’s next big stars, Cricket and Jann Melfi take rundown homes and flip them into something special.",
+  "quote": "This is just part of the process... the part I hate!",
+  "parent": "Flipped",
+  "parentYear": "2020",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Cricket Melfi",
+    "Jann Melfi"
+  ],
+  "studio": "HRTV",
+  "labels": [
+    "reality",
+    "home improvement"
+  ],
+  "credit": "Funny or Die",
+  "altHero": "Cricket and Jann Melfi in a home under construction",
+  "alt1": "a contractor in a hard hat looks up from from a cellar door",
+  "alt2": "Cricket and Jann in colorful outfits, Jann speaks expressively",
+  "alt3": "a contractor measures a wall with a measuring tape",
+  "alt4": "Cricket and Jann in colorful outfits speak to the camera",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home and diy",
+    "new on nestflix"
+  ]
+}
