@@ -1,0 +1,35 @@
+{
+  "slug": "the-corpse-danced-at-midnight",
+  "title": "The Corpse Danced at Midnight",
+  "description": "The film loosely based on the 1984 bestselling murder-mystery by J.B. Fletcher and ultimately left unfinished due to its own murder scandal.",
+  "parent": "Murder, She Wrote",
+  "parentYear": "1984-1996",
+  "rating": "Unrated",
+  "runtime": "1h 12m",
+  "starring": [
+    "Eve Crystal",
+    "Scott Bennett"
+  ],
+  "director": [
+    "Ross Haley"
+  ],
+  "producer": "Jerry Lydecker",
+  "labels": [
+    "thrillers",
+    "mystery"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "a woman in a neon graveyard",
+  "alt1": "a woman in a neon graveyard",
+  "alt2": "dancing corpses approach the woman in the graveyard",
+  "alt3": "a blonde man embraces the woman",
+  "alt4": "the man and woman look at each other",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
