@@ -1,0 +1,33 @@
+{
+  "slug": "pros-and-connellys",
+  "title": "Pros & Connellys",
+  "description": "HRTV’s most popular couple make their clients’ home renovation dreams come true.",
+  "quote": "When you need the pros, call the Connellys.",
+  "parent": "Flipped",
+  "parentYear": "2020",
+  "rating": "TV-G",
+  "runtime": "6 seasons",
+  "starring": [
+    "Tiffany Connelly",
+    "Chazz Connelly"
+  ],
+  "studio": "HRTV",
+  "labels": [
+    "reality",
+    "home improvement"
+  ],
+  "credit": "Funny or Die",
+  "altHero": "Chazz and Tiffany Connelly cover the eyes of a couple about to reveal their backyard renovation",
+  "alt1": "Tiffany shows their clients their new living room and light fixture",
+  "alt2": "a fancy backyard with pool and basketball court",
+  "alt3": "the Connellys speak to the camera while holding champagne flutes",
+  "alt4": "the Connellys speak to the camera with Tiffany holding a paint roller",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home and diy",
+    "new on nestflix"
+  ]
+}
