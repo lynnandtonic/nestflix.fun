@@ -1,0 +1,38 @@
+{
+  "slug": "bluntman-v-chronic",
+  "title": "Bluntman v Chronic",
+  "description": "Your favorite stoner superheroes get a reboot. Bluntman and Chronic take on their biggest challenge yet... each other.",
+  "quote": "I’m ready to blast your ass and kick you in the hater tots.",
+  "parent": "Jay and Silent Bob Reboot",
+  "parentYear": "2019",
+  "rating": "R",
+  "runtime": "1h 54m",
+  "starring": [
+    "Val Kilmer",
+    "Melissa Benoist",
+    "Tommy Chong"
+  ],
+  "director": [
+    "Kevin Smith"
+  ],
+  "studio": "Saban Films",
+  "labels": [
+    "action",
+    "superheroes",
+    "stoners"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Val Kilmer as Bluntman holding up an iPhone with an angry emoji",
+  "alt1": "Melissa Benoist as Chronic walking through a superhero lair",
+  "alt2": "Benoist as Chronic",
+  "alt3": "Bluntman shoots a smoking gun",
+  "alt4": "Tommy Chong as Alfred smoking a joing and holding a pizza box",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "new on nestflix"
+  ]
+}
