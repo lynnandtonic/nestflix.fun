@@ -1,0 +1,33 @@
+{
+  "slug": "water-t-and-the-rise-of-the-numbericons",
+  "title": "Water-T and the Rise of the Numbericons",
+  "description": "His exile is over. Ice-T returns to his home on Alphabetrium to once again become Water-T just as the Numbericons begin their attack.",
+  "quote": "I better crunch the numbers.",
+  "parent": "Rick and Morty",
+  "parentYear": "2013-Present",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "starring": [
+    "Water-T",
+    "Magma-Q",
+    "Magnesium-J",
+    "Hydrogen-F"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "in a grand hall, a letter T made of water with a face holds up two guns",
+  "alt1": "a fantasy world with buildings and people shaped like letters",
+  "alt2": "letters J, F, and Q point staffs that create a ball of light above an ice person (Ice-T)",
+  "alt3": "Water-T holds Magma-Q as he is dying",
+  "alt4": "Water-T busts through a door shooting at the Numbericons, snake-like numbers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
