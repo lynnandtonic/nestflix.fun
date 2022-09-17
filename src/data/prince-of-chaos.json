@@ -1,0 +1,33 @@
+{
+  "slug": "prince-of-chaos",
+  "title": "Prince of Chaos",
+  "description": "The film adaptations of the fantasy adventure series by legendary author Horatio King.",
+  "quote": "Become the nightmare that haunts their dreams. Become the death-bringer of prophesy. Become the prince of chaos!",
+  "parent": "The Callback Queen",
+  "parentYear": "2013",
+  "rating": "PG",
+  "runtime": "1h 56m",
+  "starring": [
+    "Kate Loughlin"
+  ],
+  "studio": "BFI Film",
+  "labels": [
+    "adventure",
+    "fantasy",
+    "romance"
+  ],
+  "credit": "22:22 Productions",
+  "altHero": "a red haired woman in the woods wearing a gem headpiece and a fur coat",
+  "alt1": "two women wait on horseback in the woods near a stream",
+  "alt2": "a brunette woman stands next to a white horse",
+  "alt3": "the readhead woman speaks with a man",
+  "alt4": "the man and woman embrace",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action adventure movies",
+    "new on nestflix"
+  ]
+}
