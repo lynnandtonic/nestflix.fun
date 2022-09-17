@@ -1,0 +1,36 @@
+{
+  "slug": "lucid-dreaming",
+  "title": "Lucid Dreaming",
+  "description": "A love forbidden finds a way.",
+  "quote": "I dream, I dream, I dream of you.",
+  "parent": "The Callback Queen",
+  "parentYear": "2013",
+  "rating": "Unrated",
+  "runtime": "48m",
+  "starring": [
+    "Kate Loughlin",
+    "Lucy Wilkinson"
+  ],
+  "director": [
+    "Daithi Carroll"
+  ],
+  "studio": "Deborah Whitton Film Academy",
+  "labels": [
+    "romantic drama",
+    "amateur"
+  ],
+  "credit": "22:22 Productions",
+  "altHero": "a blonde and a redhead woman lay in the grass",
+  "alt1": "the women run through the woods in light flowing dresses, the vibe is ethereal",
+  "alt2": "the women laugh and hold hands",
+  "alt3": "the redhead leans against a tree and looks at the camera while the blonde gazes at her",
+  "alt4": "closeup of the women holding hands with the sun shining behind",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
