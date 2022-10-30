@@ -1,0 +1,32 @@
+{
+  "slug": "go-flip-yourself",
+  "title": "Go Flip Yourself",
+  "description": "Bran and Toby are brothers with a keen eye on interior decor. They turn the most mundane property from shabby to chic.",
+  "quote": "I’m getting notes of decomposing animals. Pee-yew-y.",
+  "parent": "What We Do in the Shadows",
+  "parentYear": "2019-Present",
+  "rating": "TV-G",
+  "runtime": "150 episodes",
+  "starring": [
+    "Bran Daltry",
+    "Toby Daltry"
+  ],
+  "labels": [
+    "reality",
+    "home improvement"
+  ],
+  "credit": "Disney Media",
+  "altHero": "twin brothers Bran and Toby smiling back to back",
+  "alt1": "Bran and Toby discuss a project in a kitchen remodel",
+  "alt2": "demo day on set",
+  "alt3": "Bran excitedly reveals a home to two clients as they remove blindfolds",
+  "alt4": "Bran hugs Laszlo in a fancy walk-in closet",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home and diy",
+    "new on nestflix"
+  ]
+}
