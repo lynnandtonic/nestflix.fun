@@ -1,0 +1,28 @@
+{
+  "slug": "blarney-the-singing-sea-serpent",
+  "title": "Blarney the Singing Sea Serpent",
+  "description": "Blarney the Singing Sea Serpent is an interactive kids show that will drive kids and parents absolutely wild.",
+  "quote": "If I were a fish I would... SCREAM! SCREAM! SCREAM!",
+  "parent": "The Powerpuff Girls",
+  "parentYear": "1998-2005",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "music"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Blarney the Sea Serpent wearing bunny ears",
+  "alt1": "Blarney standing by a lake",
+  "alt2": "Blarney wearing a rhino horn",
+  "alt3": "Blarney wearing a fish mask on his nose",
+  "alt4": "Blarney wearing a hammer hat",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
