@@ -1,0 +1,31 @@
+{
+  "slug": "liberty-down",
+  "title": "Liberty Down",
+  "description": "The President’s daughter has been taken and nothing will get in the way of getting her back.",
+  "quote": "He’s gonna save me ’cause he’s the commander-in-chief and I’m an American citizen.",
+  "parent": "Love",
+  "parentYear": "2016-2018",
+  "rating": "R",
+  "runtime": "1h 54m",
+  "starring": [
+    "Arya Hopkins",
+    "Bradley Cooper"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Netflix",
+  "altHero": "Arya Hopkins in a school uniform facing off with a kidnapper",
+  "alt1": "a plane crash site",
+  "alt2": "a man faces off with Arya",
+  "alt3": "two distressed men",
+  "alt4": "Arya pointing a gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
