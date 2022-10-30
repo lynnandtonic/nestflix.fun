@@ -1,0 +1,36 @@
+{
+  "slug": "red-thunder",
+  "title": "Red Thunder",
+  "description": "Soldier Boy and Payback take on the Soviets and communism to protect each other and the American way.",
+  "quote": "God would have mercy. I won’t.",
+  "parent": "The Boys",
+  "parentYear": "2019-Present",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "starring": [
+    "Soldier Boy",
+    "TNT Twins",
+    "Crimson Countess",
+    "Gunpowder"
+  ],
+  "studio": "Vought Studios",
+  "labels": [
+    "action",
+    "war drama",
+    "superheroes"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "closeup of Soldier Boy",
+  "alt1": "Soldier Boy tied to a post by a Soviet army commander",
+  "alt2": "Soviet commander Yuri Valisivich Kasimov",
+  "alt3": "Kasimov strangles Soldier Boy",
+  "alt4": "the TNT Twins show up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "new on nestflix"
+  ]
+}
