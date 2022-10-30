@@ -1,0 +1,32 @@
+{
+  "slug": "grolton-and-hovris",
+  "title": "Grolton & Hovris",
+  "description": "The mundane adventures of a man and his dog.",
+  "quote": "Let’s heat up some water!",
+  "parent": "Don’t Hug Me I’m Scared",
+  "parentYear": "2011",
+  "rating": "TV-Y7",
+  "runtime": "10 episodes",
+  "starring": [
+    "Martin “breadbin” Mitcham",
+    "Breadbin"
+  ],
+  "labels": [
+    "kids",
+    "british TV"
+  ],
+  "credit": "THIS IS IT",
+  "altHero": "claymation man and dog having a picnic in the woods",
+  "alt1": "man in a bowtie sitting at a table",
+  "alt2": "red dog wearing a tie and suspenders holds his hands in the air",
+  "alt3": "man smiles and sweats",
+  "alt4": "red dog sweats, looking worried",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "british tv",
+    "new on nestflix"
+  ]
+}
