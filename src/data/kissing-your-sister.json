@@ -1,0 +1,44 @@
+{
+  "slug": "kissing-your-sister",
+  "title": "Kissing Your Sister: The Story of a Tie",
+  "description": "Behind the scenes of the Meyer administration during the historic House of Representatives vote.",
+  "quote": "Daddy leaned into me and he said, ‘You know, a lot of people don’t like Nixon, but by God they respect him. And that’s you, peanut.’",
+  "parent": "Veep",
+  "parentYear": "2012-2019",
+  "rating": "PG",
+  "runtime": "1h 40m",
+  "starring": [
+    "Selina Meyer",
+    "Amy Brookheimer",
+    "Gary Walsh",
+    "Dan Egan",
+    "Jonah Ryan",
+    "Mike McLintock",
+    "Kent Davison",
+    "Richard Splett",
+    "Marjorie Palmiotti",
+    "Sue Wilson",
+    "Bill Ericsson"
+  ],
+  "director": [
+    "Catherine Meyer"
+  ],
+  "labels": [
+    "documentary",
+    "politics"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Selina Meyer giving an interview",
+  "alt1": "Bill Ericsson giving an interview from prison",
+  "alt2": "Selina Meyer speaking with Amy Brookheimer",
+  "alt3": "Gary Walsh giving an interview as moving people carry a couch out of the room",
+  "alt4": "Richard Splett giving an interview",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "new on nestflix"
+  ]
+}
