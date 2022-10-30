@@ -1,0 +1,35 @@
+{
+  "slug": "witchita",
+  "title": "Witchita",
+  "description": "A young girl comes of age and discovers her family has many dark secrets.",
+  "quote": "I understand my obligation... to kill.",
+  "parent": "Love",
+  "parentYear": "2016-2018",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Arya Hopkins",
+    "Heidi McAuliffe"
+  ],
+  "creator": "Susan Cheryl",
+  "studio": "Mar Vista Studios",
+  "labels": [
+    "period drama",
+    "paranormal",
+    "witches"
+  ],
+  "credit": "Netflix",
+  "altHero": "a blonde woman with a young girl in the woods with lit candles",
+  "alt1": "two women and a young girl standing around a body on the ground entangled in tree branches",
+  "alt2": "closeup of Arya Hopkins",
+  "alt3": "in the woods at night, two people approach a pentagram made of fire surrounded by lit candles",
+  "alt4": "two cloaked women against a backlit night",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
