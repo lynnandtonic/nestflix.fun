@@ -49,9 +49,12 @@ block content
         }
         document.addEventListener('DOMContentLoaded', onSearchChange);
 
-    form.search-form
-        input.search-input(type='text' name='search' id='search' autocomplete='off' autocorrect='off' placeholder='Search by title, parent film, etc.')
-        button.search-submit Search
+    form.search-container
+        label.search-label(for='search') Search Nestflix
+        .search-flex
+            input.search-input(type='text' name='search' id='search' autocomplete='off' autocorrect='off' placeholder='Search by title, parent film, etc.')
+            button.search-submit Search
+        p.search-help Type your search term(s) and hit Enter.
 
     section.list.short
         ul.card-list.thumbs

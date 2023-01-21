@@ -10,10 +10,25 @@
   main
     min-height: 84vh
 
-  .search-form
+  .search-container
     margin: var(--body-padding)
     margin-bottom: calc(var(--body-padding)*2)
     position: relative
+    display: block
+
+  .search-label
+    margin-bottom: .5em
+    display: block
+    width: 100%
+    font-weight: $font-weight-medium
+    font-size: 120%
+
+  .search-help
+    margin-top: .5em
+    display: block
+    text-align: center
+
+  .search-flex
     display: flex
 
   .search-input
@@ -25,7 +40,7 @@
     border: 1px solid white(.5)
     font-size: 200%
     color: white
-    
+
     @media screen and (max-width: 500px)
       font-size: 100%
 
@@ -42,17 +57,6 @@
     @media screen and (max-width: 500px)
       font-size: 100%
       padding: 1rem
-
-  // ul.card-list + div
-  //   display: none
-
-  // ul.card-list:empty ~ .start
-  //   display: block
-  //   font-size: 140%
-  //   text-align: center
-
-  //   @media screen and (max-width: 500px)
-  //     font-size: 100%
 
   noscript
     margin-bottom: 2em
