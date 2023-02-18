@@ -1,0 +1,35 @@
+{
+  "slug": "step-right-up",
+  "title": "Step Right Up!",
+  "description": "Lawrence moves in with his new wife Josie and step-son Cody who are all surprised when Josie’s ex-husband Jake moves in too. Includes lost footage from the unaired 2022 reboot.",
+  "parent": "Reboot",
+  "parentYear": "2022",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Reed Sterling",
+    "Bree Marie Jensen",
+    "Clay Barber",
+    "Zack Jackson",
+    "Timberly Fox"
+  ],
+  "creator": "Gordon Gelman",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "20th Television",
+  "altHero": "Lawrence, Josie, and Cody playing Jenga",
+  "alt1": "the family covering their ears while Josie plays the guitar",
+  "alt2": "Jake teaching Cody to shoot a plastic bow and arrow",
+  "alt3": "Lawrence with a suction arrow on his forehead",
+  "alt4": "the family laughing walking through the park",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
