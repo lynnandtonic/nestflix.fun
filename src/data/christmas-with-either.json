@@ -1,0 +1,23 @@
+{
+  "slug": "christmas-with-either",
+  "title": "Christmas with Either",
+  "description": "The award-winning, first ever Hallheart Channel bisexual holiday film.",
+  "parent": "Bros",
+  "parentYear": "2022",
+  "rating": "TV-14",
+  "runtime": "1h 22m",
+  "studio": "Hallheart Channel",
+  "labels": [
+    "holiday",
+    "romance"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "a man holds gifts at a holiday party and looks back and forth between a woman and man",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays",
+    "new on nestflix"
+  ]
+}

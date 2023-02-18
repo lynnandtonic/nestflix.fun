@@ -1,0 +1,24 @@
+{
+  "slug": "a-holly-poly-christmas",
+  "title": "A Holly, Poly Christmas",
+  "description": "Hallheart Channel’s first polyamorous holiday film.",
+  "quote": "It’s snowing on all seven of us!",
+  "parent": "Bros",
+  "parentYear": "2022",
+  "rating": "TV-14",
+  "runtime": "1h 23m",
+  "studio": "Hallheart Channel",
+  "labels": [
+    "holiday",
+    "romance"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "seven men and women hold hands in the snow",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays",
+    "new on nestflix"
+  ]
+}
