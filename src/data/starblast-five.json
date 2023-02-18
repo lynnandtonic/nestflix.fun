@@ -1,0 +1,27 @@
+{
+  "slug": "starblast-five",
+  "title": "Starblast Five",
+  "description": "The crew of Starblast Five explore the universe.",
+  "quote": "Captain, it has to be the multi-camera spectrometer and cryo-cooler. I’ll repair them as soon as I nourish my larvae.",
+  "parent": "Reboot",
+  "parentYear": "2022",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Bree Marie Jensen"
+  ],
+  "labels": [
+    "sci-fi",
+    "aliens",
+    "space"
+  ],
+  "credit": "20th Television",
+  "altHero": "Bree Marie Jensen in a spaceship as an insect-like alien",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}
