@@ -1,0 +1,29 @@
+{
+  "slug": "avenue-5",
+  "title": "Avenue 5",
+  "description": "After a freak accident, Avenue 5 is stuck in space, and life onboard is anything but ordinary.",
+  "quote": "If these are the Heavens, Mr. Judd, are we then gods?",
+  "parent": "Avenue 5",
+  "parentYear": "2020-2022",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "producer": "Herman Judd",
+  "labels": [
+    "drama",
+    "space"
+  ],
+  "credit": "HBO",
+  "altHero": "Captain Ryan Clark and billionaire Herman Judd",
+  "alt1": "the Avenue 5 ship in space",
+  "alt2": "Captain Clark with Iris Kimura",
+  "alt3": "Herman Judd ponders his reflection",
+  "alt4": "bridge crewperson Zarah",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
