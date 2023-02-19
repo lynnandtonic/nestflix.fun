@@ -1,0 +1,27 @@
+{
+  "slug": "pretty-patrick-lunchtime",
+  "title": "Pretty Patrick Lunchtime",
+  "description": "Bring your lunch and join Pretty Patrick for a chat during lunchtime.",
+  "quote": "Oh man, this salad looks good.",
+  "parent": "Bee and PuppyCat",
+  "parentYear": "2013-2016",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "starring": [
+    "Pretty Patrick"
+  ],
+  "labels": [
+    "kids",
+    "talk show",
+    "food"
+  ],
+  "credit": "Frederator Studios",
+  "altHero": "man with glasses eats a salad",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
