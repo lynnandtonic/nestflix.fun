@@ -1,0 +1,23 @@
+{
+  "slug": "horse-in-a-bookcase",
+  "title": "Horse in a Bookcase",
+  "description": "There’s a horse in a bookcase.",
+  "quote": "There’s a horse in a bookcase.",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-2015",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "animals"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "a horse is stuck in a bookcase",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv",
+    "new on nestflix"
+  ]
+}
