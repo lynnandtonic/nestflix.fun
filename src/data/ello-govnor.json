@@ -1,0 +1,27 @@
+{
+  "slug": "ello-govnor",
+  "title": "Ello Gov'nor",
+  "description": "A British taxi is possessed by the soul of its driver, seeking revenge on the lowly gang members who murdered him. Pay the fare... or pay the price.",
+  "quote": "Ello, gov’nor.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "an evil taxi with large sharp teeth springs from behind a shower curtain",
+  "alt1": "a boy opens his notebook and inside is a tire tread mark",
+  "alt2": "a woman brushes her hair in the bathroom looking frightened",
+  "alt3": "from inside the taxi, a man and his dog walk on the sidewalk",
+  "alt4": "the taxi chomps its sharp teeth on a man’s body",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
