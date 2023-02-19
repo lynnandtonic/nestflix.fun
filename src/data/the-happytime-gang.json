@@ -1,0 +1,39 @@
+{
+  "slug": "the-happytime-gang",
+  "title": "The Happytime Gang",
+  "description": "The motley crew of misfits that entertained you throughout the ’90s. At home with Jenny, Coach Lyle, Goofer the handyman, Mr. Bumblypants, and next-door neighbors Ezra and Cara, and, of course, Officer Larry Shenanigans.",
+  "quote": "You are under arrest for being too hot to handle.",
+  "parent": "The Happytime Murders",
+  "parentYear": "2018",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Jenny Peterson",
+    "Larry Phillips",
+    "Lyle",
+    "Goofer",
+    "Ezra",
+    "Cara",
+    "Augustus Bumblypants"
+  ],
+  "producer": "Ronovan Scargle",
+  "studio": "PTN",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "STX Entertainment",
+  "altHero": "Jenny, a human woman, with the Happytime Ganga, a bunch of puppets",
+  "alt1": "Coach Lyle, a purple puppet",
+  "alt2": "Goofer, a handyman puppet",
+  "alt3": "Mr. Bumblypants, a rabbit puppet mailman",
+  "alt4": "Officer Larry Shenanigans, a blue puppet cop",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
