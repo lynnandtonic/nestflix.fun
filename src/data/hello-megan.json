@@ -1,0 +1,36 @@
+{
+  "slug": "hello-megan",
+  "title": "Hello, Megan!",
+  "description": "This cheerleader knows the score. Center of attention and so much more!",
+  "quote": "Hello, Megan!",
+  "parent": "Young Justice",
+  "parentYear": "2010-2022",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Marie Logan",
+    "Rita Farr",
+    "Jonathan Lord",
+    "Sandra Stanyon",
+    "Paul Sloane"
+  ],
+  "creator": "Greg Vietti, Brandon Weismanz",
+  "labels": [
+    "sitcom",
+    "coming-of-age"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Megan, a red-haired teen, lowers her purple sunglasses",
+  "alt1": "Megan in the arms of a teen boy",
+  "alt2": "Megan cheerleading at the football game",
+  "alt3": "Megan painting a house with two friends",
+  "alt4": "Megan holding a frog by a pond",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}
