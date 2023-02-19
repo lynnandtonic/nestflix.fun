@@ -1,0 +1,27 @@
+{
+  "slug": "napoleon-1812-to-1813",
+  "title": "Napoleon 1812 to 1813",
+  "description": "Summer blockbuster from Lecture Films and writer Rob Marlowe. Nathan Goldfrappe reads the most entertaining, dramatic and even hilarious moments of a signicant year in Napoleon’s reign.",
+  "quote": "Crippled by disease and hunger, Napoleon’s men persevered.",
+  "parent": "The Invention of Lying",
+  "parentYear": "2009",
+  "rating": "PG",
+  "runtime": "2h 3m",
+  "starring": [
+    "Nathan Goldfrappe"
+  ],
+  "studio": "Lecture Films",
+  "labels": [
+    "historical drama",
+    "educational"
+  ],
+  "credit": "Warner Bros. Pictures",
+  "altHero": "elderly man in a leather armchair and smoking jacket speaks at the camera",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas",
+    "new on nestflix"
+  ]
+}
