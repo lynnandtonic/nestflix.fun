@@ -1,0 +1,28 @@
+{
+  "slug": "hack-the-planet",
+  "title": "Hack the Planet",
+  "description": "Elilte hackers, Razor and Blade, teach the kids tips and techniques for sticking it to the profiteering gluttons.",
+  "quote": "Remember, hacking is more than just a crime. It’s a survival trait!",
+  "parent": "Hackers",
+  "parentYear": "1995",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": [
+    "Razor",
+    "Blade"
+  ],
+  "labels": [
+    "talk show",
+    "reality",
+    "crime"
+  ],
+  "credit": "United Artists",
+  "altHero": "Razor and Blade",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows",
+    "new on nestflix"
+  ]
+}
