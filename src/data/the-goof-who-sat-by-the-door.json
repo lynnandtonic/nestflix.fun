@@ -1,0 +1,46 @@
+{
+  "slug": "the-goof-who-sat-by-the-door",
+  "title": "The Goof Who Sat By the Door: The Thomas Washington Story",
+  "description": "The rise and fall of Thomas Washington, an unassuming Black animator from Atlanta, Georgia, who, in 1992, was accidentially appointed as CEO of The Walt Disney Company.",
+  "parent": "Atlanta",
+  "parentYear": "2016-Present",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "starring": [
+    "Evelyn Jackson",
+    "Phillip Washington",
+    "Mark Dillard",
+    "Jenna Wortham",
+    "Leonard Trussell",
+    "Joel Zempel",
+    "Gary Welch",
+    "Frank Rolls",
+    "Anna Speilman",
+    "Maxwell Washington",
+    "Chris Spinx",
+    "Brian McKnight",
+    "Sinbad"
+  ],
+  "director": [
+    "Devonte Jackson"
+  ],
+  "studio": "Black American Network",
+  "labels": [
+    "documentary",
+    "biography"
+  ],
+  "credit": "20th Television",
+  "altHero": "Thomas Washington next to a Goofy cardboard cutout",
+  "alt1": "a Black couple and their son wearing Goofy hats",
+  "alt2": "Washington working in his studio",
+  "alt3": "Washington in a suit in front of a boardroom",
+  "alt4": "a crime scene photo of a large white Goofy glove laying in dirty water",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "new on nestflix"
+  ]
+}

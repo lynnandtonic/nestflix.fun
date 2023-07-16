@@ -1,0 +1,35 @@
+{
+  "slug": "american-warrior-singer",
+  "title": "American Warrior Singer",
+  "description": "Where fighting and singing overlap. American Warrior Singer is the first show created entirely by a ratings algorithm.",
+  "quote": "I loved your vocals, and your backstory was moving. But you left your neck unprotected, so it’s a no for me.",
+  "parent": "Girls5Eva",
+  "parentYear": "2021-Present",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": [
+    "Wickie Roy",
+    "Flex Bodi",
+    "Stet Robson"
+  ],
+  "studio": "Constant Productions",
+  "labels": [
+    "reality competition",
+    "singing",
+    "fighting"
+  ],
+  "credit": "Peacock",
+  "altHero": "the show judges",
+  "alt1": "young man in a cardigan sings on stage",
+  "alt2": "a young duo are beat up and bloody but excited to advance",
+  "alt3": "the judges",
+  "alt4": "a fit girl group in front of an unconscious warrior fighter",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}

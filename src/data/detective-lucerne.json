@@ -1,0 +1,31 @@
+{
+  "slug": "detective-lucerne",
+  "title": "Detective Lucerne",
+  "description": "The shrewd and intelligent Detective Lucerne is a modern day Sherlock Holmes, solving murders among affluent members of high society.",
+  "quote": "A fascinating theory!",
+  "parent": "Columbo",
+  "parentYear": "1968-1978",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": [
+    "Ward Fowler"
+  ],
+  "producer": "Claire Daley",
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "Universal Television",
+  "altHero": "Detective Lucerne played by Ward Fowler wearing a white jacket and hat",
+  "alt1": "outside a brick house with a fancy car in the driveway",
+  "alt2": "Lucerne speaks with an older man in a tuxedo",
+  "alt3": "another man comes in holding a gun",
+  "alt4": "Lucerne sneaks into an empty office",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}

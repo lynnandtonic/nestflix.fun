@@ -1,0 +1,35 @@
+{
+  "slug": "pbag",
+  "title": "P.B.A.G.",
+  "description": "The lost pilot for P.B.A.G. (Pranked By A Girl) featuring three members of 2000s girl group Girls5Eva.",
+  "quote": "You just got P’bagged!",
+  "parent": "Girls5Eva",
+  "parentYear": "2021-Present",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "starring": [
+    "Dawn Solano",
+    "Summer Dutkowsky",
+    "Gloria McManus"
+  ],
+  "studio": "Lifetime RAW",
+  "labels": [
+    "reality",
+    "pranks",
+    "pilot"
+  ],
+  "credit": "Peacock",
+  "altHero": "a traumatized man sobbing",
+  "alt1": "the man driving a limosine with a woman in the front seat and a cardboard cutout of Elijah Wood in the backseat",
+  "alt2": "a dummy being hit by the limo",
+  "alt3": "three women laughing",
+  "alt4": "the man frightened by a person wearing an old man mask",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}

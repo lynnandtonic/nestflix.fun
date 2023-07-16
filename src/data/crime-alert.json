@@ -1,0 +1,33 @@
+{
+  "slug": "crime-alert",
+  "title": "Crime Alert",
+  "description": "Reenactments of real crimes and wanted perpetrators. Call the hotline if you have information about these dangerous criminals.",
+  "quote": "Remember, keep your eyes open and stay alert!",
+  "parent": "Columbo",
+  "parentYear": "1968-1978",
+  "rating": "TV-MA",
+  "runtime": "5 seasons",
+  "starring": [
+    "Wade Anders"
+  ],
+  "director": [
+    "Maxine Jarrett"
+  ],
+  "labels": [
+    "real crime"
+  ],
+  "credit": "Universal Television",
+  "altHero": "host Wade Anders in a suit, points at the camera",
+  "alt1": "a group of women on set answering phones",
+  "alt2": "a man and woman look at each other passionately",
+  "alt3": "the same man and woman now smiling at each other over a dead body",
+  "alt4": "the man and women in stillframe behind Wade Anders sitting on a desk",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv",
+    "new on nestflix"
+  ]
+}

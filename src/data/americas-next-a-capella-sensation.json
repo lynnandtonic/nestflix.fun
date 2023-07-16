@@ -1,0 +1,34 @@
+{
+  "slug": "americas-next-a-capella-sensation",
+  "title": "America’s Next A Capella Sensation",
+  "description": "Like American Idol but for a capella groups. And all three judges are mean.",
+  "quote": "You can’t just sit here and cry.",
+  "parent": "The Office",
+  "parentYear": "2005-2013",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Mark McGrath",
+    "Aaron Rodgers",
+    "Santigold",
+    "Clay Aiken"
+  ],
+  "labels": [
+    "reality competition",
+    "singing"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "a teen Black girl sings",
+  "alt1": "Aaron Rodgers, Santigold, and Clay Aiken as judges",
+  "alt2": "Andy Bernard dressed as an old man singing",
+  "alt3": "Aaron Rodgers talking",
+  "alt4": "Clay Aiken is unimpressed",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
