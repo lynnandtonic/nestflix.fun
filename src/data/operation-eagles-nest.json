@@ -1,0 +1,34 @@
+{
+  "slug": "operation-eagles-nest",
+  "title": "Operation Eagle’s Nest",
+  "description": "A group of downed Allied airmen must traverse Nazi territory and make their way to safety.",
+  "quote": "Take that, you Nazi rat!",
+  "parent": "Fargo",
+  "parentYear": "2014-Present",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "starring": [
+    "Ronald Reagan",
+    "Laraine Day",
+    "James Whitmore"
+  ],
+  "studio": "Paramount Pictures",
+  "labels": [
+    "drama",
+    "war drama"
+  ],
+  "credit": "FX",
+  "altHero": "closeup of soldier holding a gun",
+  "alt1": "Nazi general at the top of a stairway",
+  "alt2": "man and woman in a cellar looking frightened",
+  "alt3": "closeup of man speaking to woman",
+  "alt4": "closeup of Nazi pointing his gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas",
+    "new on nestflix"
+  ]
+}
