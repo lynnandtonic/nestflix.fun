@@ -1,0 +1,38 @@
+{
+  "slug": "joan-is-awful",
+  "title": "Joan iss Awful",
+  "description": "Joan is about to have her life turned upside down when the details of her private life are broadcast to the world.",
+  "quote": "She uses the same toothpaste as you.",
+  "parent": "Black Mirror",
+  "parentYear": "2011-Present",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "starring": [
+    "Annie Murphy",
+    "Salma Hayek",
+    "Avi Nash",
+    "Rob Delaney",
+    "Michael Cera",
+    "Ayo Edibiri",
+    "Lolly Adefope",
+    "Jared Goldstein"
+  ],
+  "studio": "Streamberry",
+  "labels": [
+    "drama"
+  ],
+  "credit": "Netflix",
+  "altHero": "Annie Murphy as Joan, dressed in a cheerleader uniform and getting her mugshot taken",
+  "alt1": "Joan and her fiance upset on their couch",
+  "alt2": "Joan interrupting a wedding in her cheerleader uniform, pigtails, and a penis drawn on her forehead",
+  "alt3": "Joan and Salma Hayek",
+  "alt4": "Joan holding an axe up to a futuristic machine",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
