@@ -1,0 +1,37 @@
+{
+  "slug": "the-splattering",
+  "title": "The Splattering",
+  "description": "The small fishing town of Matheson, Massachusetts is terrorized by the Nephrophodite, a deadly lobster-human hybrid.",
+  "quote": "I prefer my lobster flame-broiled.",
+  "parent": "Locke & Key",
+  "parentYear": "2020-2022",
+  "rating": "Unrated",
+  "runtime": "47m",
+  "starring": [
+    "Kinsey Locke",
+    "Doug Brazelle"
+  ],
+  "director": [
+    "Scot Cavendish"
+  ],
+  "producer": "The Savini Squad",
+  "labels": [
+    "horror",
+    "monster",
+    "animals attack"
+  ],
+  "credit": "Netflix",
+  "altHero": "a lobster-human hybrid",
+  "alt1": "the huge lobster approaches a man, illuminated by his truck’s headlights",
+  "alt2": "a woman politician calming the crowd at the Lobster Fest",
+  "alt3": "Amanda, the lead, holding a dead girl and looking up at the camera",
+  "alt4": "Amanda holding a flame thrower",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ]
+}
