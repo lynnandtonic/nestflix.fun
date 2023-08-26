@@ -1,0 +1,35 @@
+{
+  "slug": "loch-henry",
+  "title": "Loch Henry: Truth Will Out",
+  "description": "A sleepy lochside town is rocked by a string of horrific murders. Decades later, the former holiday destination has never recovered.",
+  "parent": "Black Mirror",
+  "parentYear": "2011-Present",
+  "rating": "R",
+  "runtime": "2h 45m",
+  "starring": [
+    "Davis McCardle",
+    "Pia Koreshi",
+    "Janet McCardle"
+  ],
+  "producer": "Kate Cezar, Davis McCardle, Clara Ryce, Ted Bellingham",
+  "studio": "Historik Productions, Streamberry",
+  "labels": [
+    "documentary",
+    "real crime",
+    "british film"
+  ],
+  "credit": "Netflix",
+  "altHero": "a dark, wood paneled room and an illuminated leather couch",
+  "alt1": "David McCardle is interviewed on camera",
+  "alt2": "Pia makes a funny face at the camera",
+  "alt3": "cops and a reporter stand by a police stop",
+  "alt4": "Janet McCardle setting up for an interview with a shelf of video tapes behind her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "new on nestflix"
+  ]
+}
