@@ -1,0 +1,23 @@
+{
+  "slug": "basic-mortality",
+  "title": "Basic Mortality",
+  "description": "The show that everyone is talking about. A dark crime drama that’s really good for penguins.",
+  "quote": "This, Captain, is the most lamentable super-murder I’ve ever seen… and I’ve seen plenty.",
+  "parent": "Adventure Time",
+  "parentYear": "2010-2018",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "labels": [
+    "drama",
+    "crime drama"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "cartoon detective in a suit talking to a criminal in an interrogation room",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
