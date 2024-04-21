@@ -1,0 +1,28 @@
+{
+  "slug": "toothpick-head",
+  "title": "Toothpick Head",
+  "description": "Midnight snacks can be deadly. Mold, hungry birds, and toasters may be no match for Toothpick Head.",
+  "quote": "Who bit my bologna?!",
+  "parent": "CatDog",
+  "parentYear": "1998-2005",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "labels": [
+    "horror",
+    "monsters"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "large blue furry monster with a bologna sandwich for a head and spikey toothpick hair walking down a scary hallway",
+  "alt1": "a cat man and woman scared against a wall",
+  "alt2": "closeup of Toothpick Head",
+  "alt3": "cat looking into a gross fridge grabbing a sticky, moldy can of Titanic Jelly 1912",
+  "alt4": "the male cat is stuck to the wall with big toothpicks and the female cat holds a toaster above her head",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ]
+}
