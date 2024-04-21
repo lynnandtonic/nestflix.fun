@@ -1,0 +1,29 @@
+{
+  "slug": "the-mask-collector",
+  "title": "The Mask Collector",
+  "description": "The thrilling true story of Marine veteran Barry Berkman’s entanglement with acting coach and criminal, Gene Cousineau.",
+  "quote": "No orders from me. But you will get a few notes.",
+  "parent": "Barry",
+  "parentYear": "2018-2023",
+  "rating": "R",
+  "runtime": "2h 13m",
+  "labels": [
+    "thriller",
+    "drama",
+    "crime"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "two men stand on a dark stage looking at each other",
+  "alt1": "Barry looks at the theater from the street",
+  "alt2": "Barry doing a monologue",
+  "alt3": "Sally and her kid huddle against a cement wall",
+  "alt4": "Gene shoots a gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
