@@ -1,0 +1,36 @@
+{
+  "slug": "maids-off",
+  "title": "Maid’s Off",
+  "description": "Hollywood’s silent era comedy classic that introduced Nellie LaRoy to the world.",
+  "quote": "Just call me the wild child!",
+  "parent": "Babylon",
+  "parentYear": "2022",
+  "rating": "Unrated",
+  "runtime": "43m",
+  "starring": [
+    "Constace Moore",
+    "Nellie LaRoy"
+  ],
+  "director": [
+    "Ruth Adler"
+  ],
+  "studio": "Kinoscope Pictures",
+  "labels": [
+    "comedy",
+    "western"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "poster illustration of Constance Moore and two bearded bar patrons holding steins of beer",
+  "alt1": "closeup of Nellie LaRoy crying",
+  "alt2": "Nellie LaRoy surrounded by men in a bar",
+  "alt3": "feet dancing on a bar surrounded by men’s hands",
+  "alt4": "silent movie dialogue card that says “I was born on the wrong side of the tracks — but I’ve gotten around.”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age",
+    "new on nestflix"
+  ]
+}

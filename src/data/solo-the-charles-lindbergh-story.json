@@ -1,0 +1,34 @@
+{
+  "slug": "solo-the-charles-lindbergh-story",
+  "title": "Solo: The Charles Lindbergh Story",
+  "description": "A new take on the story of American aviator, Charles Lindbergh.",
+  "quote": "I shall call my invention “the aeroplane” and I owe it all to RC Cola.",
+  "parent": "American Dad!",
+  "parentYear": "2005-Present",
+  "rating": "R",
+  "runtime": "1h 46m",
+  "starring": [
+    "Vin Diesel"
+  ],
+  "director": [
+    "Steve Smith"
+  ],
+  "labels": [
+    "action",
+    "biography"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "a mobster holding a baby",
+  "alt1": "Vin Diesel flexing his muscles",
+  "alt2": "goons with guns flood into a room",
+  "alt3": "Vin Diesel hitting a guy with a shark as bloody water fills the room",
+  "alt4": "an orangutan in a t-shirt, holding a gun emerges from the Spirit of St. Louis",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
