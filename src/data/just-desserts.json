@@ -1,0 +1,28 @@
+{
+  "slug": "just-desserts",
+  "title": "Just Dessert",
+  "description": "A single mother runs a cupcake shop with her daughter in Central Park.",
+  "quote": "Honey, nobody likes black licorice.",
+  "parent": "Barry",
+  "parentYear": "2018-2023",
+  "rating": "TV-PG",
+  "runtime": "6 seasons",
+  "starring": [
+    "Natalie Greer"
+  ],
+  "creator": "Natalie Greer",
+  "studio": "BanShe",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Natalie Greer dressed in vintage style behind the counter at a cupcake shop and talking on the telephone",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
