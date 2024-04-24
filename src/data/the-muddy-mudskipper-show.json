@@ -1,0 +1,25 @@
+{
+  "slug": "the-muddy-mudskipper-show",
+  "title": "The Muddy Mudskipper Show",
+  "description": "Who's the greatest mudskipper of them all? Who can skip through the mud with the greatest of ease?  It’s Muddy! Mudskipper! ",
+  "parent": "The Ren & Stimpy Show",
+  "parentYear": "1991-1996",
+  "rating": "TV-Y7",
+  "runtime": "4 seasons",
+  "starring": [
+    "Muddy Mudskipper"
+  ],
+  "labels": [
+    "kids",
+    "variety shows"
+  ],
+  "credit": "ViacomCBS Domestic Media",
+  "altHero": "a happy mudskipper fish by a pond",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
