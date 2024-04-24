@@ -1,0 +1,30 @@
+{
+  "slug": "pauletta",
+  "title": "Pauletta",
+  "description": "Icon Pauletta Patton hosts a live audience talk-show where she speaks with celebrity guests, features fascinating stories, and grants wishes.",
+  "quote": "Pauletta, you my girl!",
+  "parent": "Bring It On",
+  "parentYear": "2000",
+  "rating": "TV-G",
+  "runtime": "8 seasons",
+  "starring": [
+    "Pauletta Patton"
+  ],
+  "labels": [
+    "daytime talk show"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Pauletta, a black woman with short hair wearing pastel purple, speaks into a microphone on set",
+  "alt1": "wide shot of Pauletta on set in front of a studio audience",
+  "alt2": "Clovers high school cheer squad",
+  "alt3": "Pauletta giving a sassy look",
+  "alt4": "Pauletta holding up a Clovers cheer uniform",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
