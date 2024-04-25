@@ -1,0 +1,32 @@
+{
+  "slug": "a-farewell-without-tears",
+  "title": "A Farewell Without Tears",
+  "description": "The classic drama about an American soldier’s romance with a nurse and the war keeping them apart.",
+  "quote": "I shall have a memory of you for my eyes, thoughts of you for my mind, and a touch of you for all of me.",
+  "parent": "The Twilight Zone",
+  "parentYear": "1959–1964",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "starring": [
+    "Barbara Jean Trenton",
+    "Jerry Herndon"
+  ],
+  "labels": [
+    "war drama",
+    "romance"
+  ],
+  "credit": "CBS",
+  "altHero": "Barbara Jean Trenton and Jerry Herndon in an embrace, dressed in a nurse and military uniform respectively",
+  "alt1": "closeup of the nurse and soldier",
+  "alt2": "a kiss",
+  "alt3": "a smiling Barbara Jean",
+  "alt4": "Barbara Jean upset with her hand over her mouth ",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age",
+    "new on nestflix"
+  ]
+}

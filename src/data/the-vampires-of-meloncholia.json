@@ -1,0 +1,39 @@
+{
+  "slug": "the-vampires-of-meloncholia",
+  "title": "The Vampires of Meloncholia",
+  "description": "The weekly happenings at the manor of vampires Edwin and Griselda.",
+  "quote": "Looking good! Are you sure you’re really three hundred?",
+  "parent": "The Loud House",
+  "parentYear": "2016-Present",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Edward Moore",
+    "Blake Bradley",
+    "Kate Katus",
+    "Joe Texas",
+    "Rich Cookie",
+    "Sandy Wett",
+    "Tom Turkey",
+    "Miranda Dredge"
+  ],
+  "labels": [
+    "drama",
+    "fantasy",
+    "vampires"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "Edwin, a sad vampire, writes a letter with a quill by candlelight",
+  "alt1": "Edwin greets a young, vibrant human man (Tristan)",
+  "alt2": "Edwin looks bored at the head of a long dining table, a pitcher of blood sits on the table",
+  "alt3": "Edwin approaches Tristan atop a dark and misty cliff edge",
+  "alt4": "Griselda and Tristan greet Edwin, Tristan has vampire fangs",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
