@@ -1,0 +1,24 @@
+{
+  "slug": "wally-the-alligator",
+  "title": "Wally the Alligator",
+  "description": "Sing along with Wally the Alligator who loves all you little girls and boys.",
+  "quote": "Buy a Wally salad spinner! Eat a Wally TV dinner!",
+  "parent": "Hey Arnold",
+  "parentYear": "1996-2004",
+  "rating": "TV-Y",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids",
+    "variety show",
+    "music"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "blue dinosaur with a group of kids on a tv set",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
