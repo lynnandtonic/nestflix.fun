@@ -1,0 +1,33 @@
+{
+  "slug": "girl-cop",
+  "title": "Girl Cop",
+  "description": "She’s a girl and she’s a cop, putting criminals behind bars just in time for Homecoming.",
+  "quote": "If my sergeant finds out, he’ll take my badge and my learner’s permit.",
+  "parent": "Only Murders in the Building",
+  "parentYear": "2021-Present",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Ben Glenroy",
+    "Marie Phillips"
+  ],
+  "labels": [
+    "sitcom",
+    "crime",
+    "buddy cops"
+  ],
+  "credit": "Hulu",
+  "altHero": "Ben Glenroy as Bruce, back to back with Marie Phillips as Girl Cop, both holding up Charlie’s Angels finger guns",
+  "alt1": "Bruce with frosted tips, crouching and talking with Girl Cop at a loading dock",
+  "alt2": "Girl Cop wearing a backpack",
+  "alt3": "Bruce and Girl Cop",
+  "alt4": "Bruce gives a warm smile",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "buddy cops",
+    "new on nestflix"
+  ]
+}
