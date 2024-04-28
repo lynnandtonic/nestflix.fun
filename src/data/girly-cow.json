@@ -1,0 +1,30 @@
+{
+  "slug": "girly-cow",
+  "title": "Girly Cow",
+  "description": "Girly Cow travels the galaxies with her space team.",
+  "quote": "Ya don't have to holla.",
+  "parent": "iCarly",
+  "parentYear": "2007-2012",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids",
+    "sci-fi",
+    "space",
+    "animation"
+  ],
+  "credit": "Nickelodeon Productions",
+  "altHero": "animated cow in a pink skirt",
+  "alt1": "spaceship door",
+  "alt2": "Girly Cow standing in a spaceship control room",
+  "alt3": "cartoon bear",
+  "alt4": "other cartoon animals in the spaceship",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
