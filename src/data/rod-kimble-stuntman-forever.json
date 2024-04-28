@@ -1,0 +1,35 @@
+{
+  "slug": "rod-kimble-stuntman-forever",
+  "title": "Rod Kimble Stuntman Forever!!",
+  "description": "Rod Kimble’s stunt reel that found life online and precursor to his now infamous 15-bus jump attempt.",
+  "quote": "Life is short. Stunt it!",
+  "parent": "Hot Rod",
+  "parentYear": "2007",
+  "rating": "Unrated",
+  "runtime": "43m",
+  "starring": [
+    "Rod Kimble"
+  ],
+  "director": [
+    "Kevin Powell"
+  ],
+  "labels": [
+    "action",
+    "sports",
+    "amateur"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "Rod Kimble, a curly haired young man, wearing a stuntman jumpsuit and looking off into the distance",
+  "alt1": "Rod gritting teeth at the camera with “Danger!!” text above",
+  "alt2": "Rod riding a motorbike up a plywood ramp to try and jump over a van",
+  "alt3": "Rod jumping over some orange parking cones with “Training” text below",
+  "alt4": "Rod on fire at a birthday party",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
