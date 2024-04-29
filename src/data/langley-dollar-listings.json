@@ -1,0 +1,28 @@
+{
+  "slug": "langley-dollar-listings",
+  "title": "Langley Dollar Listings",
+  "description": "The realtors of Langley Falls Realty sell homes in the exclusive neighborhood of Langley Heights.",
+  "quote": "Chateau Langley is a 24-bedroom castle that overlooks the amazing Langley ravine and hasn’t been on the market in 780 years.",
+  "parent": "American Dad!",
+  "parentYear": "2005-Present",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality",
+    "real estate"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "four hip realtors in a high rise building",
+  "alt1": "Langley Falls Realty",
+  "alt2": "Trashelle, a hot blonde realtor",
+  "alt3": "Chateau Langley",
+  "alt4": "modern house with “For sale by Francine Smith” sign outside",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home and diy",
+    "new on nestflix"
+  ]
+}
