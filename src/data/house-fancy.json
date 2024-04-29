@@ -1,0 +1,31 @@
+{
+  "slug": "house-fancy",
+  "title": "House Fancy",
+  "description": "Nicholas Withers tours the fanciest homes in hopes of crowning a House Fancy Prince of the Year.",
+  "quote": "It’s like I’ve died and gone to fancy heaven!",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": [
+    "Nicholas Withers"
+  ],
+  "labels": [
+    "reality",
+    "home improvement"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "Nicholas Withers, a fish with a big grin, blonde hair, and green sweater",
+  "alt1": "Nicholas speaks with Squilliam Fancyson, a unibrowed octopus in a smoking jacket.",
+  "alt2": "a grand hallway with columns, sculptures, and chandeliers",
+  "alt3": "a fancy golden toilet with a spotlight on it",
+  "alt4": "a lush garden with pink grotto and statues of seahorses",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home and diy",
+    "new on nestflix"
+  ]
+}
