@@ -1,0 +1,36 @@
+{
+  "slug": "x-marks-the-murder-spot",
+  "title": "X Marks the Murder Spot",
+  "description": "The real life mystery surrounding the death of pop star Xavier at his Marin County home. Can Detective Danner find the killer?",
+  "quote": "You all came to your high school reunion for a second chance. At love. Life. Something else.",
+  "parent": "The Afterparty",
+  "parentYear": "2022-2023",
+  "rating": "PG-13",
+  "runtime": "1h 57m",
+  "starring": [
+    "Keke Palmer",
+    "Elijah Wood",
+    "Daniel Radcliffe",
+    "Jaleel White",
+    "Gemma Chan"
+  ],
+  "labels": [
+    "thriller",
+    "crime",
+    "mystery"
+  ],
+  "credit": "Sony Pictures Television",
+  "altHero": "Keke Palmer as Detective Danner",
+  "alt1": "Elijah Wood looking suspicious",
+  "alt2": "closeup of Keke",
+  "alt3": "Gemma Chan looking concerned",
+  "alt4": "Jaleel White with sharpie drawings on his face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
