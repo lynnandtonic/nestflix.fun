@@ -1,0 +1,31 @@
+{
+  "slug": "arggh",
+  "title": "ARGGH!",
+  "description": "Hunter Spector, spectre hunter, travels the country hunting ghosts for the Academy of Really Good Ghost Hunters!",
+  "quote": "I’m picking up something on my ARGGH! ghost detector.",
+  "parent": "The Loud House",
+  "parentYear": "2016-Present",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "starring": [
+    "Hunter Spector"
+  ],
+  "labels": [
+    "reality",
+    "paranormal"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "Hunter Spector looking at his ghost detecter",
+  "alt1": "silhouette of Hunter in a doorway at the top of stairs",
+  "alt2": "Hunter outside of Arnoldo’s salon",
+  "alt3": "open ghost trap with green ghost energy billowing out of it",
+  "alt4": "Hunter crawling through some neon green goo on the floor",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
