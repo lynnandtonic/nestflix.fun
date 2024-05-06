@@ -1,0 +1,29 @@
+{
+  "slug": "mysterious-mysteries-of-strange-mystery",
+  "title": "Mysterious Mysteries of Strange Mystery",
+  "description": "A documentary series for those who’ve asked “Are we alone in the universe?” Now harder-hitting, faster-paced, and even more… mysterious!",
+  "quote": "The Blotch knows",
+  "parent": "Invader Zim",
+  "parentYear": "2001-2006",
+  "rating": "TV-14",
+  "runtime": "6 seasons",
+  "labels": [
+    "reality",
+    "documentary",
+    "paranormal"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "host of the show: a bald black man with a goatee and glasses",
+  "alt1": "host in front of a shot of the Lochness Monster",
+  "alt2": "the Blotch",
+  "alt3": "host talks with a guest",
+  "alt4": "camcorder footage of two aliens",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series",
+    "new on nestflix"
+  ]
+}
