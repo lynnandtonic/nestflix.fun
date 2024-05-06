@@ -1,0 +1,25 @@
+{
+  "slug": "the-not-too-friendly-creature-from-the-off-white-puddle-who-will-eat-you",
+  "title": "The Not-Too-Friendly Creature from the Off-White Puddle Who Will Eat You",
+  "description": "The long lost and unfinished Oxnard Montalvo monster film about a beast that lurks in a nearby puddle.",
+  "parent": "The Angry Beavers",
+  "parentYear": "1997-2001",
+  "rating": "Unrated",
+  "runtime": "34m",
+  "starring": [
+    "Oxnard Montalvo"
+  ],
+  "labels": [
+    "horror",
+    "monsters"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "a creature that looks like one from a Black Lagoon ",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ]
+}
