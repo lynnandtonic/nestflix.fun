@@ -1,0 +1,34 @@
+{
+  "slug": "beyond-repair",
+  "title": "Beyond Repair",
+  "description": "Danny, a bachelor in the city, must deal with rent and maintenance calls when he inherits his apartment building from his landlord. Includes the recent Beyond Repair Reunion Special.",
+  "quote": "What could go Wong?",
+  "parent": "American Born Chinese",
+  "parentYear": "2023",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Marty K. Morris",
+    "Candice Schenick",
+    "Ginny Burfurd",
+    "Jamie Yao"
+  ],
+  "producer": "John Michael David",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Disney+",
+  "altHero": "Danny at the kitchen table with a lady friend while Freddy holds an empty tray; everyone is screaming",
+  "alt1": "Danny is shocked when he arrives home to a surprise party",
+  "alt2": "Danny stands in the kitchen while Freddy sits behind him on the counter",
+  "alt3": "Freddy doing bicep curls with an iron",
+  "alt4": "Freddy sitting on a Murphy bed in a robe with an eye mask on his forehead",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}
