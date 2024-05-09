@@ -1,0 +1,31 @@
+{
+  "slug": "super-robo-mecha-force-five",
+  "title": "Super Robo Mecha Force Five!",
+  "description": "The classic Japanese anime (dubbed) about Captain Dash Coolstar, Dr. Blip, Squeakums, Lunk, and Princess who defend the galaxy with the help of Mighty Super Robo Mecha.",
+  "quote": "Team! Combine in teamwork mode!",
+  "parent": "Teenage Mutant Ninja Turtles",
+  "parentYear": "2012-2017",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "labels": [
+    "action",
+    "kids",
+    "robots",
+    "superheroes",
+    "animation"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "side by side shots of the team",
+  "alt1": "the team flying through the air",
+  "alt2": "the team fighting Mind Master with an explosion",
+  "alt3": "Mighty Super Robo Mecha holding a flaming sword",
+  "alt4": "Captain Dash Coolstar facing down a giant mech villain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
