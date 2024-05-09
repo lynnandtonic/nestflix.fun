@@ -1,0 +1,29 @@
+{
+  "slug": "space-heroes",
+  "title": "Space Heroes",
+  "description": "Captain Ryan and the crew of the Dauntless explore space and find new civilizations.",
+  "quote": "Gentlemen, I have a bold and daring plan. There’s no time for hesitation. My orders must be carried out without question!",
+  "parent": "Teenage Mutant Ninja Turtles",
+  "parentYear": "2012-2017",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "sci-fi",
+    "action",
+    "space"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "Captain Ryan and Dr. Mindstrong",
+  "alt1": "the team explore a planet",
+  "alt2": "Dr. Mindstrong and Crankshaw jump out of the way as two crew members get zapped",
+  "alt3": "Captain Ryan kissing a blue woman, Hypnotica",
+  "alt4": "the ship’s bridge being overrun with fluffy pink Trumplets",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}
