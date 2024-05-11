@@ -1,0 +1,28 @@
+{
+  "slug": "spy-wars",
+  "title": "Spy Wars",
+  "description": "Bondman, spy and womanizer, is on mission to stop the League of Evil. He has his sophisticated suit, his beloved shiny silver car, his highly-skilled techniques and gentlemanly behavior. He’s super cool and clever.",
+  "quote": "I will bring happiness to every lady in this world.",
+  "parent": "Spy x Family",
+  "parentYear": "2022-2023",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "action",
+    "espionage"
+  ],
+  "credit": "Crunchyroll",
+  "altHero": "Bondman, wearing a suit, trench coat, eye mask, and hat, bursts through a door ",
+  "alt1": "Bondman watches a screen where Commander, wearing a Guy Fawkes mask, gives a brief",
+  "alt2": "Bondman shirtless and tied up with two masked goons nearby",
+  "alt3": "Bondman in the air going in for a hug with a wide-armed Princess Honey",
+  "alt4": "Bondman and a red-haired woman look at each other surrounded by smoke",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv",
+    "new on nestflix"
+  ]
+}
