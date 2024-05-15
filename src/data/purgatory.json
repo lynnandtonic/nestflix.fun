@@ -1,0 +1,30 @@
+{
+  "slug": "purgatory",
+  "title": "Purgatory",
+  "description": "Darren Colt and Agatha Kaine are partners, fighting the supernatural and sending monsters, demons, and gods back where they came from.",
+  "quote": "He’s trying to seduce you. He’s an incubus clone!",
+  "parent": "Horse Girl",
+  "parentYear": "2020",
+  "rating": "TV-14",
+  "runtime": "12 seasons",
+  "creator": "Lance Dorado",
+  "labels": [
+    "drama",
+    "paranormal",
+    "horror"
+  ],
+  "credit": "Duplass Brothers Productions",
+  "altHero": "Hades, a fedora-wearing bro with glowing red eyes, holds up three fingers ",
+  "alt1": "Darren Colt",
+  "alt2": "a gloved hand examines a woman’s corpse",
+  "alt3": "Agatha Kaine holds up a gun",
+  "alt4": "two Darren Colts both hold up their hands as if innocent",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
