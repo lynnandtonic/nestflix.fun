@@ -1,0 +1,27 @@
+{
+  "slug": "the-harvester",
+  "title": "The Harvester",
+  "description": "He was a humble farmer until a drought ravaged his land. Now, he’s found a new crop… human organs! He is The Harvester!",
+  "parent": "The Loud House",
+  "parentYear": "2016-Present",
+  "rating": "R",
+  "runtime": "1h 49m",
+  "labels": [
+    "horror",
+    "slasher"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "an old farmer wearing a big hat and holding a scythe",
+  "alt1": "dead tree with a crow on a branch, a tumbleweed goes by",
+  "alt2": "the farmer is angry with red eyes, doom clouds billows in the background",
+  "alt3": "through a cabin window, a human heart flies by",
+  "alt4": "a rolling cooler being pulled through the misty night",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks",
+    "new on nestflix"
+  ]
+}
