@@ -1,0 +1,32 @@
+{
+  "slug": "cookie-party",
+  "title": "Cookie Party",
+  "description": "Let’s get ready to crumble. Join Mini Coffee and Ookie while voting for your favorite pair of cookie bakers. Your winner receives a cash prize.",
+  "quote": "The light dust of sugar makes it look like a piece of white dog poo.",
+  "parent": "The Sarah Silverman Program",
+  "parentYear": "2007-2010",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Mini Coffee",
+    "Ookie"
+  ],
+  "labels": [
+    "reality competition",
+    "cooking"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "drag queen, Mini Coffee, in a satin red dress next to Ookie, an orange furry puppet",
+  "alt1": "a man and woman in orange aprons",
+  "alt2": "two men in matching sweater vests hold a mic and give their cookie dedication",
+  "alt3": "colorful Cookie Party set with Mini Coffee and Ookie on a chaise lounge in front of two paris of bakers",
+  "alt4": "tray of log-shaped, chocolate cookies dusted in powdered sugar with a Vote Now and phone number chyron",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
