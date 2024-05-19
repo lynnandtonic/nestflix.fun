@@ -1,0 +1,36 @@
+{
+  "slug": "adios-anna-adios",
+  "title": "Adios Anna, Adios",
+  "description": "Mystery! Drama! Romance! Our hero, Anna Ronalda is an orphan, raised by her grandparents. She defends the poor from the greedy bad guys.",
+  "quote": "¡Soy le campeóna de los pobres!",
+  "parent": "The Loud House",
+  "parentYear": "2016-Present",
+  "rating": "TV-PG",
+  "runtime": "6 seasons",
+  "starring": [
+    "Vanessa Calderón",
+    "Rickie Ricardo",
+    "Carmen Juanita Elizabeth",
+    "Sky Echo Alexa",
+    "Pena Vega Cortes Bravo"
+  ],
+  "labels": [
+    "telenovela",
+    "drama",
+    "adventure"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "Anna, a young Hispanic girl, punching in the desert",
+  "alt1": "a masked man rides a horse outside the door of a house",
+  "alt2": "Anna surrounded by mean dudes",
+  "alt3": "Anna holds a sword, hides under a bridge as a horse goes by above",
+  "alt4": "Anna holds a sword to the neck of a girl that looks just like her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "telenovelas",
+    "new on nestflix"
+  ]
+}
