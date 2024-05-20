@@ -1,0 +1,46 @@
+{
+  "slug": "the-flare",
+  "title": "The Flare",
+  "description": "Based on the novels of TJ Whitford. A solar flare wipes out all of technology and everyone’s memories, except for Chester Hastings, an unlikely hero.",
+  "quote": "Imposters are among us.",
+  "parent": "What Just Happened??! with Fred Savage",
+  "parentYear": "2019",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "starring": [
+    "Kevin Zeger",
+    "Shiri Appleby",
+    "Duane Henry",
+    "Sola Bamis",
+    "Ava Farmer",
+    "Kai Wener",
+    "Guillermo Díaz",
+    "Tyler Ritter",
+    "Helen Mirren",
+    "Colin Farrell"
+  ],
+  "director": [
+    "Vince Gilligan",
+    "Jon Cassar"
+  ],
+  "studio": "20th Century Fox",
+  "labels": [
+    "drama",
+    "sci-fi",
+    "dystopia"
+  ],
+  "credit": "Fox Entertainment",
+  "altHero": "a young black girl with one glowing, gold eye",
+  "alt1": "Kevin Zegers as Chester",
+  "alt2": "pregnant black woman in pain, holding her ear as sparks fly nearby",
+  "alt3": "young black boy in a white void",
+  "alt4": "Shiri Appleby as Lisa, standing in front of a mural of Chester",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}
