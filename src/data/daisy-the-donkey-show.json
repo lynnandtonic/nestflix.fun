@@ -1,0 +1,23 @@
+{
+  "slug": "daisy-the-donkey-show",
+  "title": "Daisy the Donkey Show",
+  "description": "The show where it all began. Daisy the Donkey is joined by some of her favorite animal friends.",
+  "quote": "Good morning, little children!",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "rating": "TV-Y",
+  "runtime": "8 seasons",
+  "creator": "Antoine Perez",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a puppet show with a pink donkey puppet and a black snake puppet in front of a blue curtain and cotton ball clouds",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
