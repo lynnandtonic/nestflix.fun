@@ -1,0 +1,27 @@
+{
+  "slug": "mundo-del-amor",
+  "title": "Mundo del Amor",
+  "description": "One-eyed orphan, Alejandro, is thrown out of the orphanage for being different. Rejected by all, Alejandro lives alone on the streets. Until one day, he becomes a man and Tijuana’s greatest lover.",
+  "quote": "Yo soy el solo lobo.",
+  "parent": "Free Birds",
+  "parentYear": "2013",
+  "rating": "TV-14",
+  "runtime": "9 seasons",
+  "labels": [
+    "telenovela"
+  ],
+  "credit": "Relativity Media",
+  "altHero": "Alejandro, a handsome man with mustache and eye patch, stands on a balcony in a bathrobe",
+  "alt1": "a nun wearing sunglasses surrounded by some bully kids",
+  "alt2": "a young Alejandro cries outside the church",
+  "alt3": "adult Alejandro sits by a red telephone and is surrounded by piles of cash",
+  "alt4": "Alejandro drives a purple sports car with a tiger in the front seat; he has a rose in his teeth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "telenovelas",
+    "new on nestflix"
+  ]
+}
