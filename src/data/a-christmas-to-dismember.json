@@ -1,0 +1,32 @@
+{
+  "slug": "a-christmas-to-dismember",
+  "title": "A Christmas to Dismember",
+  "description": "The notorious Decapitation Killer has escaped from Brisbane Asylum for the Criminally Insane and he isn’t spreading Christmas cheer.",
+  "quote": "Ho ho ho.",
+  "parent": "American Horror Story",
+  "parentYear": "2011-Present",
+  "rating": "R",
+  "runtime": "1h 23m",
+  "starring": [
+    "Bubbles McGee"
+  ],
+  "labels": [
+    "horror",
+    "slasher",
+    "holiday"
+  ],
+  "credit": "20th Television",
+  "altHero": "man dressed as Santa raises a knife",
+  "alt1": "a fancy older woman with white hair opens a gift as her husband leans over the couch to watch",
+  "alt2": "a young girl in a nightgown looks over the banister and smiles",
+  "alt3": "the older woman opens the door a crack to speak to a Santa outside",
+  "alt4": "angry Santa drops down from the chimney",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays",
+    "new on nestflix"
+  ]
+}
