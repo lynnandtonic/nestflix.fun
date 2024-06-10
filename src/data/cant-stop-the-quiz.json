@@ -1,0 +1,31 @@
+{
+  "slug": "cant-stop-the-quiz",
+  "title": "Can’t Stop the Quiz",
+  "description": "Put on your thinking caps. It’s America’s favorite game show.",
+  "quote": "I’m Terry McTeer and I’ll be right here.",
+  "parent": "Quiz Lady",
+  "parentYear": "2023",
+  "rating": "TV-G",
+  "runtime": "31 seasons",
+  "starring": [
+    "Terry McTeer"
+  ],
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "20th Century Studios",
+  "altHero": "host Terry McTeer in his signature bowtie",
+  "alt1": "early days of the show as Terry greets the contstants at their podiums",
+  "alt2": "Terry McTeer",
+  "alt3": "two contestants with very different final totals",
+  "alt4": "set of the show with Terry and three contestants",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
