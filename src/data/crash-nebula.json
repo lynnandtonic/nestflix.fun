@@ -1,0 +1,30 @@
+{
+  "slug": "crash-nebula",
+  "title": "Crash Nebula",
+  "description": "A humble farmboy makes it his mission to protect the galaxy from the evil that wishes its destruction.",
+  "quote": "Intergalactic scum, your reign of terror ends now!",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "rating": "TV-G",
+  "runtime": "640 episodes",
+  "labels": [
+    "animation",
+    "kids",
+    "action",
+    "space"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Crash Nebula, space hero, holds up a wrist rocket",
+  "alt1": "an alien holds up a bendy straw",
+  "alt2": "three men being held prisoner scream in terror",
+  "alt3": "Crash Nebula",
+  "alt4": "Crash Nebula imprisoned while two green aliens plot nearby",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes",
+    "new on nestflix"
+  ]
+}

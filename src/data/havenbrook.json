@@ -1,0 +1,32 @@
+{
+  "slug": "havenbrook",
+  "title": "Havenbrook",
+  "description": "The hit teen drama based on the highly successful Tumblr page “U Upppppppppppp?”",
+  "parent": "What Just Happened??! with Fred Savage",
+  "parentYear": "2019",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": [
+    "Grace Van Dien",
+    "Blake Michael",
+    "Saraya-Jade Bevis"
+  ],
+  "labels": [
+    "teen drama",
+    "romance"
+  ],
+  "credit": "Fox Entertainment",
+  "altHero": "Tori, young blonde teen girl, on the phone",
+  "alt1": "Tori sitting on the tail bumper of a pick-up truck",
+  "alt2": "Corey, a teen boy, laying on a picnic blanket with Tori standing nearby",
+  "alt3": "Tori with her shirt unbuttoned",
+  "alt4": "Corey and Tori kissing on the picnic blanket",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
