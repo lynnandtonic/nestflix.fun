@@ -1,0 +1,31 @@
+{
+  "slug": "the-granite-family",
+  "title": "The Granite Family",
+  "description": "Follow the lives of Frank and Wanda Granite, a different modern Stone Age family.",
+  "quote": "Wandaaaa!",
+  "parent": "Aqua Teen Hunger Force",
+  "parentYear": "2000-2015",
+  "rating": "TV-Y7",
+  "runtime": "6 seasons",
+  "studio": "Barnum-Cahuenga Productions",
+  "labels": [
+    "kids",
+    "animation",
+    "sitcom",
+    "dinosaurs"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Frank, a caveman, is being kicked out of his stone house by a long dinosaur tail",
+  "alt1": "Frank is locked out and talks to his friend Bob",
+  "alt2": "Frank wipes his bare feet on a trilobite doormat",
+  "alt3": "a prehistoric bird yells with its tongue out",
+  "alt4": "Frank looks bewildered as he walks through the door",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
