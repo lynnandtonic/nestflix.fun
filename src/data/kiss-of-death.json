@@ -1,0 +1,28 @@
+{
+  "slug": "kiss-of-death",
+  "title": "Kiss of Death",
+  "description": "A tale of forbidden love that could mean life or death.",
+  "quote": "Even though you’re dead, you’ll always live in my heart.",
+  "parent": "Big City Greens",
+  "parentYear": "2018-Present",
+  "rating": "PG-13",
+  "runtime": "1h 47m",
+  "labels": [
+    "romantic drama",
+    "paranormal"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "a woman leans in to smooch a skeleton",
+  "alt1": "a cloaked man with glowing red eyes rides a motorcycle in a cemetery",
+  "alt2": "woman yells and points at the man",
+  "alt3": "woman cries as she holds a skeleton’s hand to her face",
+  "alt4": "skeleton removes his coat as the woman shivers nearby",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas",
+    "new on nestflix"
+  ]
+}
