@@ -1,0 +1,28 @@
+{
+  "slug": "the-abnormal",
+  "title": "The Abnormal",
+  "description": "It’s a shapeshifter from the Upper Thalmus Galaxy! Here to abduct humans to exhibit their galactic zoos for little or no pay.",
+  "quote": "Doctor, your blood pressure is… abnormal!",
+  "parent": "Doug",
+  "parentYear": "1991-1994",
+  "rating": "PG-13",
+  "runtime": "1h 39m",
+  "labels": [
+    "horror",
+    "aliens"
+  ],
+  "credit": "Nickelodeon Productions",
+  "altHero": "a nurse pulls her hair and screams while a big monster shadow is cast on her and the wall behind",
+  "alt1": "a doctor and policeman inspect a big footprint",
+  "alt2": "a man and woman look at a spaceship crashed into a house",
+  "alt3": "man pets a cat while a red monster hand reaches into frame",
+  "alt4": "the alien approaches the man, a zipper can be seen on the alien’s back",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "aliens!",
+    "new on nestflix"
+  ]
+}
