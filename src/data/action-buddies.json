@@ -1,0 +1,31 @@
+{
+  "slug": "action-buddies",
+  "title": "Action Buddies",
+  "description": "His name’s Todd Eagle. He ain’t scared of nothin’. An action buddy knows no fear. The world is his oyster and he’s ordering seconds.",
+  "quote": "You haven’t seen nothin’ yet, cupcake.",
+  "parent": "We Bare Bears",
+  "parentYear": "2015-2019",
+  "rating": "PG-13",
+  "runtime": "1h 56m",
+  "starring": [
+    "Todd Eagle"
+  ],
+  "studio": "Shakycem Felms",
+  "labels": [
+    "action"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Todd Eagle, buff action star with silver hair",
+  "alt1": "Todd parachuting in the sky",
+  "alt2": "Todd in a shark tank",
+  "alt3": "another buff guy ready to fight",
+  "alt4": "Todd smiles with his fists up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
