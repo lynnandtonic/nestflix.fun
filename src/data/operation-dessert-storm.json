@@ -1,0 +1,29 @@
+{
+  "slug": "operation-dessert-storm",
+  "title": "Operation Dessert Storm",
+  "description": "Which baker will take the cake and the trophy on Operation Dessert Storm?",
+  "quote": "Will Linda's soufflé rise to the occasion?",
+  "parent": "The Loud House",
+  "parentYear": "2016-Present",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "studio": "Yum! Network",
+  "labels": [
+    "reality competition",
+    "cooking"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "host with contestant who baked a fresh cake",
+  "alt1": "host",
+  "alt2": "woman with her cake",
+  "alt3": "inmate with muffins",
+  "alt4": "host",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
