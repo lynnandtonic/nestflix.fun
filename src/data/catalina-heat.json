@@ -1,0 +1,35 @@
+{
+  "slug": "catalina-heat",
+  "title": "Catalina Heat",
+  "description": "A detective goes undercover to infiltrate a notorious drug ring.",
+  "quote": "Maybe I’m just being true to myself, and my true self really needs heroin.",
+  "parent": "Veronica Mars",
+  "parentYear": "2004-2019",
+  "rating": "R",
+  "runtime": "2h 12m",
+  "starring": [
+    "Dick Casablancas",
+    "Josh Duhamel",
+    "Tim Chiou"
+  ],
+  "studio": "Hulu",
+  "labels": [
+    "thriller",
+    "action",
+    "crime"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Casablancas as an undercover cop",
+  "alt1": "underpass with men gathered around a trash can fire",
+  "alt2": "Casablancas drinking from a bottle by the fire",
+  "alt3": "Duhamel in a leather jacket",
+  "alt4": "Duhamel and Chiou crouching over a body",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
