@@ -1,0 +1,34 @@
+{
+  "slug": "wackner-rules",
+  "title": "Wackner Rules",
+  "description": "The infamous pilot from the 9¾ Judicial Circuit where Judge Wackner presides.",
+  "quote": "You will answer my question before you ask me yours.",
+  "parent": "The Good Fight",
+  "parentYear": "2017-2022",
+  "rating": "TV-14",
+  "runtime": "1 episode",
+  "starring": [
+    "Hal Wackner",
+    "Marissa Gold"
+  ],
+  "creator": "Hal Wackner, Del Cooper",
+  "labels": [
+    "pilot",
+    "real crime",
+    "courtroom"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Judge Wackner",
+  "alt1": "Marissa Gold in the courtroom",
+  "alt2": "two people in animal costumes in the courtroom",
+  "alt3": "angry Judge Wackner",
+  "alt4": "Wackner’s bell",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv",
+    "new on nestflix"
+  ]
+}
