@@ -1,0 +1,29 @@
+{
+  "slug": "crognard-the-barbarian",
+  "title": "Crognard the Barbarian",
+  "description": "Never tell Crognard the odds. With Wizardess, Graah, and Spooch, Crognard can take down any monster, wizard, or dragon in this universe.",
+  "quote": "By the power of Lobnarr! I have the energy!",
+  "parent": "Teenage Mutant Ninja Turtles",
+  "parentYear": "2012-2017",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "studio": "Auman Murakami Enterprises, Inc.",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "Crognard, a large He-Man type, with Wizardess and Graah",
+  "alt1": "Wizardess zapping two aliens",
+  "alt2": "the team faces down a giant with two heads",
+  "alt3": "Crognard holding up a sword and radiating rainbow light",
+  "alt4": "Crognard facing down a three-headed dragon",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bill-lickings-nobility-of-the-wild",
+  "title": "Bill Licking's Nobility of the Wild",
+  "description": "Bill Licking shows us the majestic and comedic side of wildlife.",
+  "quote": "Remember, the early beaver catches the worm-shaped log.",
+  "parent": "The Angry Beavers",
+  "parentYear": "1997-2001",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": [
+    "Bill Licking"
+  ],
+  "labels": [
+    "reality",
+    "education",
+    "animals"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "Bill Licking, a man with swooping black hair, sitting in a fancy armchair",
+  "alt1": "a fish",
+  "alt2": "Licking drinking tea in his armchair and smoking jacket",
+  "alt3": "a beaver holding up a giant snake’s body",
+  "alt4": "a luchador twisting a beaver in his giant teeth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv",
+    "new on nestflix"
+  ]
+}
