@@ -1,0 +1,37 @@
+{
+  "slug": "metalstorm",
+  "title": "Metalstorm",
+  "description": "A cosmic love story of epic proportion. It’s high noon at the edge of the universe and justice is on the horizon.",
+  "quote": "But what our enemy does not know is that inside each and every one of you is a goddamn fire!",
+  "parent": "The Fall Guy",
+  "parentYear": "2024",
+  "rating": "PG-13",
+  "runtime": "2h 13m",
+  "starring": [
+    "Jason Momoa"
+  ],
+  "director": [
+    "Jody Moreno"
+  ],
+  "producer": "Alma Milan",
+  "studio": "Universal Pictures",
+  "labels": [
+    "action",
+    "sci-fi",
+    "aliens"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Jason Momoa, color-graded in orange, wearing sunglasses and a cowboy hat aiming a gun at the camera",
+  "alt1": "Momoa is a prisoner, walking through the desert led by tall aliens",
+  "alt2": "a woman with futuristic hairstyle and clothing holds her hands up",
+  "alt3": "Momoa",
+  "alt4": "a car drives away from a huge spaceship with explosions and aliens",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films",
+    "new on nestflix"
+  ]
+}
