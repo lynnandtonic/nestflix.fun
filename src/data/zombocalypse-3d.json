@@ -1,0 +1,28 @@
+{
+  "slug": "zombocalypse-3d",
+  "title": "Zombocalypse 3D",
+  "description": "He was your average everyday kind of guy, but that was before it all happened. Before the satellite triggered the deadly necro virus and took everything he ever knew.",
+  "quote": "Better fire up the grill ’cause I got me a zombie-kabob!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "rating": "R",
+  "runtime": "3h 28m",
+  "labels": [
+    "horror",
+    "zombies"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "battered man holds a baseball bat as a zombie bursts from a car window",
+  "alt1": "apocalyptic burning street with a man walking down the center",
+  "alt2": "pack of zombies approach a house",
+  "alt3": "woman zombie screams with blank eye holes",
+  "alt4": "man runs and screams while holding a bo staff",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
