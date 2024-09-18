@@ -1,0 +1,33 @@
+{
+  "slug": "adirondack",
+  "title": "Adirondack",
+  "description": "Remington navigates tensions between white land developers and the Minishonka Nation.",
+  "quote": "You white men think a piece of paper means you can own Mother Earth.",
+  "parent": "Rutherford Falls",
+  "parentYear": "2021-2022",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Rob Schneider"
+  ],
+  "producer": "Rye Whitman, Alden Whitmer",
+  "creator": "Cox Whitley",
+  "studio": "NBC",
+  "labels": [
+    "drama"
+  ],
+  "credit": "Universal Television",
+  "altHero": "a man wearing a bolo tie with a Native man wearing traditional jewelry and a Native woman wearing a blanket",
+  "alt1": "white man with goatee",
+  "alt2": "Native man",
+  "alt3": "white man in bolo tie",
+  "alt4": "Native woman sheds blanket to reveal blue suit and statement turquoise necklace",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
