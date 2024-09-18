@@ -1,0 +1,30 @@
+{
+  "slug": "donut-factory-holiday",
+  "title": "Donut Factory Holiday",
+  "description": "Something evil is baking at the abandoned donut factory. The best worst movie ever!",
+  "quote": "If there are no donuts, why do I smell… frosting?",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "rating": "R",
+  "runtime": "1h 56m",
+  "director": [
+    "Greb Hogbody"
+  ],
+  "labels": [
+    "horror"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "a man and woman approached by a giant donut monster man",
+  "alt1": "man and woman look at empty factory conveyor belt",
+  "alt2": "man in alligator costume runs toward the man and woman",
+  "alt3": "a chef balls his fist in front of an American flag",
+  "alt4": "giant donut man walks amongst city buildings",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
