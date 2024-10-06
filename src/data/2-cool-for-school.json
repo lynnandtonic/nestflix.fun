@@ -1,0 +1,31 @@
+{
+  "slug": "2-cool-for-school",
+  "title": "2 Cool for School",
+  "description": "Lovable nerd Dewey Hancock navigates the perils of high school in the 1990s. A timeless gem.",
+  "quote": "Hubba hubba!",
+  "parent": "Castle",
+  "parentYear": "2009-2016",
+  "rating": "TV-PG",
+  "runtime": "6 seasons",
+  "starring": [
+    "Charlie Reynolds",
+    "Ramon Russo"
+  ],
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "ABC Studios",
+  "altHero": "Dewey, a curly-haired nerd, in a striped shirt and suspenders flips up his dual lens glasses",
+  "alt1": "Dewey with his buff friend",
+  "alt2": "the two friends talk",
+  "alt3": "Dewey talks with a beautiful girl",
+  "alt4": "Dewey",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}
