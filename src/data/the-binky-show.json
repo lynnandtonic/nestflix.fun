@@ -1,0 +1,31 @@
+{
+  "slug": "the-binky-show",
+  "title": "The Binky Show",
+  "description": "Heyyy, kids! Your favorite, resilient clown is back and streaming classic episodes.",
+  "quote": "Binky’s the name and clowning’s my game!",
+  "parent": "Garfield and Friends",
+  "parentYear": "1988-1994",
+  "rating": "TV-Y7",
+  "runtime": "4 seasons",
+  "starring": [
+    "Binky the Clown"
+  ],
+  "labels": [
+    "kids", 
+    "variety show"
+  ],
+  "credit": "CBS",
+  "altHero": "Binky the Clown who has red pointy hair, a red nose, big yellow eyes, and wears a polka dot jumpsuit with white gloves and striped pointy hat",
+  "alt1": "Binky the Clown",
+  "alt2": "Binky on a unicycle and juggling",
+  "alt3": "Binky the Clown",
+  "alt4": "Binky spraying a water bottle into a child’s face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
