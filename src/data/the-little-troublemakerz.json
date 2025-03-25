@@ -1,0 +1,27 @@
+{
+  "slug": "the-little-troublemakerz",
+  "title": "The Little TroubleMakerz",
+  "description": "Follow along as the gang gets up to some classic troublemaking.",
+  "quote": "Psych!",
+  "parent": "Harvey Beaks",
+  "parentYear": "2015-2017",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "three animal teens: a purple fox, a blue cat, and a pink mouse",
+  "alt1": "the gang meets with a grandma in a retirement home",
+  "alt2": "a young boy mouse with bowl haircut",
+  "alt3": "closeup of grandma",
+  "alt4": "the gang hosts a BINGO game",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
