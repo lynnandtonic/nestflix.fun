@@ -1,0 +1,30 @@
+{
+  "slug": "the-life-of-byron",
+  "title": "The Life of Byron",
+  "description": "A steamy biopic delving in the torrid love affairs of the (in)famous romantic poet Lord Byron.",
+  "quote": "Perhaps you are too harsh on your sex, Miss Jane.",
+  "parent": "Ghosts",
+  "parentYear": "2019-2023",
+  "rating": "PG-13",
+  "runtime": "2h 3m",
+  "starring": [
+    "Toby Nightingale"
+  ],
+  "director": [
+    "Petra O'Keeffe"
+  ],
+  "labels": [
+    "historical drama",
+    "romantic drama",
+    "biography"
+  ],
+  "credit": " BBC One",
+  "altHero": "Lord Byron leans into kiss a woman",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "dramatic biopics",
+    "new on nestflix"
+  ]
+}
