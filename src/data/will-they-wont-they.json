@@ -1,0 +1,22 @@
+{
+  "slug": "will-they-wont-they",
+  "title": "Will They, Won’t They?",
+  "description": "The Ferengi workplace sitcom where everyone is secretly in love with each other.",
+  "quote": "Oh Blongo, I don’t know what to do. I’m secretly in love with Nilm, but she’s engaged to Bok.",
+  "parent": "Star Trek: Lower Decks",
+  "parentYear": "2021-2024",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "CBS",
+  "altHero": "two Ferengi officemates lean in for a kiss",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}

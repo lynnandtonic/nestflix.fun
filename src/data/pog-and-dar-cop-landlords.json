@@ -1,0 +1,28 @@
+{
+  "slug": "pog-and-dar-cop-landlords",
+  "title": "Pog & Dar: Cop Landlords",
+  "description": "The Ferengi series like a holonovel but way sleazier. Pog & Dar deal with the toughest tenants.",
+  "quote": "You just surrendered your deposit. And your life!",
+  "parent": "Star Trek: Lower Decks",
+  "parentYear": "2021-2024",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "crime",
+    "buddy cops"
+  ],
+  "credit": "CBS",
+  "altHero": "two Ferengi cops stand back to back and fire guns in the rain",
+  "alt1": "an old Ferengi man sits on a couch holding an alien dog",
+  "alt2": "Pog and Dar pointing guns",
+  "alt3": "Pog holding a bottle of Slug-o-Cola",
+  "alt4": "Dar laying on the ground",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "buddy cops",
+    "new on nestflix"
+  ]
+}
