@@ -1,0 +1,22 @@
+{
+  "slug": "the-scary-monkey-show",
+  "title": "The Scary Monkey Show",
+  "description": "Years ago a lab monkey escaped its cage and murdered its scientist masters. It was then that The Scary Monkey Show began.",
+  "parent": "Invader Zim",
+  "parentYear": "2001-2006",
+  "rating": "Unrated",
+  "runtime": "18 seasons",
+  "labels": [
+    "reality",
+    "animals"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "a monkey with big bulging eyes stares blankly at the camera",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv",
+    "new on nestflix"
+  ]
+}
