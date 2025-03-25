@@ -1,0 +1,25 @@
+{
+  "slug": "foxy-moneybags",
+  "title": "Foxy Moneybags",
+  "description": "Foxy Moneybags teaches kids the basics of finance and investing.",
+  "quote": "Where should I put my money? In tech stocks or the housing market?",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "studio": "PBS",
+  "labels": [
+    "kids",
+    "educational",
+    "animation"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "a cartoon fox smiles while holding a bag of money next to a smiling laptop computer",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
