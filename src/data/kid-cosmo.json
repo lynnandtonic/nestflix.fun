@@ -1,0 +1,29 @@
+{
+  "slug": "kid-cosmo",
+  "title": "Kid Cosmo",
+  "description": "Kid Cosmo is your lovable robot friend and icon of Saturday morning cartoons. Join him as he protects the galaxy.",
+  "quote": "Always remember, Kid Cosmo’s your pal.",
+  "parent": "The Electric State",
+  "parentYear": "2025",
+  "rating": "TV-Y7",
+  "runtime": "14 seasons",
+  "labels": [
+    "kids",
+    "animation",
+    "robots"
+  ],
+  "credit": "Netflix",
+  "altHero": "Kid Cosmo, a robot with a round yellow head, flies through space",
+  "alt1": "Kid Cosmo realizes something as he floats next to a satellite",
+  "alt2": "Kid Cosmo jetpacks next to a human in a space suit",
+  "alt3": "Kid Cosmo and the human fist bump",
+  "alt4": "Kid Cosmo makes a circle with his robot hand over his heart",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
