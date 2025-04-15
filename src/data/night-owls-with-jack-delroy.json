@@ -1,0 +1,36 @@
+{
+  "slug": "night-owls-with-jack-delroy",
+  "title": "Night Owls with Jack Delroy",
+  "description": "Before the infamous 1977 Halloween episode, Jack Delroy captured the hearts and minds of midnight America with an entertaining mix of interviews, music, and sketch comedy.",
+  "quote": "Good evening, night owls.",
+  "parent": "Late Night with the Devil",
+  "parentYear": "2023",
+  "rating": "TV-14",
+  "runtime": "335 episodes",
+  "starring": [
+    "Jack Delroy",
+    "Gus McConnell"
+  ],
+  "director": [
+    "Steve Bridges"
+  ],
+  "producer": "Leo Fiske",
+  "studio": "UBC",
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "IFC Films",
+  "altHero": "Jack Delroy in a tan suit, giving his opening monologue",
+  "alt1": "Jack cheers with an elderly female guest by a big game show wheel",
+  "alt2": "Jack sits with a guest: a black woman wearing safari clothes and holding an empty box",
+  "alt3": "Jack and a woman dressed as cave people",
+  "alt4": "Gus chases Jack with pie in his hand and all over his face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows",
+    "new on nestflix"
+  ]
+}
