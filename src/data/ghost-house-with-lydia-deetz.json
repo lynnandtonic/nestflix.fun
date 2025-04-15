@@ -1,0 +1,31 @@
+{
+  "slug": "ghost-house-with-lydia-deetz",
+  "title": "Ghost House with Lydia Deetz",
+  "description": "Come on in, if you dare. The living. The dead. Can they co-exist? That’s what Lydia Deetz is here to find out.",
+  "quote": "I feel a dark presence.",
+  "parent": "Beetlejuice Beetlejuice",
+  "parentYear": "2024",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": [
+    "Lydia Deetz"
+  ],
+  "labels": [
+    "talk show",
+    "paranormal"
+  ],
+  "credit": "Warner Bros. Pictures",
+  "altHero": "Lydia Deetz in an armchair next to an old-fashioned television",
+  "alt1": "closeup of Lydia",
+  "alt2": "Lydia with two guests, the Welches and their dog Taco",
+  "alt3": "the Welches",
+  "alt4": "night vision of Lydia about to open a door",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
