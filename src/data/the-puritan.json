@@ -1,0 +1,29 @@
+{
+  "slug": "the-puritan",
+  "title": "The Puritan",
+  "description": "In a village gripped by religious fervor, a young woman stands accused of witchcraft. Her faith will be tested. Her soul will be tormented.",
+  "parent": "MaXXXine",
+  "parentYear": "2024",
+  "rating": "R",
+  "runtime": "1hr 23m",
+  "starring": [
+    "Molly Bennett"
+  ],
+  "director": [
+    "Elizabeth Bender"
+  ],
+  "studio": "New Horizon Studios",
+  "labels": [
+    "horror",
+    "witches"
+  ],
+  "credit": "A24",
+  "altHero": "a Puritan woman screams as she is burned alive",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
