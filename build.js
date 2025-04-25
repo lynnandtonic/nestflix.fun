@@ -80,6 +80,7 @@ function readAllJsonFiles() {
                 'title',
                 'description',
                 'parent',
+                'parent2',
                 'director',
                 'starring',
                 'slug',
