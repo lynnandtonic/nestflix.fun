@@ -1,0 +1,35 @@
+{
+  "slug": "coming-attractions-with-jay-sherman",
+  "title": "Coming Attractions with Jay Sherman",
+  "description": "Pulitzer Prize winning host, Jay Sherman, reviews the latest hit (though mainly miss) films of the day.",
+  "quote": "It stinks!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parent2": "The Critic",
+  "parent2Year": "1994-1995",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "starring": [
+    "Jay Sherman"
+  ],
+  "producer": "Jay Sherman",
+  "studio": "Philips Broadcasting",
+  "labels": [
+    "talk show",
+    "entertainment"
+  ],
+  "credit": "20th Television, Columbia Pictures Television",
+  "altHero": "Jay Sherman holding up his finger",
+  "alt1": "Jay Sherman with Rainier Wolfcastle",
+  "alt2": "Jay Sherman showing a trailer for a film",
+  "alt3": "Jay wearing a “World’s Greatest Granny” hat",
+  "alt4": "Jay with actress Valerie Fox",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "entertainment commentary",
+    "new on nestflix"
+  ]
+}
