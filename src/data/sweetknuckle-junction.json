@@ -1,0 +1,39 @@
+{
+  "slug": "sweetknuckle-junction",
+  "title": "Sweetknuckle Junction",
+  "description": "Visit Sweetknuckle Junction and hang with Junction Jack, Dottie, Count Blah, Warren the Ape, and the whole gang.",
+  "parent": "Greg the Bunny",
+  "parentYear": "2002-2006",
+  "rating": "TV-Y",
+  "runtime": "",
+  "starring": [
+    "Jack Mars",
+    "Dottie Sunshine",
+    "Greg the Bunny",
+    "Warren DeMontague",
+    "Rochester Rabbit",
+    "Fredrick Blah",
+    "Tardy Turtle",
+    "Susan Monster"
+  ],
+  "producer": "Gil Bender",
+  "labels": [
+    "kids",
+    "variety show",
+    "puppets"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "Junction Jack pulling the train horn, Greg the Bunny, and Dottie",
+  "alt1": "Rochester Rabbit looking worn down",
+  "alt2": "Warren DeMontague, a helmet-wearing ape",
+  "alt3": "Dottie playing guitar with Greg the Bunny in a nearby window",
+  "alt4": "Dottie, Jack, and Count Blah dressed up for Thanksgiving",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "Tv series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
