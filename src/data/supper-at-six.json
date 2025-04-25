@@ -1,0 +1,33 @@
+{
+  "slug": "supper-at-six",
+  "title": "Supper at Six",
+  "description": "Chemist and mother, Elizabeth Zott, takes the matter of cooking dinner very seriously while teaching women the chemistry of a perfectly glazed ham.",
+  "quote": "Cooking is chemistry, and chemistry is life.",
+  "parent": "Lessons in Chemistry",
+  "parentYear": "2023",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Elizabeth Zott"
+  ],
+  "producer": "Walter Pine",
+  "studio": "RBLA TV Network",
+  "labels": [
+    "reality",
+    "cooking"
+  ],
+  "credit": "Apple Studios",
+  "altHero": "Elizabeth Zott",
+  "alt1": "Zott chopping peppers while wearing lab safety equipment",
+  "alt2": "close up of gloves chopping peppers",
+  "alt3": "Zott holds up a flaming dish",
+  "alt4": "Zott holds up a potato",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking",
+    "new on nestflix"
+  ]
+}
