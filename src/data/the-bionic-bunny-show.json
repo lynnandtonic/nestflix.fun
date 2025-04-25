@@ -1,0 +1,33 @@
+{
+  "slug": "the-bionic-bunny-show",
+  "title": "The Bionic Bunny Show",
+  "description": "Ceated by a combination of super-science and radical animal husbandry to fight crime, Bionic Bunny hops into action for goodness’ sake!",
+  "quote": "Long ears, strong heart!",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "rating": "TV-Y7",
+  "runtime": "8 seasons",
+  "starring": [
+    "Wilbur Rabbit"
+  ],
+  "labels": [
+    "kids",
+    "action",
+    "animation",
+    "superheroes"
+  ],
+  "credit": "PBS",
+  "altHero": "Bionic Bunny",
+  "alt1": "Bionic Bunny flying, carrying a broken plane full of people",
+  "alt2": "in front of Bionic Bunny is a small child with fire for hair",
+  "alt3": "Bionic Bunny looks surprised",
+  "alt4": "Bionic Bunny fighting a bunch of root tentacles",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes",
+    "new on nestflix"
+  ]
+}

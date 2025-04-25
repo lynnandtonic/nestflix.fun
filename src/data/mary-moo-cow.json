@@ -1,0 +1,28 @@
+{
+  "slug": "mary-moo-cow",
+  "title": "Mary Moo Cow",
+  "description": "Repetition is the key to learning and Mary Moo Cow will have your kids repeating and singing all day long.",
+  "quote": "Mooo to you!",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "rating": "TV-Y",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids",
+    "variety show"
+  ],
+  "credit": "PBS",
+  "altHero": "Mary Moo Cow in front of a rainbow",
+  "alt1": "Mary with two kids who are holding big colored light filters",
+  "alt2": "Mary with three cat puppets",
+  "alt3": "Mary with some kids who have the word “last” written out on their shirts",
+  "alt4": "Mary and the number 1",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
