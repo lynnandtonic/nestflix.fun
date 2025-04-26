@@ -1,0 +1,32 @@
+{
+  "slug": "super-potato-movie",
+  "title": "Super Potato Movie",
+  "description": "Far away in the land of fruit and vegetables, when there’s a problem, just call his name!",
+  "quote": "By the power of vegetables, I am here!",
+  "parent": "Peppa Pig",
+  "parentYear": "2004-Present",
+  "rating": "G",
+  "runtime": "48m",
+  "starring": [
+    "Super Potato"
+  ],
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "Nick Jr.",
+  "altHero": "Super Potato, a potato with mustache, mask, and cape flies through the sky",
+  "alt1": "a banana yells next to a carrot whose foot is stuck in a fence",
+  "alt2": "Super Potato holds up the carrot who he has freed from the fence",
+  "alt3": "the banana is worried and the carrot is stuck in a mud puddle",
+  "alt4": "banana and carrot dance with Super Potato",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "new on nestflix"
+  ]
+}
