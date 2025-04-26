@@ -1,0 +1,28 @@
+{
+  "slug": "bones-of-doom",
+  "title": "Bones of Doom",
+  "description": "An incantation awakens an ancient spirit. ",
+  "quote": "You ridiculous mummy. You’ve just tripped one of your own booby traps.",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-2015",
+  "rating": "PG-13",
+  "runtime": "1h 56m",
+  "labels": [
+    "action",
+    "adventure"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "two mustached explorers examine a glyph by torchlight",
+  "alt1": "closeup of a finger pointing at a carved glyph",
+  "alt2": "a mummy with open eyes",
+  "alt3": "the mummy sneaks up behind one of the explorers",
+  "alt4": "the explorer and mummy are blasted away by an explosion",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action adventures movies",
+    "new on nestflix"
+  ]
+}
