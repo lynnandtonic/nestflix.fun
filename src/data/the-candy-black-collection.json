@@ -1,0 +1,31 @@
+{
+  "slug": "the-candy-black-collection",
+  "title": "The Candy Black Collection",
+  "description": "With a string of instant classics, Candy Black earned her place in film history as a master of physical comedy.",
+  "quote": "Hit me where it hurts.",
+  "parent": "The Stand In",
+  "parentYear": "2020",
+  "rating": "PG",
+  "runtime": "6h 12m",
+  "starring": [
+    "Candy Black"
+  ],
+  "labels": [
+    "collection",
+    "comedy"
+  ],
+  "credit": "Saban Films",
+  "altHero": "Candy Black",
+  "alt1": "Pippi Bongstocking",
+  "alt2": "Nun’s the Word",
+  "alt3": "Saddle Up!",
+  "alt4": "BMX Blackout",
+  "layout": "movie.pug",
+  "submovies": 4,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
