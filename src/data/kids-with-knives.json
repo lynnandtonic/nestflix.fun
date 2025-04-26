@@ -1,0 +1,27 @@
+{
+  "slug": "kids-with-knives",
+  "title": "Kids with Knives",
+  "description": "Gone are the days of <em>Little House On The Prairie</em>. Don’t close your eyes. This is Kids with Knives!",
+  "quote": "Kids with knives!",
+  "parent": "Greener Grass",
+  "parentYear": "2019",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "IFC Midnight",
+  "altHero": "young girl in neon clothes holdes a knife and looks at the camera",
+  "alt1": "young boy with a knife in each hand raised above his head",
+  "alt2": "foam pit with kid hands sticking out holding various knives",
+  "alt3": "kids laying on the floor, heads in a circle, each holding a knives",
+  "alt4": "three girls on a tall jungle gym holding knives",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
