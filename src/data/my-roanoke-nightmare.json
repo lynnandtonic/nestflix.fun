@@ -1,0 +1,41 @@
+{
+  "slug": "my-roanoke-nightmare",
+  "title": "My Roanoke Nightmare",
+  "description": "Inspired by the true events surrounding Shelby and Matt Miller at the Roanoke House in North Carolina.",
+  "parent": "American Horror Story",
+  "parentYear": "2011-Present",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "starring": [
+    "Shelby Miller",
+    "Matt Miller",
+    "Lee Miller",
+    "Audrey Tindall",
+    "Dominic Banks",
+    "Monet Tumusiime",
+    "Agnes Mary Winstead",
+    "Rory Monahan",
+    "William van Henderson",
+    "Ashley Gilbert",
+    "Brian Wells"
+  ],
+  "producer": "Sidney Aaron James",
+  "labels": [
+    "documentary",
+    "true crime"
+  ],
+  "credit": "FX",
+  "altHero": "Roanoke House",
+  "alt1": "Shelby Miller giving an interview",
+  "alt2": "Monet Tumusiime as Lee Harris in an embrace with her daughter",
+  "alt3": "Dominic Banks and Audrey Tindall",
+  "alt4": "a person stands in the dark forest in front of a fire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series",
+    "new on nestflix"
+  ]
+}
