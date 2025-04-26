@@ -1,0 +1,25 @@
+{
+  "slug": "the-mr-potato-show",
+  "title": "The Mr. Potato Show",
+  "description": "Mr. Potato is all about staying fit and encouraging kids to eat their fruits and vegetables.",
+  "quote": "This is an apple!",
+  "parent": "Peppa Pig",
+  "parentYear": "2004-Present",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "starring": [
+    "Mr. Potato"
+  ],
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nick Jr.",
+  "altHero": "Mr. Potato, a potato with mustache and hat, holds up a drawing of an apple",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
