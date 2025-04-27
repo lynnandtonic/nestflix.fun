@@ -1,0 +1,33 @@
+{
+  "slug": "call-me-crazy",
+  "title": "Call Me Crazy!",
+  "description": "Rob Wexler is going home and he’s rediscovering his past.",
+  "quote": "I guess some things never change.",
+  "parent": "The TV Set",
+  "parentYear": "2006",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "starring": [
+    "Zach Harper",
+    "Laurel Simon"
+  ],
+  "creator": "Mike Klein",
+  "studio": "PDN",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "THINKFilm",
+  "altHero": "Rob and Amanda stand on the porch with little Teddy",
+  "alt1": "Amanda talks to Rob in the grass",
+  "alt2": "little Teddy, a red-haired kid",
+  "alt3": "Rob talks to his brother who is in prison",
+  "alt4": "Rob talks with Amanda",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}

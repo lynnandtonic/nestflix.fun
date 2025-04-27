@@ -1,0 +1,33 @@
+{
+  "slug": "is-it-dead",
+  "title": "Is It Dead?",
+  "description": "It’s time to answer the question we’ve all been waiting to ask: Is it dead?",
+  "quote": "I’m sorry, the raccoon was in fact not dead.",
+  "parent": "You’re Cordially Invited",
+  "parentYear": "2025",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": [
+    "Bobby Moynihan"
+  ],
+  "studio": "Black Sheep Productions",
+  "labels": [
+    "reality",
+    "game show",
+    "animals"
+  ],
+  "credit": "Amazon MGM Studios",
+  "altHero": "a raccoon laying on its side on a spotlit podium",
+  "alt1": "host Bobby Moynihan",
+  "alt2": "a contestant",
+  "alt3": "contestant reaches out to touch the raccoon",
+  "alt4": "big letters “Not Dead”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!",
+    "new on nestflix"
+  ]
+}

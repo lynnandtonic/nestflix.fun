@@ -1,0 +1,23 @@
+{
+  "slug": "masquerade",
+  "title": "Masquerade",
+  "description": "Singers face off wearing head to toe costume. Who will win and be unmasked?",
+  "parent": "You’re Cordially Invited",
+  "parentYear": "2025",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "studio": "Black Sheep Productions",
+  "labels": [
+    "reality competition",
+    "singing"
+  ],
+  "credit": "Amazon MGM Studios",
+  "altHero": "a peson in a zebra costume dancing on stage",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
