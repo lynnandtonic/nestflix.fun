@@ -1,0 +1,33 @@
+{
+  "slug": "baby-billys-bible-bonkers",
+  "title": "Baby Billy’s Bible Bonkers",
+  "description": "A short-lived Christian cultural phenomenon. Buzzing in in the name of the Lord! Where Jesus has the highest score!",
+  "quote": "Let’s go Bible bonkers!",
+  "parent": "The Righteous Gemstones",
+  "parentYear": "2019-Present",
+  "rating": "TV-G",
+  "runtime": "1 episode",
+  "starring": [
+    "Baby Billy Freeman"
+  ],
+  "studio": "Gemstone Studios",
+  "labels": [
+    "game show",
+    "trivia",
+    "religion"
+  ],
+  "credit": "HBO",
+  "altHero": "Baby Billy Freeman in a loud white and gold suit holding a microphone",
+  "alt1": "Billy danging on set with backup dancers",
+  "alt2": "a family of contestants is introduced in praying poses",
+  "alt3": "two women face off at the buzzer podium",
+  "alt4": "Jesse Gemstone screaming in the Hurricane Booth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "religious programming",
+    "new on nestflix"
+  ]
+}
