@@ -1,0 +1,29 @@
+{
+  "slug": "melf",
+  "title": "Melf",
+  "description": "He’s Melf from the planet Melf and he’s crash landed in the family living room.",
+  "quote": "Melf loves cookies and spaghetti!",
+  "parent": "Fantasmas",
+  "parentYear": "2024-Present",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "labels": [
+    "sitcom",
+    "family",
+    "aliens"
+  ],
+  "credit": "HBO",
+  "altHero": "Melf, a purple furry alien wearing a backpack",
+  "alt1": "the family sits on the couch watching tv as the father, Jeff, feeds Melf some popcorn",
+  "alt2": "Jeff strokes Melf face at the dinner table",
+  "alt3": "Melf and Jeff in a lawyer meeting",
+  "alt4": "Melf and Toast, now all grown up, laughing together",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
