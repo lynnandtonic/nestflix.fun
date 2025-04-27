@@ -1,0 +1,33 @@
+{
+  "slug": "margauxs-design-intervention",
+  "title": "Margaux’s Design Intervention",
+  "description": "Margaux is here to help. She takes your uninspired living space and turns it into the perfect palace of your dreams. No matter how outdated your design sense, she can help you. Her only flaw? Sometimes she cares too much.",
+  "quote": "I’m about to stage a Design Intervention!",
+  "parent": "The Addams Family",
+  "parentYear": "2019",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Margaux Needler"
+  ],
+  "studio": "HAG Network",
+  "labels": [
+    "reality",
+    "home makeover",
+    "real estate"
+  ],
+  "credit": "Metro-Goldwyn-Mayer Pictures",
+  "altHero": "Margaux Needler, a woman with a huge blonde hairdo",
+  "alt1": "Margaux revealing a design to a client who is shocked in a good way",
+  "alt2": "Margaux fixing a toilet on the lawn",
+  "alt3": "Margaux watering some plants outside",
+  "alt4": "a man holds up two nails and Margaux chooses one",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home and diy",
+    "new on nestflix"
+  ]
+}
