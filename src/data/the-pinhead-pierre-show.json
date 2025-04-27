@@ -1,0 +1,29 @@
+{
+  "slug": "the-pinhead-pierre-show",
+  "title": "The Pinhead Pierre Show",
+  "description": "They don’t make them like this anymore. Pinhead Pierre has the smallest head of which I’m aware! It’s about the size and shape of a pear. Everywhere the children stare. Life’s cruel and unfair!",
+  "quote": "No more pointing and laughing, kids!",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-2015",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "variety show",
+    "british TV"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Pinhead Pierre, a man in a brightly colored suit, with a very small, bald head",
+  "alt1": "Pinhead Pierre in his living room set",
+  "alt2": "Pinhead Pierre holding a pear that has his eyes, nose and mustache",
+  "alt3": "Pinhead Pierre walking down a path with a group of little kids",
+  "alt4": "Pinhead Pierre flying on a magic carpet",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
