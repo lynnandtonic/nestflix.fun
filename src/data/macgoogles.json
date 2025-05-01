@@ -1,0 +1,22 @@
+{
+  "slug": "macgoogles",
+  "title": "MacGoogles",
+  "description": "MacGoogles is his name and he likes a swampy bog. It’s time to play a game with your favorite highland frog!",
+  "parent": "Max Keeble’s Big Move",
+  "parentYear": "2001",
+  "rating": "TV-Y",
+  "runtime": "1 season",
+  "labels": [
+    "kids",
+    "fantasy"
+  ],
+  "credit": "Buena Vista Pictures",
+  "altHero": "a frog wearing a kilt and playing the bagpipes in a colorful fantasy land",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
