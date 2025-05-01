@@ -1,0 +1,32 @@
+{
+  "slug": "black-and-white-impossible-crimes-unit",
+  "title": "Black & White: Impossible Crimes Unit",
+  "description": "In the city of Port Harbour, the most unsolvable cases are tasked to an elite squad known as the Impossible Crimes Unit. This is their story.",
+  "quote": "Neighbors reported a Wilhelm scream at 3:00 a.m.",
+  "parent": "Interior Chinatown",
+  "parentYear": "2024",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": [
+    "Sarah Green",
+    "Miles Turner",
+    "Lana Lee"
+  ],
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "Hulu",
+  "altHero": "Detective Green, a white woman with blonde hair, and her partner Detective Turner, a black man, strike a pose in a doorway",
+  "alt1": "Turner and Green show a photo to a witness",
+  "alt2": "Turner holds an animal bone and Green holds a gun while they look at each other",
+  "alt3": "Jonathan Wu smiles at his detective partners",
+  "alt4": "Lana Lee talks with the IT guy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
