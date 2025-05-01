@@ -1,0 +1,29 @@
+{
+  "slug": "disaster-76",
+  "title": "Disaster ’76",
+  "description": "Pilot Sherman Vance boards a plane for the day of his life.",
+  "quote": "Well, we make the 11:00 o’clock news again tonight.",
+  "parent": "Drive-In",
+  "parentYear": "1976",
+  "rating": "R",
+  "runtime": "1h 23m",
+  "studio": "Executive Pictures",
+  "labels": [
+    "action",
+    "disaster"
+  ],
+  "credit": "Columbia Pictures",
+  "altHero": "a plane flying in the air with a giant hole in the side of it",
+  "alt1": "a pilot talks with a flight attendant in a trashed cockpit",
+  "alt2": "a man with glasses reflects as flames rise up around him",
+  "alt3": "the pilot on an emergency raft in the ocean next to a shark fin",
+  "alt4": "the pilot looking exhausted",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
