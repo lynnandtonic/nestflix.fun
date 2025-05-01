@@ -1,0 +1,28 @@
+{
+  "slug": "unfiction",
+  "title": "Unfiction",
+  "description": "Each season of Unfiction explores a true crime case, including the disappeareance of Margot Kim and the abduction of Grace Allen.",
+  "parent": "Missing",
+  "parentYear": "2023",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "studio": "Netflix",
+  "labels": [
+    "documentary",
+    "true crime"
+  ],
+  "credit": "Sony Pictures",
+  "altHero": "Reenactment of David Kim wearing a blue blanket and speaking to Detective Vick",
+  "alt1": "Police line crime tape",
+  "alt2": "a reporter",
+  "alt3": "SWAT officer looking at a computer with surveillance footage",
+  "alt4": "Reenactment of Grace Allen being rescued",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series",
+    "new on nestflix"
+  ]
+}
