@@ -1,0 +1,30 @@
+{
+  "slug": "dark-bunny",
+  "title": "Dark Bunny",
+  "description": "In the rain-drenched streets of Dark City, where the sun never rises, only one person stands between crime and humanity.",
+  "quote": "Dark Bunny… hop!",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "animation",
+    "superheroes"
+  ],
+  "credit": "PBS",
+  "altHero": "Dark Bunny, a masked superhero",
+  "alt1": "Dark Bunny faces off against Bananomanoman, an anthropomorphized banana",
+  "alt2": "a rat Joker and a Catwoman lookalike",
+  "alt3": "Dark Bunny fights against three of Clown Face's henchmen",
+  "alt4": "Dark Bunny shakes hands with the commissioner",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes",
+    "new on nestflix"
+  ]
+}
