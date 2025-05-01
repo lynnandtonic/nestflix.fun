@@ -1,0 +1,29 @@
+{
+  "slug": "bongo-and-mcgillicuddy",
+  "title": "Bongo and McGillicuddy",
+  "description": "The greatest crime fighting duo in the world works for the New Pound City Police Department Super Duper Bad Guys Unit.",
+  "quote": "It looks like the best way to stay out of jail is to break out.",
+  "parent": "Talking Tom and Friends",
+  "parentYear": "2014-2021",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "crime",
+    "buddy cops"
+  ],
+  "credit": "YouTube",
+  "altHero": "Bongo, a cop with mustache and cowboy hat, talks with McGillicuddy, an orangutan",
+  "alt1": "Bongo and McGillicuddy busting out of a jail cell",
+  "alt2": "Bongo",
+  "alt3": "Bongo and McGillicuddy in the precinct",
+  "alt4": "at their desk: Bongo eating a donut and McGillicuddy eating a banana",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "buddy cops",
+    "new on nestflix"
+  ]
+}
