@@ -1,0 +1,33 @@
+{
+  "slug": "the-doctor-zone-files",
+  "title": "The Doctor Zone Files",
+  "description": "Chronological time is just an abstraction when you’re with Doctor Zone!",
+  "quote": "Righty crikey and tally ho. Time waits for no man… Except for me!",
+  "parent": "Milo Murphy’s Law",
+  "parentYear": "2016-2019",
+  "rating": "TV-G",
+  "runtime": "50 seasons",
+  "starring": [
+    "Orton Mahlson",
+    "Tim Ape"
+  ],
+  "labels": [
+    "sci-fi",
+    "time travel",
+    "british tv"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Doctor Zone and Tim Ape in a futuristic city",
+  "alt1": "Doctor Zone and Tim Ape running",
+  "alt2": "Doctor Zone and Tim Ape in a coffee shop",
+  "alt3": "robot with whisks for hands",
+  "alt4": "bumble bee car zapping garbage can robots",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "british tv",
+    "new on nestflix"
+  ]
+}
