@@ -1,0 +1,34 @@
+{
+  "slug": "guys-and-gals",
+  "title": "Guys and Gals",
+  "description": "Six friends experiencing life together in New York City.",
+  "quote": "I’m picking up some bad vibes here. Some very bad vibes!",
+  "parent": "Sour Grapes",
+  "parentYear": "1998",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": [
+    "Danny Pepper",
+    "Hollings Berman",
+    "Emory Stadler"
+  ],
+  "producer": "Roger Kaplan, Sandy Abeloff",
+  "creator": "Barry Schoffman, Lydia Feinberg",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Warner Bros. Entertainment",
+  "altHero": "six friends making a human pyramid",
+  "alt1": "two friends on the couch",
+  "alt2": "three friends on the couch",
+  "alt3": "one of the friends looks concerned",
+  "alt4": "two of the friends at the doorway",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}

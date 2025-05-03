@@ -1,0 +1,37 @@
+{
+  "slug": "billy-the-kid",
+  "title": "Billy The Kid",
+  "description": "A new take on Billy the Kid, American outlaw and gunfighter of the Old West.",
+  "quote": "Now, why is it when most folks see me, they just see some funny little kid?",
+  "parent": "Fool's Paradise",
+  "parentYear": "2023",
+  "rating": "PG-13",
+  "runtime": "1h 51m",
+  "starring": [
+    "Sir Tom Bingsley",
+    "Latte Pronto",
+    "Christiana Dior",
+    "Chad Luxt"
+  ],
+  "director": [
+    "Tony London"
+  ],
+  "labels": [
+    "western",
+    "biography"
+  ],
+  "credit": "Lionsgate",
+  "altHero": "Billy the Kid smoking a cigarette in front of a burning house",
+  "alt1": "Billy the Kid cackling and spinning a gun on his finger",
+  "alt2": "Christiana Dior speaks to Billy the Kid",
+  "alt3": "Chad Luxt walks out of a house",
+  "alt4": "Billy on the ground near a broken window",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "westerns",
+    "new on nestflix"
+  ]
+}

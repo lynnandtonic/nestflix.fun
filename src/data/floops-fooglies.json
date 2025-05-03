@@ -1,0 +1,30 @@
+{
+  "slug": "floops-fooglies",
+  "title": "Floop’s Fooglies",
+  "description": "Join Fegan Floop and the Fooglies, Flower, Tall & Skinny, Too Too, and Donnamight, as they help kids learn to be happy. ",
+  "quote": "So, always remember, whatever you do… believe in yourself!",
+  "parent": "Spy Kids",
+  "parentYear": "2001",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Fegan Floop"
+  ],
+  "labels": [
+    "kids"
+  ],
+  "credit": "Dimension Films",
+  "altHero": "Fegan Floop with a person with a thumb for a head",
+  "alt1": "Flower, Tall & Skinny, Too Too, and Donnamight",
+  "alt2": "Floop and the Fooglies",
+  "alt3": "Donnamight, a Fooglie with big teeth and stretched out cheeks",
+  "alt4": "Floop dancing on a platform under an orange sky surrounded by surrealist floating eyeballs and dancing finger people",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}

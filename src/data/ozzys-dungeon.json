@@ -1,0 +1,28 @@
+{
+  "slug": "ozzys-dungeon",
+  "title": "Ozzy’s Dungeon",
+  "description": "Boys and girls battle toe to toe for the opportunity to have their wish granted. Anything your heart desires can be yours if you make it thorugh the obstacle course and into Ozzy’s Dungeon.",
+  "quote": "Eat! That! Meat!",
+  "parent": "V/H/S/99",
+  "parentYear": "2022",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "game show",
+    "kids"
+  ],
+  "credit": "Shudder",
+  "altHero": "the host of Ozzy’d Dungeon",
+  "alt1": "the host pumps up two teams of kids in colorful shirts and gold helmets",
+  "alt2": "the host holds a giant turkey leg as a kid contestant eats it",
+  "alt3": "Ozzy’s assistant, a buff blonde woman in warrior garb",
+  "alt4": "a kid has yellow goop all over his face and goggles",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}

@@ -85,6 +85,7 @@ function readAllJsonFiles() {
                 'starring',
                 'slug',
                 'labels',
+                'seo'
             ]
         };
 

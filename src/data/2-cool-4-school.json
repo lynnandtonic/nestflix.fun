@@ -1,0 +1,28 @@
+{
+  "slug": "2-cool-4-school",
+  "title": "2 Cool 4 School",
+  "description": "The seemingly impossible game show where kids can walk away with a big cash prize. Wanna win some money? Be nobody’s fool! Then maybe, just maybe, you’re 2 cool 4 school!",
+  "quote": "How sweet. He wants to go home. Well, you can’t!",
+  "parent": "Horrid Henry the Movie",
+  "parentYear": "2011",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "game show"
+  ],
+  "credit": "Vertigo Films",
+  "altHero": "excited hosts in loud, colorful suits with bowties and pale face makeup",
+  "alt1": "host crouches and talks to kids in the audience",
+  "alt2": "hosts with a kid on a fake living room set",
+  "alt3": "host smiling next to a plate of worms and dirt",
+  "alt4": "the hosts welcome the kid to a door labeled “Terrible teacher’s office”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}

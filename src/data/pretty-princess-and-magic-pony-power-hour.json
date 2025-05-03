@@ -1,0 +1,29 @@
+{
+  "slug": "pretty-princess-and-magic-pony-power-hour",
+  "title": "Pretty Princess and Magic Pony Power Hour",
+  "description": "Pretty Princess and Penelope Pony journey throughout Sparkletopia and go against the villainous Count Cloudy.",
+  "quote": "Let’s point the sunbeam of destiny on the broken rainbows and defeat Count Cloudy once and for all!",
+  "parent": "WordGirl",
+  "parentYear": "2007-2015",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "animation",
+    "fantasy"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "Pretty Princess with big pink hair and crown",
+  "alt1": "Princess and Penelope Pony in the grass opening a present",
+  "alt2": "Princess holds up the gift label",
+  "alt3": "Count Cloudy is cackling in the foreground while Princess ice skates in the background",
+  "alt4": "Penelope Pony with Princess who has a big gold compass; a rainbow shines on the castle",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}

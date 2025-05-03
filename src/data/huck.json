@@ -1,0 +1,35 @@
+{
+  "slug": "huck",
+  "title": "Huck",
+  "description": "From the visionary mind of Mark Twain, comes a world where only one man can save us. Uncover the truth behind the legend.",
+  "quote": "This is for freedom, justice, and the Huckleberry way.",
+  "parent": "Jean-Claude Van Johnson",
+  "parentYear": "2016-2017",
+  "rating": "R",
+  "runtime": "1h 39m",
+  "starring": [
+    "Jean-Claude Van Damme",
+    "Johnnie Lao"
+  ],
+  "director": [
+    "Gunnar"
+  ],
+  "studio": "Molotov Entertainment",
+  "labels": [
+    "action"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "Jean-Claude Van Damme as a shirtless Huck Finn wielding twin sai",
+  "alt1": "Huck embraces a beautiful woman",
+  "alt2": "Huck on a big tree branch holding up a paintbrush that is glowing blue",
+  "alt3": "Huck with Jim, an Asian man wearing a sunhat",
+  "alt4": "Jim and Huck in monks robes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}

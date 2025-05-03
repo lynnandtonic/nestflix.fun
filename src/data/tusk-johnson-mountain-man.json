@@ -1,0 +1,32 @@
+{
+  "slug": "tusk-johnson-mountain-man",
+  "title": "Tusk Johnson Mountain Man",
+  "description": "Way more than a guy wandering around in the woods. Tusk Johnson was a legend, unmatched in the Alaskan arts.",
+  "quote": "He never met a beast that he couldn’t tame!",
+  "parent": "The Great North",
+  "parentYear": "2021-Present",
+  "rating": "TV-G",
+  "runtime": "6 seasons",
+  "starring": [
+    "Tusk Johnson"
+  ],
+  "labels": [
+    "reality",
+    "nature",
+    "animals"
+  ],
+  "credit": "20th Television",
+  "altHero": "Tusk Johnson grabbing a bear by the neck",
+  "alt1": "shirtless Tusk looking around at the top of a tall tree",
+  "alt2": "an eagle lands on Tusk’s arm",
+  "alt3": "Tusk paddling a log down a river",
+  "alt4": "Tusk carrying a bunch of fish",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
