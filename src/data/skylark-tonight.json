@@ -1,0 +1,30 @@
+{
+  "slug": "skylark-tonight",
+  "title": "Skylark Tonight",
+  "description": "Dave Skylark talks with musicians, actors, and other notable figures, including his influential interview with North Korean Supreme Leader, Kim Jong Un.",
+  "parent": "The Interview",
+  "parentYear": "2014",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "starring": [
+    "Dave Skylark"
+  ],
+  "producer": "Aaron Rapaport",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Columbia Pictures",
+  "altHero": "Dave Skylark",
+  "alt1": "Skylark talks with Eminem",
+  "alt2": "Rob Lowe reveals a bald head with random wispy long hairs",
+  "alt3": "Skylark makes a grimace face but with mouth closed",
+  "alt4": "Kim Jong Un",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
