@@ -1,0 +1,28 @@
+{
+  "slug": "pretty-pretty-pegasus",
+  "title": "Pretty Pretty Pegasus",
+  "description": "There’s nothing friendship can’t fix. Solve problems without violence with Butterbean, Sparkleface, Princess Puffballs, Princess Silkiesoft, Gumdrop Goblin, Jelly Roll, Buttermilk Biscuit, and High Step.",
+  "quote": "You’re the most amazing cotton candy ever!",
+  "parent": "Teen Titans Go!",
+  "parentYear": "2013-Present",
+  "rating": "TV-Y",
+  "runtime": "12 seasons",
+  "labels": [
+    "kids",
+    "animals"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Butterbean and Sparkleface, two colorful pegasus ponies, stand in a cotton candy field",
+  "alt1": "Butterbean smiling",
+  "alt2": "a sparkling blue pony butt with purple tail",
+  "alt3": "Butterbean and Sparkleface in a candy dungeon next to some floating candy keys",
+  "alt4": "Sparkleface looking confused as cotton candy wilts under the rain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
