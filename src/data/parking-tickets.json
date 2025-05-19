@@ -1,0 +1,29 @@
+{
+  "slug": "parking-tickets",
+  "title": "Parking Tickets",
+  "description": "A family sitcom with plenty of laughs and questions about the existential nature of our world.",
+  "quote": "Boi-yoi-yoi-yoi-yoing!",
+  "parent": "I’m a Virgo",
+  "parentYear": "2023",
+  "rating": "TV-14",
+  "runtime": "16 seasons",
+  "labels": [
+    "sitcom",
+    "family",
+    "animation"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "freckled, red headed boy yells with his hands in the air",
+  "alt1": "animted young girl with a opossum eating from a bowl",
+  "alt2": "delivery man at the door holds his bloody lungs in his hands",
+  "alt3": "mom is in a hospital bed as the doctor smokes nearby",
+  "alt4": "a baby",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
