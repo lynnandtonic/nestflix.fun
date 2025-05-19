@@ -1,0 +1,33 @@
+{
+  "slug": "manger-babies",
+  "title": "Manger Babies",
+  "description": "Once upon a time, almost 2,000s of years ago our lord and savior, Jesus Christ, was born in a manger. And in that manger, there were the cutest little animals. This is their story.",
+  "quote": "God is the designated driver tonight.",
+  "parent": "King of the Hill",
+  "parentYear": "1997-2010",
+  "rating": "TV-Y",
+  "runtime": "1 season",
+  "starring": [
+    "Luanne Platter"
+  ],
+  "studio": "Channel 84",
+  "labels": [
+    "kids",
+    "religion",
+    "puppets"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Luanne Platter, a blonde woman, with donkey and cat puppets on her hands",
+  "alt1": "Luanne’s cat puppet holds up the number 2",
+  "alt2": "Luanne and her puppets, she holds a doll of a man holding an alcohol bottle by a model car",
+  "alt3": "the animal puppets in the car",
+  "alt4": "Luanne with her puppets next to Hank Hill in a white flowy beard",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "religious programming",
+    "new on nestflix"
+  ]
+}
