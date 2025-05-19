@@ -1,0 +1,37 @@
+{
+  "slug": "training-a-train",
+  "title": "Training A-Train",
+  "description": "A story about a hero… and the boy he taught to run. The previously unreleased film about Richard Brinkerhoff guiding A-Train to superhero stardom.",
+  "quote": "Run faster than that!",
+  "parent": "The Boys",
+  "parentYear": "2019-Present",
+  "rating": "PG-13",
+  "runtime": "1h 56m",
+  "starring": [
+    "A-Train",
+    "Will Ferrell"
+  ],
+  "director": [
+    "Adam Bourke"
+  ],
+  "studio": "Vought Studios",
+  "labels": [
+    "drama",
+    "biography",
+    "superheroes"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "Brinkerhoff with his arm on A-Train’s back in front of a stadium of fans and lights",
+  "alt1": "A-Train meeting a friend for a drug deal",
+  "alt2": "Will Ferrell as Brinkerhoff holding a stop watch",
+  "alt3": "A-Train ready to run",
+  "alt4": "an emtional hug between Brinkerhoff and A-Train",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "new on nestflix"
+  ]
+}
