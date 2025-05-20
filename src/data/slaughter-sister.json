@@ -1,0 +1,38 @@
+{
+  "slug": "slaughter-sister",
+  "title": "Slaughter Sister",
+  "description": "A Black explosion! Ramona Royale, star of <em>Silky Fine</em> and <em>Bride of Blackenstein</em>, is Slaughter Sister.",
+  "quote": "I don’t get on knees for no man.",
+  "parent": "American Horror Story",
+  "parentYear": "2011-Present",
+  "rating": "R",
+  "runtime": "1h 47m",
+  "starring": [
+    "Ramona Royale",
+    "Austin Wittick",
+    "Eric Yeckley",
+    "Kathy Orlando",
+    "Jimmy Sharp"
+  ],
+  "director": [
+    "James Gordon"
+  ],
+  "labels": [
+    "action",
+    "crime"
+  ],
+  "credit": "FX",
+  "altHero": "Ramona Royale with afro and big earrings holds a shotgun over her shoulder",
+  "alt1": "Royale enters a hotel room with gun up",
+  "alt2": "a man lies on a hotel bed next to a pile of cash",
+  "alt3": "mustached man holds a gun",
+  "alt4": "Royale fakes surrender with her arms up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
