@@ -1,0 +1,32 @@
+{
+  "slug": "dark-windows",
+  "title": "Dark Windows",
+  "description": "A dark thriller where any visit could turn deadly.",
+  "quote": "Well… speak!",
+  "parent": "Death Becomes Her",
+  "parentYear": "1992",
+  "rating": "R",
+  "runtime": "2h 1m",
+  "starring": [
+    "Michael Caine",
+    "Madeline Ashton"
+  ],
+  "labels": [ 
+    "thriller",
+    "crime"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Madeline Ashton as a masked man approaches from behind",
+  "alt1": "Michael Caine carries a bag upstairs",
+  "alt2": "Caine looks up at a mirror in a hallway",
+  "alt3": "Ashton stands in front of a window",
+  "alt4": "Ashton is being strangled to death",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
