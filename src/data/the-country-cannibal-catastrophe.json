@@ -1,0 +1,28 @@
+{
+  "slug": "the-country-cannibal-catastrophe",
+  "title": "The Country Cannibal Catastopher",
+  "description": "In this classic horror film, a doomed trip to the farm redefines what it means to be a country boy.",
+  "quote": "Gather ’round, family! It’s supper time!",
+  "parent": "Big City Greens",
+  "parentYear": "2018-Present",
+  "rating": "R",
+  "runtime": "1h 45m",
+  "labels": [
+    "horror",
+    "zombies"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "zombie farmer",
+  "alt1": "man and woman screaming",
+  "alt2": "zombie drooling with a knife",
+  "alt3": "old lazy zombie ringing a dinner bell",
+  "alt4": "scared man and woman next to a buff, blindfolded zombie with sharp teeth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
