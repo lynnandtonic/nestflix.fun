@@ -1,0 +1,32 @@
+{
+  "slug": "space-sheriff",
+  "title": "Space Sheriff",
+  "description": "When the galaxy needs protecting, there’s only one man you call: Space Sheriff.",
+  "quote": "There ain’t no law in the stars but me!",
+  "parent": "Hello Tomorrow!",
+  "parentYear": "2023",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Buck Manzell"
+  ],
+  "director": [
+    "Cade Braddock"
+  ],
+  "producer": "Whit Ellis",
+  "studio": "Ellis Pictures",
+  "labels": [
+    "sci-fi",
+    "western",
+    "space"
+  ],
+  "credit": "Apple Studios",
+  "altHero": "Buck Manzell as the Space Sheriff, in Western garb, pointing a laser gun",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}
