@@ -1,0 +1,28 @@
+{
+  "slug": "captain-wonderpants",
+  "title": "Captain Wonderpants",
+  "description": "He’s always there to save the day! When he’s around, we’re okay! The bad guys don’t stand a chance! ’Cause here comes Captain Wonderpants!",
+  "quote": "Wonderpants, away!",
+  "parent": "Wow! Wow! Wubbzy!",
+  "parentYear": "2006-2010",
+  "rating": "TV-Y",
+  "runtime": "7 seasons",
+  "labels": [
+    "kids",
+    "superheroes"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Captain Wonderpants flying through the sky",
+  "alt1": "Captain Wonderpants fights a villain in a big robot mech suit",
+  "alt2": "Captain Wonderpants carries a train that has derailed",
+  "alt3": "Captain Wonderpants catches a thief with a fishing pole",
+  "alt4": "Captain Wonderpants in the Wonderbuggy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes",
+    "new on nestflix"
+  ]
+}
