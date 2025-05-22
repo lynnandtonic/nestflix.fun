@@ -1,0 +1,37 @@
+{
+  "slug": "son-of-rambow",
+  "title": "Son of Rambow",
+  "description": "The debut short film from Carter & Proudfoot, described as an homage to <em>First Blood</em>.",
+  "quote": "They took my father, Trautman. They drew first blood.",
+  "parent": "Son of Rambow",
+  "parentYear": "2007",
+  "rating": "Unrated",
+  "runtime": "26m",
+  "starring": [
+    "Will Proudfoot",
+    "Lee Carter",
+    "Lawrence Carter"
+  ],
+  "director": [
+    "Lee Carter"
+  ],
+  "creator": "Carter & Proudfoot",
+  "labels": [
+    "amateur",
+    "action"
+  ],
+  "credit": "Celluloid Dreams",
+  "altHero": "Will Proudfoot with a Rambo-style headband, slamming his fist on a desk",
+  "alt1": "Lee Carter as Colonel Trautman",
+  "alt2": "the two boys look up at the sky",
+  "alt3": "Will talks with his brother, also dressed like Rambo",
+  "alt4": "an old man tied up with a fake bomb",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
