@@ -32,6 +32,10 @@ block content
                         entries.push(entry);
                         break;
                     }
+                    if ((entry[field] || "").replace(/[&]/g, "and").indexOf(search) > -1) {
+                        entries.push(entry);
+                        break;
+                    }
                 }
             });
             const $ul = document.querySelector('ul.card-list.thumbs');
