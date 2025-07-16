@@ -1,0 +1,38 @@
+{
+  "slug": "the-rise-and-fall-of-sanctuary-moon",
+  "title": "The Rise & Fall of Sanctuary Moon",
+  "description": "The long-running, premium quality serial featuring perilous missions and secret romances. Join Captain Hossein, Lieutenant Kulleruu, and the rest of the crew for their next adventure.",
+  "quote": "Stay calm. It’ll be okay. You have my word.",
+  "parent": "Murderbot",
+  "parentYear": "2025",
+  "parentIMDB": "30444310",
+  "rating": "TV-14",
+  "runtime": "19 seasons",
+  "starring": [
+    "Eknie Jef Chem",
+    "Breiller MocJac",
+    "Arletty",
+    "Pordron Bretney III Roche",
+    "Kon Rennell"
+  ],
+  "labels": [
+    "drama",
+    "romance",
+    "space",
+    "robots"
+  ],
+  "credit": "Apple TV+",
+  "altHero": "Eknie Jef Chem as Captain Hossein",
+  "alt1": "Breiller MocJac as Navigation Officer Hordööp-Sklanch",
+  "alt2": "a medic crewmember helps an impaled Friess on a desert planet",
+  "alt3": "the Captain and Nav Bot 337 Alt 66 sit by a blue fire on a purple planet",
+  "alt4": "Lieutenant Kulleruu confonts Nav Bot 337 Alt 66",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
