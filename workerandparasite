@@ -1,0 +1,20 @@
+{
+  "slug": "worker-and-parasite",
+  "title": "The Worker & Parasite Show",
+  "description": "ENDUT! HOCH HECH!",
+  "parent": "The Simpsons",
+  "parentYear": "1993",
+  "rating": "G",
+  "labels": [
+    "kids"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "animated east europe cats and mice",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
