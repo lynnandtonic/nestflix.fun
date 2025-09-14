@@ -4,6 +4,7 @@
   "description": "A documentary series about the rise and fall of Hollywood‘s brightest stars.",
   "parent": "Veronica Mars",
   "parentYear": "2004-2019",
+  "parentIMDB": "0412253",
   "rating": "TV-14",
   "runtime": "5 seasons",
   "studio": "Hollywood Entertainment Network",

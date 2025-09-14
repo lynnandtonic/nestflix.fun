@@ -4,6 +4,7 @@
   "description": "A selection of films from prolific comedian and actor, George Simmons.",
   "parent": "Funny People",
   "parentYear": "2009",
+  "parentIMDB": "1201167",
   "rating": "PG-13",
   "runtime": "9h 23m",
   "starring": [

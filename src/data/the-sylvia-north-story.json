@@ -4,6 +4,7 @@
   "description": "A movie as mysterious as the life it’s based on.",
   "parent": "Mulholland Drive",
   "parentYear": "2001",
+  "parentIMDB": "0166924",
   "rating": "R",
   "runtime": "2h 21m",
   "starring": [

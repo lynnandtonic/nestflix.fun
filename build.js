@@ -81,11 +81,13 @@ function readAllJsonFiles() {
                 'description',
                 'parent',
                 'parent2',
+                'parentIMDB',
+                'parentIMDB2',
                 'director',
                 'starring',
                 'slug',
                 'labels',
-                'seo'
+                'seo',
             ]
         };
 

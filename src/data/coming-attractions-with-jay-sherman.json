@@ -5,8 +5,10 @@
   "quote": "It stinks!",
   "parent": "The Simpsons",
   "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
   "parent2": "The Critic",
   "parent2Year": "1994-1995",
+  "parentIMDB2": "0108734",
   "rating": "TV-PG",
   "runtime": "5 seasons",
   "starring": [
