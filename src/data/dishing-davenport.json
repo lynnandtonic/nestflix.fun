@@ -1,0 +1,33 @@
+{
+  "slug": "dishing-davenport",
+  "title": "Dishing Davenport",
+  "description": "In the late ’70s, there was no bigger show than <em>Davenport</em>, except for the aftershow. Henry Tomlinson described what we just watched and insisted it was the most important thing in the world.",
+  "quote": "Let’s dish!",
+  "parent": "What Just Happened??! with Fred Savage",
+  "parentYear": "2019",
+  "parentIMDB": "10290274",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Henry Tomlinson",
+    "Taylor Booth"
+  ],
+  "labels": [
+    "talk show",
+    "entertainment"
+  ],
+  "credit": "Fox Entertainment",
+  "altHero": "Henry Tomlinson",
+  "alt1": "Henry Tomlinson",
+  "alt2": "Henry Tomlinson and Taylor Booth dancing",
+  "alt3": "Henry Tomlinson and Taylor Booth toasting",
+  "alt4": "Henry Tomlinson",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "entertainment commentary",
+    "new on nestflix"
+  ]
+}
