@@ -1,0 +1,34 @@
+{
+  "slug": "paul-bunyan-new-york-city",
+  "title": "Paul Bunyan: New York City",
+  "description": "Dwayne “The Rock” Johnson is one hot Paul Bunyan who takes on the Big Apple and swallows every bite.",
+  "quote": "I’ve got morning wood to chop.",
+  "parent": "Big Mouth",
+  "parentYear": "2017-2025",
+  "parentIMDB": "6524350",
+  "rating": "R",
+  "runtime": "1h 54m",
+  "starring": [
+    "Dwayne Johnson"
+  ],
+  "director": [
+    "Bryan Singer"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Netflix",
+  "altHero": "shirtless The Rock as Paul Bunyan in a red beanie and holding an axe",
+  "alt1": "closeup of The Rock’s face",
+  "alt2": "syrup from a tree sprays all over Paul Bunyan’s bare chest while Babe the Blue Ox looks on",
+  "alt3": "Bunyan up a tree",
+  "alt4": "Paul Bunyan grabs an apple from a penis-shaped branch",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
