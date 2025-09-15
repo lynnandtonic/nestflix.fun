@@ -1,0 +1,30 @@
+{
+  "slug": "kingdom-of-lore",
+  "title": "Kingdom of Lore",
+  "description": "Young and fearless Princess Tarina must protect her kingdom from evil forces who wish to destroy it.",
+  "quote": "Oh, snap! Looks like this ghost is gonna make us toast!",
+  "parent": "Big City Greens",
+  "parentYear": "2018-Present",
+  "parentIMDB": "7165904",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "studio": "Big Animation Studios",
+  "labels": [
+    "kids",
+    "fantasy"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Princess Tarina lifts her wand",
+  "alt1": "Princess Tarina faces off with a ghost whose emerald wand creates big green swirls in the sky",
+  "alt2": "Princess Tarina and her bat companion look worried",
+  "alt3": "the ghost reveals he is the King",
+  "alt4": "Princess Tarina points her heart wand",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
