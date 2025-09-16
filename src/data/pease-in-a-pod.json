@@ -1,0 +1,31 @@
+{
+  "slug": "pease-in-a-pod",
+  "title": "Pease in a Pod",
+  "description": "Follows the life of family man Mel Pease, his wife Patty, daughter Carrie, son Ben, and dog Chuck.",
+  "quote": "Boy does my life suck.",
+  "parent": "Married... with Children",
+  "parentYear": "1987-1997",
+  "parentIMDB": "0092400",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "producer": "Ronald N. Michaels",
+  "studio": "FOX",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Sony Pictures Television",
+  "altHero": "Mel and his wife Patty on the couch, they look like Al and Peggy Bundy",
+  "alt1": "Mel holding a toaster in the kitchen",
+  "alt2": "Mel’s son Ben holds a blow up doll",
+  "alt3": "Pease’s neighbors, a flaired political activist and Hawaiian-shirt wearing chill guy",
+  "alt4": "Mel’s blonde daughter Carrie with two military guys",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
