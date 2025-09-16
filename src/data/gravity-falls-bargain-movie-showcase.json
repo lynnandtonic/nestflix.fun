@@ -1,0 +1,32 @@
+{
+  "slug": "gravity-falls-bargain-movie-showcase",
+  "title": "Gravity Falls Bargain Movie Showcase",
+  "description": "Enjoy a collection of rarely seen horror flicks whose scares are good enough.",
+  "parent": "Gravity Falls",
+  "parentYear": "2012-2016",
+  "parentIMDB": "1865718",
+  "rating": "PG-13",
+  "runtime": "13h 54m",
+  "studio": "Gravity Falls Public Access TV",
+  "labels": [
+    "collection",
+    "horror"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "snack counter at the Gravity Falls cinema",
+  "alt1": "The Widdlest Wampire",
+  "alt2": "The Planet People of Planet Planet",
+  "alt3": "Help! My Mummy's a Werewolf!",
+  "alt4": "Attack of the Exclamation Points!!!!!!!!!!",
+  "alt5": "The Man With No Taste",
+  "alt6": "Ghost Turtle",
+  "alt7": "Help! My Mummy's a Werewolf! 2: This Again",
+  "layout": "movie.pug",
+  "submovies": 7,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}

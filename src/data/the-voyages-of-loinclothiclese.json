@@ -1,0 +1,25 @@
+{
+  "slug": "the-voyages-of-loinclothiclese",
+  "title": "The Voyages of Loinclothiclese",
+  "description": "A mighty, but scantily clad hero must face off against monsters and men.",
+  "quote": "You’re no match for Loinclothiclese. I’ve come for the golden pants!",
+  "parent": "Gravity Falls",
+  "parentYear": "2012-2016",
+  "parentIMDB": "1865718",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "labels": [
+    "action", 
+    "adventure",
+    "animation"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "hero in a loin cloth holding a shield and sword faces off against a giant cyclops",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "action adventure movies",
+    "new on nestflix"
+  ]
+}
