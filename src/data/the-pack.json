@@ -1,0 +1,36 @@
+{
+  "slug": "the-pack",
+  "title": "The Pack",
+  "description": "The Pack takes on a weekly roster of villains including the formidable Evil Ninjas.",
+  "parent": "Gargoyles",
+  "parentYear": "1994-1996",
+  "parentIMDB": "0108783",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Fox",
+    "Wolf",
+    "Dingo",
+    "Jackal",
+    "Hyena"
+  ],
+  "creator": "David Xanatos",
+  "studio": "Pack Media Studios",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Walt Disney Television Animation",
+  "altHero": "five superheroes running through a green hallway",
+  "alt1": "Fox",
+  "alt2": "Wolf",
+  "alt3": "Jackal fighting a ninja",
+  "alt4": "Hyena",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes"
+  ]
+}
