@@ -1,0 +1,29 @@
+{
+  "slug": "lair-of-love",
+  "title": "Lair of Love",
+  "description": "Twelve hot strangers, trapped in a house. The world will be watching their every move. Who will find love? Who will make it out? Find out on Lair of Love.",
+  "quote": "And I bet she’s just, like, killer in the bedroom",
+  "parent": "The Watchers",
+  "parentYear": "2024",
+  "parentIMDB": "26736843",
+  "rating": "TV-MA",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality competition",
+    "dating"
+  ],
+  "credit": "Warner Bros. Pictures",
+  "altHero": "a bunch of people lounging in a hot tub",
+  "alt1": "guy in a tank top standing and reading a card",
+  "alt2": "two women on bean bag chairs laughing",
+  "alt3": "tank top guy kisses a woman while others watch",
+  "alt4": "tank top guy in a confessional",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows",
+    "new on nestflix"
+  ]
+}
