@@ -1,0 +1,31 @@
+{
+  "slug": "tricera-cops",
+  "title": "TriCera-Cops",
+  "description": "One badge, one gun, three horns. A maverick cop who can’t work within the system. That’s unprecedented.",
+  "quote": "You have the right to remain dead.",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "studio": "ABC",
+  "labels": [
+    "crime drama",
+    "action",
+    "dinosaurs"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "two dinosaur cops",
+  "alt1": "triceratops cop holding up a gun",
+  "alt2": "dinosaur news anchor screaming",
+  "alt3": "dinosaur cops on the street",
+  "alt4": "dinosaur thief hiding",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
