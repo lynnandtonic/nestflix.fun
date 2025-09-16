@@ -1,0 +1,28 @@
+{
+  "slug": "zombie-blood-nightmare",
+  "title": "Zombie Blood Nightmare",
+  "description": "The zombies have arrived and they’re not going away anytime soon.",
+  "parent": "The Video Dead",
+  "parentYear": "1987",
+  "parentIMDB": "0155350",
+  "rating": "Unrated",
+  "runtime": "Unknown",
+  "labels": [
+    "horror",
+    "zombies"
+  ],
+  "credit": "Embassy Home Entertainment",
+  "altHero": "zombie waves",
+  "alt1": "headstone",
+  "alt2": "zombie emerging from under the grass",
+  "alt3": "zombie in a suit",
+  "alt4": "zombie bride",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
