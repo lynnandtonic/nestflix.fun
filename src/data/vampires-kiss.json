@@ -1,0 +1,31 @@
+{
+  "slug": "vampires-kiss",
+  "title": "Vampire’s Kiss",
+  "description": "The cult classic vampire B-movie that put Jake Scully on the map.",
+  "parent": "Body Double",
+  "parentYear": "1984",
+  "parentIMDB": "0086984",
+  "rating": "R",
+  "runtime": "1h 45m",
+  "starring": [
+    "Jake Scully"
+  ],
+  "labels": [
+    "horror",
+    "vampires"
+  ],
+  "credit": "",
+  "altHero": "blonde, punk male vampire stands behind a woman in the shower",
+  "alt1": "gravestone",
+  "alt2": "graveyard angel statue in front of palm trees",
+  "alt3": "vampire awakes in a grave",
+  "alt4": "a bat looks into a window on a woman showering",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
