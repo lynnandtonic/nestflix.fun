@@ -1,0 +1,31 @@
+{
+  "slug": "da-throne",
+  "title": "Da Throne",
+  "description": "Contestants compete to capture Da Throne. Who will be King of Da Throne next?",
+  "parent": "DC’s Legends of Tomorrow",
+  "parentYear": "2016-2022",
+  "parentIMDB": "4532368",
+  "rating": "TV-PG",
+  "runtime": "10 seasons",
+  "starring": [
+    "DJ S'more Money"
+  ],
+  "labels": [
+    "reality competition",
+    "singing"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "DJ S'More Money sitting on da throne",
+  "alt1": "Saucéy dancing",
+  "alt2": "the host of Da Throne",
+  "alt3": "Lord Knoxicrillion",
+  "alt4": "video feeds of viewers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
