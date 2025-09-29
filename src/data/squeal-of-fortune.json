@@ -1,0 +1,29 @@
+{
+  "slug": "squeal-of-fortune",
+  "title": "Squeal of Fortune",
+  "description": "The game show where fabulous farm animals make fools out of themselves.",
+  "quote": "In today’s chilling event… the steeplechase of doom!",
+  "parent": "101 Dalmatians: The Series",
+  "parentYear": "1997-1998",
+  "parentIMDB": "0144700",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "labels": [
+    "game show",
+    "animals"
+  ],
+  "credit": "Walt Disney Television Animation",
+  "altHero": "game show host with big blonde hair stands next to a pig",
+  "alt1": "a sheep stands by a seesaw",
+  "alt2": "intense obstacle course",
+  "alt3": "host rings a gong",
+  "alt4": "animals at the starting line",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
