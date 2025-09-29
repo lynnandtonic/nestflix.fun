@@ -1,0 +1,31 @@
+{
+  "slug": "edgewater-park",
+  "title": "Edgewater Park",
+  "description": "After losing her 11-year-old son at the park, this mother’s love takes her to the edge.",
+  "quote": "Johnny, where are you?",
+  "parent": "Curb Your Enthusiasm",
+  "parentYear": "2000-2024",
+  "parentIMDB": "0264235",
+  "rating": "PG-13",
+  "runtime": "1h 56m",
+  "starring": [
+    "Sienna Miller"
+  ],
+  "labels": [
+    "drama"
+  ],
+  "credit": "HBO",
+  "altHero": "woman with brown curly hair screams with chunks of fruit in her mouth",
+  "alt1": "Godzilla toy on the pavement",
+  "alt2": "man in a hoodie",
+  "alt3": "woman cries with fruit in her mouth",
+  "alt4": "park by a lake",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
