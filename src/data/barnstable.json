@@ -1,0 +1,29 @@
+{
+  "slug": "barnstable",
+  "title": "Barnstable",
+  "description": "When a murder shocks a sleepy farm town, this detective finds himself back on the job.",
+  "quote": "Won’t be long until nightfall.",
+  "parent": "Dinner with the Parents",
+  "parentYear": "2024",
+  "parentIMDB": "21277932",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "british tv",
+    "crime drama"
+  ],
+  "credit": "Big Talk Productions",
+  "altHero": "British detective, in a jacket and flat cap",
+  "alt1": "Detective shoveling hay",
+  "alt2": "Detective sits next to a cow in the stable",
+  "alt3": "Detective writing in a notepad",
+  "alt4": "In silhouette, the detective speaks with a store clerk",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "british tv",
+    "new on nestflix"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "the-night-hag",
+  "title": "The Night Hag",
+  "description": "The Night Hag steals sleep and creates The Sleepless: frazzled, sleep-deprived servants who creep around looking for even more victims.",
+  "quote": "Say goodnight to your sleep, boy, because I, the Night Hag, am stealing it forever!",
+  "parent": "Dead End: Paranormal Park",
+  "parentYear": "2022",
+  "parentIMDB": "12642764",
+  "rating": "R",
+  "runtime": "1h 48m",
+  "starring": [
+    "Pauline Phoenix"
+  ],
+  "labels": [
+    "horror"
+  ],
+  "credit": "Netflix",
+  "altHero": "black and white witchy woman",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
