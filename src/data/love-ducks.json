@@ -1,0 +1,30 @@
+{
+  "slug": "love-ducks",
+  "title": "Love Ducks",
+  "description": "Not just a baby show. Love Ducks and a soundtrack of classical music will mesmerize you.",
+  "quote": "Hello Love Ducks. It’s a fine day!",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "animals",
+    "music"
+  ],
+  "credit": "PBS",
+  "altHero": "rainbow colored ducks floating along a purple haze",
+  "alt1": "Love Ducks floating down from the sky",
+  "alt2": "ducks swimming in a colorful spiral",
+  "alt3": "pink and yellow ducks",
+  "alt4": "rows of ducks",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
