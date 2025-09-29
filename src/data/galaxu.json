@@ -1,0 +1,29 @@
+{
+  "slug": "galaxu",
+  "title": "Galaxu",
+  "description": "Interstellar gladiator monsters battle in epic combat in Galaxu, the popular Japanese trading card game come to life.",
+  "quote": "I sure do love my Galaxu cards. I love them because they’re mine.",
+  "parent": "Big City Greens",
+  "parentYear": "2018-Present",
+  "parentIMDB": "7165904",
+  "rating": "TV-Y",
+  "runtime": "14 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "human boy runs with monsters including Froglem, Starmadillo, and a robot",
+  "alt1": "the boy and Starmadillo approach Galactodon who holds a bag of loot",
+  "alt2": "Galactodon holds up a Galaxu card",
+  "alt3": "the boy holds up a Duplication Mirror Galaxu card",
+  "alt4": "two Starmadillos",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
