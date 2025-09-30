@@ -1,0 +1,29 @@
+{
+  "slug": "the-buddy-goodrich-show",
+  "title": "The Buddy Goodrich Show",
+  "description": "Buddy Goodrich plays a wealthy neurosurgeon and test pilot who adopts two white children. Don’t just watch for the laughs, there’s also a lesson every week.",
+  "quote": "What in the world possessed you boys to bring a timber wolf into the house?",
+  "parent": "Family Matters",
+  "parentYear": "1989-1998",
+  "parentIMDB": "0096579",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Buddy Goodrich, a black dad, with two white boy children, all wearing sweaters",
+  "alt1": "Buddy talks to the boys on the couch",
+  "alt2": "the boys",
+  "alt3": "Buddy",
+  "alt4": "Buddy and the boys",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
