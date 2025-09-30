@@ -1,0 +1,31 @@
+{
+  "slug": "powers-hour",
+  "title": "Powers Hour",
+  "description": "Kenny Powers gives you straight talk on Powers Hour. A show unlike any other show on daytime talk because he’s gonna give it to you real and he‘s gonna give it to you hard.",
+  "quote": "You just walked into an ambush, old friend.",
+  "parent": "Eastbound & Down",
+  "parentYear": "2009-2013",
+  "parentIMDB": "0866442",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Kenny Powers"
+  ],
+  "labels": [
+    "daytime talk show"
+  ],
+  "credit": "HBO",
+  "altHero": "Kenny Powers",
+  "alt1": "Kenny speaks to the audience",
+  "alt2": "Kenny speaks with Guy Young",
+  "alt3": "Guy Young",
+  "alt4": "Kenny looks at the camera",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "sports-sesh",
+  "title": "Sports Sesh",
+  "description": "Former Major League Baseball player, Guy Young, hosts a rotating panel of athletes to talk sports. Catch your favorite sports analysis on Sesh.",
+  "parent": "Eastbound & Down",
+  "parentYear": "2009-2013",
+  "parentIMDB": "0866442",
+  "rating": "TV-PG",
+  "runtime": "12 seasons",
+  "starring": [
+    "Guy Young"
+  ],
+  "labels": [
+    "talk show",
+    "sports"
+  ],
+  "credit": "HBO",
+  "altHero": "Guy Young chatting",
+  "alt1": "announcer holding a basketball",
+  "alt2": "6 men in comfy chairs chatting sports",
+  "alt3": "Guy Young",
+  "alt4": "Kenny Powers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sports commentary",
+    "new on nestflix"
+  ]
+}
