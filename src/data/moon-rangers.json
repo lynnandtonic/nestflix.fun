@@ -1,0 +1,32 @@
+{
+  "slug": "moon-rangers",
+  "title": "Moon Rangers",
+  "description": "Described as <em>Bonanza</em> in space, <em>Moon Rangers</em> is a classic example of Supermarionation of the 1960s.",
+  "quote": "Great Scott! It’s a billion-to-one shot, but it might just work!",
+  "parent": "Endeavour",
+  "parentYear": "2012-2023",
+  "parentIMDB": "2701582",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "studio": "Heaviside Studios",
+  "labels": [
+    "sci-fi",
+    "space",
+    "robots",
+    "puppets"
+  ],
+  "credit": "ITV Studios",
+  "altHero": "puppets of the space crew",
+  "alt1": "miniature model of a ship landing on the moon",
+  "alt2": "puppet captain looks at a map on the wall",
+  "alt3": "blonde female puppet",
+  "alt4": "robot",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}
