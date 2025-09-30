@@ -1,0 +1,30 @@
+{
+  "slug": "england-but-with-dragons",
+  "title": "England But With Dragons",
+  "description": "England. But, with dragons!",
+  "quote": "Oh, why does England have to have so many dragons?",
+  "parent": "Hamster & Gretel",
+  "parentYear": "2022-Present",
+  "parentIMDB": "13330286",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "labels": [
+    "action",
+    "drama",
+    "fantasy"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "fire breathing dragon",
+  "alt1": "knight walks down a dark castle",
+  "alt2": "shadow of Medusa",
+  "alt3": "Medusa approaches a trap with the knight holding a rope",
+  "alt4": "the knight pulls the rope",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv",
+    "new on nestflix"
+  ]
+}

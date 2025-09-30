@@ -1,0 +1,28 @@
+{
+  "slug": "thats-the-way-its-gotta-be",
+  "title": "That‘s the Way It’s Gotta Be",
+  "description": "Nick started dating Nicki for an article. He sets out to prove a point, but discovers what he’s been looking for right in front of him.",
+  "quote": "And that’s how I almost accidentally married my best friend’s fiancé.",
+  "parent": "Happy Endings",
+  "parentYear": "2011-2013",
+  "parentIMDB": "1587678",
+  "rating": "PG-13",
+  "runtime": "1h 50m",
+  "labels": [
+    "romantic comedy"
+  ],
+  "credit": "Sony Pictures Television",
+  "altHero": "Nicki and Nick look at each other in front of a fountain",
+  "alt1": "Nick and Nicki at dinner and her arm is on fire",
+  "alt2": "Nick talks to Nicki",
+  "alt3": "Nick stands next to a drunk man sitting on a park bench",
+  "alt4": "Nicki smiles at Nick",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies",
+    "new on nestflix"
+  ]
+}
