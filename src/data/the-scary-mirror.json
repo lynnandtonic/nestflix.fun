@@ -1,0 +1,30 @@
+{
+  "slug": "the-scary-mirror",
+  "title": "The Scary Mirror",
+  "description": "You’re entering a show that is slightly different from previous, very similar shows. That one with the phone call from the devil? Now, it’s a FaceTime call from the devil. Prepare to see your unflattering reflection in… The Scary Mirror.",
+  "quote": "And check the price of my NFTs ’cause I'm an important tech guy!",
+  "parent": "Futurama",
+  "parentYear": "1999-2013",
+  "parentIMDB": "0149460",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "studio": "Fulu",
+  "labels": [
+    "sci-fi",
+    "horror"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "tech guy getting zapped by his car",
+  "alt1": "flying car in a futuristic city on stilts",
+  "alt2": "tech guy driving car with AI on a screen",
+  "alt3": "guy trapped in the screen",
+  "alt4": "AI driving the car into an Impassable Burger restaurant",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}
