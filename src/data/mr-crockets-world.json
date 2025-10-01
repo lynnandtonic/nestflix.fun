@@ -1,0 +1,32 @@
+{
+  "slug": "mr-crockets-world",
+  "title": "Mr. Crocket’s World",
+  "description": "Mr. Crocket, Boogaloo Blue, and Squawky Bird will have children of all ages clapping, dancing, and singing along.",
+  "quote": "A friend like you is a friend like me.",
+  "parent": "Mr. Crocket",
+  "parentYear": "2024",
+  "parentIMDB": "32916093",
+  "rating": "TV-Y",
+  "runtime": "5 seasons",
+  "starring": [
+    "Emanuel Crocket"
+  ],
+  "labels": [
+    "kids",
+    "variety shows"
+  ],
+  "credit": "Hulu",
+  "altHero": "Mr. Crocket, Boogaloo Blue, and Squawky Bird",
+  "alt1": "Mr. Crocket and Boogaloo Blue dance with some kids",
+  "alt2": "Mr. Crocket, Boogaloo Blue, and Squawky Bird",
+  "alt3": "Mr. Crocket talks to a sun with a face",
+  "alt4": "Boogaloo Blue hugs some kids",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
