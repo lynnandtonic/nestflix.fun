@@ -1,0 +1,29 @@
+{
+  "slug": "glob",
+  "title": "Glob",
+  "description": "A deadly entity from space lands near a small town and begins consuming everyone in its path.",
+  "parent": "Mr. Bean: The Animated Series",
+  "parentYear": "2002-Present",
+  "parentIMDB": "0280277",
+  "rating": "R",
+  "runtime": "1h 43m",
+  "labels": [
+    "horror",
+    "sci-fi",
+    "aliens"
+  ],
+  "credit": "Tiger Aspect Productions",
+  "altHero": "giant globby alien with lots of eyes and sharp teeth",
+  "alt1": "a UFO lands on Earth",
+  "alt2": "globby alien exits his ship",
+  "alt3": "people screaming in fear",
+  "alt4": "Glob sucks in air as an elderly woman clings to a light pole",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "aliens!",
+    "new on nestflix"
+  ]
+}
