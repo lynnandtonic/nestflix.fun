@@ -1,0 +1,30 @@
+{
+  "slug": "its-okay-to-not-be-okay",
+  "title": "It’s Okay to Not Be Okay",
+  "description": "Based on the work of acclaimed children’s author, Ko Mun-Yeong. A little girl struggles to find a sense of belonging as the monster within her pushes all those who might love her away.",
+  "quote": "No one can ever stay by your side because you are a monster.",
+  "parent": "It’s Okay to Not Be Okay",
+  "parentYear": "2020",
+  "parentIMDB": "12451520",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "studio": "Netflix",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "tvN",
+  "altHero": "small girl sits on the balcony of a house against a starry sky",
+  "alt1": "spooky crooked house and two black birds on some bendy tree branches",
+  "alt2": "small girl whose long hair is a tree-like monster",
+  "alt3": "girl and boy walk single file across a big log",
+  "alt4": "girl picks flower petals with the boy behind her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
