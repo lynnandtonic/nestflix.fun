@@ -1,0 +1,33 @@
+{
+  "slug": "tales-from-the-high-castle",
+  "title": "Tales from the High Castle",
+  "description": "You’re confronted with a reality no one is prepared for. Horrifying and mysterious tales from the Man in the High Castle.",
+  "quote": "Robert Street has just learned that the American dream is nothing more than an Aryan man’s nightmare.",
+  "parent": "The Man in the High Castle",
+  "parentYear": "2015-2019",
+  "parentIMDB": "1740299",
+  "rating": "Unrated",
+  "runtime": "3 seasons",
+  "starring": [
+    "Hawthorne Abendsen"
+  ],
+  "labels": [
+    "documentary",
+    "thriller",
+    "drama"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "host Hawthorne Abendsen",
+  "alt1": "white man doing accounting work",
+  "alt2": "white man standing in front of his Black boss’s desk",
+  "alt3": "the Black boss looks displeased",
+  "alt4": "white man scared, partially obscured in shadow",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series",
+    "new on nestflix"
+  ]
+}
