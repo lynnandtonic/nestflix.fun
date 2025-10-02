@@ -1,0 +1,34 @@
+{
+  "slug": "jailpup",
+  "title": "Jailpup",
+  "description": "The breakout show of the season. Join Timmy and his loyal dog Jailpup on weekly adventures.",
+  "quote": "What is it, Jailpup? Is China stuck in the septic tank again?",
+  "parent": "Superjail!",
+  "parentYear": "2007-2014",
+  "parentIMDB": "1031283",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Fatty",
+    "Jailbot"
+  ],
+  "labels": [
+    "drama",
+    "family",
+    "adventure"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Jailbot robot wearing dog ears and a fake dog nose",
+  "alt1": "Jailpup floating over a cliff with the city behind",
+  "alt2": "Jailpup jumps on Timmy until he is bloody",
+  "alt3": "Jailpup shows an inmate record to Timmy on a boat",
+  "alt4": "Timmy looking worried with his finger in his bellybutton",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
