@@ -1,0 +1,28 @@
+{
+  "slug": "pauls-place",
+  "title": "Paul’s Place",
+  "description": "Featuring now infamous ’90s star, Corey Harris, <em>Paul’s Place</em> follows the silly antics of Paul and his childhood sweetheart.",
+  "quote": "Mmmm, tastes good!",
+  "parent": "The Rookie",
+  "parentYear": "2018-Present",
+  "parentIMDB": "7587890",
+  "rating": "TV-G",
+  "runtime": "8 seasons",
+  "starring": [
+    "Corey Harris",
+    "Charlotte Luster"
+  ],
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "ABC",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
