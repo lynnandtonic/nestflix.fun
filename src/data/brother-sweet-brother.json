@@ -1,0 +1,34 @@
+{
+  "slug": "brother-sweet-brother",
+  "title": "Brother Sweet Brother: the Killing of Stanton Sweet",
+  "description": "The trial that captured a nation. The story of twins, Sam and Stanton Sweet, and the rift that pushed one of them to murder.",
+  "quote": "You’ve always been such a crybaby. Look who’s crying now.",
+  "parent": "The Cable Guy",
+  "parentYear": "1996",
+  "parentIMDB": "0115798",
+  "rating": "TV-14",
+  "runtime": "1h 45m",
+  "starring": [
+    "Eric Roberts"
+  ],
+  "studio": "UPN",
+  "labels": [
+    "thriller",
+    "drama",
+    "real crime"
+  ],
+  "credit": "Sony Pictures",
+  "altHero": "Eric Roberts as Sam and Stan Sweet",
+  "alt1": "Sam holding a rifle in front of some masks on a wall",
+  "alt2": "Stan",
+  "alt3": "Sam pointing the gun",
+  "alt4": "Stan pleading",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
