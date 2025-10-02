@@ -1,0 +1,39 @@
+{
+  "slug": "2-the-max",
+  "title": "2 The Max",
+  "description": "It’s all action with Max Patrick: CIA agent, Navy SEAL, gigolo, and devoted family man. Watch as Max stops the terrorists from using a giant robot squid to kill the president!",
+  "quote": "Sorry I’m late. D.C. traffic is a bitch",
+  "parent": "My Name is Earl",
+  "parentYear": "2005-2009",
+  "parentIMDB": "0460091",
+  "rating": "Unrated",
+  "runtime": "1h 5m",
+  "starring": [
+    "Buddy Zaks",
+    "Randy Hickey",
+    "Joy Turner"
+  ],
+  "director": [
+    "Buddy Zaks"
+  ],
+  "producer": "Earl Hickey",
+  "labels": [
+    "action",
+    "espionage",
+    "amateur"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "Buddy Zaks smiling in a tuxedo, American flag behind",
+  "alt1": "Randy Hickey as the President",
+  "alt2": "a giant octopus climbs the White House",
+  "alt3": "Buddy Zaks waves while riding a horse down the street",
+  "alt4": "Zaks and Joy Turner fly away by the Washington Monument",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
