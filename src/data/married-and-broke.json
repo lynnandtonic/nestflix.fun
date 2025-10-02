@@ -1,0 +1,33 @@
+{
+  "slug": "married-and-broke",
+  "title": "Married and Broke",
+  "description": "A twisted new gameshow from the makers of <em>Fool Me Once, Shame on You. Fool Me Twice, I Punch Your Face!</em> The last couple standing wins the free wedding! May the worst couple fail.",
+  "quote": "With the economy, we couldn’t sell enough puppies to afford our wedding.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "starring": [
+    "Kyle Garrity"
+  ],
+  "studio": "The Wedding Network",
+  "labels": [
+    "reality",
+    "game show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "water with three alligators wearing bridal veils",
+  "alt1": "game show host holding a fire extinguisher next to a contestant on fire",
+  "alt2": "couples climb a tower of gigantic champagne flutes",
+  "alt3": "a couple falls through the air toward a big target on the ground",
+  "alt4": "woman wearing huge diamond ring around her body flings her partner across an obstacle course of gifts and tin cans",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!",
+    "new on nestflix"
+  ]
+}

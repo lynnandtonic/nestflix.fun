@@ -1,0 +1,28 @@
+{
+  "slug": "planet-chasers-starlight-excellent",
+  "title": "Planet Chasers Starlight Excellent",
+  "description": "It’s like barfing rainbows in your eyes. Watch it all day, every day and forget your troubles.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-G",
+  "runtime": "3h 46m",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "anime boy with colorful background",
+  "alt1": "anime boy chased by UFO",
+  "alt2": "anime boy and girl clash",
+  "alt3": "anime boy with star eyes",
+  "alt4": "anime boy hits anime girl",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
