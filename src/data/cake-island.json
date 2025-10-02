@@ -1,0 +1,29 @@
+{
+  "slug": "cake-island",
+  "title": "Cake Island",
+  "description": "High stakes and tasty bakes. Four eligible singles think they have the recipe for love. But on this island, some of the suitors are made… of cake.",
+  "quote": "I’m looking for my tira-missus.",
+  "parent": "Primos",
+  "parentYear": "2024-2025",
+  "parentIMDB": "15837206",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality",
+    "dating"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "building that looks like a round cake",
+  "alt1": "man with cake on his mouth, bewildered that his bride is made of cake",
+  "alt2": "man comforts woman as she points angrily",
+  "alt3": "man with cake for a head",
+  "alt4": "man and woman kiss a slice of cake",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows",
+    "new on nestflix"
+  ]
+}
