@@ -1,0 +1,31 @@
+{
+  "slug": "the-apocalypse-ultimate-survivalist",
+  "title": "The Apocalypse: Ultimate Survivalist",
+  "description": "Six contestants are thrown together in a devastated wasteland with only the clothes on their backs and the will to survive. Rain or shine, in five days, only one will remain.",
+  "quote": "Welcome to the apocalypse.",
+  "parent": "Wrong Turn 2: Dead End",
+  "parentYear": "2007",
+  "parentIMDB": "0804555",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "starring": [
+    "Dale Murphy"
+  ],
+  "labels": [
+    "reality competition"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "Col Dale Murphy with crossed arms",
+  "alt1": "young blonde woman contestant named Kimberly",
+  "alt2": "young brunette woman contestant in a bikini named Elena",
+  "alt3": "young Black football player",
+  "alt4": "young Black female Marine aiming a gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
