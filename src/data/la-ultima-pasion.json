@@ -1,0 +1,31 @@
+{
+  "slug": "la-ultima-pasion",
+  "title": "La Última Pasión",
+  "seo": "La Ultima Pasion",
+  "description": "Nothing can come between Gabriella and Juan, except maybe… his twin brother, Pablo! But última pasión can only belong to one.",
+  "quote": "Buenos días, hermano!",
+  "parent": "Sonic the Hedgehog 3",
+  "parentYear": "2024",
+  "parentIMDB": "18259086",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "telenovela",
+    "drama",
+    "romance"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "Gabriella in a red dress next to Juan in a white shirt",
+  "alt1": "Gabriella looks away as Juan approaches her",
+  "alt2": "Pablo, Juan’s twin, pulls off a false mustache",
+  "alt3": "Gabriella hands weapons to Juan and Pablo",
+  "alt4": "Juan holds up a mini crossbow",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "telenovelas",
+    "new on nestflix"
+  ]
+}
