@@ -1,0 +1,32 @@
+{
+  "slug": "sparkle-your-life",
+  "title": "Sparkle Your Life with Elisabeth",
+  "description": "Get sweaty with fitness icon, Elisabeth Sparkle. <em>Sparkle Your Life</em> defined an industry for a generation.",
+  "quote": "You got it!",
+  "parent": "The Substance",
+  "parentYear": "2024",
+  "parentIMDB": "17526714",
+  "rating": "TV-PG",
+  "runtime": "25 seasons",
+  "starring": [
+    "Elisabeth Sparkle"
+  ],
+  "labels": [
+    "fitness",
+    "dancing"
+  ],
+  "credit": "Working Title Films",
+  "altHero": "Elisabeth Sparkle blowing a kiss",
+  "alt1": "Elisabeth doing aerobics",
+  "alt2": "Elisabeth smiling with raised arms",
+  "alt3": "Elisabeth raises her arms up in the air",
+  "alt4": "Elisabeth and her fitness dancers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sports and fitness",
+    "new on nestflix"
+  ]
+}

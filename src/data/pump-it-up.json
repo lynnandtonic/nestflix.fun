@@ -1,0 +1,32 @@
+{
+  "slug": "pump-it-up",
+  "title": "Pump It Up with Sue",
+  "description": "The successor to Elisabeth Sparkle, Sue seemingly came out of nowhere to take the fitness world by storm.",
+  "quote": "Take care of yourself!",
+  "parent": "The Substance",
+  "parentYear": "2024",
+  "parentIMDB": "17526714",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Sue"
+  ],
+  "labels": [
+    "fitness",
+    "dancing"
+  ],
+  "credit": "Working Title Films",
+  "altHero": "Sue blowing a kiss",
+  "alt1": "Closeup of Sue’s face",
+  "alt2": "Sue and backup dancers",
+  "alt3": "Sue on the ground",
+  "alt4": "Sue and backup dancers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sports and fitness",
+    "new on nestflix"
+  ]
+}
