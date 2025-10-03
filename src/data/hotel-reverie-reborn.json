@@ -1,0 +1,35 @@
+{
+  "slug": "hotel-reverie-reborn",
+  "title": "Hotel Reverie Reborn",
+  "description": "Welcome back to Hotel Reverie. You might notice a few changes in the old place. Renowned Dr. Alex Palmer encounters tragic heiress Clara Ryce. Yet, even as their affection grows, the pair are unaware Clara’s fiendish husband, Claude, is plotting her death.",
+  "quote": "I’ll be yours forever more.",
+  "parent": "Black Mirror",
+  "parentYear": "2011-Present",
+  "parentIMDB": "2085059",
+  "rating": "PG",
+  "runtime": "96m",
+  "starring": [
+    "Brandy Friday",
+    "Dorothy Chambers",
+    "Gilbert Dauphin"
+  ],
+  "producer": "Judith Keyworth",
+  "studio": "Keyworth Pictures, Streamberry, redream",
+  "labels": [
+    "romance",
+    "thriller"
+  ],
+  "credit": "Netflix",
+  "altHero": "Brandy Friday as Alex",
+  "alt1": "Dorothy Chambers as Clara",
+  "alt2": "Clara speaks with Alex",
+  "alt3": "Alex overhears a conversation",
+  "alt4": "Alex and Clara embrace",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age"
+  ]
+}

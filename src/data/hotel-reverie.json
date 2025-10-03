@@ -1,0 +1,39 @@
+{
+  "slug": "hotel-reverie",
+  "title": "Hotel Reverie",
+  "description": "If you seek thrills and romance, then check into Hotel Reverie. Renowned Dr. Alex Palmer encounters tragic heiress Clara Ryce. Yet, even as their affection grows, the pair are unaware Clara’s fiendish husband, Claude, is plotting her death.",
+  "quote": "I’ll be yours forever more.",
+  "parent": "Black Mirror",
+  "parentYear": "2011-Present",
+  "parentIMDB": "2085059",
+  "rating": "PG",
+  "runtime": "96m",
+  "starring": [
+    "Ralph Redwall",
+    "Dorothy Chambers",
+    "Gilbert Dauphin"
+  ],
+  "director": [
+    "Jerrard Moore"
+  ],
+  "producer": "Robert Keyworth",
+  "studio": "Keyworth Pictures",
+  "labels": [
+    "romance",
+    "thriller"
+  ],
+  "credit": "Netflix",
+  "altHero": "Dorothy Chambers as Clara",
+  "alt1": "Ralph Redwall as Alex",
+  "alt2": "Clara",
+  "alt3": "hands with a small bottle of poison",
+  "alt4": "Alex and Clara embrace",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age",
+    "new on nestflix"
+  ]
+}
