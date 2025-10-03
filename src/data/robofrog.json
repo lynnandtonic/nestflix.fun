@@ -1,0 +1,28 @@
+{
+  "slug": "robofrog",
+  "title": "Robofrog",
+  "description": "He’s part robot, part frog, upholding the five principles of a true swamp bot: honor, honesty, humility, hubris, and finally responsibility.",
+  "parent": "Clarence",
+  "parentYear": "2013-2018",
+  "parentIMDB": "3061050",
+  "rating": "PG-13",
+  "runtime": "1h 57m",
+  "labels": [
+    "sci-fi",
+    "action",
+    "robots"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Robofrog, big robot frog holding a gun",
+  "alt1": "Robofrog looks at Robofish on the ground surrounded by destroyed robotics",
+  "alt2": "closeup of Robofish",
+  "alt3": "Robofrog’s concerned eyes",
+  "alt4": "the frog inside Robofrog looking at a display screen of Robofish’s vitals",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films"
+  ]
+}
