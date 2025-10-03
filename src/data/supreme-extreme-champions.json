@@ -1,0 +1,27 @@
+{
+  "slug": "supreme-extreme-champions",
+  "title": "Supreme Extreme Champions",
+  "description": "Stampedes, steamrollers, and spandex. All-out, body-slammin’, thank you ma’am-in",
+  "parent": "Bob’s Burgers",
+  "parentYear": "2011-Present",
+  "parentIMDB": "1561755",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "reality competition",
+    "sports"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "red gladiator holds blue gladitor above his head",
+  "alt1": "gladiators fighting with foam batons",
+  "alt2": "blue gladitor running",
+  "alt3": "three red gladiators running",
+  "alt4": "blue gladitor mowing down three red ones",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sports and fitness"
+  ]
+}
