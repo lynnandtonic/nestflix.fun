@@ -1,0 +1,31 @@
+{
+  "slug": "hoxs-castle",
+  "title": "Hox’s Castle",
+  "description": "Plane 10’s most deadly game show. Spin the wheel to see if you can survive the Garden of Pain, the Lightning Round, Sudden Death, or the Chamber of Cuddles!",
+  "quote": "Hopefully, tonight’s contestants will be a lot more robust and a lot less chewy.",
+  "parent": "Dead End: Paranormal Park",
+  "parentYear": "2022",
+  "parentIMDB": "12642764",
+  "rating": "TV-PG",
+  "runtime": "12 seasons",
+  "starring": [
+    "Rancibalafloss El Hoxtrot"
+  ],
+  "labels": [
+    "game show",
+    "spin the wheel"
+  ],
+  "credit": "Netflix",
+  "altHero": "Hox the host, a blue demon",
+  "alt1": "Hox speaks with contestants",
+  "alt2": "Barney Guttman falling down a big flight of stairs and getting struck by lightning",
+  "alt3": "little demons clapping in the audience",
+  "alt4": "Pugsley with glowing eyes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!"
+  ]
+}

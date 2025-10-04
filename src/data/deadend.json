@@ -1,0 +1,25 @@
+{
+  "slug": "deadend",
+  "title": "Deadend",
+  "description": "Horror icon, Pauline Phoenix, discovers that photographs are capturing the souls of their subjects.",
+  "quote": "The only question is, how are we gonna get Grandpa… back in Grandpa!",
+  "parent": "Dead End: Paranormal Park",
+  "parentYear": "2022",
+  "parentIMDB": "12642764",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "starring": [
+    "Pauline Phoenix"
+  ],
+  "labels": [
+    "horror"
+  ],
+  "credit": "Netflix",
+  "altHero": "a grandpa that is frozen in his chair",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
