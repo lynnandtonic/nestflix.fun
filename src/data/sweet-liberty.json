@@ -1,0 +1,36 @@
+{
+  "slug": "sweet-liberty",
+  "title": "Sweet Liberty",
+  "description": "Based on the book by Michael Burgess, <em>Sweet Liberty</em> tells the story of British General, Banastre Tarleton, and his wife Mary during the American Revolutionary War.",
+  "parent": "Sweet Liberty",
+  "parentYear": "1986",
+  "parentIMDB": "0092035",
+  "rating": "PG-13",
+  "runtime": "2h 14m",
+  "starring": [
+    "Elliott James",
+    "Faith Healy"
+  ],
+  "director": [
+    "Bo Hodges"
+  ],
+  "labels": [
+    "war drama",
+    "history",
+    "biography",
+    "romance"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "General Tarleton and Mary embrace",
+  "alt1": "Mary by some flowers",
+  "alt2": "General Tarleton",
+  "alt3": "General Tarleton speaks with Mary in the snow",
+  "alt4": "American soldiers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas"
+  ]
+}
