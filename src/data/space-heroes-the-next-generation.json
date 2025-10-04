@@ -1,0 +1,29 @@
+{
+  "slug": "space-heroes-the-next-generation",
+  "title": "Space Heroes: The Next Generation",
+  "description": "The space escapades of Captain Ryan and his crew. Previously thought to be lost media, <em>The Next Generation</em> was once deemed “too disturbing” for kids.",
+  "quote": "Mr. Crankshaw let’s blow these aliens out of the water. And by water, I mean space!",
+  "parent": "Teenage Mutant Ninja Turtles",
+  "parentYear": "2012-2017",
+  "parentIMDB": "1877889",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "labels": [
+    "sci-fi",
+    "action",
+    "space"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "two of the crew",
+  "alt1": "crew members next to a giant laser",
+  "alt2": "green woman is eaten by a giant tentacle monster",
+  "alt3": "Captain Ryan zaps a guy",
+  "alt4": "the crew is shocked",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ]
+}
