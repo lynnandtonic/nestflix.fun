@@ -1,0 +1,24 @@
+{
+  "slug": "fins-of-fear",
+  "title": "Fins of Fear",
+  "description": "If you see the fin, you’re fin-ished. A petty, vindictive ghost shark continues his killing spree from beyond the grave.",
+  "quote": "You’ve eaten every landlubber, Ghost Shark. But I’ll not go down without a fight.",
+  "parent": "The Ghost and Molly McGee",
+  "parentYear": "2021-2024",
+  "parentIMDB": "10684374",
+  "rating": "T",
+  "runtime": "1h 42m",
+  "labels": [
+    "horror",
+    "monsters",
+    "animals attack"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "a giant shark with red eyes and green teeth attacks a fisherman",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
