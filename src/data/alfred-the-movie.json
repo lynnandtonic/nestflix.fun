@@ -1,0 +1,28 @@
+{
+  "slug": "alfred-the-movie",
+  "title": "Alfred The Movie",
+  "description": "From the shadows of Batman… emerges a hero. The ultimate grime fighter. When the dust settles, only one man will be left dusting.",
+  "parent": "Teen Titans Go! To The Movies",
+  "parentYear": "2018",
+  "parentIMDB": "7424200",
+  "rating": "PG-13",
+  "runtime": "2h 12m",
+  "studio": "DC",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Alfred the butler",
+  "alt1": "Alfred shooting window cleaner like guns",
+  "alt2": "beautiful, clean window",
+  "alt3": "Alfred kicking up dust with a broom",
+  "alt4": "Alfred taking out the trash",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes"
+  ]
+}
