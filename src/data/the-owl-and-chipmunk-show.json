@@ -1,0 +1,22 @@
+{
+  "slug": "the-owl-and-chipmunk-show",
+  "title": "The Owl and Chipmunk Show",
+  "description": "Life in the woods is always an adventure with Owl and Chipmunk.",
+  "parent": "Wow! Wow! Wubbzy!",
+  "parentYear": "2006-2010",
+  "parentIMDB": "0762067",
+  "rating": "TV-Y",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids",
+    "animals"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "a blue owl and brown squirrel on a branch",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
