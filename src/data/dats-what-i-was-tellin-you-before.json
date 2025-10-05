@@ -1,0 +1,23 @@
+{
+  "slug": "dats-what-i-was-tellin-you-before",
+  "title": "Dat’s What I Was Tellin’ You Before!",
+  "description": "When white people make a TV show they think Black people will watch.",
+  "quote": "Dat’s what I was tellin’ you before!",
+  "parent": "The Cleveland Show",
+  "parentYear": "2009-2013",
+  "parentIMDB": "1195935",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "20th Television",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ]
+}

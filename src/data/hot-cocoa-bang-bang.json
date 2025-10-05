@@ -1,0 +1,36 @@
+{
+  "slug": "hot-cocoa-bang-bang",
+  "title": "Hot Cocoa Bang Bang",
+  "description": "Robert Rodriguez’s lost Blaxploitation film starring Cocoa Bang Bang, remastered in 3D.",
+  "quote": "Bang bang, honkeys!",
+  "parent": "The Cleveland Show",
+  "parentYear": "2009-2013",
+  "parentIMDB": "1195935",
+  "rating": "R",
+  "runtime": "2h 34m",
+  "starring": [
+    "Cocoa Bang Bang"
+  ],
+  "director": [
+    "Robert Rodriguez"
+  ],
+  "studio": "Warner Bros.",
+  "labels": [
+    "action",
+    "crime",
+    "blaxploitation"
+  ],
+  "credit": "20th Television",
+  "altHero": "Cocoa Bang Bang pointing a shotgun",
+  "alt1": "Cocoa Bang Bang approaches a white naked guy strapped to a bed",
+  "alt2": "Cocoa Bang Bang climbs on top of the guy",
+  "alt3": "Cocoa Bang Bang in a doorway",
+  "alt4": "two white criminals by a pile of money",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}

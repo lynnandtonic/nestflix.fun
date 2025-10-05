@@ -1,0 +1,31 @@
+{
+  "slug": "roots-2-reparations",
+  "title": "Roots 2: Reparations",
+  "description": "A followup to the classic miniseries. This time around, white slave owners are going to pay. Quinton “Rampage” Jackson is Kunta Kinte 9000.",
+  "quote": "My name is Kunta Kinte 9000! And you can Kunta kiss my ass!",
+  "parent": "The Cleveland Show",
+  "parentYear": "2009-2013",
+  "parentIMDB": "1195935",
+  "rating": "R",
+  "runtime": "2h 17m",
+  "starring": [
+    "Quinton Jackson",
+    "Michael Cera"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "20th Television",
+  "altHero": "Quinton Jackson as Kunta Kinte 9000 wearing a K chain and holding a machine gun",
+  "alt1": "Kunta Kinte 9000 shooting his gun as slaves board a jet behind him",
+  "alt2": "Kunta Kinte 9000 punching Michael Cera in the gut",
+  "alt3": "a missile flies at the White House",
+  "alt4": "a vortex in the sky",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
