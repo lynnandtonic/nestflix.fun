@@ -1,0 +1,30 @@
+{
+  "slug": "mech-animals",
+  "title": "Mech-Animals",
+  "description": "Featuring Ostrichman Prime and Koalor, these Mech-Animals are transforming into fighting machines.",
+  "quote": "We will fight, Koalor. We will fight!",
+  "parent": "The Powerpuff Girls",
+  "parentYear": "1998-2005",
+  "parentIMDB": "0175058",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "robots",
+    "animation"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Ostrichman Prime, mech robot with ostrich hand, with Koalar",
+  "alt1": "Ostrichman Prime and Koalor",
+  "alt2": "Ostrichman Prime transforming",
+  "alt3": "mid-transformation",
+  "alt4": "mid-transformation",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
