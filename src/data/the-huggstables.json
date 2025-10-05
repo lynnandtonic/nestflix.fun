@@ -1,0 +1,27 @@
+{
+  "slug": "the-huggstables",
+  "title": "The Huggstables",
+  "description": "Join the Huggstables as they hug and turn people into glitter! Sing along with the glitter song!",
+  "quote": "Huggstables! Hug!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-G",
+  "runtime": "8 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "the Huggstables, little purple creatures, smothering a guy",
+  "alt1": "the Huggstables chasing a burglar",
+  "alt2": "a Huggstable doing the glitter song",
+  "alt3": "a Huggstable pointing at a yellow creature",
+  "alt4": "Huggstables giggling",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
