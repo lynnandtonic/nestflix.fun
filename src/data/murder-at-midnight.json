@@ -1,0 +1,28 @@
+{
+  "slug": "murder-at-midnight",
+  "title": "Murder at Midnight",
+  "description": "Whodunnit? Was it Lady Ridgeley Or Mr. Montrose? Or perhaps Sir Derek? The Inspector is on the case to find Lord Fenley’s killer.",
+  "quote": "All of you had sufficient motive. It could have been… any one of you",
+  "parent": "The Mirror Crack’d",
+  "parentYear": "1980",
+  "parentIMDB": "0081163",
+  "rating": "PG-13",
+  "runtime": "1h 46m",
+  "labels": [
+    "thriller",
+    "mystery"
+  ],
+  "credit": "Columbia Pictures",
+  "altHero": "inspector speaks with the butler Barnsby behind him",
+  "alt1": "woman with pearls looks disinterested",
+  "alt2": "man in tux looks at his pocket watch",
+  "alt3": "inspector speaks to bald man smoking a cigar",
+  "alt4": "group of men and women talk with the inspector",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers"
+  ]
+}
