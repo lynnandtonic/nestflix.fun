@@ -1,0 +1,29 @@
+{
+  "slug": "worker-and-parasite",
+  "title": "Worker and Parasite",
+  "description": "As seen on The Gabbo Show. Eastern Europe’s favorite cat and mouse team.",
+  "quote": "Endut! Hoch Hech!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-Y7",
+  "runtime": "1 season",
+  "labels": [
+    "kids",
+    "comedy",
+    "animation"
+  ],
+  "credit": "20th Television",
+  "altHero": "Worker and Parasite, a crudely drawn duo of cat and mouse",
+  "alt1": "Worker and Parasite in the factory",
+  "alt2": "Worker and Parasite at the bread line",
+  "alt3": "Worker and Parasite get in line",
+  "alt4": "Worker and Parasite against orange squiggly background",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
