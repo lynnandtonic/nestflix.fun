@@ -1,0 +1,27 @@
+{
+  "slug": "snug-lil-room",
+  "title": "Snug Li’l Room",
+  "description": "Three dozen young adults trapped in one extremely cramped bachelor apartment! (It mostly shows that people go crazy when they don’t have their own space.)",
+  "quote": "Corbyn, we all have soup on this table. There’s just no room.",
+  "parent": "Big City Greens",
+  "parentYear": "2018-Present",
+  "parentIMDB": "7165904",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "extremely crowded apartment",
+  "alt1": "coffee table with four large bowls of soup, another bowl is spilled on the floor",
+  "alt2": "two dudes screaming at each other",
+  "alt3": "girl crying in her room",
+  "alt4": "same girl throwing a salad in a dude’s face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}

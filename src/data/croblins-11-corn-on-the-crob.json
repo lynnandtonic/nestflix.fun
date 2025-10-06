@@ -1,0 +1,30 @@
+{
+  "slug": "croblins-11-corn-on-the-crob",
+  "title": "Croblins 11: Corn on the Crob",
+  "description": "The Croblins are going where they’ve never gone before…Nebraska! Join the Croblins on their most Midwestern adventure yet!",
+  "quote": "Coo-coo corn-chooo!",
+  "parent": "Big City Greens",
+  "parentYear": "2018-Present",
+  "parentIMDB": "7165904",
+  "rating": "G",
+  "runtime": "1h 34m",
+  "studio": "Hallucination Animation",
+  "labels": [
+    "family",
+    "kids",
+    "animation"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "The Croblins walking through a cornfield",
+  "alt1": "a wavy butt farting",
+  "alt2": "popcorn flying out of the cornfield",
+  "alt3": "The Croblins",
+  "alt4": "The Croblins approach a green tractor with a face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
