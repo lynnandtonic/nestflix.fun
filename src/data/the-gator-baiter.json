@@ -1,0 +1,28 @@
+{
+  "slug": "the-gator-baiter",
+  "title": "The Gator Baiter",
+  "description": "The Gator Baiter educates the masses about animal conservation, including the very dangerous alligator.",
+  "quote": "This naughty little Sheila can snap a man’s ribcage like… Like that!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "10 seasons",
+  "labels": [
+    "nature",
+    "animals"
+  ],
+  "credit": "20th Television",
+  "altHero": "The Gator Baiter, a zookeeper man in nature",
+  "alt1": "Gator Baiter with his head in a gator’s mouth",
+  "alt2": "gator",
+  "alt3": "gator biting the Gator Baiter in the crotch",
+  "alt4": "Gator Baiter talking while the gator is biting his torso",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv"
+  ]
+}
