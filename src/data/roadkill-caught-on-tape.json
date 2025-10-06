@@ -1,0 +1,23 @@
+{
+  "slug": "roadkill-caught-on-tape",
+  "title": "Roadkill Caught on Tape",
+  "description": "Witness nature’s fury when man and beast collide on the backroads and byways of America.",
+  "parent": "BASEketball",
+  "parentYear": "1998",
+  "parentIMDB": "0131857",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "comedy",
+    "animals"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "raccoon on the street in headlights",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
