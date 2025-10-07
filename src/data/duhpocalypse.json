@@ -1,0 +1,38 @@
+{
+  "slug": "duhpocalypse",
+  "title": "Duhpocalypse!",
+  "description": "It’s the zombie apocalypse and they’re infecting people with their diarrhea. A dark satire about medical disinformation in the social media age.",
+  "quote": "You smell that?",
+  "parent": "The Studio",
+  "parentYear": "(2025-Present)",
+  "parentIMDB": "23649128",
+  "rating": "R",
+  "runtime": "1h 48m",
+  "starring": [
+    "Johnny Knoxville",
+    "Josh Hutcherson"
+  ],
+  "director": [
+    "Spike Jonze"
+  ],
+  "producer": "Matt Remick",
+  "studio": "Continental Studios",
+  "labels": [
+    "comedy",
+    "horror",
+    "zombies"
+  ],
+  "credit": "Apple TV+",
+  "altHero": "Johnny Knoxville holding a sword",
+  "alt1": "burning city with the sky full of choppers",
+  "alt2": "Knoxville and Hutcherson approach a zombie on a trashed street",
+  "alt3": "zombie dropping his pants to show his butt",
+  "alt4": "Hutcherson covered in zombie diarrhea",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}
