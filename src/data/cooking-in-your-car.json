@@ -1,0 +1,24 @@
+{
+  "slug": "cooking-in-your-car",
+  "title": "Cooking in Your Car",
+  "description": "Award-winning cooking series with a truly mobile kitchen.",
+  "quote": "We’re going to carefully place that on the engine and by the time we get from East Sheen to Tissington, it should be done.",
+  "parent": "Bob and Margaret",
+  "parentYear": "2998-2001",
+  "parentIMDB": "0122813",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "cooking",
+    "british tv"
+  ],
+  "credit": "Channel 4",
+  "altHero": "a guy in a garage wraps a fish in tin foil, a pan is connected to a car engine with jumper cables",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}

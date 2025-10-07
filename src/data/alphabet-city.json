@@ -1,0 +1,39 @@
+{
+  "slug": "alphabet-city",
+  "title": "Alphabet City",
+  "description": "In 1970s New York City, a cabbie finds himself on the run when a desperate criminal gets in his backseat.",
+  "quote": "Just because we did bad doesn’t mean we can’t still do some good.",
+  "parent": "The Studio",
+  "parentYear": "(2025-Present)",
+  "parentIMDB": "23649128",
+  "rating": "R",
+  "runtime": "2h 3m",
+  "starring": [
+    "Anthony Mackie",
+    "Dave Franco"
+  ],
+  "director": [
+    "Ron Howard"
+  ],
+  "producer": "Matt Remick, Anthony Mackie",
+  "studio": "Continental Studios",
+  "labels": [
+    "drama",
+    "action",
+    "crime"
+  ],
+  "credit": "Apple TV+",
+  "altHero": "Anthony Mackie in a city taxi",
+  "alt1": "Anthony Mackie",
+  "alt2": "an old photograph of a young boy",
+  "alt3": "Dave Franco against some neon signs",
+  "alt4": "taxi with shot out rear window surrounded by cars",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
