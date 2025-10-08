@@ -1,0 +1,21 @@
+{
+  "slug": "gernot-und-strudel",
+  "title": "Gernot und Strudel",
+  "description": "Gernot is a worm and flawless leader. Kommandant Strudel Goofel-berry is a sassy hippo. Join them and their friends, Uschi and Booshi and Doctor Du-Du Dankers, in their magical world of an old German coat hanger factory.",
+  "parent": "American Dad!",
+  "parentYear": "2005-Present",
+  "parentIMDB": "0397306",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Strudel the hippo and Uschi and Booshi, a two-headed blob",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
