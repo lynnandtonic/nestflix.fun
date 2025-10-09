@@ -1,0 +1,31 @@
+{
+  "slug": "chucky-goes-psycho",
+  "title": "Chucky Goes Psycho",
+  "description": "The urban legend of Chucky and Tiffany, two dolls supposedly possessed by serial killers. The dolls were found on the scene of real life murders which remain unsolved to this day.",
+  "quote": "You’re not real! You were never real!",
+  "parent": "Seed of Chucky",
+  "parentYear": "2004",
+  "parentIMDB": "0387575",
+  "rating": "R",
+  "runtime": "1h 45m",
+  "starring": [
+    "Jennifer Tilly"
+  ],
+  "labels": [
+    "horror",
+    "slasher"
+  ],
+  "credit": "Rogue Pictures",
+  "altHero": "Chucky the doll holds up a knife",
+  "alt1": "man in Santa Suit talks on a cell phone in the snow",
+  "alt2": "Santa man leans in to inspect a doll leaning on a gravestone",
+  "alt3": "closeup of the man’s face as a sinister female doll approaches from behind",
+  "alt4": "Chucky and Tiffany stand over the dead Santa",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks"
+  ]
+}
