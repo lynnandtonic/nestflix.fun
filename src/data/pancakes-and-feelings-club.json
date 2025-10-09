@@ -1,0 +1,29 @@
+{
+  "slug": "pancakes-and-feelings-club",
+  "title": "Pancakes and Feelings Club",
+  "description": "The comfort show of the season. Being a teen is tough and comes with a lot of feelings. And those feelings go down better with pancakes.",
+  "quote": "And in the end, we’re all just different kinds of pancakes looking for a plate to call home.",
+  "parent": "The Great North",
+  "parentYear": "2021-Present",
+  "parentIMDB": "9140632",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "creator": "Devon Aaron Ennis",
+  "labels": [
+    "teens",
+    "teen drama"
+  ],
+  "credit": "20th Television",
+  "altHero": "curly-haired boy eating pancakes smiling at another boy",
+  "alt1": "curly-haired boy walks down the school hall as a friend waves, open mouthed",
+  "alt2": "two hands touch as they reach for a fork",
+  "alt3": "two boys sit talking beneath a window",
+  "alt4": "curly-haired boy making pancakes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens"
+  ]
+}
