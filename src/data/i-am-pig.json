@@ -1,0 +1,33 @@
+{
+  "slug": "i-am-pig",
+  "title": "I Am Pig",
+  "description": "Simone, early in her career and in her directorial debut, takes on a very brave and real exploration.",
+  "parent": "Simone",
+  "parentYear": "2002",
+  "parentIMDB": "0258153",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "starring": [
+    "Simone"
+  ],
+  "director": [
+    "Simone"
+  ],
+  "labels": [
+    "drama",
+    "arthouse"
+  ],
+  "credit": "New Line Cinema",
+  "altHero": "blue monochrome, Simone in a wedding dress in the mud of a pig sty",
+  "alt1": "Simone crawling with the pigs",
+  "alt2": "Simone with a whole apple in her mouth",
+  "alt3": "Simone with the pigs",
+  "alt4": "Simone with a carrot in her mouth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}
