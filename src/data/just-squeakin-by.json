@@ -1,0 +1,32 @@
+{
+  "slug": "just-squeakin-by",
+  "title": "Just Squeakin’ By",
+  "description": "Dustin Diamond, hacky sitcom star, stars as Squeak in a hacky sitcom in hell for all of eternity.",
+  "quote": "Razzleberries!",
+  "parent": "Your Pretty Face Is Going to Hell",
+  "parentYear": "2013-2019",
+  "parentIMDB": "2362694",
+  "rating": "Unrated",
+  "runtime": "1000 seasons",
+  "starring": [
+    "Dustin Diamond",
+    "Gary Bunda"
+  ],
+  "producer": "Satan",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Dustin Diamond as Squeak, wearing colorful patterned shirt and pants, next to a demon dressed in a sweater vest",
+  "alt1": "Squeak’s wife and son drumming",
+  "alt2": "Squeak",
+  "alt3": "Squeak and friends at bowling league; it’s snowing indoors",
+  "alt4": "demon dressed as a blind cowboy visiting Squeak’s son’s lemonade stand",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
