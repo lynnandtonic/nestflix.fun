@@ -1,0 +1,34 @@
+{
+  "slug": "audit-dogs",
+  "title": "Audit Dogs",
+  "description": "There are 1,500 IRS agents in the state of Virginia. These are their stories.",
+  "quote": "The numbers! The answer is always the numbers!",
+  "parent": "American Dad!",
+  "parentYear": "2005-Present",
+  "parentIMDB": "0397306",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Stan Smith",
+    "Stan Matthews"
+  ],
+  "producer": "Tony Vengeance",
+  "labels": [
+    "drama",
+    "crime",
+    "buddy cops"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Stan Matthews as an IRS agent",
+  "alt1": "the Stans interrogating a guy",
+  "alt2": "the Stans driving in a car with a blown out windshield",
+  "alt3": "financial calculator that spells “BOOBS” with numbers",
+  "alt4": "the Stans talking to a snake sitting in a rocking chair",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "buddy cops"
+  ]
+}
