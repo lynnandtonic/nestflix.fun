@@ -1,0 +1,38 @@
+{
+  "slug": "emerald-archer",
+  "title": "Emerald Archer: The Hood and the Rise of Vigilantism",
+  "description": "Does the law have to be broken to uphold it? In December 2018, the Star City Police Department answered that question when they deputized Oliver Queen, the vigilante known as the Green Arrow.",
+  "quote": "If the police can’t protect the people, then the people need to learn how to protect themselves.",
+  "parent": "Arrow",
+  "parentYear": "2012-2020",
+  "parentIMDB": "2193021",
+  "rating": "PG-13",
+  "runtime": "1h 47m",
+  "starring": [
+    "Oliver Queen",
+    "Felicity Smoak",
+    "Quentin Lance",
+    "John Diggle",
+    "Thea Queen"
+  ],
+  "director": [
+    "Marcia Pedowitz"
+  ],
+  "labels": [
+    "documentary",
+    "superheroes"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Green Arrow in the shadows",
+  "alt1": "Starling City police detective Quentin Lance",
+  "alt2": "Oliver Queen’s mugshot",
+  "alt3": "Felicity Smoak",
+  "alt4": "John Diggle",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries"
+  ]
+}

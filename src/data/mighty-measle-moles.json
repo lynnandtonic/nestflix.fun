@@ -1,0 +1,30 @@
+{
+  "slug": "mighty-measle-moles",
+  "title": "Mighty Measle Moles",
+  "description": "A really inspiring show that can only be truly appreciated at close range, creating the illusion that you’re really there.",
+  "quote": "Now, boldly go, Mighty Measle Moles!",
+  "parent": "Best Ed",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1043815",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "labels": [
+    "sci-fi",
+    "action",
+    "space",
+    "aliens"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Measle Moles in the cockpit of a spaceship",
+  "alt1": "a Measle Mole shooting a laser gun on an alien planet",
+  "alt2": "Measle Moles shaking the hand of an alien and giving it measles",
+  "alt3": "a big alien baby head sucking a pacifier with red spots on its skin",
+  "alt4": "a Measle Mole stands atop a cliff with an alien and several aliens look up from below",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ]
+}
