@@ -1,0 +1,32 @@
+{
+  "slug": "time-ryder",
+  "title": "Time Ryder",
+  "description": "Time Ryder and the Chrono Teens are protecting our future and preserving the past. If you mess with the timeline you better watch your back!",
+  "quote": "You can achieve incredible things and the greatest power in the universe is right between your ears.",
+  "parent": "Dimension 404",
+  "parentYear": "2017",
+  "parentIMDB": "5798078",
+  "rating": "TV-G",
+  "runtime": "11,000 episodes",
+  "creator": "Wally Nash",
+  "studio": "Sundial Cartoons",
+  "labels": [
+    "kids",
+    "sci-fi",
+    "time travel",
+    "animation"
+  ],
+  "credit": "Hulu",
+  "altHero": "Time Ryder and the Chrono Teens",
+  "alt1": "Time Ryder and a villain in a purple light jail",
+  "alt2": "Time Ryder",
+  "alt3": "the villain disappears",
+  "alt4": "the Chrono Teens celebrate",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
