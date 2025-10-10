@@ -1,0 +1,29 @@
+{
+  "slug": "astro-quest",
+  "title": "Astro Quest",
+  "description": "Commander Artemis Bishop and his crew explore the galaxy, encountering all kinds of fascinating planets and species.",
+  "quote": "It doesn't have to be this way. Just listen to reason!",
+  "parent": "CSI: Crime Scene Investigation",
+  "parentYear": "2000-2015",
+  "parentIMDB": "0247082",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "sci-fi",
+    "action",
+    "space"
+  ],
+  "credit": "CBS",
+  "altHero": "Commander Artemis Bishop with a torn shirt and bloody lip",
+  "alt1": "the crew and the alien Gorth",
+  "alt2": "Corpsman Scully",
+  "alt3": "a communciation device",
+  "alt4": "Gorth holds a weapon up to Yeoman Malloy’s neck",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ]
+}
