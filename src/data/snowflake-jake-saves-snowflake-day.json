@@ -1,0 +1,28 @@
+{
+  "slug": "snowflake-jake-saves-snowflake-day",
+  "title": "Snowflake Jake Saves Snowflake Day",
+  "description": "It’s Snowflake Jake against Santy Claus, Dreidelstein, and King Kwanzaa. Can he save All Religions Are Equally Valid Traditional Snowflake Day?",
+  "quote": "It be time for you and your exclusionary holidays to walk to the plank.",
+  "parent": "Clone High",
+  "parentYear": "2002-2003",
+  "parentIMDB": "0305011",
+  "rating": "G",
+  "runtime": "1h 23m",
+  "labels": [
+    "holidays",
+    "animation"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "Snowflake Jake, a blue pirate with candycane for a hook",
+  "alt1": "ship in the icy sea",
+  "alt2": "Snowflake Jake making Santy Claus, Dreidelstein, and King Kwanzaa walk the plank",
+  "alt3": "Snowflake Jake pointing at a blackboard that says “Specificity be the enemy of unity”",
+  "alt4": "Santy Claus, Dreidelstein, and King Kwanzaa",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ]
+}
