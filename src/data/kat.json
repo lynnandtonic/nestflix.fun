@@ -1,0 +1,28 @@
+{
+  "slug": "kat",
+  "title": "Kat",
+  "description": "A mad scientist’s experiment has gone horribly wrong.",
+  "quote": "3, 2, 1, energize!",
+  "parent": "Mr. Bean: The Animated Series",
+  "parentYear": "2002-Present",
+  "parentIMDB": "0280277",
+  "rating": "PG-13",
+  "runtime": "1h 48m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "Tiger Aspect Productions",
+  "altHero": "giant cat with electrified helmet and sharp teeth",
+  "alt1": "creepy house on a hill",
+  "alt2": "mad scientist in his lab experimenting on a kitty",
+  "alt3": "kitty being electrified",
+  "alt4": "man holding umbrella looking up as a large shadow is cast on him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
