@@ -1,0 +1,30 @@
+{
+  "slug": "monkeybone-show-me-the-monkey",
+  "title": "Monkeybone: Show Me the Monkey",
+  "description": "A comedy show based on Monkeybone, America’s most disturbed comic strip.",
+  "quote": "What a loser! Roll out the wacky wagon!",
+  "parent": "Monkeybone",
+  "parentYear": "2001",
+  "parentIMDB": "0166276",
+  "rating": "TV-14",
+  "runtime": "6 episodes",
+  "creator": "Stuart Miley",
+  "studio": "The Comedy Channel,",
+  "labels": [
+    "comedy",
+    "animation"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "Monkeybone, a monkey in a vest, in front of a young boy",
+  "alt1": "grown man sucking his thumb and looking at a moving stopwatch",
+  "alt2": "teacher clapping blackboard erasers, her upper arms flapping in the air",
+  "alt3": "Monkeybone kissing the teacher",
+  "alt4": "psychiatrist laughing so hard he’s on the floor",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ]
+}
