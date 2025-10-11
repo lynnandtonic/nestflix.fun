@@ -1,0 +1,31 @@
+{
+  "slug": "pudgy-and-grunge",
+  "title": "Pudgy & Grunge",
+  "description": "Another day, another attempt from Grunge the cat to finally eat Pudgy the parrot.",
+  "quote": "Excuse me, but isn’t it customary for the jailbird to get one telephone call?",
+  "parent": "Mrs. Doubtfire",
+  "parentYear": "1993",
+  "parentIMDB": "0107614",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "starring": [
+    "Daniel Hillard"
+  ],
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "Grunge the cat in a chef’s hat holding Pudgy the parrot who is tied up",
+  "alt1": "Pudgy the parrot singing in his cage",
+  "alt2": "Grunge lounging on the top of grandm’s armchair",
+  "alt3": "Grunge speaks with Pudgy",
+  "alt4": "Pudgy smokes a cigarette",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
