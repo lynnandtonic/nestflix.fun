@@ -1,0 +1,33 @@
+{
+  "slug": "spirit-chasers",
+  "title": "Spirit Chasers",
+  "description": "Before their tragic deaths, the Spirit Chasers traveled the country searching for evidence of ghosts and paranormal activity.",
+  "quote": "The Roanoke house is the Holy Grail of spectral phenomenon.",
+  "parent": "American Horror Story",
+  "parentYear": "2011-Present",
+  "parentIMDB": "1844624",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": [
+    "Bob Kinnaman",
+    "Dave Elder",
+    "Tracy Logan"
+  ],
+  "labels": [
+    "reality",
+    "paranormal"
+  ],
+  "credit": "20th Television",
+  "altHero": "Bob and Dave outside Roanoke house",
+  "alt1": "Bob and Dave inside an old house",
+  "alt2": "Tracy holding an EMF reader",
+  "alt3": "Ashley Gilbert",
+  "alt4": "high contrast video of a stairwell on an iPhone",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "paranormal investigation"
+  ]
+}
