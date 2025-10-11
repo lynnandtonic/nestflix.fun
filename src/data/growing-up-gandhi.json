@@ -1,0 +1,34 @@
+{
+  "slug": "growing-up-gandhi",
+  "title": "Growing Up Gandhi",
+  "description": "An emotional punch to the stomach. Growing up Gandhi tells the story of a scantily clad Mahatma Gandhi, and because he’s almost always bare naked, the girls just go nuts over him.",
+  "parent": "Jiminy Glick in Lalawood",
+  "parentYear": "2004",
+  "parentIMDB": "0347369",
+  "rating": "PG-13",
+  "runtime": "2h 46m",
+  "starring": [
+    "Ben DiCarlo"
+  ],
+  "director": [
+    "Ben DiCarlo"
+  ],
+  "studio": "Ben DiCarlo Productions",
+  "labels": [
+    "drama",
+    "biography"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "Gandhi in a boxing match",
+  "alt1": "wide shot of the boxing match",
+  "alt2": "Gandhi raises his fist as the winner",
+  "alt3": "Gandhi lays on the ground in his robes as red flower petals fall on him romantically",
+  "alt4": "Gandhi with a background of close-up flowers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramatic biopics"
+  ]
+}
