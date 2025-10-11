@@ -1,0 +1,38 @@
+{
+  "slug": "a-hard-waynes-gonna-fall",
+  "title": "A Hard Wayne’s Gonna Fall",
+  "description": "The rise and tragic end of physician and philanthropist, Thomas Wayne.",
+  "quote": "Let my death define your entire life.",
+  "parent": "Harley Quinn",
+  "parentYear": "2019-Present",
+  "parentIMDB": "7658402",
+  "rating": "R",
+  "runtime": "2h 33m",
+  "starring": [
+    "Billy Bob Thornton",
+    "Daniel Cassidy",
+    "Rita Farr"
+  ],
+  "director": [
+    "James Gunn"
+  ],
+  "studio": "Warner Bros. Pictures",
+  "labels": [
+    "drama",
+    "biography"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Thomas Wayne and Alfred",
+  "alt1": "Thomas Wayne fights a mugger with a gun",
+  "alt2": "Martha and young Bruce Wayne",
+  "alt3": "Bruce kneels over his father’s body",
+  "alt4": "Thomas gives his last words",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramatic biopics",
+    "new on nestflix"
+  ]
+}
