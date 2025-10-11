@@ -1,0 +1,30 @@
+{
+  "slug": "besties",
+  "title": "Besties",
+  "description": "Where knowing all about your best friend leads to big prizes!",
+  "quote": "Looks like you two better get on the same page!",
+  "parent": "The Looney Tunes Show",
+  "parentYear": "2011-2013",
+  "parentIMDB": "1726839",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Chuck Berost"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Besties game show set",
+  "alt1": "host Chuck Berost",
+  "alt2": "two chipmunk contestants shaking hands",
+  "alt3": "Bugs and Daffy with pies in the face, Bugs is holding a sign that says Carrots",
+  "alt4": "Bugs and Daffy are hidden by lots of falling fish",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
