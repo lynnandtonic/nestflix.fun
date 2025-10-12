@@ -1,0 +1,29 @@
+{
+  "slug": "weather-wives-tampa",
+  "title": "Weather Wives: Tampa",
+  "description": "Weather Wives follows the personal and professional lives of women married to meteorologists in Tampa, Florida.",
+  "quote": "Your husband couldn’t tell the difference between a category three and a category five.",
+  "parent": "Harlem",
+  "parentYear": "2021-2025",
+  "parentIMDB": "10608454",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "studio": "Bravo",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Amazon MGM Studios",
+  "altHero": "the wives talk smack at dinner",
+  "alt1": "wife #3 with shocked face",
+  "alt2": "wife #4 is offended",
+  "alt3": "wife #1 is smug with a glass of wine",
+  "alt4": "wife #2 throws her drink on wife #4",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
