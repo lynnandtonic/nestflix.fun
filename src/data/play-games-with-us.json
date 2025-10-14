@@ -1,0 +1,29 @@
+{
+  "slug": "play-games-with-us",
+  "title": "Play Games with Us!",
+  "description": "It’s time to play games on Korea’s favorite variety show.",
+  "quote": "Play games with us!",
+  "parent": "KPop Demon Hunters",
+  "parentYear": "2025",
+  "parentIMDB": "14205554",
+  "rating": "TV-G",
+  "runtime": "10 seasons",
+  "labels": [
+    "variety show",
+    "comedy"
+  ],
+  "credit": "Netflix",
+  "altHero": "two hosts, one is wearing a baby bonnet",
+  "alt1": "one host is chugging hot sauce in a highchair",
+  "alt2": "Saja Boys chugging hot sauce",
+  "alt3": "Huntrix sticking to the slides in their leather clothes",
+  "alt4": "Huntrix and Saja Boys bowing to each other",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows",
+    "new on nestflix"
+  ]
+}
