@@ -1,0 +1,27 @@
+{
+  "slug": "papa-troll",
+  "title": "Papa Troll",
+  "description": "Papa Troll has a wife, and son, and daughter, and another daughter and two more sons, and a brother-in-law. They’re a family and assist each other in law.",
+  "quote": "I’m solving water crimes!",
+  "parent": "Long Story Short",
+  "parentYear": "2025-Present",
+  "parentIMDB": "33247080",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Netflix",
+  "altHero": "Papa Troll with a pipe in his mouth",
+  "alt1": "Papa Troll riding in a boat with the town and rainbow behind",
+  "alt2": "a rat riding a bike and carrying some loot",
+  "alt3": "Papa Troll and his family by the windmills",
+  "alt4": "Papa Troll and his family",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
