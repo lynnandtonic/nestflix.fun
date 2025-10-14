@@ -1,0 +1,30 @@
+{
+  "slug": "the-holy-avenger",
+  "title": "The Holy Avenger",
+  "description": "Villains like Demonswill are corrupting the youth, but the Holy Avenger uses scripture and the power of Jesus Christ to stop them.",
+  "quote": "I’ve been bathing their apple crisp and tater tots in the Beam of Sloth.",
+  "parent": "Super",
+  "parentYear": "2010",
+  "parentIMDB": "1512235",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "studio": "All Jesus Network",
+  "labels": [
+    "superheroes",
+    "religion"
+  ],
+  "credit": "IFC Midnight",
+  "altHero": "the Holy Avenger",
+  "alt1": "the Holy Avenger with two kids in the cafeteria where the students are asleep",
+  "alt2": "Demonswill and the Beam of Sloth",
+  "alt3": "the Holy Avenger zapping Demonswill",
+  "alt4": "the Holy Avenger with two kids dressed in naughty outfits; Demonswill is tied to a chair",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "religious programming",
+    "new on nestflix"
+  ]
+}
