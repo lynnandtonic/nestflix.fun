@@ -1,0 +1,23 @@
+{
+  "slug": "crack-n-ag",
+  "title": "Crack N Ag",
+  "description": "Letterkenny’s first agricultural consultant show.",
+  "quote": "Youse can calls‐in with your questions and we will helps you if we cans.",
+  "parent": "Letterkenny",
+  "parentYear": "2016-2023",
+  "parentIMDB": "4647692",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "studio": "Letterkenny Cable Access",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Crave",
+  "altHero": "The Hicks in a studio",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows"
+  ]
+}
