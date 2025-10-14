@@ -17,12 +17,11 @@
     "family"
   ],
   "credit": "ABC",
-  "altHero": "",
+  "altHero": "Paul with milkshake on his head",
   "layout": "movie.pug",
   "tags": [
     "entry",
     "TV series",
-    "family sitcoms",
-    "new on nestflix"
+    "family sitcoms"
   ]
 }

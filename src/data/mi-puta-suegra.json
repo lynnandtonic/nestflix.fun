@@ -1,0 +1,28 @@
+{
+  "slug": "mi-puta-suegra",
+  "title": "Mi Puta Suegra",
+  "description": "Life can be hard when your <em>suegra</em> is always on your case!",
+  "quote": "Mi puta suegra!",
+  "parent": "Los Espookys",
+  "parentYear": "2019-2022",
+  "parentIMDB": "7721046",
+  "rating": "TV-14",
+  "runtime": "37 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "HBO",
+  "altHero": "mother-in-law pouring out a beer on the floor",
+  "alt1": "mother-in-law swinging an umbrella saying, “You better not be watching soccer”",
+  "alt2": "son-in-law in an armchair looking dejected",
+  "alt3": "family room with mother-in-law in armchair with curlers in her hair",
+  "alt4": "son-in-law giving mother-in-law a foot massage as she says, “Be careful with the bunions”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}
