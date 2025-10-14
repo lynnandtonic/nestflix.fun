@@ -1,0 +1,31 @@
+{
+  "slug": "top-christ-following-man-awards",
+  "title": "Top Christ Following Man Awards",
+  "description": "Five ministers are chosen from around the world who represent the best of the best. Through a series of events, they compete to determine who is the one true Top Christ Following Man.",
+  "quote": "If the real me is good enough for God, then it’s good enough for everyone.",
+  "parent": "The Righteous Gemstones",
+  "parentYear": "2019-2025",
+  "parentIMDB": "8634332",
+  "rating": "TV-G",
+  "runtime": "10 seasons",
+  "starring": [
+    "Jacob Jones"
+  ],
+  "labels": [
+    "reality competition",
+    "religion"
+  ],
+  "credit": "HBO",
+  "altHero": "host Jacob Jones",
+  "alt1": "Jacob Jones at a roundtable with the five nominees",
+  "alt2": "two of the nominees talking",
+  "alt3": "one nominee speaking on stage during the finale",
+  "alt4": "Kelvin Gemstone winning",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "religious programming"
+  ]
+}
