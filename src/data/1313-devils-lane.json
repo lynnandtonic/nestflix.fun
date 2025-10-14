@@ -1,0 +1,34 @@
+{
+  "slug": "1313-devils-lane",
+  "title": "1313 Devil’s Lane",
+  "description": "Something wicked has arrived, bringing an entire town to the edge.",
+  "quote": "Everybody! Stop! We’re better than this.",
+  "parent": "Modern Family",
+  "parentYear": "2009-2020",
+  "parentIMDB": "1442437",
+  "rating": "Unrated",
+  "runtime": "18m",
+  "starring": [
+    "Phil Dunphy"
+  ],
+  "director": [
+    "Manuel Delgado"
+  ],
+  "labels": [
+    "horror",
+    "amateur"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "crowd with pitchforks",
+  "alt1": "cop by his car",
+  "alt2": "two teens kissing at a campground",
+  "alt3": "blonde girl crying",
+  "alt4": "the copy yelling, looking beat up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
