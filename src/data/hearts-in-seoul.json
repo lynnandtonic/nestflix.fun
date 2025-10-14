@@ -1,0 +1,27 @@
+{
+  "slug": "hearts-in-seoul",
+  "title": "Hearts in Seoul",
+  "description": "A K-drama about finding your true love in the city. It will bring everyone to tears.",
+  "parent": "Spies in Disguise",
+  "parentYear": "2019",
+  "parentIMDB": "5814534",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "soap opera",
+    "k-drama"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "man cries as he embraces a woman",
+  "alt1": "woman grips metal gate and cries",
+  "alt2": "man smiles",
+  "alt3": "man and woman hug with heart-shaped fireworks behind",
+  "alt4": "woman sobs as she hugs the man",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ]
+}
