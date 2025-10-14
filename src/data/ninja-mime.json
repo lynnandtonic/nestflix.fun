@@ -1,0 +1,35 @@
+{
+  "slug": "ninja-mime",
+  "title": "Ninja Mime",
+  "description": "He’s silent, but deadly. The original film that kicked off the expansive <em>Ninja Mime</em> franchise.",
+  "quote": "Mime the gap.",
+  "parent": "Mortal Kombat Legends: Cage Match",
+  "parentYear": "2023",
+  "parentIMDB": "22698070",
+  "rating": "PG-13",
+  "runtime": "2h 13m",
+  "starring": [
+    "Johnny Cage",
+    "Jennifer Grey"
+  ],
+  "director": [
+    "Brian Van Jones"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Ninja Mime",
+  "alt1": "huge bald guy on the subway",
+  "alt2": "criminal climbs the back of the subway train",
+  "alt3": "the criminal sees Ninja Mime atop the train",
+  "alt4": "Ninja Mime",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
