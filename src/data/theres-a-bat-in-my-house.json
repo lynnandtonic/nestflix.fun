@@ -1,0 +1,31 @@
+{
+  "slug": "theres-a-bat-in-my-house",
+  "title": "There’s a Bat in My House",
+  "description": "Can a black bat from Detroit find happiness with a white suburban family? He’s half bat, half soul brother, but together he adds up to big laughs.",
+  "quote": "Batty batty batty!",
+  "parent": "Hollywood Shuffle",
+  "parentYear": "1987",
+  "parentIMDB": "0093200",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "B.B. Sanders"
+  ],
+  "creator": "Biff Miller, Todd Hogan",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "MGM Studios",
+  "altHero": "B.B. Sanders as Batty Boy",
+  "alt1": "two white siblings",
+  "alt2": "Batty Boy",
+  "alt3": "white dad smoking a cigar and swinging a baseball bat",
+  "alt4": "a bat on strings flapping its wings",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
