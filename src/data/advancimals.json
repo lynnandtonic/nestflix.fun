@@ -1,0 +1,29 @@
+{
+  "slug": "advancimals",
+  "title": "Advancimals",
+  "description": "They’re advanced animals. Advancimals! Join Thinkoon, Buffalobe, and Smartaconda as they fight for good.",
+  "quote": "This show really exists!",
+  "parent": "The Epic Tales of Captain Underpants",
+  "parentYear": "2018-2020",
+  "parentIMDB": "7741830",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "DreamWorks Animation",
+  "altHero": "Thinkoon, a raccoon with pink hair, Buffalobe, a buffalo with a mohawk, and Smartaconda, part snake part robot",
+  "alt1": "Smartaconda holding a snake staff",
+  "alt2": "Buffalobe",
+  "alt3": "Thinkoon",
+  "alt4": "the Advancimals facing off with a giant pair of chatter teeth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
