@@ -1,0 +1,30 @@
+{
+  "slug": "screech-leeches",
+  "title": "Screech Leeches",
+  "description": "The screech leeches start to dress like you, then they suck you dry, and they take over life! So good. So scary. A modern commentary on parenting.",
+  "quote": "We’re twinsies!",
+  "parent": "Tuca & Bertie",
+  "parentYear": "2019-2022",
+  "parentIMDB": "8036272",
+  "rating": "R",
+  "runtime": "1h 39m",
+  "director": [
+    "Muriel Nocturna"
+  ],
+  "labels": [
+    "horror"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "woman in the woods being approached by red-haired woman with the face of a leech",
+  "alt1": "woman with red glasses looking worried as she walks down a dark street",
+  "alt2": "woman screaming as three leeches suck on her arm",
+  "alt3": "close-up of her arm with the leeches who are wearing red glasses like her",
+  "alt4": "back of red-haired woman closing in on the other woman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
