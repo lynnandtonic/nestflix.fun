@@ -1,0 +1,29 @@
+{
+  "slug": "velva-the-warrior",
+  "title": "Velva the Warrior",
+  "description": "Velva rides her horse, Fallopius, and guides her boat, The Cervix, to protect Majora from the evil Testiclese.",
+  "quote": "Your orbs of ecstasy are mine, all mine.",
+  "parent": "The Oblongs",
+  "parentYear": "2001",
+  "parentIMDB": "0219446",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "studio": "Failing Network",
+  "labels": [
+    "action",
+    "fantasy"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Velva, warrior woman, riding a horse and holding a bird of prey",
+  "alt1": "a busty woman chained to a tree as the evil Testiclese leers at her",
+  "alt2": "warrior women around a table",
+  "alt3": "Velva and team with models of her ship and castle",
+  "alt4": "Velva standing over the evil Testiclese",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv"
+  ]
+}
