@@ -1,0 +1,35 @@
+{
+  "slug": "green-queen",
+  "title": "Green Queen",
+  "description": "Not your typical home flipping show. Husband and wife, Asher and Whitney, rejuvenate distressed homes in a way that has a net-positive impact on their local Española community.",
+  "parent": "The Curse",
+  "parentYear": "2023-2024",
+  "parentIMDB": "13623608",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Whitney Siegel",
+    "Asher Siegel"
+  ],
+  "producer": "Dougie Schecter",
+  "studio": "HGTV",
+  "labels": [
+    "reality",
+    "home makeover",
+    "real estate"
+  ],
+  "credit": "Showtime",
+  "altHero": "Asher and Whitney",
+  "alt1": "Asher and Whitney speak with a local resident",
+  "alt2": "Hans Feist, president of Passive House Society",
+  "alt3": "clients",
+  "alt4": "Asher and Whitney on a build site with Governor James Toledo of San Pedro Pueblo",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home and diy",
+    "new on nestflix"
+  ]
+}
