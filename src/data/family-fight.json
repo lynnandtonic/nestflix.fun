@@ -1,0 +1,31 @@
+{
+  "slug": "family-fight",
+  "title": "Family Fight",
+  "description": "Two families compete to name the most popular answers to survey questions in order to win cash and prizes.",
+  "quote": "Pretty strange answers today!",
+  "parent": "It’s Always Sunny in Philadelphia",
+  "parentYear": "2005-Present",
+  "parentIMDB": "0472954",
+  "rating": "TV-G",
+  "runtime": "10 seasons",
+  "starring": [
+    "Grant Anderson"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "20th Television",
+  "altHero": "host Grant Anderson",
+  "alt1": "the Barrett family",
+  "alt2": "members of two families face off",
+  "alt3": "Anderson with Dee, a contestant from the Reynolds family",
+  "alt4": "a contestant in the final round cringing at the buzzer sound",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
