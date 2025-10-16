@@ -1,0 +1,35 @@
+{
+  "slug": "lavish-ladies",
+  "title": "Lavish Ladies",
+  "description": "Lavish Ladies follows a group of women as they navigate their personal and professional lives in New York City. It offers a glimpse into their friendships, conflicts, and extravagant lifestyles, often featuring social events, charity functions, and, of course, the drama.",
+  "quote": "I don’t care what that b*tch said.",
+  "parent": "Elsbeth",
+  "parentYear": "2024-Present",
+  "parentIMDB": "26591110",
+  "rating": "TV-14",
+  "runtime": "7 seasons",
+  "starring": [
+    "Tracy Crenshaw",
+    "Wendy Wexler",
+    "Maisie Dampling",
+    "Shusie Lash"
+  ],
+  "producer": "Skip Mason",
+  "labels": [
+    "reality"
+  ],
+  "credit": "CBS",
+  "altHero": "Tracy, Maisie, and Wendy drinking wine in the kitchen",
+  "alt1": "Tracy and Maisie gossiping",
+  "alt2": "Katricia shows the other women her bare shoulder",
+  "alt3": "Shusie looking disgusted",
+  "alt4": "",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
