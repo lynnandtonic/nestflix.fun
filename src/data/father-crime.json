@@ -1,0 +1,34 @@
+{
+  "slug": "father-crime",
+  "title": "Father Crime",
+  "description": "Father Rick Garvey teams up with Detective Felicity Watts to solve the toughest murder cases.",
+  "quote": "Forgive me Father, for I’m about to sin.",
+  "parent": "Elsbeth",
+  "parentYear": "2024-Present",
+  "parentIMDB": "26591110",
+  "rating": "TV-14",
+  "runtime": "20 seasons",
+  "starring": [
+    "Jack Wilson",
+    "Regina Coburn"
+  ],
+  "producer": "Calvin Reed",
+  "labels": [
+    "crime drama",
+    "religion"
+  ],
+  "credit": "CBS",
+  "altHero": "Father Rick Garvey wielding two guns",
+  "alt1": "Garvey and Watts in the interrogation room",
+  "alt2": "Garvey and Watts point guns at two suspects",
+  "alt3": "Watts pointing her gun",
+  "alt4": "Garvey praying over Watts who is in the hospital",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
