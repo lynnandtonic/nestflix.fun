@@ -1,0 +1,32 @@
+{
+  "slug": "love-to-the-third-degree",
+  "title": "Love to the Third Degree",
+  "description": "Fifteen single women vie for the heart of one man whose face will be concealed the entire time. Will they stand by their belief that beauty is on the inside, or will his physical appearance be too much to handle?",
+  "parent": "The Curse",
+  "parentYear": "2023-2024",
+  "parentIMDB": "13623608",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": [
+    "Dan Cortez"
+  ],
+  "creator": "Dougie Schecter",
+  "labels": [
+    "reality competition",
+    "dating"
+  ],
+  "credit": "Showtime",
+  "altHero": "man in a flannel shirt and jacket with a gold face mask on",
+  "alt1": "a group of young women",
+  "alt2": "gold face mask guy having a patio lunch with a woman",
+  "alt3": "gold face mask walking arm and arm with a different woman",
+  "alt4": "gold face mask getting married",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows",
+    "new on nestflix"
+  ]
+}
