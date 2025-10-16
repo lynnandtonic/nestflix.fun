@@ -1,0 +1,31 @@
+{
+  "slug": "black-mass",
+  "title": "Black Mass",
+  "description": "The minor masterpiece of the ’90s action oeuvre that laid the groundwork for such films as Tarantino’s <em>Reservoir Dogs</em> and Fincher’s <em>Seven</em>.",
+  "parent": "Ray Donavan",
+  "parentYear": "2013-2020",
+  "parentIMDB": "2249007",
+  "rating": "R",
+  "runtime": "2h 12m",
+  "starring": [
+    "Sean Walker"
+  ],
+  "labels": [
+    "action",
+    "crime"
+  ],
+  "credit": "Showtime",
+  "altHero": "priest holding a gun walks down the aisle of a dark church with big stained glass window behind",
+  "alt1": "open door of a confessional in a dark church",
+  "alt2": "man in the confessional and Sean Walker is on the other side",
+  "alt3": "Sean Walker as the priest holding a gun",
+  "alt4": "man falling down after being shot",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
