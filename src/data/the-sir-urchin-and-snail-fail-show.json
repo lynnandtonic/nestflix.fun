@@ -1,0 +1,31 @@
+{
+  "slug": "the-sir-urchin-and-snail-fail-show",
+  "title": "The Sir Urchin & Snail Fail Show!",
+  "description": "Move your feet and grab your seat! It’s time for Bikini Bottom’s favorite comedy team.",
+  "quote": "What I do?",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-PG",
+  "runtime": "12 seasons",
+  "starring": [
+    "Sir Urchin",
+    "Snail Fail"
+  ],
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "Sir Urchin yelling at Snail Fail",
+  "alt1": "Snail Fail slamming a refrigerator on Sir Urchin",
+  "alt2": "Sir Urchin yelling at Snail Fail from a ripped hole in a painting",
+  "alt3": "Snail Fail shrugging next to Sir Urchin, beat up inside a piano",
+  "alt4": "the duo dressed in Shakespearean clothes; Snail Fail holding a skull and crying",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ]
+}
