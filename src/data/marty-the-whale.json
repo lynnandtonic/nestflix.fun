@@ -1,0 +1,28 @@
+{
+  "slug": "marty-the-whale",
+  "title": "Marty the Whale",
+  "description": "In the middle of the Atlantic Ocean lives a pack of whales trying to find their voice. Some trying a little harder than the rest.",
+  "quote": "Come on, guys. We’re gonna be late for choir practice.",
+  "parent": "The Looney Tunes Show", 
+  "parentYear": "2011-2013",
+  "parentIMDB": "1726839",
+  "rating": "G",
+  "runtime": "1h 14m",
+  "labels": [
+    "family",
+    "animals"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "a traditional animated style whale wearing a hat and singing",
+  "alt1": "CG-rendered ocean waves",
+  "alt2": "computer animated style whale",
+  "alt3": "a big whale leading a choir of smaller whales",
+  "alt4": "whale choir",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
