@@ -1,0 +1,31 @@
+{
+  "slug": "bun-master",
+  "title": "Bun Master",
+  "description": "Let’s get those buns in shape! Let’s move it with Bun Master!",
+  "quote": "And-a one! And-a two!",
+  "parent": "Rocko’s Modern Life",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106115",
+  "parent2": "Rocko’s Modern Life: Static Cling",
+  "parent2Year": "2019",
+  "parentIMDB2": "6172460",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "labels": [
+    "fitness"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "Bun Master host with his buns on a machine called the Bun-o-matic",
+  "alt1": "Bun Master flexing his buns",
+  "alt2": "Bun Master hitting a punching bag with his buns ",
+  "alt3": "Bun Master holding a barbell with his buns",
+  "alt4": "Bun Master flexing his buns again",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sports and fitness",
+    "new on nestflix"
+  ]
+}
