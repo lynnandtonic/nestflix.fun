@@ -1,0 +1,27 @@
+{
+  "slug": "fair-bears",
+  "title": "Fair Bears",
+  "description": "Welcome to a world that’s always fair. Get lots of wuv from friendly bears who care. Be happy, be fair. Be truthful, and share! They’re the Fair Bears, and they’re fair!",
+  "quote": "I’m Happy Ray! Be happy! And that’s an order.",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-Y",
+  "runtime": "26 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Fair Bears sliding down a rainbow",
+  "alt1": "Fair Bear, a blue bear wearing a cardigan",
+  "alt2": "Better Bear, a yellow bear wearing overalls",
+  "alt3": "Fair Bears",
+  "alt4": "Ray Bear, a red bear, shooting a rainbow out of a flower",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
