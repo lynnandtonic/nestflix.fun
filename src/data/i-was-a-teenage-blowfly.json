@@ -1,0 +1,29 @@
+{
+  "slug": "i-was-a-teenage-blowfly",
+  "title": "I Was a Teenage Blowfly!",
+  "description": "The scariest movie ever made about a boy turned into a fly.",
+  "quote": "Gee willikers! I’m bound to get an A on my nifty body switching project!",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "PG-13",
+  "runtime": "1h 45m",
+  "labels": [
+    "horror",
+    "monster",
+    "teen drama"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "body of a boy in a letterman jacket with the head of a fly",
+  "alt1": "teenage boy in a body transformation machine",
+  "alt2": "teenage blowfly approaching a scientist who is pointing a ray gun at him",
+  "alt3": "blowfly stretching his multiple arms next to a girl in his car",
+  "alt4": "blowfly at prom dancing with a girl",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
