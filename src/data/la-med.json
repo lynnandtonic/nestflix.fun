@@ -1,0 +1,30 @@
+{
+  "slug": "la-med",
+  "title": "L.A. Med",
+  "seo": "LA Med",
+  "description": "Dr. Miles Chambers is a brilliant surgeon, caring for the patients and staff at L.A. Med.",
+  "parent": "Doogie Howser, M.D",
+  "parentYear": "1989-1993",
+  "parentIMDB": "0096569",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "starring": [
+    "Rick O'Neill"
+  ],
+  "labels": [
+    "medical drama"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "Rick O'Neill as Dr. Miles Chambers",
+  "alt1": "Dr. Chambers in scrubs and mask walking out of the operating room",
+  "alt2": "Dr. Chambers reviving a patient",
+  "alt3": "Dr. Chambers hugging a child",
+  "alt4": "Dr. Chambers getting on a motorcycle with a lady",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas"
+  ]
+}
