@@ -1,0 +1,25 @@
+{
+  "slug": "fat-bieber",
+  "title": "Fat Bieber",
+  "description": "A comedy that questions a future where pop icon Justin Bieber has let himself go.",
+  "quote": "Oh no! Yo I grew up and got fat, yo!",
+  "parent": "Detroiters",
+  "parentYear": "2017-2018",
+  "parentIMDB": "4779762",
+  "rating": "PG-13",
+  "runtime": "1h 35m",
+  "starring": [
+    "Bobby Moynihan"
+  ],
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "Bobby Moynihan as grown-up Justin Bieber wearing a hoodie, hat, and headphones",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}
