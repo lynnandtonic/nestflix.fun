@@ -1,0 +1,23 @@
+{
+  "slug": "crazy-bus",
+  "title": "Crazy Bus the Motion Picture",
+  "description": "Two full hours of your favorite wacky song. More fun than a lighting fixture. Beginning, middle, and an end! See it more times than your friends. Play it again, and again, and then play it one more time again!",
+  "quote": "Crazy bus, crazy bus, riding on the crazy bus!",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "G",
+  "runtime": "2h",
+  "labels": [
+    "kids",
+    "music"
+  ],
+  "credit": "PBS",
+  "altHero": "a bus with a face sticking out its tongue",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
