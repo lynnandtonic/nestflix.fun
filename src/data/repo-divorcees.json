@@ -1,0 +1,28 @@
+{
+  "slug": "repo-divorcees",
+  "title": "Repo Divorcées",
+  "description": "They say the two best days of your life are when you buy a boat and when you sell a boat. But they never account for that third day when your friendly neighborhood repo gals simply take it away.",
+  "quote": "We’re searching for a diamond watch because this douche cared more about that timepiece than quality time with his wife.",
+  "parent": "Yellowjackets",
+  "parentYear": "2021-Present",
+  "parentIMDB": "11041332",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Showtime",
+  "altHero": "the ladies of Repo Divorcées in their denim jumpsuits",
+  "alt1": "divorcée in the dark, holding a flashlight and wearing a thick diamond necklace",
+  "alt2": "divorcées putting on gloves",
+  "alt3": "Desirée giving an interview",
+  "alt4": "Desirée smiling in the Repo truck",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
