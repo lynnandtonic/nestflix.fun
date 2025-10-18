@@ -1,0 +1,28 @@
+{
+  "slug": "invasion-of-the-human-overlords",
+  "title": "Invasion of the Human Overlords",
+  "description": "Enjoy all five <em>Human Overlords</em> films in this movie marathon. Aliens are replacing the heads of all humans with their own shape-shifting, multi-eyed heads. Once they’ve replaced the majority of humans, they can assume control of Earth for their own nefarious purposes.",
+  "quote": "Doctor? What's wrong. Are you alright?",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-2015",
+  "parentIMDB": "0852863",
+  "rating": "PG-13",
+  "runtime": "9h 12m",
+  "labels": [
+    "horror",
+    "aliens"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "alien with lots of eyes",
+  "alt1": "doctor reaching for a wrench and stretching his arm longer than humanly possible",
+  "alt2": "the doctors pull back a curtain to see a human head in a jar",
+  "alt3": "female doctor with a cop and two kids asking why to the sky",
+  "alt4": "alien placing another human head jar on the shelf",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "aliens!"
+  ]
+}
