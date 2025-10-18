@@ -1,0 +1,27 @@
+{
+  "slug": "the-great-neptunian-bam-off",
+  "title": "The Great Neptunian Bam-Off",
+  "description": "Amateur bakers compete for the approval of discerning master chef, Elzar.",
+  "quote": "Bam!",
+  "parent": "Futurama",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0149460",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Elzar"
+  ],
+  "studio": "Fulu",
+  "labels": [
+    "reality competition",
+    "cooking"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "Elzar judges a tiered cake made by H.G. Blob",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
