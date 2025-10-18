@@ -1,0 +1,28 @@
+{
+  "slug": "its-getting-hot-in-here",
+  "title": "It’s Getting Hot in Here",
+  "description": "Twenty sexy singles are put in a really cold house. Everybody has to stay bundled up and you can’t see what anyone looks like. Each week, the thermostat gets set higher and higher until by the end, everybody is naked and, ideally, in love.",
+  "quote": "I think I’m falling for you, but… I just wish I knew what you looked like under the parka.",
+  "parent": "Ghosts",
+  "parentYear": "2021-Present",
+  "parentIMDB": "11379026",
+  "rating": "TV-MA",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality",
+    "dating"
+  ],
+  "credit": "CBS",
+  "altHero": "host",
+  "alt1": "Black man bundled up",
+  "alt2": "white woman bundled up",
+  "alt3": "Asian man and Black woman talking in bathing suits",
+  "alt4": "brunette woman bundled up crying",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows"
+  ]
+}
