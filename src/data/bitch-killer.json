@@ -1,0 +1,35 @@
+{
+  "slug": "bitch-killer",
+  "title": "Bitch Killer",
+  "description": "Based on the novel by Garth Marenghi, Sidney King hates a lot of things: fruits, coloureds, and above all, women.",
+  "quote": "Goodbye, Mother!",
+  "parent": "Man to Man With Dean Learner",
+  "parentYear": "2006",
+  "parentIMDB": "0476614",
+  "rating": "R",
+  "runtime": "1h 47m",
+  "starring": [
+    "Randolph Caer",
+    "Dean Learner"
+  ],
+  "director": [
+    "Dean Learner"
+  ],
+  "labels": [
+    "horror",
+    "slasher"
+  ],
+  "credit": "Channel 4",
+  "altHero": "Randolph Caer as Sidney King holding up a chainsaw and smiling",
+  "alt1": "Sidney King",
+  "alt2": "Dean Learner as a person on the street",
+  "alt3": "elderly woman screaming",
+  "alt4": "young woman running and screaming through some brush",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks"
+  ]
+}
