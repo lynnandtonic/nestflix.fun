@@ -1,0 +1,28 @@
+{
+  "slug": "top-supermarket-clerk",
+  "title": "Top Supermarket Clerk",
+  "description": "Five supermarket employees compete to determine who will be Top Supermarket Clerk.",
+  "quote": "Calamity on check stand 4.",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-G",
+  "runtime": "10 seasons",
+  "studio": "Reality TV",
+  "labels": [
+    "reality competition"
+  ],
+  "credit": "PBS",
+  "altHero": "Benjamin in the supermarket aisle holding a price gun",
+  "alt1": "Lucie ringing up some milk at the register",
+  "alt2": "the clerks in a meat freezer wearing thick jackets and gloves",
+  "alt3": "Dominic has spilled ice cream all over the conveyor belt",
+  "alt4": "Jeff guiding a shopper with a full cart",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ]
+}
