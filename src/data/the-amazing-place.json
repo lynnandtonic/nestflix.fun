@@ -1,0 +1,30 @@
+{
+  "slug": "the-amazing-place",
+  "title": "The Amazing Place",
+  "description": "Twelve couples arrive on a tropical island and compete in daring and dangerous challenges for the chance to win $1,000,000.",
+  "quote": "This is the greatest adventure to take place in just one place.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-14",
+  "runtime": "24 seasons",
+  "starring": [
+    "Tag Tuckerbag"
+  ],
+  "labels": [
+    "reality competition"
+  ],
+  "credit": "20th Television",
+  "altHero": "host Tug Tuckerbag next to some Tiki statues",
+  "alt1": "man being pulled into a low flying hot air balloon as sharks jump at him",
+  "alt2": "it’s raining jellyfish and a guy is trying to pull one off his face",
+  "alt3": "four couples are on a dock opposite the water from Tag Tuckerbag; giant lily pads float in the water in front of them",
+  "alt4": "a couple celebrates in front of a big banner that says “$1,000,000”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ]
+}
