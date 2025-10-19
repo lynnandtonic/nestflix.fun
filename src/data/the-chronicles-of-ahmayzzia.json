@@ -1,0 +1,29 @@
+{
+  "slug": "the-chronicles-of-ahmayzzia",
+  "title": "The Chronicles of Ahmayzzia",
+  "description": "The ten-part epic story of Will Nobody, the ordinary eight-year-old boy who falls through his toy chest into the land of Ahmayzzia, where he discovers he is the Prince of Light, destined to save Ahmayzzia from Pordrog, Lord of Darkness.",
+  "quote": "His fingers are eight-fold, his ears are the same. He’s born of two parents, Nobody’s his name.",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "PG",
+  "runtime": "21h 2m",
+  "labels": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "credit": "PBS",
+  "altHero": "Will holding a staff with Endengorn, the elf, and a llama",
+  "alt1": "Will being inspected by elves",
+  "alt2": "Endengorn reads from a book",
+  "alt3": "Will uses the staff to shoot light at a dragon",
+  "alt4": "Will, Endengorn, and the llama face off with Pordrog’s floating eye",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action adventure movies"
+  ]
+}
