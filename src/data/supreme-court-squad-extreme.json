@@ -1,0 +1,31 @@
+{
+  "slug": "supreme-court-squad-extreme",
+  "title": "Supreme Court Squad: Extreme!",
+  "description": "The animated series that brings your toys to life. Justices John G. Robots, Android Scalia, and Wrath Hover Ginsbot are fighting with the power of the law.",
+  "quote": "I’m appointed for life… to kick your butt!",
+  "parent": "Clarence",
+  "parentYear": "2013-2018",
+  "parentIMDB": "3061050",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "animation",
+    "courtroom"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "the justices (robot judges) flying through the air",
+  "alt1": "the justices running and firing weapons",
+  "alt2": "Justice Wrath Hover Ginsbot flying into the courtroom",
+  "alt3": "a robot lawyer with his client, a robofrog",
+  "alt4": "Justices John G. Robots and Android Scalia",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
