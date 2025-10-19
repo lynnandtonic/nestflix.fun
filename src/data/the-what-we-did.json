@@ -1,0 +1,28 @@
+{
+  "slug": "the-what-we-did",
+  "title": "The What We Did",
+  "description": "When was the last time a motion picture made you fall in love again… with war? Man, woman, love, lust, battle, betrayal, doom, romance, death, medal ceremony, credits.",
+  "quote": "Now get on that plane full of dynamite and come back to me.",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "parentIMDB": "4326894",
+  "rating": "R",
+  "runtime": "1h 56m",
+  "labels": [
+    "war drama",
+    "romance"
+  ],
+  "credit": "Netflix",
+  "altHero": "airplane captain embracing a woman",
+  "alt1": "the captain and his love embrace",
+  "alt2": "the beach on D-Day",
+  "alt3": "a grenade is launched at a Nazi",
+  "alt4": "the captain dips his lady",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas"
+  ]
+}
