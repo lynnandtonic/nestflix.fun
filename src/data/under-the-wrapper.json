@@ -1,0 +1,31 @@
+{
+  "slug": "under-the-wrapper",
+  "title": "Under the Wrapper",
+  "description": "Apply the art of detection to your favorite confections and find out how cookies crumble and soda gets its pop.",
+  "quote": "Every gum drop is made of a succulent substance called gelatin. Gelatin comes from the skin, bones, and hooves of only the sickest horses.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-G",
+  "runtime": "7 seasons",
+  "starring": [
+    "Huel Howser"
+  ],
+  "labels": [
+    "documentary",
+    "food"
+  ],
+  "credit": "20th Television",
+  "altHero": "Huel Howser surrounded by sweets and treats",
+  "alt1": "chocolate kisses being made in a factory",
+  "alt2": "pastries on an assembly line",
+  "alt3": "Howser interviewing a gum drop executive",
+  "alt4": "factory with sickly horses and machinery",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series"
+  ]
+}
