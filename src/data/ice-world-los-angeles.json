@@ -1,0 +1,31 @@
+{
+  "slug": "ice-world-los-angeles",
+  "title": "Ice World: Los Angeles",
+  "description": "It’s the end of the world and southern California is covered in ice. A stranger arrives and speaks of a place beyond Los Angeles where the weather is warm.",
+  "quote": "Now the Ice Bishop of Beverly Hills will teach you the true meaning of cold!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "R",
+  "runtime": "1h 47m",
+  "starring": [
+    "Tom Skerritt"
+  ],
+  "labels": [
+    "action",
+    "dystopia"
+  ],
+  "credit": "20th Television",
+  "altHero": "the Ice Bishop of Beverly Hills",
+  "alt1": "dudes with guns sledding by a highway sign that reads, “35 minutes to the ruins of Pasadena”",
+  "alt2": "a post-apocalyptic crowd gathers by the remains of the Hollywood sign",
+  "alt3": "Tom Skerritt",
+  "alt4": "dystopian warriors raise their fists",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "post-apocalyptic action movies"
+  ]
+}
