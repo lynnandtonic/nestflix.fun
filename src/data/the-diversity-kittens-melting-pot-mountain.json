@@ -1,0 +1,28 @@
+{
+  "slug": "the-diversity-kittens-melting-pot-mountain",
+  "title": "The Diversity Kittens: Meltingpot Mountain",
+  "description": "Join the Diversity Kittens as they show you what inclusion and equity can really achieve.",
+  "quote": "It’s more fun to play with a ball of yarn if it has all the colors in it. And yarn should be allowed to marry dental floss.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "G",
+  "runtime": "46m",
+  "labels": [
+    "kids",
+    "family"
+  ],
+  "credit": "20th Television",
+  "altHero": "the Diversity Kittens",
+  "alt1": "Jewish kitten and kitten in a wheelchair",
+  "alt2": "a spool of yarn and a box of floss go into the Tunnel of Tolerance in little boat",
+  "alt3": "paperclip and eraser in their own boat",
+  "alt4": "pear holding hands with an apple and an orange",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
