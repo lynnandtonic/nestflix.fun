@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://agitated-goldstine-fafd40.netlify.com/* https://nestflix.fun/:splat 301!
