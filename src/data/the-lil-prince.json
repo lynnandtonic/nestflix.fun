@@ -1,0 +1,26 @@
+{
+  "slug": "the-lil-prince",
+  "title": "The Lil’ Prince",
+  "description": "The moving 1990 thesis short film from animator Thomas Washington, future CEO of The Walt Disney Company.",
+  "parent": "Atlanta",
+  "parentYear": "2016-2022",
+  "parentIMDB": "4288182",
+  "rating": "Unrated",
+  "runtime": "6m",
+  "director": [
+    "Thomas Washington"
+  ],
+  "labels": [
+    "short film",
+    "animation",
+    "amateur"
+  ],
+  "credit": "20th Television",
+  "altHero": "Prince the singer in the animation style of The Little Prince",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts"
+  ]
+}
