@@ -1,0 +1,28 @@
+{
+  "slug": "the-5-jerks",
+  "title": "The 5 Jerks",
+  "description": "Meet the Five Pigeons of the Acapellapocalypse: Bad Boy, Meathead, Mystery Lad, Nice Guy, and Party Girl. If you thought you hated them in real life, you’re gonna love them in their own show!",
+  "quote": "We’re not annoying. No, we are not annoying on TV!",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14877120",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "studio": "Foxhole Productions",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "the five jerks",
+  "alt1": "the mansion",
+  "alt2": "Mystery Lad and Meathead in a popped hot tub, water splashing everywhere",
+  "alt3": "Party Girl face down on the floor next to wooden debris; Bad Boy vandalizing a painting",
+  "alt4": "Party Girl holding a boombox; Meathead break dancing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}

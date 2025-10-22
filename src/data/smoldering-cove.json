@@ -1,0 +1,32 @@
+{
+  "slug": "smoldering-cove",
+  "title": "Smoldering Cove",
+  "description": "Marlina Deena Turina is looking for love despite her recent bout of amnesia. Could Chase be the one for her?",
+  "quote": "When I return, your identity will be mine!",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14877120",
+  "rating": "TV-PG",
+  "runtime": "13 seasons",
+  "starring": [
+    "Forlington Slarly",
+    "Ridgeway Burlington"
+  ],
+  "labels": [
+    "soap opera",
+    "romance"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Chase, a handsome wolf",
+  "alt1": "Marlina, a deer, putting salt on her pancakes to her mother’s confusion",
+  "alt2": "Marlina dumping tomato soup on her head",
+  "alt3": "Chase laughs maniacally while Marlina is tied up",
+  "alt4": "Marlina gasps at a dinner table with a bird with a man bun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ]
+}
