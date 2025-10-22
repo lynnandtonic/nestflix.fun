@@ -1,0 +1,32 @@
+{
+  "slug": "limozeen-but-theyre-in-space",
+  "title": "Limozeen: “But They’re in Space!”",
+  "description": "The failed Saturday morning cartoon where the band Limozeen turn their tour bus into a space machine. They’re in space! The boys make sure metal stays number one throughout the galaxy.",
+  "quote": "How are you going to play tonight’s show afer I turn your instruments into Italian noodles?",
+  "parent": "Homestar Runner",
+  "parentYear": "1996-Present",
+  "parentIMDB": "2349968",
+  "rating": "TV-Y7",
+  "runtime": "1 episode",
+  "studio": "Metalmation",
+  "labels": [
+    "kids",
+    "animation",
+    "music",
+    "space",
+    "pilot"
+  ],
+  "credit": "The Brothers Chaps",
+  "altHero": "the band Limozeen wearing spacesuits",
+  "alt1": "Limozeen running from hands and tentacles",
+  "alt2": "Limozeen playing a show but their instruments are noodles",
+  "alt3": "tour bus flying through space",
+  "alt4": "evil villain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
