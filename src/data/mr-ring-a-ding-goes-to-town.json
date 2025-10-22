@@ -1,0 +1,25 @@
+{
+  "slug": "mr-ring-a-ding-goes-to-town",
+  "title": "Mr. Ring-A-Ding Goes to Town",
+  "description": "Classic 1930s cartoon Mr. Ring-A-Ding goes to town and meets with Sunshine Sally in <em>Mr. Ring-A-Ding Goes to Town</em>.",
+  "quote": "Don’t make me laugh!",
+  "parent": "Doctor Who",
+  "parentYear": "2023-Present",
+  "parentIMDB": "31433814",
+  "rating": "Unrated",
+  "runtime": "4m",
+  "studio": "Dawn Animation House",
+  "labels": [
+    "short film",
+    "animation"
+  ],
+  "credit": "Disney+",
+  "altHero": "Mr. Ring-A-Ding and Sunshine Sally",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts",
+    "new on nestflix"
+  ]
+}
