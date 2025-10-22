@@ -1,0 +1,31 @@
+{
+  "slug": "obah",
+  "title": "Obah",
+  "description": "Join icon, Obah, for the number one talk show on the holotube.",
+  "quote": "That was… awesome!",
+  "parent": "Ballmastrz: 9009",
+  "parentYear": "2018-2023",
+  "parentIMDB": "8170404",
+  "rating": "TV-G",
+  "runtime": "16 seasons",
+  "starring": [
+    "Obah Wexley"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Obah, with her trademark pointy glasses",
+  "alt1": "Obah with arms up wide",
+  "alt2": "the crowd goes wild",
+  "alt3": "Obah chatting",
+  "alt4": "Obah sitting on the couch while her guest, Gaz Digzy, wears a sock puppet and jumps on the couch like an crazy person",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}

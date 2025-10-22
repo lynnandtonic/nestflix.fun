@@ -1,0 +1,32 @@
+{
+  "slug": "gourmet-gamers",
+  "title": "Gourmet Gamers",
+  "description": "The game show that pits the biggest names in the game against each other off the field and in the kitchen. There’s thrills, chills, spills, knife spills, competitive celebrity cooking, cash money, lavish prizes.",
+  "quote": "Inspiration or indigestion?",
+  "parent": "Ballmastrz: 9009",
+  "parentYear": "2018-2023",
+  "parentIMDB": "8170404",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Lord Master Crayzar"
+  ],
+  "labels": [
+    "reality competition",
+    "food",
+    "cooking"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Lord Master Crayzar holding a metal cloche",
+  "alt1": "Lord Master Crayzar interviewing a contestant",
+  "alt2": "two contestants fighting",
+  "alt3": "ape contestant firing bananas from a gatling gun",
+  "alt4": "the judges examine a burnt grilled cheese sandwich",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
