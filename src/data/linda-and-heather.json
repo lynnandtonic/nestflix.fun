@@ -1,0 +1,30 @@
+{
+  "slug": "linda-and-heather",
+  "title": "Linda and Heather",
+  "description": "Pink pink pink! Girls girls girls! Glitter glitter glitter! Twirls twirls twirls! Together forever, they’re Linda and Heather! Best friends!",
+  "quote": "Boom, chicken soup!",
+  "parent": "Liv and Maddie",
+  "parentYear": "2013-2017",
+  "parentIMDB": "2794380",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "sitcom",
+    "teens",
+    "sci-fi",
+    "space"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Linda and Heather, two teens, one with blue hair and the other with pink",
+  "alt1": "space station",
+  "alt2": "Linda and Heather sitting in command chairs on their spaceship",
+  "alt3": "Linda and Heather greet a cosmonaut",
+  "alt4": "Linda posing for the camera",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens"
+  ]
+}
