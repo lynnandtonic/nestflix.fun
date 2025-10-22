@@ -1,0 +1,31 @@
+{
+  "slug": "motel-dick",
+  "title": "Motel Dick!",
+  "description": "Adult film star Gil Bang visits the famous Motel Dick.",
+  "quote": "There’s a prowler outside. I’m really, really scared!",
+  "parent": "Curb Your Enthusiasm",
+  "parentYear": "2000-2024",
+  "parentIMDB": "0264235",
+  "rating": "Unrated",
+  "runtime": "38m",
+  "starring": [
+    "Gil Bang"
+  ],
+  "labels": [
+    "adult film",
+    "erotic"
+  ],
+  "credit": "HBO",
+  "altHero": "Gil Bang",
+  "alt1": "a woman opens motel room door and Gil Bang is outside",
+  "alt2": "Gil gets into a fighting stance as another woman walks out of the bathroom with her hands up",
+  "alt3": "the women throw Gil on the bed",
+  "alt4": "Gil lying shirtless on the bed, making a silly face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "adults 18+"
+  ]
+}
