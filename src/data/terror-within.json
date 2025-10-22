@@ -1,0 +1,28 @@
+{
+  "slug": "terror-within",
+  "title": "Terror Within",
+  "description": "Agatha, a convict on the run, seeks out her reclusive mother in hopes of tracking down her missing daughter. Journeying into the mouth of Hell, Agatha will stop at nothing. Even if that means confronting her terrifying past.",
+  "quote": "You're not making any sense, Agatha!",
+  "parent": "Haha, You Clowns",
+  "parentYear": "2025-Present",
+  "parentIMDB": "38066553",
+  "rating": "R",
+  "runtime": "1h 46m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "woman in her car looks at a dark A-frame cabin in the woods",
+  "alt1": "little girl in red hoodie scribbles an A-frame cabin on the wall with crayon",
+  "alt2": "the woman’s partner nibbles on her ear from behind while she holds up a crayon",
+  "alt3": "the woman talking on the phone and looking out her car window",
+  "alt4": "demon creature with blonde hair and wearing a red hoodie",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
