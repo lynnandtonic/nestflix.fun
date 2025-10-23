@@ -1,0 +1,37 @@
+{
+  "slug": "mackenzie-falls",
+  "title": "MacKenzie Falls",
+  "description": "Mackenzie just inherited his father’s MacKenzie Falls water business and must navigate running the company while dealing with school, girls, and a rivalry with his half-brother.",
+  "quote": "Without my water, your bottles are just empty. Like your heart.",
+  "parent": "Sonny With A Chance",
+  "parentYear": "2009-2011",
+  "parentIMDB": "1252374",
+  "rating": "TV-PG",
+  "runtime": "6 seasons",
+  "starring": [
+    "Chad Dylan Cooper",
+    "Marta Balatico",
+    "Skyler DeVane",
+    "Ferguson Michaels",
+    "Chastity Ann DeWitt",
+    "Portlyn Maddison"
+  ],
+  "labels": [
+    "teens",
+    "teen drama"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Chad Dylan Cooper as Mackenzie",
+  "alt1": "Mackenzie talks to a girl",
+  "alt2": "Chloe comforts Mackenzie",
+  "alt3": "Penelope leans against a bookcase",
+  "alt4": "Mackenzie wearing a neckbrace and eye bandage",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens",
+    "new on nestflix"
+  ]
+}
