@@ -1,0 +1,30 @@
+{
+  "slug": "bounce",
+  "title": "Bounce",
+  "description": "A film that says something meaningful about life. Together we wander through the abyss of life. From light to dark. And from dark to light again. And then… from light back to dark again. And light again. Dark again. And then… light again.",
+  "parent": "Moonwalkers",
+  "parentYear": "2015",
+  "parentIMDB": "2718440",
+  "rating": "R",
+  "runtime": "47m",
+  "director": [
+    "Renatus"
+  ],
+  "labels": [
+    "drama",
+    "arthouse"
+  ],
+  "credit": "Alchemy",
+  "altHero": "fat man in his underwear bouncing on a trampoline with some chickens",
+  "alt1": "man doing a push up bounce",
+  "alt2": "two men in underwear bouncing togetehr",
+  "alt3": "close-up of man’s underwear and belly",
+  "alt4": "man’s face as he bounces, hair flying",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}
