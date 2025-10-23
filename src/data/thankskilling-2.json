@@ -1,0 +1,33 @@
+{
+  "slug": "thankskilling-2",
+  "title": "ThanksKilling 2",
+  "description": "Rumored to be a cursed production and ultimately shelved by the studio, <em>ThanksKilling 2</em> is finally available. A mega-budgeted, kid-friendly sequel to cult film <em>ThanksKilling</em> and the first movie ever filmed entirely in space.",
+  "quote": "Good shooting, Turkey.",
+  "parent": "ThanksKilling 3",
+  "parentYear": "2012",
+  "parentIMDB": "2106675",
+  "rating": "Unrated",
+  "runtime": "1h 34m",
+  "director": [
+    "Cran Berryman"
+  ],
+  "labels": [
+    "sci-fi",
+    "action",
+    "space"
+  ],
+  "credit": "Jordan Downey",
+  "altHero": "turkey in space",
+  "alt1": "woman in astronaut suit floating in space, but her breasts are exposed; floating nearby is a Turkey Crossing road sign",
+  "alt2": "the turkey speaks with a pumpkin pie with a face and captain hat",
+  "alt3": "the pumpkin pie captain",
+  "alt4": "a spaceship that is obviously a little model",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films",
+    "new on nestflix"
+  ]
+}
