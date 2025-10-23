@@ -1,0 +1,43 @@
+{
+  "slug": "the-oldest-gun-in-the-west",
+  "title": "The Oldest Gun in the West",
+  "description": "Duke Montana’s triumphant return to the silver screen. They thought he was too old for this. They thought wrong.",
+  "quote": "I ain’t on the side of the Indians, I’m on the side of right.",
+  "parent": "The Comeback Trail",
+  "parentYear": "2020",
+  "parentIMDB": "5420210",
+  "rating": "PG-13",
+  "runtime": "2h 23m",
+  "starring": [
+    "Duke Montana",
+    "Sarah Locklear",
+    "Gary Teasdale",
+    "Edgar Nefarious",
+    "Chief Gerald Chavez",
+    "Merced Gutierrez",
+    "Ray Longoria"
+  ],
+  "director": [
+    "Megan Albert"
+  ],
+  "producer": "Max Barber, Walter Creason",
+  "studio": "Miracle Motion Pictures",
+  "labels": [
+    "western",
+    "action"
+  ],
+  "credit": "Cloudburst Entertainment",
+  "altHero": "Duke Montana in full cowboy garb",
+  "alt1": "Duke being chased by natives",
+  "alt2": "Duke on a rope bridge pointing a gun",
+  "alt3": "Duke in town facing off with a sheriff",
+  "alt4": "Duke talking in some high grass",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "westerns",
+    "new on nestflix"
+  ]
+}
