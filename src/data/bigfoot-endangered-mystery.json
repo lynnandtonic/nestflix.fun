@@ -1,0 +1,29 @@
+{
+  "slug": "bigfoot-endangered-mystery",
+  "title": "Bigfoot Endangered Mystery!",
+  "description": "In the dense forests of the Pacific Northwest dwells the strange and beautiful creature known as Bigfoot, perhaps. Sadly, logging and human settlement threaten what might possibly be his habitat.",
+  "quote": "It’s up to us. Bigfoot is a crucial part of the ecosystem… if he exists.",
+  "parent": "Futurama",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0149460",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "creator": "Duraflame National Forest",
+  "labels": [
+    "educational",
+    "nature"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "blurry photo of Bigfoot walking in the forest",
+  "alt1": "Pacific Northwest on a map",
+  "alt2": "lumberjack robot cutting down trees",
+  "alt3": "out of focus rock where Bigfoot might be hiding",
+  "alt4": "People taking photos of nothing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
