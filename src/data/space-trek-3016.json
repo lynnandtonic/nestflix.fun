@@ -1,0 +1,35 @@
+{
+  "slug": "space-trek-3016",
+  "title": "Space Trek 3016",
+  "description": "Join the crew of the starship Engager as they explore the galaxy and face off with the Klamulons.",
+  "quote": "I’m no human. I am Lieutenant Tork of the planet Mars. And you’ve never encountered anything like me before.",
+  "parent": "Young Justice",
+  "parentYear": "2010-2022",
+  "parentIMDB": "1641384",
+  "rating": "TV-PG",
+  "runtime": "18 seasons",
+  "starring": [
+    "Garfield Logan",
+    "Paul Sloane"
+  ],
+  "producer": "Steve Dayton",
+  "studio": "Goode World Studios",
+  "labels": [
+    "sci-fi",
+    "action",
+    "space"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Captain Tom Bender and Lieutenant Tork on the bridge of the ship",
+  "alt1": "Tork shapeshifted into a gorilla fights some Klamulons",
+  "alt2": "Tork and Ensign Valiant beam up into the ship",
+  "alt3": "Klamulon points a laser gun at Captain Bender",
+  "alt4": "Tork shoots a laser gun from behind a rock",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ]
+}
