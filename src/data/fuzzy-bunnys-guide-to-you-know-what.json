@@ -1,0 +1,30 @@
+{
+  "slug": "fuzzy-bunnys-guide-to-you-know-what",
+  "title": "Fuzzy Bunny’s Guide to You-Know-What",
+  "description": "Troy McClure is here to provide the facts about sex in a frank and straightforward manner.",
+  "quote": "And now that you know how it’s done, don’t do it.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "starring": [
+    "Troy McClure "
+  ],
+  "labels": [
+    "educational"
+  ],
+  "credit": "20th Television",
+  "altHero": "Fuzzy and Fluffy Bunny walking through the park and holding balloons",
+  "alt1": "Troy McClure sitting in a doctor’s office",
+  "alt2": "Fuzzy next to text: voice changing, acne, more fur",
+  "alt3": "Fuzzy and Fluffy falling in love while bowling",
+  "alt4": "Fuzzy and Fluffy with 14 baby bunnies",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
