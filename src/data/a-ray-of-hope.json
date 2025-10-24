@@ -1,0 +1,33 @@
+{
+  "slug": "a-ray-of-hope",
+  "title": "A Ray of Hope: A Rayman Story",
+  "description": "They came from another dimension to create chaos in our own, but one of them wanted more. Watch the rise and struggles of Eden’s most beloved icon.",
+  "quote": "Maybe because I’m different, I can make a difference.",
+  "parent": "Captain Laserhawk: A Blood Dragon Remix",
+  "parentYear": "2023",
+  "parentIMDB": "14837566",
+  "rating": "PG-13",
+  "runtime": "2h 7m",
+  "starring": [
+    "Rayman"
+  ],
+  "studio": "Eden Motion Pictures",
+  "labels": [
+    "drama",
+    "biography",
+    "aliens"
+  ],
+  "credit": "Netflix",
+  "altHero": "Rayman waving to a crowd at a Hollywood event",
+  "alt1": "furry alien creatures attacking people in the city",
+  "alt2": "Rayman on stage at an open mic night",
+  "alt3": "a mob of protestors holding signs that say, “Aliens go home!”",
+  "alt4": "Rayman talking to an agent with his hands on a bunch of film reels",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramatic biopics"
+  ]
+}

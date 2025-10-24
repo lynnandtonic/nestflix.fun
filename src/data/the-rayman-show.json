@@ -1,0 +1,29 @@
+{
+  "slug": "the-rayman-show",
+  "title": "The Rayman Show",
+  "description": "Join Rayman and friends as they sing and dance and show appreciation for hybrids. ",
+  "quote": "For all society’s needs, we have to thank hybrids!",
+  "parent": "Captain Laserhawk: A Blood Dragon Remix",
+  "parentYear": "2023",
+  "parentIMDB": "14837566",
+  "rating": "TV-Y7",
+  "runtime": "1 season",
+  "studio": "Eden Kidz",
+  "labels": [
+    "kids",
+    "music"
+  ],
+  "credit": "Netflix",
+  "altHero": "kids cartoon version of Rayman wearing a cowboy hat and playing a guitar",
+  "alt1": "Rayman singing by a beaver hybrid building a house",
+  "alt2": "snake hybrid stirring a big pot",
+  "alt3": "Rayman and hybrids walking and singing",
+  "alt4": "Rayman and hybrids in front of fireworks",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
