@@ -1,0 +1,28 @@
+{
+  "slug": "bloody-mess-behind-the-wheel",
+  "title": "Bloody Mess Behind The Wheel",
+  "description": "Most young people are conscientious citizens who drive defensively and obey all the applicable traffic laws. But there’s always going to be one or two bad apples in the bunch.",
+  "quote": "Unsafe driving is never cool!",
+  "parent": "Beavis and Butt-Head",
+  "parentYear": "1993-1997",
+  "parentIMDB": "20859904",
+  "rating": "Unrated",
+  "runtime": "17m",
+  "creator": "The State Highway Patrol",
+  "labels": [
+    "educational"
+  ],
+  "credit": "MTV Animation",
+  "altHero": "aerial view of an intersection where a red car is swerving into the path of a semi-truck",
+  "alt1": "hands on a steering wheel with two cars in front",
+  "alt2": "car at an intersection where a cop is standing",
+  "alt3": "two dudes screaming in a car",
+  "alt4": "a smoldering three-car accident with text “Official state patrol footage”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
