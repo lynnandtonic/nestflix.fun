@@ -1,0 +1,33 @@
+{
+  "slug": "a-winter-tale-in-new-york",
+  "title": "A Winter Tale in New York",
+  "description": "New York comes alive in the second film of the <em>A Winter Tale in New York</em> trilogy.",
+  "quote": "New York, New York. It’s a hell of a town.",
+  "parent": "YOLO",
+  "parentYear": "2020-2025",
+  "parentIMDB": "12058366",
+  "rating": "PG-13",
+  "runtime": "2h 14m",
+  "starring": [
+    "Chimothée Talamet"
+  ],
+  "studio": "Little Tiny Twinkle Wolf Star Moon Light Prince Productions",
+  "labels": [
+    "drama",
+    "arthouse"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Chimothée Talamet in black and white",
+  "alt1": "Talamet on a lawn chair on the roof of a NY building",
+  "alt2": "Talamet looks at the NY skyline",
+  "alt3": "the Brooklyn Bridge",
+  "alt4": "Talamet spitting to the side",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
