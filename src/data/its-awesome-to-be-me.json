@@ -1,0 +1,27 @@
+{
+  "slug": "its-awesome-to-be-me",
+  "title": "It’s Awesome To Be Me",
+  "description": "In this school, much like your own, one boy is about to learn an important lesson about self-worth and esteem, with help from Brock Branigan P.I.",
+  "quote": "Go for it! Show them how awesome you really are!",
+  "parent": "Diary of a Wimpy Kid",
+  "parentYear": "2010",
+  "parentIMDB": "1196141",
+  "rating": "Unrated",
+  "runtime": "15m",
+  "labels": [
+    "educational"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "Brock Branigan P.I. giving a wink and thumbs up",
+  "alt1": "dorky kid with his face resting on his hand",
+  "alt2": "Brock speaks with the dorky kid",
+  "alt3": "popular girl and guy are stunned",
+  "alt4": "dorky kid’s obvious stunt double breakdancing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
