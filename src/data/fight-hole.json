@@ -1,0 +1,32 @@
+{
+  "slug": "fight-hole",
+  "title": "Fight Hole",
+  "description": "The galaxy’s number-one battle arena show. From the Danger Belt, the single elimination slugfest where battle-hardened contestants jump into a hole and fight! Whoever’s left standing by the end wins.",
+  "quote": "Outta the hole! Outta the game!",
+  "parent": "Kid Cosmic",
+  "parentYear": "2021-2022",
+  "parentIMDB": "9248538",
+  "rating": "TV-MA",
+  "runtime": "4 seasons",
+  "starring": [
+    "R.B-O.T.",
+    "R.9-C.R"
+  ],
+  "labels": [
+    "reality competition",
+    "sports"
+  ],
+  "credit": "Netflix",
+  "altHero": "the space arena at the Danger Belt",
+  "alt1": "crowd cheering as spotlights fill the arena",
+  "alt2": "mean looking contestants",
+  "alt3": "hosts R.B-O.T. and R.9-C.R, two flying drone-like robots",
+  "alt4": "Krosh, a huge champion of Fight Hole",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sports and fitness"
+  ]
+}
