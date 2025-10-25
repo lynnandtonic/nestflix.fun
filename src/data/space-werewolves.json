@@ -1,0 +1,38 @@
+{
+  "slug": "space-werewolves",
+  "title": "Space Werewolves",
+  "description": "The Tristan Lycanth book series comes to life. They came to our world to wipe us out. There was no one left to save us but her. She never wanted to be a hero, but they started this fight and she’s gonna finish it.",
+  "quote": "You mess with the wolf, you get the howl.",
+  "parent": "Liv and Maddie",
+  "parentYear": "2013-2017",
+  "parentIMDB": "2794380",
+  "rating": "PG-13",
+  "runtime": "1h 56m",
+  "starring": [
+    "Liv Rooney"
+  ],
+  "director": [
+    "Vic DeFazerelli"
+  ],
+  "producer": "Whitney Gurra",
+  "labels": [
+    "sci-fi",
+    "action",
+    "space",
+    "werewolves"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Liv Rooney as Tristan Lycanth projecting a light beam into the sky",
+  "alt1": "Tristan on a red desert planet",
+  "alt2": "closeup of Tristan and her wolf ears",
+  "alt3": "Tristan holding a glowing orb",
+  "alt4": "the light beam pierces into space",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films",
+    "new on nestflix"
+  ]
+}
