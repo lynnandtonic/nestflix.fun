@@ -1,0 +1,31 @@
+{
+  "slug": "the-emperors-daughter",
+  "title": "The Emperor’s Daughter",
+  "description": "The Emperor’s daughter, Chunhwa, is caught between her family duties and finding her own path in the world.",
+  "quote": "I would never dishonor myself by marrying you.",
+  "parent": "Joy Ride",
+  "parentYear": "2023",
+  "parentIMDB": "15268244",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "starring": [
+    "Katherine Huang"
+  ],
+  "labels": [
+    "period drama"
+  ],
+  "credit": "Lionsgate",
+  "altHero": "Katherine Huang as Chunhwa, dressed in traditional Chinese clothing",
+  "alt1": "Chunhwa facing down the tip of a sword",
+  "alt2": "man holds sword to Chunhwa’s neck",
+  "alt3": "military hero stunned",
+  "alt4": "man reaching out in pain from the ground",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
