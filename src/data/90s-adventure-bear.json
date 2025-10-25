@@ -1,0 +1,30 @@
+{
+  "slug": "90s-adventure-bear",
+  "title": "90’s Adventure Bear",
+  "description": "Join 90’s Adventure Bear and his gang, Zip Skyboard, Yuk-Yuk the orangutan, Goober the fruit bat, and Jump-Kick the lemur, as they work together to thwart the disastrous Major Manslaughter. Treachery and magic and romance and flying objects!",
+  "quote": "Aw, runkledunk!",
+  "parent": "Pickle and Peanut",
+  "parentYear": "2015-2018",
+  "parentIMDB": "3824018",
+  "rating": "TV-Y7",
+  "runtime": "1 season",
+  "labels": [
+    "kids",
+    "animation",
+    "action"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "cartoon bear wearing a safari hat",
+  "alt1": "the gang running",
+  "alt2": "Major Manslaughter, a weasle standing on a tank",
+  "alt3": "90’s Adventure Bear pointing at a floating, flaming skull",
+  "alt4": "the gang walking along a ledge with red lava below",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "5-zillion-man",
+  "title": "5 Zillion Man",
+  "description": "1500 lightyears ago, in a land far from sanity, but not far from madness, one mutant rock-and-roll wizard must guide the warring space clans towards peace and love.",
+  "parent": "Pickle and Peanut",
+  "parentYear": "2015-2018",
+  "parentIMDB": "3824018",
+  "rating": "PG-13",
+  "runtime": "1h 37m",
+  "labels": [
+    "sci-fi",
+    "action"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "5 Zillion Man, with purple hair and mustache and three green eyes",
+  "alt1": "alien planet with burning mountain",
+  "alt2": "5 Zillion Man riding a rocket",
+  "alt3": "5 Zillion Man shooting a blue laser out of his guitar",
+  "alt4": "alien being shot with the laser and you can see its skeleton",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films",
+    "new on nestflix"
+  ]
+}
