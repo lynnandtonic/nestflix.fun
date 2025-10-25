@@ -1,0 +1,28 @@
+{
+  "slug": "watch-out-little-teddy",
+  "title": "Watch Out Little Teddy",
+  "description": "Little Teddy shows kids how to have fun while being frightened, because being safe is number one!",
+  "quote": "Remember, kids. Please take care ’cause danger’s lurking!",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "parentIMDB": "14596212",
+  "rating": "TV-Y",
+  "runtime": "12m",
+  "labels": [
+    "educational",
+    "kids"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Little Teddy stirring food on the stove",
+  "alt1": "Teddy’s hands are bright red as they grab food from the oven",
+  "alt2": "Teddy falling out of a window",
+  "alt3": "Teddy being hit by a car",
+  "alt4": "Teddy dancing inside a circle of children",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
