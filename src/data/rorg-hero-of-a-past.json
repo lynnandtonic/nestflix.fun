@@ -1,0 +1,29 @@
+{
+  "slug": "rorg-hero-of-a-past",
+  "title": "Rorg: Hero of a Past",
+  "description": "Rorg and his sidekick, Socko, must protect the kingdom of Chillaxia from evil villains like Commander Boneface, Kanga-saur, Mime-o-taur, and Tar-Hand-Tula.",
+  "quote": "By the power of my right arm, I’m holding my sword up!",
+  "parent": "Randy Cunningham: 9th Grade Ninja",
+  "parentYear": "2012-2015",
+  "parentIMDB": "2341339",
+  "rating": "TV-G",
+  "runtime": "70 episodes",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Rorg lit up by his sword",
+  "alt1": "Commander Boneface",
+  "alt2": "Rorg holding up a red cape to the Mime-o-taur",
+  "alt3": "Rorg’s sidekick Socko flying on an ostrich",
+  "alt4": "Rorg fighting a tentacle monster",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
