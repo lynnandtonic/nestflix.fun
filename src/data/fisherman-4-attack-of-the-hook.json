@@ -1,0 +1,27 @@
+{
+  "slug": "fisherman-4-attack-of-the-hook",
+  "title": "Fisherman 4: Attack of the Hook",
+  "description": "If you’re out past midnight, beware. The fisherman’s hook is waiting to drop in.",
+  "quote": "Hey! My ice cream! No! It was Rocky Road!",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "S",
+  "runtime": "1h 46m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "view of a boat, fishing line, and hook from below the water’s surface",
+  "alt1": "fish on a seesaw with a joyful open mouth, but a hook is about to hook him",
+  "alt2": "couple on a bench and the boy fish has a hook pulling his pants upward",
+  "alt3": "the boy being pulled to the surface by the hook",
+  "alt4": "two kids walking and eating ice cream, one kid doesn’t realize yet that his ice cream has been hooked",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
