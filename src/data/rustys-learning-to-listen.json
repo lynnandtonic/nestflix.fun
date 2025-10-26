@@ -1,0 +1,28 @@
+{
+  "slug": "rustys-learning-to-listen",
+  "title": "Rusty’s Learning to Listen",
+  "description": "In this 8-part series, Rusty shows us the tools and tricks of agriculture and construction while teaching kids how to listen.",
+  "quote": "Now, if I blow this house up, will you promise to behave and mind your mommy and daddy?",
+  "parent": "Elizabethtown",
+  "parentYear": "2005",
+  "parentIMDB": "0368709",
+  "rating": "TV-Y",
+  "runtime": "1h 50m",
+  "labels": [
+    "educational",
+    "kids"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "Rusty in his red hard hat",
+  "alt1": "Rusty standing by his truck",
+  "alt2": "Rusty in a house while men set up explosives on the wall",
+  "alt3": "Rusty with a detonator",
+  "alt4": "house blowing up with Rusty’s excited face overlaid",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "educational videos"
+  ]
+}
