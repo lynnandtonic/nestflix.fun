@@ -1,0 +1,33 @@
+{
+  "slug": "every-rose-has-a-thorsen",
+  "title": "Every Rose Has a Thorsen",
+  "description": "Follow the lavish life of rapper Lincoln Thorsen, his wife Yvonne, and their son Aaron.",
+  "quote": "That’s my son. Always trying to get away with something.",
+  "parent": "The Rookie",
+  "parentYear": "2018-Present",
+  "parentIMDB": "7587890",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": [
+    "Lincoln Thorsen",
+    "Yvonne Thorsen",
+    "Aaron Thorsen"
+  ],
+  "producer": "Morris Mackey",
+  "labels": [
+    "reality"
+  ],
+  "credit": "ABC",
+  "altHero": "The Thorsens",
+  "alt1": "The Thorsens in front of a huge house and two fancy cars",
+  "alt2": "Lincoln and Yvonne",
+  "alt3": "Aaron giving a tour of the house",
+  "alt4": "Lincoln with this MIAA award",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
