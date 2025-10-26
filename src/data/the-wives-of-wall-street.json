@@ -1,0 +1,27 @@
+{
+  "slug": "the-wives-of-wall-street",
+  "title": "The Wives of Wall Street",
+  "description": "They were on top of the world until the financial crisis struck and they flamed out. That’s when their wives got busy taking over.",
+  "quote": "Don’t let anyone stop you from getting what you want!",
+  "parent": "Castle",
+  "parentYear": "2009-2016",
+  "parentIMDB": "1219024",
+  "rating": "TV-MA",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality"
+  ],
+  "credit": "ABC Studios",
+  "altHero": "Penelope,  Margo, and Colette",
+  "alt1": "Penelope looking at a model’s outfit",
+  "alt2": "Margo speaking to her son who looks defeated",
+  "alt3": "another woman getting a finger pointed in her face",
+  "alt4": "Colette on the phone in her office",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
