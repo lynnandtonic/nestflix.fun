@@ -1,0 +1,30 @@
+{
+  "slug": "unbitten",
+  "title": "Unbitten",
+  "description": "The sequel to that movie about gorgeous vampires that try not to eat humans. To James, her blood type was irresistable, but Rochelle is about to learn that dating a vampire actually kind of sucks.",
+  "quote": "Bite me, I’m begging you.",
+  "parent": "My Babysitter’s a Vampire",
+  "parentYear": "2010",
+  "parentIMDB": "1673423",
+  "rating": "PG-13",
+  "runtime": "1h 57m",
+  "labels": [
+    "romantic drama",
+    "teens",
+    "vampires"
+  ],
+  "credit": "Teletoon",
+  "altHero": "James the vampire and Rochelle the human kissing in the woods",
+  "alt1": "James and Rochelle sitting on a tree in the woods",
+  "alt2": "Rochelle in bed screaming as she clutches her neck",
+  "alt3": "Rochelle talking to a boy with fully white eyes",
+  "alt4": "Rochelle and James in an argument",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas",
+    "new on nestflix"
+  ]
+}
