@@ -1,0 +1,29 @@
+{
+  "slug": "agony-county",
+  "title": "Agony County",
+  "description": "Charity seems to have back luck with love, always falling for the wrong guy. Would the cycle continue when Danny, the bad boy jerk, comes to town?",
+  "quote": "I like when you hurts.",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "parentIMDB": "0278866",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "teens",
+    "teen drama",
+    "romance"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "Charity, a blonde teen, crying with Danny, the bad boy jerk",
+  "alt1": "Charity brushing her hair in the mirror while Danny leans in",
+  "alt2": "Charity crying",
+  "alt3": "Danny angrily holding Charity’s shoulders",
+  "alt4": "Charity and Danny about to kiss",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens"
+  ]
+}
