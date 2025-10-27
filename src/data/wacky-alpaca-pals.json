@@ -1,0 +1,27 @@
+{
+  "slug": "wacky-alpaca-pals",
+  "title": "Wacky Alpaca Pals",
+  "description": "Walter and Wanda are the Wacky Alpaca Pals! They’re just so wacky!",
+  "quote": "Whoopsie Daisy!",
+  "parent": "Muppet Babies",
+  "parentYear": "2018-2022",
+  "parentIMDB": "6337766",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Disney Junior",
+  "altHero": "Walter and Wanda",
+  "alt1": "Walter doing the splits next to a banana peel on the ground",
+  "alt2": "Walter crying",
+  "alt3": "Walter at a store that is sold out of balloons",
+  "alt4": "Walter blowing two party horns with his ears",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
