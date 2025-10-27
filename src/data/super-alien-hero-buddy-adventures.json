@@ -1,0 +1,30 @@
+{
+  "slug": "super-alien-hero-buddy-adventures",
+  "title": "Super Alien Hero Buddy Adventures",
+  "description": "Who will protect us from the nefarious deeds of the League of Evil Doom Fiends? The forces of good and fairness unite to form the Super Alien Hero Buddies!",
+  "quote": "Time to get unstuck and turn up the heat!",
+  "parent": "Ben 10",
+  "parentYear": "2005-2008",
+  "parentIMDB": "0760437",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "creator": "Tim Dean",
+  "studio": "Planetary Studios",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Handy Buddy, Fiery Buddy, and Doggy Buddy",
+  "alt1": "Evil Doom Friends",
+  "alt2": "Handy Buddy flexing his multiple arms",
+  "alt3": "Fiery Buddy throwing fire",
+  "alt4": "Evil Doom Friends in a trash can",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
