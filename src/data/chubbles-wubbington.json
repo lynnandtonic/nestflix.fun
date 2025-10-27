@@ -1,0 +1,30 @@
+{
+  "slug": "chubbles-wubbington",
+  "title": "Chubbles Wubbington!",
+  "description": "You’ve got mail. Action star Chubbles Wubbington is punching and kicking and serving justice.",
+  "quote": "Special delivery!",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14877120",
+  "rating": "PG-13",
+  "runtime": "1h 46m",
+  "starring": [
+    "Chubbles Wubbington"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Chubbles Wubbington, an anthropomorphic blue mailbox",
+  "alt1": "Chubbles punching a residential mailbox in the face",
+  "alt2": "Chubbles kicking a brick mailbox pillar",
+  "alt3": "Chubbles putting a stamp on an envelope",
+  "alt4": "Chubbles looking dumbfounded",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
