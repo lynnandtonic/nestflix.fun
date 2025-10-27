@@ -1,0 +1,27 @@
+{
+  "slug": "hallie-hippo-happy-hour",
+  "title": "Hallie Hippo Happy Hour",
+  "description": "The show based on the popular children’s toy. Whether Hallie’s a soccer player, figure skater, chef, or spy, a first-rate nurse or a private eye, geologist, gymnast, or astronaut orbiting space, she’s always gonna save the day!",
+  "quote": "No, you can't stop me!",
+  "parent": "Doc McStuffins",
+  "parentYear": "2012-2020",
+  "parentIMDB": "1710295",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Disney Junior",
+  "altHero": "Hallie Hippo",
+  "alt1": "Hallie the chef cooking some eggs",
+  "alt2": "Hallie inspecting the sky with a magnifying glass",
+  "alt3": "Hallie the geologist cracks a rock open and there’s gold inside",
+  "alt4": "Hallie the astronaut floating in space",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
