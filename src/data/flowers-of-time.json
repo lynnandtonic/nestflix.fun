@@ -1,0 +1,31 @@
+{
+  "slug": "flowers-of-time",
+  "title": "Flowers of Time",
+  "description": "A fragrant bouquet of human emotions, good enough to have been based on a novel.",
+  "quote": "I’m so proud of you Nathaniel. You are my rose.",
+  "parent": "King of the Hill",
+  "parentYear": "1997-2010",
+  "parentIMDB": "0118375",
+  "rating": "PG-13",
+  "runtime": "1h 54m",
+  "starring": [
+    "Charlton Heston",
+    "Ethan Hawke"
+  ],
+  "labels": [
+    "drama"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "two women riding on horses past some rose bushes",
+  "alt1": "Charlton Heston trapped under a tractor and Ethan Hawke kneeling nearby",
+  "alt2": "Heston looking distraught",
+  "alt3": "Ethan as Nathaniel, crying",
+  "alt4": "Heston angry, buries his face in the dirt",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}
