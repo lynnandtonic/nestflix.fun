@@ -1,0 +1,30 @@
+{
+  "slug": "the-family-challenge",
+  "title": "The Family Challenge",
+  "description": "Join host Buddy Glimmer for television’s favorite family game show. Answer questions to win fabulous prizes.",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-G",
+  "runtime": "14 seasons",
+  "starring": [
+    "Buddy Glimmer"
+  ],
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "host Buddy Glimmer",
+  "alt1": "Buddy speaks with the Nielson family",
+  "alt2": "Buddy in front of the game board",
+  "alt3": "Buddy talking to the Sinclairs",
+  "alt4": "big screen tv prize",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
