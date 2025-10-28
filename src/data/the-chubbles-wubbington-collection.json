@@ -1,0 +1,31 @@
+{
+  "slug": "the-chubbles-wubbington-collection",
+  "title": "The Chubbles Wubbington Collection",
+  "description": "Get cozy for over twelve hours of action star Chubbles Wubbington. Includes three hit films and the limited series <em>Spooky Post Stories</em>.",
+  "quote": "You’re about to become junk mail.",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14877120",
+  "rating": "PG-13",
+  "runtime": "12h 23m",
+  "starring": [
+    "Chubbles Wubbington"
+  ],
+  "labels": [
+    "collection",
+    "action"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Chubbles Wubbington jumping through the air",
+  "alt1": "Air Mail",
+  "alt2": "Hot Mail",
+  "alt3": "Wubbington: The End Part 1",
+  "alt4": "Chubbles Wubbington’s Spooky Post Stories",
+  "layout": "movie.pug",
+  "submovies": 4,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
