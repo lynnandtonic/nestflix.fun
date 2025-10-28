@@ -1,0 +1,24 @@
+{
+  "slug": "the-hairy-games-part-2",
+  "title": "The Hairy Games Part 2: Wash, Rinse, Repeat",
+  "description": "Her name is Katmione Everquest. She’s a student at Madame Bouffant’s Magical Beauty Boarding School, armed only with her magical hairbrush.",
+  "quote": "Let the Hairy Games begin!",
+  "parent": "Let’s Go Luna!",
+  "parentYear": "2018-2022",
+  "parentIMDB": "7200884",
+  "rating": "PG-13",
+  "runtime": "1h 54m",
+  "labels": [
+    "action",
+    "dystopia",
+    "teen drama"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "dystopian action movies"
+  ]
+}
