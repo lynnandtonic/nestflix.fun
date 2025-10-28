@@ -1,0 +1,30 @@
+{
+  "slug": "wish-it-aint-so",
+  "title": "Wish It Ain’t So",
+  "description": "It’s senior year and high school is about to get even tougher.",
+  "quote": "Hey you f***in’ bitches!",
+  "parent": "Joe Pera Talks With You",
+  "parentYear": "2018-2021",
+  "parentIMDB": "8199790",
+  "rating": "R",
+  "runtime": "1h 37m",
+  "starring": [
+    "Maeve Ellen Roberts"
+  ],
+  "director": [
+    "Kathleen Gotō"
+  ],
+  "studio": "Real House Pictures",
+  "labels": [
+    "teen comedy",
+    "teens"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "teen girl waving at her friends",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}
