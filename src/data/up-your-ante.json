@@ -1,0 +1,31 @@
+{
+  "slug": "up-your-ante",
+  "title": "Up Your Ante",
+  "description": "Contestants team up with a celebrity to see if they can answer enough questions to win $1,000,000.",
+  "parent": "Oz",
+  "parentYear": "1997-2003",
+  "parentIMDB": "0118421",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "starring": [
+    "Gordon Elliott"
+  ],
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "HBO Entertainment",
+  "altHero": "host Gordon Elliott",
+  "alt1": "the set of the game with the host between two contestants",
+  "alt2": "contestant John Carpenter",
+  "alt3": "contestant Miss Sally",
+  "alt4": "contestant covered by graphic that says “Unk!”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
