@@ -1,0 +1,31 @@
+{
+  "slug": "jack-mimoun-survivant-de-lenfer",
+  "title": "Jack Mimoun, Survivant de L'enfer",
+  "description": "Jack Mimoun goes on extreme adventures in the most dangerous places. Survival instinct is a question of life or death.",
+  "quote": "We all have an adventurer within!",
+  "parent": "Jack Mimoun et les Secrets de Val Verde",
+  "parentYear": "2022",
+  "parentIMDB": "21249808",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Jack Mimoun"
+  ],
+  "labels": [
+    "reality",
+    "nature"
+  ],
+  "credit": "Pathé Films",
+  "altHero": "Jack Mimoun",
+  "alt1": "Jack Mimoun in a swamp with a snake around his neck",
+  "alt2": "Jack Mimoun skydiving",
+  "alt3": "Jack Mimoun in chest-deep water, gripping a tree in the rain",
+  "alt4": "Jack Mimoun atop a snowy mountain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
