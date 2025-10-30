@@ -1,0 +1,31 @@
+{
+  "slug": "theres-a-fairy-on-my-shoulder",
+  "title": "There’s a Fairy on My Shoulder!",
+  "description": "Sometimes a fairy sitting on your shoulder can be a blessing and sometimes it can be an inconvenience.",
+  "quote": "I’m just trying to earn my wings. And you know brothers love wings!",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "parentIMDB": "4326894",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Chipsy White"
+  ],
+  "studio": "ABS",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Netflix",
+  "altHero": "old white guy with a Black fairy on his shoulder",
+  "alt1": "closeup of the fairy",
+  "alt2": "old guy and the fairy on a golf course",
+  "alt3": "closeup of the fairy smiling",
+  "alt4": "the fairy pointing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
