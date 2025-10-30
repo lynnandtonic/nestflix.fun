@@ -1,0 +1,24 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Westerns & Classics on Nestflix";
+    - var description = "Westerns and Hollywood classic films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Westerns & Classics on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['westerns', 'hollywood’s golden age' ];
+
+    +cards(0,1)
+    +feature('The Rick Dalton Collection')
+    +cards(1,2)

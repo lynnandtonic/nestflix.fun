@@ -1,0 +1,26 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Horror on Nestflix";
+    - var description = "Frightening films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Horror on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['horror movies', 'slasher flicks', 'monster movies', 'paranormal investigation', 'aliens attack' ];
+
+    +cards(0,1)
+    +feature('Stab')
+    +cards(1,3)
+    +feature('Joelho-Alto Prejuizo Moral')
+    +cards(3,5)

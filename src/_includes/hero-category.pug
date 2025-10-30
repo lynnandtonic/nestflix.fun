@@ -1,0 +1,12 @@
+mixin feature(movieTitle)
+	div.entry.feature
+		div.entry-info
+		h2.logo
+			img(src='/img/_logos/logo-' + collections.byTitle[movieTitle].data.slug + '.svg', alt=collections.byTitle[movieTitle].data.title)
+			p !{collections.byTitle[movieTitle].data.description}
+			a.button(href=collections.byTitle[movieTitle].data.slug aria-label="Details for " + collections.byTitle[movieTitle].data.title) Details
+		div.entry-image 
+			img(src='/img/' + collections.byTitle[movieTitle].data.slug + '.jpg' alt=collections.byTitle[movieTitle].data.altHero)
+
+section
+	+feature('Angels with Filthy Souls')

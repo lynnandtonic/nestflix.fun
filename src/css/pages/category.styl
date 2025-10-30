@@ -1,0 +1,33 @@
+/*--------------------------------------------------------------------
+* $CATEGORY
+--------------------------------------------------------------------*/
+
+.category
+
+  .hero
+    height: 30vh
+    min-height: 300px
+    max-height: 500px
+    margin-bottom: calc(var(--body-padding)*1.5)
+    position: relative
+    display: flex
+    // justify-content: center
+    align-items: flex-end
+    // overflow: hidden
+    text-shadow: 0 2px 5px black(.5)
+    background-color: black
+
+    @media screen and (max-width: $bp-md)
+      height: 350px
+      font-size: 80%
+
+
+  .hero-info
+    max-width: 550px
+    margin: 2em var(--body-padding) 0
+    font-size: 120%
+    z-index: 2
+    text-shadow: 2px 2px 5px black
+
+    p
+      font-weight: $font-weight-normal

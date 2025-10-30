@@ -1,0 +1,10 @@
+mixin cards(tag1,tag2)
+    each tag in tags.slice(tag1,tag2)
+        unless collections.ignoredTags.includes(tag.toLowerCase())
+            section.list.short
+                h2 !{tag}
+                ul.card-list.thumbs
+                    each entry in collections[tag]
+                        li
+                            a(href=entry.data.page.url)
+                                img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)

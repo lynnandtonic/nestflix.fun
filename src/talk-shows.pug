@@ -1,0 +1,26 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Talk Shows on Nestflix";
+    - var description = "Talk shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Talk Shows on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['talk shows', 'public-access talk shows', 'entertainment commentary', 'late night talk shows', 'variety shows'];
+
+    +cards(0,1)
+    +feature('Night Owls with Jack Delroy')
+    +cards(1,3)
+    +feature('Obah')
+    +cards(3,5)

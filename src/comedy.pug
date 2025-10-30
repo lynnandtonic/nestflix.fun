@@ -1,0 +1,26 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Comedy on Nestflix";
+    - var description = "Funny films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Comedy on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['comedies', 'romantic comedies', 'comedy tv', 'sitcoms', 'family sitcoms', ];
+
+    +cards(0,2)
+    +feature('TGS with Tracy Jordan')
+    +cards(2,4)
+    +feature('The Fatties: Fart 2')
+    +cards(4,5)

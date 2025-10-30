@@ -1,0 +1,28 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Action & Thrills on Nestflix";
+    - var description = "Action and thrilling films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Action & Thrills on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['action movies', 'action adventure movies', 'dystopian action movies', 'action sci-fi films', 'action tv', 'spy movies', 'westerns', 'babies in action', 'thrillers' ];
+
+    +cards(0,1)
+    +feature('Los Dias y Las Noches de Monsigñor Martinez')
+    +cards(1,4)
+    +feature('The Lucas Lee Collection')
+    +cards(4,7)
+    +feature('McBain')
+    +cards(7,11)

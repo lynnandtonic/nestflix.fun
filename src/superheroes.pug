@@ -1,0 +1,24 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Superheroes on Nestflix";
+    - var description = "Superhero films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Superheroes on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['mighty movie heroes', 'tv superheroes', 'super team-ups' ];
+
+    +cards(0,1)
+    +feature('Dark Bunny')
+    +cards(1,3)

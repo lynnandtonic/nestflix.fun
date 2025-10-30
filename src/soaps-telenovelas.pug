@@ -1,0 +1,24 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Soaps & Telenovelas on Nestflix";
+    - var description = "Soap operas and telenovelas within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Soaps & Telenovelas on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['soap operas', 'telenovelas' ];
+
+    +cards(0,1)
+    +feature('La Última Pasión')
+    +cards(1,2)

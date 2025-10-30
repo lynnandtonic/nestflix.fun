@@ -5,26 +5,8 @@ block vars
     - var description = "A platform for fictional films and shows within other films and shows.";
     - var bodyClass = "landing";
 
-mixin feature(movieTitle)
-    div.entry.feature
-        div.entry-info
-            h2.logo
-              img(src='/img/_logos/logo-' + collections.byTitle[movieTitle].data.slug + '.svg', alt=collections.byTitle[movieTitle].data.title)
-            p !{collections.byTitle[movieTitle].data.description}
-            a.button(href=collections.byTitle[movieTitle].data.slug aria-label="Details for " + collections.byTitle[movieTitle].data.title) Details
-        div.entry-image 
-            img(src='/img/' + collections.byTitle[movieTitle].data.slug + '.jpg' alt=collections.byTitle[movieTitle].data.altHero)
-
-mixin cards(tag1,tag2)
-    each tag in tags.slice(tag1,tag2)
-        unless collections.ignoredTags.includes(tag.toLowerCase())
-            section.list.short
-                h2 !{tag}
-                ul.card-list.thumbs
-                    each entry in collections[tag]
-                        li
-                            a(href=entry.data.page.url)
-                                img(src='/img/' + entry.data.slug + '-thumb.jpg', alt=entry.data.title)
+include _includes/mixin-feature
+include _includes/mixin-cards
 
 block content
     section.hero
@@ -39,7 +21,8 @@ block content
 
     span#content
 
-    - var tags = ['dramas', 'comedies', 'action movies', 'action adventure movies', 'dystopian action movies', 'action sci-fi films', 'sci-fi films', 'monster movies', 'war and historical dramas', 'dramatic biopics', 'thrillers', 'crime shows', 'buddy cops', 'spy movies', 'westerns', 'documentaries', 'documentary series', 'sci-fi tv', 'aliens!', 'romantic dramas', 'romantic comedies', 'horror movies', 'slasher flicks', 'action tv', 'tv superheroes', 'tv dramas', 'reality tv', 'paranormal investigation', 'reality competition shows', 'food and cooking', 'reality dating shows', 'criminal justice reality tv', 'home and diy', 'babies in action', 'animals on tv', 'animated shorts', 'mighty movie heroes', 'hollywood’s golden age', 'game shows', 'game shows with a bit of danger!', 'variety shows', 'amateur filmmakers', 'web shows', 'comedy tv', 'sitcoms', 'family sitcoms', 'family films', 'musicals', 'kids tv', 'kids action shows', 'kids variety shows', 'tv for teens', 'educational videos', 'british tv', 'religious programming', 'for the holidays', 'soap operas', 'telenovelas', 'adults 18+', 'talk shows', 'public-access talk shows', 'entertainment commentary', 'sports and fitness', 'late night talk shows'];
+    //- - var tags = ['dramas', 'comedies', 'action movies', 'action adventure movies', 'dystopian action movies', 'action sci-fi films', 'sci-fi films', 'monster movies', 'war and historical dramas', 'dramatic biopics', 'thrillers', 'crime shows', 'buddy cops', 'spy movies', 'westerns', 'documentaries', 'documentary series', 'sci-fi tv', 'aliens!', 'romantic dramas', 'romantic comedies', 'horror movies', 'slasher flicks', 'action tv', 'tv superheroes', 'tv dramas', 'reality tv', 'paranormal investigation', 'reality competition shows', 'food and cooking', 'reality dating shows', 'criminal justice reality tv', 'home and diy', 'babies in action', 'animals on tv', 'animated shorts', 'mighty movie heroes', 'hollywood’s golden age', 'game shows', 'game shows with a bit of danger!', 'variety shows', 'amateur filmmakers', 'web shows', 'comedy tv', 'sitcoms', 'family sitcoms', 'family films', 'musicals', 'kids tv', 'kids action shows', 'kids variety shows', 'tv for teens', 'educational videos', 'british tv', 'religious programming', 'for the holidays', 'soap operas', 'telenovelas', 'adults 18+', 'talk shows', 'public-access talk shows', 'entertainment commentary', 'sports and fitness', 'late night talk shows'];
+    - var tags = ['popular right now']
 
     - var extraTags = ['new on nestflix'];
 
@@ -54,26 +37,48 @@ block content
 
     +cards(0,2)
 
-    +feature('Angels with Filthy Souls')
-
-    +cards(2,10)
-
-    +feature('Stab')
-
-    +cards(10,20)
-
     +feature('Satan’s Alley')
 
-    +cards(20,31)
-
-    +feature('Radioactive Man')
-
-    +cards(31,41)
-
-    +feature('Looking for LaToya')
-
-    +cards(41,51)
-
-    +feature('The Lucas Lee Collection')
-
-    +cards(51,64)
+    section.list.short
+        h2#categories Browse categories
+        ul.card-list.thumbs.categories
+            li: a(href="/comedy")
+                span Comedy
+            li: a(href="/drama")
+                span Drama
+            li: a(href="/kids-family")
+                span Kids & Family
+            li: a(href="/action-thrills")
+                span Action & Thrills
+            li: a(href="/sci-fi")
+                span Sci-Fi
+            li: a(href="/horror")
+                span Horror
+            li: a(href="/reality-documentary")
+                span Reality & Documentar
+            li: a(href="/western-classics")
+                span Westerns & Classics
+            li: a(href="/superheroes")
+                span Superheroes
+            li: a(href="/game-shows")
+                span Game Shows
+            li: a(href="/talk-shows")
+                span Talk Shows
+            li: a(href="/holidays-religion")
+                span Holidays & Religion
+            li: a(href="/crime")
+                span Crime
+            li: a(href="/romance")
+                span Romance
+            li: a(href="/soaps-telenovelas")
+                span Soaps & Telenovelas
+            li: a(href="/amateur-creators")
+                span Amateur Creators
+            li: a(href="/music")
+                span Music
+            li: a(href="/sports")
+                span Sports
+            li: a(href="/adults")
+                span Adults 18+
+            li: a(href="/british-tv")
+                span British TV

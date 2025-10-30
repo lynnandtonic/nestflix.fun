@@ -1,0 +1,24 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Game Shows on Nestflix";
+    - var description = "Game shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Game Shows on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['game shows', 'game shows with a bit of danger!', 'reality competition shows' ];
+
+    +cards(0,1)
+    +feature('The Running Man')
+    +cards(1,3)

@@ -1,0 +1,24 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Music on Nestflix";
+    - var description = "Musical films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Music on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['musicals', 'music competition', 'music variety' ];
+
+    +cards(0,1)
+    +feature('Mother')
+    +cards(1,3)

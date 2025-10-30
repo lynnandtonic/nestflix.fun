@@ -10,6 +10,7 @@
     text-transform: uppercase
     font-weight: $font-weight-medium
     font-size: 95%
+    scroll-margin-top: 20px
 
   .card-list
     margin-bottom: 0
@@ -48,6 +49,18 @@
     &.the-candy-black-collection
       @media screen and (min-width: $bp-sm + 1)
         grid-template-columns: repeat(2,1fr)
+
+    // category subpage
+    &.categories li a
+      display: grid
+      align-items: end
+      background: black
+      border-radius: 3px
+      font-weight: 600
+      font-size: 110%
+
+      span
+        padding: 1em
 
   li
 
@@ -91,7 +104,7 @@
         height: 100%
         position: absolute
         inset: 0
-        border: 2px solid white(.3)
+        border: 2px solid white(.5)
         border-radius: 3px
         opacity: 0
         transition: opacity 200ms ease-out

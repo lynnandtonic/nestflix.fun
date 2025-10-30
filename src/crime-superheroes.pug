@@ -1,0 +1,24 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Crime on Nestflix";
+    - var description = "Crime films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Crime on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['crime shows', 'buddy cops', 'criminal justice reality tv' ];
+
+    +cards(0,1)
+    +feature('Crime Scene: Scene of the Crime')
+    +cards(1,3)

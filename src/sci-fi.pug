@@ -1,0 +1,24 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Sci-fi on Nestflix";
+    - var description = "Science fiction films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Sci-fi on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['sci-fi films', 'action sci-fi films', 'sci-fi tv', 'aliens!' ];
+
+    +cards(0,2)
+    +feature('Galaxy Quest')
+    +cards(2,4)

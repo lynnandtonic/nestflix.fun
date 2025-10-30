@@ -1,0 +1,28 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Drama on Nestflix";
+    - var description = "Dramatic films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Drama on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['dramas', 'romantic dramas', 'war and historical dramas', 'dramatic biopics', 'tv dramas', 'dramatic crime shows', 'medical dramas', 'teen drama series' ];
+
+    +cards(0,1)
+    +feature('Teresa: The Making of a Saint')
+    +cards(1,3)
+    +feature('Good Will Hunting 2: Hunting Season')
+    +cards(3,5)
+    +feature('The Rise & Fall of Sanctuary Moon')
+    +cards(5,8)

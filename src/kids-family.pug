@@ -1,0 +1,26 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Kids & Family on Nestflix";
+    - var description = "Kids, teens, & family films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Kids & Family on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['family films', 'family sitcoms', 'kids tv', 'kids action shows', 'kids variety shows', 'tv for teens', 'educational videos' ];
+
+    +cards(0,1)
+    +feature('It’s Smoochy Time')
+    +cards(1,3)
+    +feature('Hungry Hungry Hippos')
+    +cards(3,7)

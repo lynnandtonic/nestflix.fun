@@ -1,0 +1,28 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Reality & Documentary on Nestflix";
+    - var description = "Reality and documentary films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Reality & Documentary on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['reality tv', 'reality competition shows', 'reality dating shows', 'documentaries', 'documentary series', 'food and cooking', 'home and diy', 'criminal justice reality tv', 'paranormal investigation', 'animals on tv' ];
+
+    +cards(0,1)
+    +feature('Party Monster: Scratching the Surface')
+    +cards(1,3)
+    +feature('Sick, Sad World')
+    +cards(3,7)
+    +feature('Repo Divorcées')
+    +cards(7,10)

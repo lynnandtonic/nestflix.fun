@@ -1,0 +1,24 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Holidays & Religion on Nestflix";
+    - var description = "Holiday and religious films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Holidays & Religion on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['for the holidays', 'religious programming' ];
+
+    +cards(0,1)
+    +feature('Scrooge')
+    +cards(1,2)

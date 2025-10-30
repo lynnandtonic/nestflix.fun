@@ -1,0 +1,24 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Sports on Nestflix";
+    - var description = "Sports films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Sports on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['sports talk', 'fighters face off', 'sports films and series', 'fitness' ];
+
+    +cards(0,2)
+    +feature('Sparkle Your Life with Elisabeth')
+    +cards(2,4)

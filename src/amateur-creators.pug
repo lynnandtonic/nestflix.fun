@@ -1,0 +1,24 @@
+extends _includes/skeleton
+
+block vars 
+    - var title = "Amateur Creators on Nestflix";
+    - var description = "Amateur films and shows within other films and shows.";
+    - var bodyClass = "category";
+
+include _includes/mixin-feature
+include _includes/mixin-cards
+
+block content
+    section.category.hero
+        div.hero-info
+            div
+                h1 Amateur Creators on Nestflix
+                p Lorem ipsum
+
+    span#content
+
+    - var tags = ['amateur filmmakers', 'web shows', 'public-access talk shows' ];
+
+    +cards(0,1)
+    +feature('Chief Starr and the Raiders of the Galaxy')
+    +cards(1,3)
