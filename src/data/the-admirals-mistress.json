@@ -1,0 +1,41 @@
+{
+  "slug": "the-admirals-mistress",
+  "title": "The Admiral’s Mistress",
+  "description": "A young soldier returns home to his love, but the horrors of war haunt him. He must rediscover the part of himself that remembers how to love.",
+  "quote": "I’ve taken the measure of many ladies’ virtue and come up short.",
+  "parent": "Get Shorty",
+  "parentYear": "2017-2019",
+  "parentIMDB": "5761496",
+  "rating": "PG-13",
+  "runtime": "2h 4m",
+  "starring": [
+    "Max Kisbye",
+    "Sofia Borenstein",
+    "David Oumou",
+    "Nathan Hill",
+    "Katie Daly"
+  ],
+  "director": [
+    "Hafdis Snaejornsson"
+  ],
+  "producer": "Rick Moreweather, Miles Daly",
+  "studio": "MGM",
+  "labels": [
+    "war drama",
+    "romance"
+  ],
+  "credit": "MGM Television",
+  "altHero": "Max Kisbye as the Admiral",
+  "alt1": "The Admiral speaks with Lord Sheridan",
+  "alt2": "The Admiral speaks with a young girl",
+  "alt3": "The Admiral sword fighting",
+  "alt4": "The Admiral wounded in war, embracing a nurse",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas",
+    "new on nestflix"
+  ]
+}
