@@ -1,0 +1,31 @@
+{
+  "slug": "wipe-those-feet",
+  "title": "Wipe Those Feet",
+  "description": "A 1972 PSA by the American Council for Cleanliness. The ’70s were such a huge chaotic mess that instead of facing the unpleasant realities of an evil President, economic turmoil, and unjust foreign wars, some people focused on things they could control… like wiping your feet!",
+  "parent": "Animaniacs",
+  "parentYear": "2020-2023",
+  "parentIMDB": "6951546",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "starring": [
+    "Wakko Warner",
+    "Yakko Warner",
+    "Dot Warner"
+  ],
+  "labels": [
+    "educational"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "highly stylized, minimalist versions of Wakko, Yakko, and Dot wiping their muddy feet",
+  "alt1": "an outside door mat with a smile",
+  "alt2": "Wakko, Yakko, and Dot walking through the woods",
+  "alt3": "Wakko being yelled at by a three-headed flower",
+  "alt4": "Wakko, Yakko, and Dot being yelled at by a broom",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
