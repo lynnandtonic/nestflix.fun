@@ -1,0 +1,28 @@
+{
+  "slug": "one-world-to-hope-for",
+  "title": "One World to Hope For",
+  "description": "A show centered around people who care about each other. It’s about love, compassion, warmth, concern for humanity, and it shows that change can take a long time.",
+  "quote": "Monica, you’re my daughter, not some alien from another planet.",
+  "parent": "ALF",
+  "parentYear": "1986-1990",
+  "parentIMDB": "0090390",
+  "rating": "TV-G",
+  "runtime": "6 seasons",
+  "labels": [
+    "soap opera",
+    "drama"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "man and woman on the couch, the woman is holding a compress to her head",
+  "alt1": "closeup of woman talking",
+  "alt2": "son talking",
+  "alt3": "man and woman talking with mother-in-law",
+  "alt4": "mother-in-law",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ]
+}
