@@ -1,0 +1,32 @@
+{
+  "slug": "clutter-free",
+  "title": "Clutter Free",
+  "description": "Minimalism is the key to a happier life. But you must be willing to let go of your possessions.",
+  "quote": "I love this sweater, but I do not wear it anymore. And it’s making such a mess, I want to scream.",
+  "parent": "Big City Greens",
+  "parentYear": "2018-Present",
+  "parentIMDB": "7165904",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Serenity Spruce"
+  ],
+  "labels": [
+    "reality",
+    "home improvement"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Serenity Spruce giving a kind smile",
+  "alt1": "Serenity hugging a sweater and crying",
+  "alt2": "Serenity throwing the sweater into a wall-sized incinerator",
+  "alt3": "Serenity smiling calmly in front of huge flames",
+  "alt4": "Serenity with a man who has removed his hat to reveal super long red hair",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home and diy",
+    "new on nestflix"
+  ]
+}
