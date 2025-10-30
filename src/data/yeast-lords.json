@@ -1,0 +1,36 @@
+{
+  "slug": "yeast-lords",
+  "title": "Yeast Lords: The Bronco Years",
+  "description": "Based on the writing of Benjamin Purvis, a story about two lonely souls that find love during a time of war and disease.",
+  "quote": "Working at the yeast facility has made my breasts so big and gave me so many diseases.",
+  "parent": "Gentlemen Broncos",
+  "parentYear": "2009",
+  "parentIMDB": "1161418",
+  "rating": "Unrated",
+  "runtime": "1h 23m",
+  "starring": [
+    "Dusty Crissop",
+    "Lonnie Donaho"
+  ],
+  "director": [
+    "Lonnie Donaho"
+  ],
+  "studio": "Donaho Studios",
+  "labels": [
+    "sci-fi",
+    "amateur"
+  ],
+  "credit": "Fox Searchlight Pictures",
+  "altHero": "two men riding reindeer, they are obviously little models",
+  "alt1": "Crissop and Donaho with arms up diagonally, entering a lair",
+  "alt2": "Crissop and Donaho walking with mountains behind",
+  "alt3": "man wearing golden headdress pointing a gun from behind a rock; the shot is overexposed",
+  "alt4": "people running away",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
