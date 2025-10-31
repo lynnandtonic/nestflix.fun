@@ -7,18 +7,22 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Music on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Vampire Disco Death Dance')
+        +entry-img('Mother')
+        +entry-img('America’s Kidz Got Singing')
+        +entry-img('Chillaxin’')
+        +entry-img('American Dreamz')
+        .info
+            h1 Music on Nestflix
 
     span#content
 
     - var tags = ['musicals', 'music competition', 'music variety' ];
 
     +cards(0,1)
-    +feature('Mother')
+    +feature('Daddy’s Boy!')
     +cards(1,3)

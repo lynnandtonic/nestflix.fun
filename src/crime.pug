@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Crime on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Brazzos')
+        +entry-img('The Finder Outer')
+        +entry-img('Pam’s Court')
+        +entry-img('Black & White: Impossible Crimes Unit')
+        +entry-img('Big Shot')
+        .info
+            h1 Crime on Nestflix
 
     span#content
 

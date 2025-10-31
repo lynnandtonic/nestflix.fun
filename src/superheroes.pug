@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Superheroes on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Dawn of the Seven')
+        +entry-img('Radioactive Man')
+        +entry-img('Advancimals')
+        +entry-img('The Gray Ghost')
+        +entry-img('Crash Nebula')
+        .info
+            h1 Superheroes on Nestflix
 
     span#content
 

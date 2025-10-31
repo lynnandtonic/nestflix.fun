@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Holidays & Religion on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Snowflake Jake Saves Snowflake Day')
+        +entry-img('Cosmic Wars: Holiday Special')
+        +entry-img('The New Adventures of Gravey and Jobriath')
+        +entry-img('Tales of the Old Testament')
+        +entry-img('KISS Saves Santa')
+        .info
+            h1 Holidays & Religion on Nestflix
 
     span#content
 

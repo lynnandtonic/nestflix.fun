@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Sports on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Pucks!')
+        +entry-img('Sports Shouting')
+        +entry-img('Man vs Car')
+        +entry-img('Supreme Extreme Champions')
+        +entry-img('Sparkle Your Life with Elisabeth')
+        .info
+            h1 Sports on Nestflix
 
     span#content
 

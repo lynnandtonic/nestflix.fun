@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Drama on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Defamation')
+        +entry-img('Alphabet City')
+        +entry-img('Home for Purim')
+        +entry-img('Merrily We Dance')
+        +entry-img('The Crowned Queen')
+        .info
+            h1 Drama on Nestflix
 
     span#content
 

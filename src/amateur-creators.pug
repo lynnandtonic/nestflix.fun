@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Amateur Creators on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('The Case')
+        +entry-img('The Brigsby Movie I Made with My Friends')
+        +entry-img('Shut Up and Listen')
+        +entry-img('Threat Level Midnight')
+        +entry-img('A Film by Kirk')
+        .info
+            h1 Amateur Creators on Nestflix
 
     span#content
 

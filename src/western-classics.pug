@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Westerns & Classics on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Woody’s Roundup')
+        +entry-img('Lazy Ol’ Moon')
+        +entry-img('Hotel Reverie')
+        +entry-img('Billy The Kid')
+        +entry-img('The Royal Rascal')
+        .info
+            h1 Westerns & Classics on Nestflix
 
     span#content
 

@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Kids & Family on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('The Littlest Elf')
+        +entry-img('Dark Bunny')
+        +entry-img('Smile Time')
+        +entry-img('Papa Troll')
+        +entry-img('Camp Pining Hearts')
+        .info
+            h1 Kids & Family on Nestflix
 
     span#content
 

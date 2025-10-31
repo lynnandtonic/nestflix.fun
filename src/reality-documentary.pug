@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Reality & Documentary on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Looking for LaToya')
+        +entry-img('Hot Shot')
+        +entry-img('The Wives of Wall Street')
+        +entry-img('Party Monster: Scratching the Surface')
+        +entry-img('Green Queen')
+        .info
+            h1 Reality & Documentary on Nestflix
 
     span#content
 

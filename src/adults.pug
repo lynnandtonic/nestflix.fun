@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Adults on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('The Farmer’s Daughters')
+        +entry-img('Feral Pleasures')
+        +entry-img('Buffay the Vampire Layer')
+        +entry-img('How Do You Like My Car, Big Boy?')
+        +entry-img('Brock Landers: Angels Live in My Town')
+        .info
+            h1 Adults on Nestflix
 
     span#content
 

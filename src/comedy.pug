@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Comedy on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('The Tracy Jordan Collection')
+        +entry-img('Ow! My Balls!')
+        +entry-img('The George Simmons Collection')
+        +entry-img('Where Are My Pants?')
+        +entry-img('Gout Lovers')
+        .info
+            h1 Comedy on Nestflix
 
     span#content
 

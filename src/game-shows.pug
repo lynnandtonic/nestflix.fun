@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Game Shows on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Wheel of Fish')
+        +entry-img('Family Fracas')
+        +entry-img('Pay as You Go!')
+        +entry-img('Up Your Ante!')
+        +entry-img('Can’t Stop the Quiz')
+        .info
+            h1 Game Shows on Nestflix
 
     span#content
 

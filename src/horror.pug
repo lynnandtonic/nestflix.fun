@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Horror on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Terror Within')
+        +entry-img('The Careful Massacre of the Bourgeoisie')
+        +entry-img('The Puritan II')
+        +entry-img('Chucky Goes Psycho')
+        +entry-img('Mant!')
+        .info
+            h1 Horror on Nestflix
 
     span#content
 

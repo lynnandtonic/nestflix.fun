@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Action & Thrills on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Hamlet')
+        +entry-img('Sand Pirates of the Sahara')
+        +entry-img('McBain')
+        +entry-img('X Marks the Murder Spot')
+        +entry-img('Robofrog')
+        .info
+            h1 Action & Thrills on Nestflix
 
     span#content
 

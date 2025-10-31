@@ -7,17 +7,21 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 British TV on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Inspector Spacetime')
+        +entry-img('The Nests of Netherfield')
+        +entry-img('When the Whistle Blows')
+        +entry-img('Highcastle Abbey')
+        +entry-img('Buckle Your Shoes')
+        .info
+            h1 British TV on Nestflix
 
     span#content
 
     - var tags = ['british tv' ];
 
     +cards(0,1)
-    +feature('Inspector Spacetime')
+    +feature('A Sensible Migration')

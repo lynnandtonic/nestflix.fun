@@ -1,33 +1,57 @@
 /*--------------------------------------------------------------------
-* $CATEGORY
+* $CATEGORY PAGE
 --------------------------------------------------------------------*/
 
-.category
+$bp-entry = 800px
 
-  .hero
-    height: 30vh
-    min-height: 300px
-    max-height: 500px
-    margin-bottom: calc(var(--body-padding)*1.5)
-    position: relative
-    display: flex
-    // justify-content: center
-    align-items: flex-end
-    // overflow: hidden
-    text-shadow: 0 2px 5px black(.5)
-    background-color: black
+.category .hero
+  height: clamp(200px,40vh,400px)
+  position: relative
+  overflow: hidden
+  
+  picture
+    height: 100%
+    aspect-ratio: 1500 / 1100
+    position: absolute
+    left: 50%
 
-    @media screen and (max-width: $bp-md)
-      height: 350px
-      font-size: 80%
+    &:nth-of-type(1)
+      transform: translateX(-50%)
+    &:nth-of-type(2)
+      transform: translateX(-130%)
+      mask-image: linear-gradient(to left, black(0), black 15%)
+    &:nth-of-type(3)
+      transform: translateX(30%)
+      mask-image: linear-gradient(to right, black(0), black 15%)
+    &:nth-of-type(4)
+      transform: translateX(110%)
+      mask-image: linear-gradient(to right, black(0),
+                                            black 15%,
+                                            black 83%,
+                                            black(0) 100%)
+    &:nth-of-type(5)
+      transform: translateX(-210%)
+      mask-image: linear-gradient(to right, black(0),
+                                            black 15%,
+                                            black 83%,
+                                            black(0) 100%)
 
-
-  .hero-info
-    max-width: 550px
-    margin: 2em var(--body-padding) 0
-    font-size: 120%
-    z-index: 2
+  .info
+    width: 100%
+    height: 101%
+    padding: var(--body-padding)
+    position: absolute
+    top: 0
+    left: 0
+    display: grid
+    place-content: center
+    background-image: linear-gradient(to top, black(.9) 0, black(.3) 100%),
+                      repeating-linear-gradient(to right, black(.1),
+                                                          black(.1) 2px,
+                                                          black(0) 2px,
+                                                          black(0) 4px)
     text-shadow: 2px 2px 5px black
+    text-align: center
 
-    p
-      font-weight: $font-weight-normal
+    h1
+      margin-top: 1.5em

@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Soaps & Telenovelas on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Southwest General')
+        +entry-img('Mundo del Amor')
+        +entry-img('Tiago a Través del Tiempo')
+        +entry-img('Smoldering Cove')
+        +entry-img('Exploción Gigantesca de Romance')
+        .info
+            h1 Soaps & Telenovelas on Nestflix
 
     span#content
 

@@ -154,9 +154,7 @@ $bp-entry = 800px
     margin-bottom: var(--body-padding)
 
     &.hero
-      height: 87vh
-      min-height: 600px
-      max-height: 850px
+      height: clamp(600px,87vh,850px)
 
     &.feature
       height: 65vh

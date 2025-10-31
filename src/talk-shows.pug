@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Talk Shows on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Montague')
+        +entry-img('Today in Fashion')
+        +entry-img('Wayne’s World')
+        +entry-img('Dishing Davenport')
+        +entry-img('Live! with Murray Franklin')
+        .info
+            h1 Talk Shows on Nestflix
 
     span#content
 

@@ -7,13 +7,17 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
-    section.category.hero
-        div.hero-info
-            div
-                h1 Romance on Nestflix
-                p Lorem ipsum
+    section.hero
+        +entry-img('Special Someone')
+        +entry-img('The Salt Flats')
+        +entry-img('The Girl Who Stole the Eiffel Tower')
+        +entry-img('The Wedding Bride')
+        +entry-img('Unbitten')
+        .info
+            h1 Romance on Nestflix
 
     span#content
 
