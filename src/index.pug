@@ -7,6 +7,7 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
+include _includes/mixin-entry-img
 
 block content
     section.hero
@@ -37,48 +38,68 @@ block content
 
     +cards(0,2)
 
-    +feature('Satan’s Alley')
+    +feature('Angels with Filthy Souls')
 
     section.list.short
         h2#categories Browse categories
         ul.card-list.thumbs.categories
             li: a(href="/comedy")
+                +entry-img('The Tracy Jordan Collection')
                 span Comedy
             li: a(href="/drama")
+                +entry-img('Satan’s Alley')
                 span Drama
             li: a(href="/kids-family")
+                +entry-img('Condiments')
                 span Kids & Family
             li: a(href="/action-thrills")
+                +entry-img('The Lucas Lee Collection')
                 span Action & Thrills
             li: a(href="/sci-fi")
+                +entry-img('Codename: Dragonfly')
                 span Sci-Fi
             li: a(href="/horror")
+                +entry-img('The Puritan II')
                 span Horror
             li: a(href="/reality-documentary")
-                span Reality & Documentar
+                +entry-img('Repo Divorcées')
+                span Reality & Documentary
             li: a(href="/western-classics")
+                +entry-img('Bounty Law')
                 span Westerns & Classics
             li: a(href="/superheroes")
+                +entry-img('Dawn of the Seven')
                 span Superheroes
             li: a(href="/game-shows")
                 span Game Shows
+                +entry-img('Crazy Family Awesome Time Portland')
             li: a(href="/talk-shows")
+                +entry-img('Night Owls with Jack Delroy')
                 span Talk Shows
             li: a(href="/holidays-religion")
+                +entry-img('Scrooge')
                 span Holidays & Religion
             li: a(href="/crime")
+                +entry-img('The Finder Outer')
                 span Crime
             li: a(href="/romance")
+                +entry-img('Special Someone')
                 span Romance
             li: a(href="/soaps-telenovelas")
+                +entry-img('Nurse Norton’s Affair')
                 span Soaps & Telenovelas
             li: a(href="/amateur-creators")
+                +entry-img('Greg Gaines and Earl Jackson Collection')
                 span Amateur Creators
             li: a(href="/music")
+                +entry-img('Mother')
                 span Music
             li: a(href="/sports")
+                +entry-img('Supreme Extreme Champions')
                 span Sports
             li: a(href="/adults")
+                +entry-img('The Farmer’s Daughters')
                 span Adults 18+
             li: a(href="/british-tv")
+                +entry-img('The Doctor Zone Files')
                 span British TV

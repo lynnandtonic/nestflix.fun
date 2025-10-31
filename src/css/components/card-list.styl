@@ -58,9 +58,21 @@
       border-radius: 3px
       font-weight: 600
       font-size: 110%
+      overflow: hidden
+      
+      &:hover
+        text-decoration: none
+
+      picture
+        position: absolute
+        top: -10%
+        left: 0
+        z-index: -1
+        mask-image: radial-gradient(ellipse at top right, black 25%, black(0) 75%)
 
       span
         padding: 1em
+        background-image: linear-gradient(to top, black(.5) 20%, black(0) 100%)
 
   li
 
