@@ -1,5 +1,5 @@
 mixin feature(movieTitle)
-    div.entry.feature
+    div.entry.feature(class!=attributes.class)
         div.entry-info
             h2.logo
               img(src='/img/_logos/logo-' + collections.byTitle[movieTitle].data.slug + '.svg', alt=collections.byTitle[movieTitle].data.title)

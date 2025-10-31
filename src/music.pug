@@ -10,6 +10,7 @@ include _includes/mixin-cards
 include _includes/mixin-entry-img
 
 block content
+
     section.hero
         +entry-img('Vampire Disco Death Dance')
         +entry-img('Mother')
@@ -24,5 +25,7 @@ block content
     - var tags = ['musicals', 'music competition', 'music variety' ];
 
     +cards(0,1)
-    +feature('Daddy’s Boy!')
+    +feature('Daddy’s Boy!')(class='feature-1')
+    +feature('Mother')(class='feature-2')
+    +feature('The Corny Collins Show')(class='feature-3')
     +cards(1,3)

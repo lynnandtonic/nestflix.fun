@@ -5,9 +5,7 @@
 .landing
 
   .hero
-    height: 60vh
-    min-height: 500px
-    max-height: 800px
+    height: clamp(400px, 65vh, 700px)
     margin-bottom: calc(var(--body-padding)*1.5)
     position: relative
     display: flex
@@ -49,7 +47,7 @@
       object-fit: cover
 
   .hero-info
-    max-width: 500px
+    max-width: 40ch
     margin: 2em var(--body-padding) 0
     font-size: 120%
     text-align: center

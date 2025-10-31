@@ -75,5 +75,7 @@ html(lang='en')
                 p.coffee #[span Like this site?]
                  a(href='https://www.buymeacoffee.com/lynnandtonic') Buy me a coffee
 
+        if bodyClass == 'landing' || 'category'
+            include feature-js
         script(data-goatcounter='https://nestflix.goatcounter.com/count'
             async src='//gc.zgo.at/count.js')

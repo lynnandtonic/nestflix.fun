@@ -1,0 +1,13 @@
+script.
+    const features = ["feature-1", "feature-2", "feature-3"];
+
+    const random = Math.floor(Math.random() * features.length);
+    const className = (random, features[random]);
+    window.onload = function () {
+        var showFeatures = document.getElementsByClassName(className),
+            len = showFeatures !== null ? showFeatures.length : 0,
+            i = 0;
+        for(i; i < len; i++) {
+            showFeatures[i].className += " active"; 
+        }
+    };

@@ -15,6 +15,10 @@ $bp-entry = 800px
     --gradient: $teal
     margin: var(--body-padding)
     margin-bottom: calc(var(--body-padding)*2)
+    display: none
+    
+    &.active
+      display: block
 
     p
       margin-bottom: 1.5em
@@ -178,6 +182,10 @@ $bp-entry = 800px
         --gradient: darken(crimson,10)
       &:nth-of-type(6)
         --gradient: darken(rebeccapurple,10)
+      &:nth-of-type(7)
+        --gradient: $pink-med
+      &:nth-of-type(9)
+        --gradient: darken(steelblue,10)
 
     .entry-info
       width: 50%
