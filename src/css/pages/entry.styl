@@ -23,6 +23,21 @@ $bp-entry = 800px
     p
       margin-bottom: 1.5em
 
+    &:nth-of-type(2)
+      --gradient: darken(steelblue,10)
+    &:nth-of-type(3)
+      --gradient: #111
+    &:nth-of-type(4)
+      --gradient: #f65a65
+    &:nth-of-type(5)
+      --gradient: darken(crimson,10)
+    &:nth-of-type(6)
+      --gradient: darken(rebeccapurple,10)
+    &:nth-of-type(7)
+      --gradient: $pink-med
+    &:nth-of-type(9)
+      --gradient: darken(steelblue,10)
+
   .entry-info
     padding: var(--body-padding)
     position: relative
@@ -30,7 +45,6 @@ $bp-entry = 800px
     display: flex
     flex-direction: column
     justify-content: flex-end
-    background-image: linear-gradient(50deg, black(.3) 10%, black(0) 50%)
 
     :last-child
       margin-bottom: 0
@@ -135,7 +149,8 @@ $bp-entry = 800px
     .entry-info
       width: 100%
       margin-top: -50px
-      
+      background-image: linear-gradient(30deg, black(.3) 10%, black(0) 50%)
+
       .logo
         max-width: 90%
 
@@ -165,27 +180,8 @@ $bp-entry = 800px
       min-height: 400px
       max-height: 750px
 
-      &:first-of-type,
-      &:nth-of-type(2),
-      &:nth-of-type(3),
-      &:nth-of-type(5)
-        img
-          object-position: 50% 0
-
-      &:nth-of-type(2)
-        --gradient: darken(steelblue,10)
-      &:nth-of-type(3)
-        --gradient: #111
-      &:nth-of-type(4)
-        --gradient: #f65a65
-      &:nth-of-type(5)
-        --gradient: darken(crimson,10)
-      &:nth-of-type(6)
-        --gradient: darken(rebeccapurple,10)
-      &:nth-of-type(7)
-        --gradient: $pink-med
-      &:nth-of-type(9)
-        --gradient: darken(steelblue,10)
+      img
+        object-position: 50% 0
 
     .entry-info
       width: 50%
