@@ -1,0 +1,22 @@
+{
+  "slug": "bounce-like-a-bouncer",
+  "title": "Bounce Like a Bouncer: An Exercise Video",
+  "description": "Join Jerry and get your body moving and heart pumping.",
+  "quote": "Let’s do our first move: The Check Your Perimeter For Punks.",
+  "parent": "Dogs in Space",
+  "parentYear": "2021-2022",
+  "parentIMDB": "14906826",
+  "rating": "Unrated",
+  "runtime": "10 episodes",
+  "labels": [
+    "fitness"
+  ],
+  "credit": "Netflix",
+  "altHero": "Jerry the dog in exercise gear with two other pups doing aerobics",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "video series",
+    "fitness"
+  ]
+}
