@@ -1,0 +1,32 @@
+{
+  "slug": "think-thank-thunk",
+  "title": "Think Thank Thunk",
+  "description": "Welcome to the trivia game show where the biggest brain reigns.",
+  "quote": "Put on your thinking caps.",
+  "parent": "The Batman",
+  "parentYear": "2004-2008",
+  "parentIMDB": "0398417",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Ross Darren"
+  ],
+  "producer": "Bert Zeigler",
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "host Ross Darren",
+  "alt1": "the set of the show",
+  "alt2": "Artie Brown, a teen boy contestant holding up three fingers",
+  "alt3": "Yelena Kleimenoff, a teen girl contestant",
+  "alt4": "woman rolling out two tall stacks of Kremelos boxes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
