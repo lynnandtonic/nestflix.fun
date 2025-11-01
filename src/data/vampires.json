@@ -1,0 +1,39 @@
+{
+  "slug": "vampires",
+  "title": "Vampires",
+  "description": "The previously unreleased 1958 documentary by the Maysles Brothers, who spent ten years documenting a house of vampires, but recorded very little interesting footage.",
+  "quote": "House meeting item number 1. I want to talk about general hygiene in the cell. Please please please finish a whole victim before moving on to the next.",
+  "parent": "What We Do in the Shadows",
+  "parentYear": "2019-2024",
+  "parentIMDB": "7908628",
+  "rating": "Unrated",
+  "runtime": "48m",
+  "starring": [
+    "Nandor the Relentless",
+    "Laszlo Cravensworth",
+    "Nadja of Antipaxos",
+    "Colin Robinson",
+    "Jerry"
+  ],
+  "director": [
+    "The Maysles Brothers"
+  ],
+  "labels": [
+    "documentary",
+    "vampires"
+  ],
+  "credit": "FX",
+  "altHero": "black and white grainy film: Nadja and Nandor",
+  "alt1": "the vampires gather in a sitting room",
+  "alt2": "Jerry",
+  "alt3": "Laszlo stands next to a headless Frankenstein’s monster-esque body of sewn together parts",
+  "alt4": "Colin Robinson",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "new on nestflix"
+  ]
+}
