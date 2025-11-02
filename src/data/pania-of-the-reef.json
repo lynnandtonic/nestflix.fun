@@ -1,0 +1,32 @@
+{
+  "slug": "pania-of-the-reef",
+  "title": "Pania of the Reef",
+  "description": "A transcendent adaptation of the story of Pania of the Reef, the beauitful sea maiden of Māori mythology.",
+  "parent": "Aroha Bridge",
+  "parentYear": "2013-2019",
+  "parentIMDB": "8897456",
+  "rating": "PG",
+  "runtime": "1h 43m",
+  "starring": [
+    "Angeline Hook",
+    "Monty Hook",
+    "Noogy Hook"
+  ],
+  "labels": [
+    "family",
+    "romance"
+  ],
+  "credit": "Piki Films",
+  "altHero": "Pania, waist-deep in the sea, waving",
+  "alt1": "Pania among her sea creature friends",
+  "alt2": "Karitoki, Māori chief, on the shore",
+  "alt3": "Pania jumping into the sea",
+  "alt4": "Karitoki waving",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
