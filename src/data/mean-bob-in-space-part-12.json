@@ -1,0 +1,29 @@
+{
+  "slug": "mean-bob-in-space-part-12",
+  "title": "Mean Bob in Space Part 12",
+  "description": "Mean Bob travels the galaxy to defeat the Salivians and rescue Princess Kitaen.",
+  "quote": "I’m on it!",
+  "parent": "CatDog",
+  "parentYear": "1998-2005",
+  "parentIMDB": "0154061",
+  "rating": "PG",
+  "runtime": "1h 49m",
+  "studio": "Rancid Pictures",
+  "labels": [
+    "sci-fi",
+    "space"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Mean Bob at the helm of his ship",
+  "alt1": "Mean Bob’s ship",
+  "alt2": "Mean Bob watching a large screen with activity monitor",
+  "alt3": "Mean Bob",
+  "alt4": "two alien ships flying through space",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ]
+}
