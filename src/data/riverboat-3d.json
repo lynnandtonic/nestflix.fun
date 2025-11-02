@@ -1,0 +1,31 @@
+{
+  "slug": "riverboat-3d",
+  "title": "Riverboat 3D",
+  "description": "John, a recovering gambling addict, needs to get to St. Louis for his daughter’s operation. The fastest route is aboard The Royal Flush, the most advanced freshwater river boat casino in the world.",
+  "quote": "There’s no folding on the Royal Flush. We’re all in!",
+  "parent": "Animaniacs",
+  "parentYear": "2020-2023",
+  "parentIMDB": "6951546",
+  "rating": "PG",
+  "runtime": "2h 7m",
+  "starring": [
+    "Dwayne Johnson"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a grand riverboat",
+  "alt1": "man looking over the boat railing as a fire grows behind him",
+  "alt2": "a disheveled and dirty southern woman looks down the stairs at Dwayne Johnson holding a fire extinguisher",
+  "alt3": "Johnson wearing an American flag big and holding a slice of lemon and a crab cracker",
+  "alt4": "a giant crab",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
