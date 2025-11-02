@@ -1,0 +1,26 @@
+{
+  "slug": "weird-warrens-video-countdown",
+  "title": "Weird Warren’s Video Countdown",
+  "description": "Homeboys, homegirls, ain’t no need to be lax cos you got Weird Warren workin’ wax. Of course, CD stacks and video tracks.",
+  "parent": "CB4",
+  "parentYear": "1993",
+  "parentIMDB": "0106500",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Weird Warren"
+  ],
+  "labels": [
+    "variety show",
+    "music"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Weird Warren, arms crossed in a brightly patterend vest",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "music variety",
+    "new on nestflix"
+  ]
+}
