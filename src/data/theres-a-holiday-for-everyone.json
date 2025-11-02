@@ -1,0 +1,32 @@
+{
+  "slug": "theres-a-holiday-for-everyone",
+  "title": "There’s A Holiday For Everyone",
+  "description": "Kwanzaabot and Chanukah Zombie tell the story of the first Xmas in 2801 and the creation of Robot Santa.",
+  "quote": "But on Santa’s very first delivery, something went tragically meshuggenah.",
+  "parent": "Futurama",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0149460",
+  "rating": "G",
+  "runtime": "1h 34m",
+  "starring": [
+    "Kwanzaabot",
+    "Chanukah Zombie"
+  ],
+  "labels": [
+    "holiday",
+    "robots"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "Robot Santa getting put together by a team of scientists",
+  "alt1": "Kwanzaabot and Chanukah Zombie talking to some kids in the snow",
+  "alt2": "The Friendly Robot Company building in the snow",
+  "alt3": "Robot Santa shooting a huge gun with fire coming out the end",
+  "alt4": "scientist with cracked glasses, a boxed gift flying through the air",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ]
+}
