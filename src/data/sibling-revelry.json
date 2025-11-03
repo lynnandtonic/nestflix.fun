@@ -1,0 +1,29 @@
+{
+  "slug": "sibling-revelry",
+  "title": "Sibling Revelry",
+  "description": "A simple cartoon with spark. A baby and a dog compete for Dad’s attention.",
+  "parent": "Son of the Mask",
+  "parentYear": "2005",
+  "parentIMDB": "0362165",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "creator": "Tim Avery",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "New Line Cinema",
+  "altHero": "baby holding up an open box of Cuban cigars",
+  "alt1": "dog holding up a sandwich",
+  "alt2": "baby wheeling out a tiny sushi chef who is chopping up fish",
+  "alt3": "dog lighting the baby on fire with a flamethrower",
+  "alt4": "mom giving dad a kiss",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
