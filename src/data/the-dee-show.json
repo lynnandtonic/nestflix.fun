@@ -1,0 +1,28 @@
+{
+  "slug": "the-dee-show",
+  "title": "The Dee Show",
+  "description": "Join host Dee as she addresses serious issues facing modern women today.",
+  "parent": "Producing Parker",
+  "parentYear": "2009-2011",
+  "parentIMDB": "1159608",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "producer": "Parker Kovak",
+  "studio": "Bellamy Broadcasting",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Mercury Filmworks",
+  "altHero": "Dee sitting on her trademark couch",
+  "alt1": "Dee chatting with a guest",
+  "alt2": "Dee about to pull down a big red curtain",
+  "alt3": "audience members with their dogs",
+  "alt4": "Dee hodling up the book “I Was a Teenage Bully”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
