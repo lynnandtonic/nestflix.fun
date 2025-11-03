@@ -1,0 +1,29 @@
+{
+  "slug": "chinpokomon",
+  "title": "Chinpokomon",
+  "description": "The popular Japanese toys come to life! The inexplicable adventures of Furrycat, Donkeytron, Pengin, Shoe, and Lambtor. Collect them all, and you can become Royal Crown Chinpoko Master.",
+  "quote": "Someday, I will collect all the Chinpokomon, then I will fight the Evil Power that will reveal itself once all the Chinpokomon are collectable!",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0121955",
+  "rating": "TV-Y",
+  "runtime": "7 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "the Chinpokomon",
+  "alt1": "two human kids",
+  "alt2": "Donkeytron shooting a laser",
+  "alt3": "kid in a dojo",
+  "alt4": "Lambtor and Furrycat fighting",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "new on nestflix"
+  ]
+}
