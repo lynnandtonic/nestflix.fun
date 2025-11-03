@@ -1,0 +1,29 @@
+{
+  "slug": "tundra-woman",
+  "title": "Tundra Woman",
+  "description": "The failed adaptation of the popular comic books. After a gigantic meteor collides with the Earth, the ensuing ice age advances with such rapidity that whole civilizations are buried in a perpetual blizzard. A new breed of human is born.",
+  "quote": "Pengy, I’m like, totally bored. There’s just nothing to do in this stupid ice world.",
+  "parent": "Pepper Ann",
+  "parentYear": "1997-2000",
+  "parentIMDB": "0128890",
+  "rating": "TV-G",
+  "runtime": "2 episodes",
+  "labels": [
+    "kids",
+    "superheroes"
+  ],
+  "credit": "Walt Disney Television Animation",
+  "altHero": "Tundra Woman, a teen girl in a puffy jacket, flies in a craft with a penguin friend",
+  "alt1": "Tundra Woman dances while her penguin holds a big stack of packages",
+  "alt2": "Tundra Woman walks into the sunset on the arm of a boy",
+  "alt3": "Tundra Woman as a cave woman eating a big drumstick",
+  "alt4": "Tundra Woman near a giant yeti",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "tv superheroes"
+  ]
+}
