@@ -1,0 +1,30 @@
+{
+  "slug": "squidward-chat",
+  "title": "Squidward Chat",
+  "description": "On Squidward Chat, Squidward Tentacles discusses topics near and dear to his heart, like under-appreciated artists like himself.",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Squidward Tentacles"
+  ],
+  "studio": "Bikini Bottom Public Access",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Squidward at a desk",
+  "alt1": "Squidward on a talk show set",
+  "alt2": "Squidward talking to the camera",
+  "alt3": "a framed photo on the wall of a surrealist self portrait",
+  "alt4": "SpongeBob SquarePants and Patrick Star on Squidward’s set",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows"
+  ]
+}
