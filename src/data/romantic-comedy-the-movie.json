@@ -1,0 +1,22 @@
+{
+  "slug": "romantic-comedy-the-movie",
+  "title": "Romantic Comedy The Movie",
+  "description": "A romance comedy that’s supposed to be funny, but will always make you cry. The classic film that spawned 99 sequels.",
+  "quote": "I love you, Ted.” “Ditto.",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "PG-13",
+  "runtime": "1h 39m",
+  "labels": [
+    "romantic comedy"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies"
+  ]
+}
