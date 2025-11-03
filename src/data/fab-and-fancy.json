@@ -1,0 +1,22 @@
+{
+  "slug": "fab-and-fancy",
+  "title": "Fab and Fancy!",
+  "description": "A show canceled too soon. Your source for everything fab and fancy like the latest in exotic pets, collectible jewel-encrusted mittens, and classical doorbell chimes.",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-G",
+  "runtime": "5 episodes",
+  "studio": "Bikini Bottom Public Access",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "animal parade show with jewel-encrusted snails",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
