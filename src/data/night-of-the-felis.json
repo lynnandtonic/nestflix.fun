@@ -1,0 +1,24 @@
+{
+  "slug": "night-of-the-felis",
+  "title": "Night of the Felis",
+  "description": "Imagine taking something cute, and enlarging it to frightening proportions!",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-2015",
+  "parentIMDB": "0852863",
+  "rating": "R",
+  "runtime": "1h 2m",
+  "studio": "Clawed Pictures",
+  "labels": [
+    "horror",
+    "monster",
+    "animals"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "black and white shot of a giant kitten crawling on the roof of a building",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
