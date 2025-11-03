@@ -1,0 +1,27 @@
+{
+  "slug": "octopus-man",
+  "title": "Octopus Man",
+  "description": "Octopus Man has got eight arms! Run and hide because this is the director’s cut with the alternate ending where he grows a ninth arm.",
+  "parent": "The Adventures of Jimmy Neutron: Boy Genius",
+  "parentYear": "2002-2006",
+  "parentIMDB": "0320808",
+  "rating": "R",
+  "runtime": "3h 34m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "black and white shot of a giant octopus walking through a city",
+  "alt1": "people running through the streets",
+  "alt2": "an army tank following Octopus Man",
+  "alt3": "Octopus Man about to eat a school bus",
+  "alt4": "the school bus driver is scared",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
