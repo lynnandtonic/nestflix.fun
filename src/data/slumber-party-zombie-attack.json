@@ -1,0 +1,28 @@
+{
+  "slug": "slumber-party-zombie-attack",
+  "title": "Slumber Party Zombie Attack",
+  "description": "If you thought destructive boys were the worst thing to happen to a girls’ slumber party, think again!",
+  "quote": "Destroying other people’s possessions is fun!",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "PG-13",
+  "runtime": "1h 38m",
+  "labels": [
+    "horror",
+    "zombies"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "teen girl fish pillow fighting",
+  "alt1": "three punk fish entering the door holding clubs and crowbars",
+  "alt2": "crowbar smashing a bottle",
+  "alt3": "scared teen girl with braces pointing",
+  "alt4": "mutant zombie fish that looks super puffy and goopy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
