@@ -1,0 +1,22 @@
+{
+  "slug": "acquaintances",
+  "title": "Acquaintances",
+  "description": "Aquaintances. They mostly just make small talk. They hang out at parties but they don’t really have any idea what’s going on in each other’s lives.",
+  "quote": "Antonio, how could you do that terrible thing I don’t need to describe?",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-2015",
+  "parentIMDB": "0852863",
+  "rating": "TV-14",
+  "runtime": "10 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "a displeased woman and a janitor look at a guy who is sipping a coffee and shrugging",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
