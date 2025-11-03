@@ -1,0 +1,31 @@
+{
+  "slug": "fool-me-once-shame-on-you-fool-me-twice-i-punch-your-face",
+  "title": "Fool Me Once, Shame on You, Fool Me Twice, I Punch Your Face!",
+  "description": "If you can fool host Mitsuru Shinehara twice and complete the challenge, you win the mystery prize! If time runs out or you surrender, you get a punch in the face! Can you survive Baka Blitz, Bumper Ballz, Sumo Slide, Death Tube, Buttock Shock, Rhino Giddy Up, or The Gutinator? Find out!",
+  "quote": "You! Fool! Me! Twice!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": [
+    "Mitsuru Shinehara",
+    "Announcer Bot"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Mitsuru Shinehara with his arm around a contestant and his fist in the air",
+  "alt1": "Announcer Bot in front of the studio audience",
+  "alt2": "contestant jumping across tall platforms shaped like sushi",
+  "alt3": "contestant covered in wasabi getting a punch in the face",
+  "alt4": "contestant staring down the Terror Taikos, a long catwalk with huge drums swinging back and forth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!"
+  ]
+}
