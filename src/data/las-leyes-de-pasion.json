@@ -1,0 +1,39 @@
+{
+  "slug": "las-leyes-de-pasion",
+  "title": "Las Leyes de Pasión",
+  "SEO": "Las Leyes de Pasion",
+  "description": "Romance, betrayal, murder, super powers, pregnancy… it’s all possible on <em>Las Leyes de Pasión</em>.",
+  "quote": "And you have fallen into my trap. My bear trap.",
+  "parent": "Telenovela",
+  "parentYear": "2015-2016",
+  "parentIMDB": "4363588",
+  "rating": "TV-14",
+  "runtime": "23 seasons",
+  "starring": [
+    "Ana Sofia Calderon",
+    "Xavier Castillo",
+    "Rodrigo Suarez",
+    "Gael Garnica",
+    "Roxi Rios",
+    "Isabela Santamaria"
+  ],
+  "studio": "VivaVision",
+  "labels": [
+    "telenovela",
+    "romance"
+  ],
+  "credit": "Universal Television",
+  "altHero": "Ana Sofia Calderon as Pasión with hair blowing in the wind",
+  "alt1": "Rodrigo Suarez choking Sofia",
+  "alt2": "Luna and Rodrigo",
+  "alt3": "Pasión and her lover, César",
+  "alt4": "Pasión and another lover",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "telenovelas",
+    "new on nestflix"
+  ]
+}
