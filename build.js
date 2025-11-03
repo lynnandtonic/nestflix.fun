@@ -172,9 +172,10 @@ async function handleWatcherEvent(path) {
 
 const watcher = chokidar.watch([
     'src/**/*.pug',
-    'src/data/**/*.json',
+    'src/data/*.json',
     'src/**/*.jpg',
     'src/**/*.svg',
+    'src/**/**/*.svg',
 ], {
     ignoreInitial: true,
     persistent: !isProductionBuild,
