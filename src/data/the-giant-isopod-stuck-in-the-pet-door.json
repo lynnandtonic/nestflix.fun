@@ -1,0 +1,22 @@
+{
+  "slug": "the-giant-isopod-stuck-in-the-pet-door",
+  "title": "The Giant Isopod Stuck in the Pet Door!",
+  "description": "Life is just a comedy of errors when you’re always getting stuck in the pet door.",
+  "quote": "I ain’t gonna lie to you, Meredith. I am not a happy camper.",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "a giant isopod wearing a hat stuck in a pet door of a large door that’s off its hinges",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ]
+}
