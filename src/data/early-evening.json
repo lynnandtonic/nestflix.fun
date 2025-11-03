@@ -1,0 +1,30 @@
+{
+  "slug": "early-evening",
+  "title": "Early Evening",
+  "description": "Imagine if you had to choose between a blood-thirsty undead walking corpse and a slobbering hairy lupine man-beast for a boyfriend.",
+  "quote": "I can’t see my hair!",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-2015",
+  "parentIMDB": "0852863",
+  "rating": "PG-13",
+  "runtime": "1h 49m",
+  "labels": [
+    "romantic drama",
+    "teens",
+    "vampires",
+    "werewolves"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Michael as a werewolf with Kristen",
+  "alt1": "Michael and Kristen running toward a creepy vampire castle",
+  "alt2": "Jared, a vampire, upset he can’t see his reflection",
+  "alt3": "Kristen tearing up",
+  "alt4": "Michael pulls down the drapes to reveal the sun as Jared screams",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas" 
+  ]
+}
