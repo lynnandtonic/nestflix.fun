@@ -1,0 +1,26 @@
+{
+  "slug": "salmon-cat",
+  "title": "Salmon Cat",
+  "description": "Pupper-award winning kids show about the wet and wacky world of Salmon Cat, half salmon, half cat.",
+  "quote": "Meow meow meow meow meow, I got a whole bag of candy.",
+  "parent": "Sam & Cat",
+  "SEO": "Sam and Cat",
+  "parentYear": "2013-2014",
+  "parentIMDB": "2487090",
+  "rating": "TV-Y",
+  "runtime": "1 season",
+  "creator": "Janice Dobbins, Sylvia Burke",
+  "labels": [
+    "kids",
+    "puppets",
+    "animals"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "in the ocean, puppet cat with a fish tail and holding a bag of candy",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
