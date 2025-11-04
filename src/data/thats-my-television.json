@@ -1,0 +1,32 @@
+{
+  "slug": "thats-my-television",
+  "title": "That’s My Television",
+  "description": "The popular ’80s sitcom about a normal family and their television.",
+  "quote": "Hope you saved room for dessert!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "RGB2"
+  ],
+  "studio": "YZB Studios",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "RGB2, a television with a face and robotic arms, baking in the kitchen",
+  "alt1": "RGB2 and the family aghast next to a humongous, melted cake",
+  "alt2": "the family is surprised",
+  "alt3": "RGB2 is sad as the kids fight over the remote",
+  "alt4": "RGB2 comforts the sister on her bed as she cries",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ]
+}
