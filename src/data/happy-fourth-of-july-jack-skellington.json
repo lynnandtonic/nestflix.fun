@@ -1,0 +1,32 @@
+{
+  "slug": "happy-fourth-of-july-jack-skellington",
+  "title": "Happy Fourth of July Jack Skellington",
+  "description": "Jack Skellington discovers Independence Day Town. Weirdness, weirdness, patriotic weirdness. Barbecuing human heads, every president is dead. Everybody’s gonna die, have a dark and dead July!",
+  "quote": "Fat chicks with black hair get tattoos of me!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "PG",
+  "runtime": "1h 38m",
+  "director": [
+    "Tim Burton"
+  ],
+  "labels": [
+    "holiday",
+    "kids",
+    "animation"
+  ],
+  "credit": "20th Television",
+  "altHero": "Jack Skellington wearing a red bow tie and American flag top hat",
+  "alt1": "parade of Halloweeentown residents, Jack is carrying a 13 colonies American flag",
+  "alt2": "Halloweeentown folks under red, white, and blue bunting",
+  "alt3": "the Mayor serving some barbequed heads to Lock, Shock, and Barrel",
+  "alt4": "monster dressed as the Statue of Liberty, a pergola is on fire behind",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ]
+}
