@@ -1,0 +1,32 @@
+{
+  "slug": "young-jebediah-springfield",
+  "title": "Young Jebediah Springfield",
+  "description": "In 1796, a fiercely determined band of pioneers leaves Maryland after misinterpreting a passage in the Bible. Their destination? New Sodom. This is their story.",
+  "quote": "On this site we shall build a new town, where we can worship freely, govern justly, and grow vast fields of hemp for making rope and blankets.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "14m",
+  "starring": [
+    "Troy McClure"
+  ],
+  "studio": "Rental Films, Watch & Learn",
+  "labels": [
+    "educational",
+    "biography"
+  ],
+  "credit": "20th Television",
+  "altHero": "Jebediah Springfield, mustached man wearing a racoon cap",
+  "alt1": "pioneer folks",
+  "alt2": "Jebediah riding a bucking buffalo",
+  "alt3": "closeup of Jebediah riding the buffalo",
+  "alt4": "Jebediah speaks with a young boy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
