@@ -1,0 +1,29 @@
+{
+  "slug": "carter-and-briggs",
+  "title": "Carter and Briggs",
+  "description": "Carter and Briggs are seasoned police partners who drive donuts around criminals.",
+  "quote": "Awww, yeeeeeeeeeah!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "producer": "T.M. Blunderbuss",
+  "labels": [
+    "crime",
+    "buddy cops"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Carter and Briggs laughing in their cop car with a perp in the back",
+  "alt1": "Briggs holding a man against the hood of his car while holding his wallet",
+  "alt2": "the police chief is frustrated",
+  "alt3": "Carter and Briggs driving donuts in their cop car in a warehouse, surrounded by criminals in ski masks",
+  "alt4": "Carter firing a gun out his window",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "buddy cops"
+  ]
+}
