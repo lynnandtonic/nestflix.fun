@@ -1,0 +1,30 @@
+{
+  "slug": "thats-a-drag",
+  "title": "That’s a Drag!",
+  "description": "A show canceled too soon about a family who doesn’t adhere to the gender norms of fashion.",
+  "quote": "Hey mom, does this skirt make my butt look big?",
+  "parent": "Sam & Cat",
+  "SEO": "Sam and Cat",
+  "parentYear": "2013-2014",
+  "parentIMDB": "2487090",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "producer": "Jeff Du Shell",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "mom in a suit talkng to dad and teenage son who are both in dresses",
+  "alt1": "young son is surprised, both he and his grandfather in the background are in dresses",
+  "alt2": "mom in a purple dress shirt and tie",
+  "alt3": "young son holding up a pair of dentures",
+  "alt4": "dad and teenage son, both in dresses",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ]
+}
