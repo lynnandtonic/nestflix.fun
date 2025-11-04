@@ -1,0 +1,35 @@
+{
+  "slug": "a-revolutions-revolution",
+  "title": "A Revolution’s Revolution",
+  "description": "It was human vs. food and then food vs. food. What will remain in the aftermath of a revolution?",
+  "quote": "If we’re not eaten, are we not food?",
+  "parent": "Sausage Party: Foodtopia",
+  "parentYear": "2024-Present",
+  "parentIMDB": "23036426",
+  "rating": "PG-13",
+  "runtime": "1h 12m",
+  "starring": [
+    "Sammy Bagel Jr.",
+    "Kareem Abdul Lavash",
+    "Larry"
+  ],
+  "director": [
+    "Sammy Bagel Jr."
+  ],
+  "labels": [
+    "war drama"
+  ],
+  "credit": "Amazon MGM Studios",
+  "altHero": "black and white: a bagel smoking a cigarette and wearing a war helmet that says “bread to kill” with a peace sign",
+  "alt1": "bagel leads a group of food into a cafe, they are wearing makeshift war gear and holding weapons",
+  "alt2": "bagel looks upon a freezer with sausages hanging from the ceiling",
+  "alt3": "bagel looks upon a pile of food in a wasteland, a juicebox is red against the black and white scene",
+  "alt4": "bagel cries next to a dead lavash",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas"
+  ]
+}
