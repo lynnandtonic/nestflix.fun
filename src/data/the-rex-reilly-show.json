@@ -1,0 +1,30 @@
+{
+  "slug": "the-rex-reilly-show",
+  "title": "The Rex Reilly Show",
+  "description": "Rex Reilly speaks with unique people with interesting stories to tell. Includes classic episodes like My Pet Saved My Life, I Look Like Joyce DeWitt, and People Who Fight Too Much.",
+  "quote": "I slept with her. I slept with my mom.",
+  "parent": "Twitch City",
+  "parentYear": "1998-2000",
+  "parentIMDB": "0135110",
+  "rating": "TV-MA",
+  "runtime": "7 seasons",
+  "starring": [
+    "Rex Reilly"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "CBC Television",
+  "altHero": "closeup of Rex Reilly",
+  "alt1": "a male guest",
+  "alt2": "another male guest angrily pointing",
+  "alt3": "woman who looks like Joyce DeWitt excited to meet Joyce DeWitt",
+  "alt4": "Rex Reilly sitting awkwardly next to a fat woman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
