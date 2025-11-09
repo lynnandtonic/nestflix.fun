@@ -1,0 +1,35 @@
+{
+  "slug": "a-rick-in-the-wall",
+  "title": "A Rick in the Wall",
+  "description": "Unikingdom Film Festival debut and Silly-Billy McClown Times Award winner. Once a millenium comes a work that tells the story of all of us. Work. Life. Misery.",
+  "quote": "Really makes you think. Doesn’t it?",
+  "parent": "Unikitty!",
+  "parentYear": "2017-2020",
+  "parentIMDB": "6874502",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "starring": [
+    "Richard"
+  ],
+  "director": [
+    "Richard"
+  ],
+  "labels": [
+    "drama",
+    "amateur",
+    "arthouse"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Rick, a grey LEGO brick, floating in a dim kitchen",
+  "alt1": "the Unikingdom",
+  "alt2": "Unikitty statue spewing water onto Rick’s head",
+  "alt3": "Rick as a baby in a stroller rolling down a flight of stairs",
+  "alt4": "Rick pushing against a large stone object",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
