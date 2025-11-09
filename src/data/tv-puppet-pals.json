@@ -1,0 +1,23 @@
+{
+  "slug": "tv-puppet-pals",
+  "title": "T.V. Puppet Pals",
+  "SEO": "TV Puppet Pals",
+  "description": "Join Puppet Pal Mitch and Puppet Pal Clem for a smashing good time.",
+  "parent": "Dexter’s Laboratory",
+  "parentYear": "1996-2003",
+  "parentIMDB": "0115157",
+  "rating": "TV-Y",
+  "runtime": "10 seasons",
+  "labels": [
+    "kids",
+    "puppets"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Puppet Pal Mitch and Puppet Pal Clem",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
