@@ -1,0 +1,31 @@
+{
+  "slug": "the-bubble-bass-reviews-show",
+  "title": "The Bubble Bass Reviews Show",
+  "description": "Bubble Bass gives honest and frequently angry reviews on various media including his favorite topic, Patrick Star.",
+  "quote": "You had one job and you goofed!",
+  "parent": "The Patrick Star Show",
+  "parentYear": "2021-Present",
+  "parentIMDB": "12915960",
+  "rating": "Unrated",
+  "runtime": "675 episodes",
+  "starring": [
+    "Bubble Bass"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Bubble Bass pointing at a shot of Patrick Star",
+  "alt1": "Bubble Bass larping with a wood sword",
+  "alt2": "Bubble Bass rubbing his eyes",
+  "alt3": "Bubble Bass with a “Wrong” label on a screenshot",
+  "alt4": "Bubble Bass angrily grabbing the camera from his couch",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "web shows",
+    "entertainment commentary"
+  ] 
+}
