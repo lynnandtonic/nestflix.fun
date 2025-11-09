@@ -1,0 +1,32 @@
+{
+  "slug": "briarcliff-exposed-with-lana-winters",
+  "title": "Briarcliff Exposed with Lana Winters",
+  "description": "A 1971 exposé of Briarcliff Manor, sanitarium for the mentally ill in Framingham, Massachusetts. Lana Winters presents a shocking portrayal of the inhumane and often torturous conditions, including her own wrongful imprisonment.",
+  "quote": "These images and sounds are far more powerful than any words that can be spoken.",
+  "parent": "American Horror Story",
+  "parentYear": "2011-Present",
+  "parentIMDB": "1844624",
+  "rating": "R",
+  "runtime": "1h 58m",
+  "starring": [
+    "Lana Winters"
+  ],
+  "labels": [
+    "documentary",
+    "real crime"
+  ],
+  "credit": "20th Television",
+  "altHero": "Lana Winters inside the sanitarium",
+  "alt1": "Winters standing in a bleak concrete room with patients around",
+  "alt2": "two male patients, one hunched on the bed, one naked facing the wall",
+  "alt3": "Winters speaks with a sanitarium employee",
+  "alt4": "Winters stands by an empty mattress on the floor",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "new on nestflix"
+  ]
+}
