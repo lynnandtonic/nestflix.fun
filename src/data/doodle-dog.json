@@ -1,0 +1,25 @@
+{
+  "slug": "doodle-dog",
+  "title": "Doodle Dog",
+  "description": "Based on the popular comic book hero, Doodle Dog teaches kids how to be heroic in their everyday lives.",
+  "quote": "Remember, boys and girls: respect your elders, and never cross the street except in the crosswalk!",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-Y",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids",
+    "superheroes",
+    "animals"
+  ],
+  "credit": "PBS",
+  "altHero": "Doodle Dog helping an old lady with groceries cross the street",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "tv superheroes"
+  ]
+}
