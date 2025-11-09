@@ -1,0 +1,32 @@
+{
+  "slug": "celebrity-dance-factor",
+  "title": "Celebrity Dance Factor",
+  "description": "Celebrities pair up with professional dancers and compete in ballroom dancing for judges’ scores and your votes.",
+  "quote": "You know what, if I had six stars, I’d give you the six. But I’ve only got five, so you can have those.",
+  "parent": "What to Expect When You’re Expecting",
+  "parentYear": "2012",
+  "parentIMDB": "1586265",
+  "rating": "TV-PG",
+  "runtime": "16 seasons",
+  "starring": [
+    "Hutch Davidson"
+  ],
+  "labels": [
+    "reality competition",
+    "dancing"
+  ],
+  "credit": "Lionsgate",
+  "altHero": "Jules Baxter and Evan Webber making an extrance on a big swing",
+  "alt1": "host Hutch Davidson",
+  "alt2": "the judges panel",
+  "alt3": "three pairs of contestants",
+  "alt4": "Megan Mullally with her dance partner’s hands on her breasts",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
