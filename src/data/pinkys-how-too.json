@@ -1,0 +1,32 @@
+{
+  "slug": "pinkys-how-too",
+  "title": "Pinky’s How Too",
+  "description": "See how Pinky do! Learn new things with episodes like How 2 Tie Showz, How 2 Escape Quicksand, How 2 Give Thumbs Ups, How 2 Friendship, and more.",
+  "quote": "Narf! Poit! Zort! Egad!",
+  "parent": "Animaniacs",
+  "parentYear": "2020-2023",
+  "parentIMDB": "6951546",
+  "rating": "Unrated",
+  "runtime": "2 seasons",
+  "starring": [
+    "Pinky",
+    "Brain"
+  ],
+  "labels": [
+    "web show",
+    "educational"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Pinky, a laboratory mouse",
+  "alt1": "Pinky wrapped up in a shoelace dangling from the top of his cage and giving a thumbs up",
+  "alt2": "Pinky sinking in quicksand and giving a thumbs up",
+  "alt3": "Pink superimposed over a space background with ice cream and pig stickers and tex that says “Got to get my friend back”",
+  "alt4": "Pinky drumming with matchsticks while laser lights flash and cutout stickers adorn the screen",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "web shows"
+  ]
+}
