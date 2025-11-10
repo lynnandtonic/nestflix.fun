@@ -1,0 +1,29 @@
+{
+  "slug": "immature-radioactive-samurai-slugs",
+  "title": "Immature Radioactive Samurai Slugs",
+  "description": "Picasso, Warhol, Rockwell, and Grandma Moses are totally radical gnarly dudes, cowabunga homeboys with nothing to lose.",
+  "quote": "It’s time to slime!",
+  "parent": "Tiny Toon Adventures: How I Spent My Vacation",
+  "parentYear": "1992",
+  "parentIMDB": "0105598",
+  "rating": "TV-Y7",
+  "runtime": "12 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "four large green slugs wearing ninja eye masks and holding swords",
+  "alt1": "The Iodizer holding up a tub of salt",
+  "alt2": "samurai slug leaving a trail of goo on the street",
+  "alt3": "four ninjas",
+  "alt4": "the samurai slugs in a row",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ]
+}
