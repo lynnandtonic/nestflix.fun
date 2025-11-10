@@ -1,0 +1,33 @@
+{
+  "slug": "cartoon-makeover",
+  "title": "Cartoon Makeover",
+  "description": "Weird Al Yankovic, Don Knotts, and The Blue Falcon team up to give your favorite characters a Cartoon Makeover.",
+  "quote": "We’re not here to change you. We’re here to make you better… through change.",
+  "parent": "Johnny Bravo",
+  "parentYear": "1997-2004",
+  "parentIMDB": "0118360",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Weird Al Yankovic",
+    "Don Knotts",
+    "The Blue Falcon"
+  ],
+  "labels": [
+    "reality",
+    "makeover"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Weird Al Yankovic, Don Knotts, and The Blue Falcon falling from a helicopter ladder",
+  "alt1": "Yogi Bear before as you know him and after looking stylish",
+  "alt2": "Weird Al Yankovic, Don Knotts, and The Blue Falcon driving in a car",
+  "alt3": "The Blue Falcon with three ladies",
+  "alt4": "Don Knotts with Johnny Bravo in a salon",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
