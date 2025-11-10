@@ -1,0 +1,29 @@
+{
+  "slug": "gross-class-zero",
+  "title": "Gross Class Zero",
+  "description": "The kids in Miss Clutterbuck’s class zero are supersnotic, bogeytastic, burpalicious, megafarty, and zitcredible! They’re zeros coming out to play. They’re heroes not just for one day!",
+  "quote": "Snot, bogey, fart, zit goo! We’re all gross and so are you!",
+  "parent": "Horrid Henry",
+  "parentYear": "2006-2020",
+  "parentIMDB": "0985991",
+  "rating": "TV-Y7",
+  "runtime": "24 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Novel Entertainment",
+  "altHero": "the kids high fiving",
+  "alt1": "Burping Belinda with smelly waves coming out of her mouth",
+  "alt2": "Zack Zitface squeezing a zit and purple goo is shooting out",
+  "alt3": "Evil Emperor with Drusilla and Damian,",
+  "alt4": "Bogey Barbara next to a fart cloud",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "new on nestflix"
+  ]
+}
