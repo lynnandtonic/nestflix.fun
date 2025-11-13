@@ -1,0 +1,30 @@
+{
+  "slug": "night-terrors",
+  "title": "Night Terrors",
+  "description": "America’s favorite reality horror show where they throw a bunch of horny idiots into a house together just so people can watch them hook up and fight.",
+  "quote": "All your toes look like big toes!",
+  "parent": "Ugly Americans",
+  "parentYear": "2010-2012",
+  "parentIMDB": "1621748",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "producer": "Clark Dungaree",
+  "studio": "MTV",
+  "labels": [
+    "reality",
+    "horror"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "the cast of season 2",
+  "alt1": "guy with two women in a hot tub",
+  "alt2": "Randall Skeffington feeding a cherry to Galen the fairy in a bar",
+  "alt3": "werewolf guy with witch woman",
+  "alt4": "Randall going to hit Mark Lily over the head with a metal folding chair",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV serires",
+    "reality tv"
+  ]
+}
