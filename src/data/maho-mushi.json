@@ -1,0 +1,29 @@
+{
+  "slug": "maho-mushi",
+  "title": "Maho Mushi",
+  "description": "The animated series based on the wildly popular kung-fu monster trading-cards.",
+  "quote": "Maho Mushi!",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-Y7",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "animation"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Japanese boy with horns running",
+  "alt1": "same boy running by a building",
+  "alt2": "the team faces down a giant yeti-type monster",
+  "alt3": "two face off with swords at the top of tall pine trees",
+  "alt4": "green guy flying through the air with a sword",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ]
+}
