@@ -1,0 +1,29 @@
+{
+  "slug": "jonny-hunt",
+  "title": "Jonny Hunt",
+  "description": "Jonny Hunt and his family travel the globe studying scientific mysteries.",
+  "quote": "Jonny Hunt, we are in so much trouble!",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "kids",
+    "sci-fi",
+    "action"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Jonny Hunt and his family",
+  "alt1": "The Hunt team racing in a swamp boat away from lasers",
+  "alt2": "giant scorpion robot monster",
+  "alt3": "Jonny Hunt driving the boat with his raccoon pet",
+  "alt4": "eye patch guy holding a big futuristic gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ]
+}
