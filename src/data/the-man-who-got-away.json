@@ -1,0 +1,31 @@
+{
+  "slug": "the-man-who-got-away",
+  "title": "The Man Who Got Away",
+  "description": "The lost director’s cut of <em>The Man Who Who Got Away</em> tells the shocking, bitter tale of an angry truck driver who kills a young girl and must go on the run.",
+  "parent": "The Woman Chaser",
+  "parentYear": "1999",
+  "parentIMDB": "0217894",
+  "rating": "R",
+  "runtime": "1h 3m",
+  "director": [
+    "Richard Hudson"
+  ],
+  "studio": "Mammoth Pictures",
+  "labels": [
+    "drama"
+  ],
+  "credit": "Tarmac Films",
+  "altHero": "black and white: the front of a truck",
+  "alt1": "man talks with a woman, his arm is on her shoulder",
+  "alt2": "little girl looks shocked, holding a bouquet of wild flowers",
+  "alt3": "man and two women stand observing",
+  "alt4": "man talks to a police officer at the scene of an accident",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
