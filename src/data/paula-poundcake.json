@@ -1,0 +1,27 @@
+{
+  "slug": "paula-poundcake",
+  "title": "Paula Poundcake",
+  "description": "Paula Poundcake and friends are baking up something sweet.",
+  "quote": "Even though I’m a boy, I still think this place is swell.",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Paula Poundcake, a round girl with red hair and a pound cake hat",
+  "alt1": "Donnie Donut, a young boy with a donut hat",
+  "alt2": "Pup Tart, a pop tart dog popping out of a toaster",
+  "alt3": "Paula took a bite out of Pup Tart’s nose",
+  "alt4": "Paula, Donnie, and two others: a cupcake hatted girl and a cinnamon roll hair girl",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
