@@ -1,0 +1,39 @@
+{
+  "slug": "logical-space-journey-3000",
+  "title": "Logical Space Journey: 3000!",
+  "description": "A Unikingdom film festival debut with 98% special effects. A musical (the most scientifically pleasing genre) about characters who only make logical decisions. ",
+  "quote": "Cause in space, you can never be too safe!",
+  "parent": "Unikitty!",
+  "parentYear": "2017-2020",
+  "parentIMDB": "6874502",
+  "rating": "Unrated",
+  "runtime": "17m",
+  "starring": [
+    "Dr. Fox",
+    "Princess Unikitty",
+    "Prince Puppycorn",
+    "Hawkodile"
+  ],
+  "director": [
+    "Dr. Fox"
+  ],
+  "labels": [
+    "musical",
+    "sci-fi",
+    "amateur"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Dr. Fox at the controls of a spaceship",
+  "alt1": "Prince Puppycorn holding an egg with tentacles coming out of it",
+  "alt2": "Hawkodile and Dr. Fox observe space outside the spaceship window",
+  "alt3": "warning screen of Dr. Fox and Hawkodile and an explosion",
+  "alt4": "Princess Unikitty dressed as a general giving Dr. Fox a medal",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "amateur filmmakers"
+  ]
+}
