@@ -1,0 +1,33 @@
+{
+  "slug": "vampire-cop",
+  "title": "Vampire Cop",
+  "description": "Vampire detective Stoker Ramsey uses blood memory to solve crimes and these perps will learn the hard way… that crime sucks.",
+  "quote": "Looks like their IPO wasn’t the only thing making a killing.",
+  "parent": "The Rookie: Feds",
+  "parentYear": "2022-2023",
+  "parentIMDB": "18076310",
+  "rating": "TV-MA",
+  "runtime": "6 seasons",
+  "starring": [
+    "Brendon Acres"
+  ],
+  "labels": [
+    "crime drama",
+    "vampires"
+  ],
+  "credit": "ABC",
+  "altHero": "Stoker Ramsey with red eyes and exposed vampire teeth",
+  "alt1": "Ramsey’s partner with a blue latex glove on, blood on her fingertip",
+  "alt2": "Ramsey leans his head back as blood is dripped into his mouth",
+  "alt3": "Ramsey walks down a foggy, dark alley",
+  "alt4": "man lowers his gun in disbelief",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "dramatic crime shows",
+    "new on nestflix"
+  ]
+}
