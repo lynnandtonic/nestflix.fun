@@ -1,0 +1,29 @@
+{
+  "slug": "the-futurellis",
+  "title": "The Futurellis",
+  "description": "The show about a futuristic Italian American family where all the characters are robots.",
+  "quote": "Hey, that cat owes me money.",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-Y7",
+  "runtime": "6 seasons",
+  "labels": [
+    "kids",
+    "animation",
+    "sci-fi"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "futuristic city buildings on tall poles in the sky",
+  "alt1": "futuristic pizza parlor in the sky",
+  "alt2": "grumpy robot man and dog walking on a rotating pizza platform",
+  "alt3": "robot dog frowning at sweating robot cat",
+  "alt4": "robot man falling down on the pizza platform",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
