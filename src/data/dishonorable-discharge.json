@@ -1,0 +1,33 @@
+{
+  "slug": "dishonorable-discharge",
+  "title": "Dishonorable Discharge",
+  "description": "Detective Brock is desperately searching for answers to the mysteries suddenly laid out before him. Will he find them as this hit series comes to a controversial end?",
+  "quote": "I can’t imagine a satisfying ending to this twisty adventure.",
+  "parent": "Ugly Americans",
+  "parentYear": "2010-2012",
+  "parentIMDB": "1621748",
+  "rating": "TV-MA",
+  "runtime": "6 seasons",
+  "starring": [
+    "Benji Dalton"
+  ],
+  "producer": "Damon Lindelof, Carlton Cuse",
+  "labels": [
+    "drama",
+    "mystery"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "Detective Brock opening the door to a warehouse, gun raised",
+  "alt1": "a mysterious figure stands in the darkness of the warehouse",
+  "alt2": "Detective Brock is sweaty, pointing his gun",
+  "alt3": "Brock approaches the figure",
+  "alt4": "Brock is about to open another door",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
