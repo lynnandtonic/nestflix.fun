@@ -1,0 +1,30 @@
+{
+  "slug": "the-rena-king-show",
+  "title": "The Rena King Show",
+  "description": "Rena King discusses difficult and important topics with guests and subject matter experts.",
+  "quote": "Do you think erotic and violent TV shows lead to desensitisation? To dehumanisation?",
+  "parent": "Videodrome",
+  "parentYear": "1983",
+  "parentIMDB": "0086541",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "starring": [
+    "Rena King"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "host Rena King",
+  "alt1": "two guests: Max Renn (a man in a suit) and Nicki Brand (a blonde woman in a red dress)",
+  "alt2": "Rena King speaks with Professor Brian O’Blivion who is on a television screen",
+  "alt3": "Professor Brian O’Blivion, a bald man with mustache",
+  "alt4": "Nicki Brand speaking",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
