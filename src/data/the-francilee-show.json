@@ -1,0 +1,33 @@
+{
+  "slug": "the-francilee-show",
+  "title": "The Francilee Show",
+  "description": "Crystal Cove’s favorite cooking show with the queen of butter and bacon, Francilee Jackson.",
+  "quote": "A lot of you folks at home been asking if I worry about my recipes aren’t the healthiest. All I got to say is, I ain”t no doctor, y’all.",
+  "parent": "Scooby Doo! Mystery Incorporated",
+  "parentYear": "2010-2013",
+  "parentIMDB": "1660055",
+  "rating": "TV-G",
+  "runtime": "7 seasons",
+  "starring": [
+    "Francilee Jackson"
+  ],
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Francilee in her studio kitchen",
+  "alt1": "Francilee with a cutting board of veggies",
+  "alt2": "Francilee winking",
+  "alt3": "Francilee holding up a box of her cornbread stuffing",
+  "alt4": "Francilee laughing, holding a bacon-wrapped stick of butter",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking",
+    "new on nestflix"
+  ]
+}
