@@ -1,0 +1,35 @@
+{
+  "slug": "the-grinder-new-orleans",
+  "title": "The Grinder: New Orleans",
+  "description": "A fresh reimagining of what it truly means to grind. Mitch Grinder’s brother, Rake Grinder, takes over Stutz & Grinder as it moves to New Orleans.",
+  "quote": "Grinder rests.",
+  "parent": "The Grinder",
+  "parentYear": "2015-2016",
+  "parentIMDB": "4481322",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "starring": [
+    "Timothy Olyphant"
+  ],
+  "producer": "Cliff Bemis",
+  "studio": "Fox",
+  "labels": [
+    "crime drama",
+    "courtroom"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "Timothy Olyphant as Rake Grinder",
+  "alt1": "judge in the courtroom",
+  "alt2": "Rake Grinder leaning back in his chair, feet on the table",
+  "alt3": "Rake speaks with Mitch",
+  "alt4": "woman lawyer speaks with Rake in the morgue",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "dramatic crime shows",
+    "new on nestflix"
+  ]
+}
