@@ -1,0 +1,37 @@
+{
+  "slug": "the-sun-also-sets",
+  "title": "The Sun Also Sets",
+  "description": "The long-running soap opera full of love triangles, betrayal, medical miracles, secret families, and more!",
+  "quote": "I am guilty! Guilty of love in the first degree.",
+  "parent": "Soapdish",
+  "parentYear": "1991",
+  "parentIMDB": "0102951",
+  "rating": "TV-PG",
+  "runtime": "18 seasons",
+  "starring": [
+    "Celeste Talbert",
+    "Jeffrey Anderson",
+    "Montana Moorehead",
+    "Ariel Maloney",
+    "Blair Brennan",
+    "Lori Craven"
+  ],
+  "producer": "David Seton Barnes",
+  "labels": [
+    "soap opera"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "Celeste Talbert as Maggie and Jeffrey Anderson as Dr. Rod Randall",
+  "alt1": "Maggie holding her kid’s head emotionally",
+  "alt2": "Blair Brennan as Bolt in a tank top, at Maggie’s hospital bed",
+  "alt3": "Maggie, Dr. Randall, and Angelique (played by Lori Craven)",
+  "alt4": "Dr. Randall with Nurse Nan (played by Montana Moorehead)",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas",
+    "new on nestflix"
+  ]
+}
