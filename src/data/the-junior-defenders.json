@@ -1,0 +1,38 @@
+{
+  "slug": "the-junior-defenders",
+  "title": "The Junior Defenders",
+  "description": "The late ’70s cultural phenomenon, plus the 2000s reboot. Future Boy, Brain Child, Psychic Girl, and Radar Kid are the Junior Defenders. Defending freedom, defending justice, defending people, and defending the nation.",
+  "quote": "This will never work Lord Wonton. The Junior Defenders are too smart for you!",
+  "parent": "The Junior Defenders",
+  "parentYear": "2007",
+  "parentIMDB": "0119231",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": [
+    "Tommy Keen",
+    "Jimmy Fletcher",
+    "Jill Fields",
+    "Mitch Stone"
+  ],
+  "producer": "George Berryman, Norman Nields",
+  "studio": "ABS",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "Warner Home Video",
+  "altHero": "four kids (the Junior Defenders) in superhero costumes with a police officer",
+  "alt1": "The Junior Defenders doing their hand signal",
+  "alt2": "Psychic Girl winning a poker hand",
+  "alt3": "fighting a man on a boat",
+  "alt4": "The Junior Defenders in matching blue costumes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "super team-ups"
+  ]
+}
