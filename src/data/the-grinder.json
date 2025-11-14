@@ -1,0 +1,35 @@
+{
+  "slug": "the-grinder",
+  "title": "The Grinder",
+  "description": "Lawyer Mitch Grinder of Stutz & Grinder grinds hard for his clients. There’s no one he can’t get off.",
+  "quote": "Everyone knows how hard I grind. But what they don’t know… is that you grind even harder behind me.",
+  "parent": "The Grinder",
+  "parentYear": "2015-2016",
+  "parentIMDB": "4481322",
+  "rating": "TV-MA",
+  "runtime": "8 seasons",
+  "starring": [
+    "Dean Sanderson Jr."
+  ],
+  "producer": "Cliff Bemis",
+  "studio": "Fox",
+  "labels": [
+    "crime drama",
+    "courtroom"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "Mitch Grinder questioning a witness in court",
+  "alt1": "Grinder in front of a large evidence board",
+  "alt2": "Grinder speaking with a woman in a hospital bed",
+  "alt3": "Grinder with long hair by a beach hut, another man in a disheveled suit holds a gun",
+  "alt4": "Grinder wearing a barrister’s robe and wig",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "dramatic crime shows",
+    "new on nestflix"
+  ]
+}
