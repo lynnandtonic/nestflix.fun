@@ -1,0 +1,33 @@
+{
+  "slug": "shermans-showcase",
+  "title": "Sherman’s Showcase",
+  "description": "For over 40 years, Sherman’s Showcase was a revolutionary Black music, dance, and entertainment program unlike anything else on TV (except for several other shows).",
+  "parent": "Sherman’s Showcase",
+  "parentYear": "2019-2022",
+  "parentIMDB": "7422812",
+  "rating": "TV-14",
+  "runtime": "47 seasons",
+  "starring": [
+    "Sherman McDaniel "
+  ],
+  "labels": [
+    "variety",
+    "music",
+    "comedy"
+  ],
+  "credit": "IFC",
+  "altHero": "Sherman McDaniel wearing a purple sequin suit and holding a microphone",
+  "alt1": "Sherman dancing with a group of backup dancers",
+  "alt2": "two musicians",
+  "alt3": "Sherman wearing an American flag suit standing with a woman dressed as the statue of liberty",
+  "alt4": "Prince singing in the rain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows",
+    "music variety",
+    "new on nestflix"
+  ]
+}
