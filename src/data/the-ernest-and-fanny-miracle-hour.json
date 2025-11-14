@@ -1,0 +1,32 @@
+{
+  "slug": "the-ernest-and-fanny-miracle-hour",
+  "title": "The Ernest & Fanny Miracle Hour",
+  "description": "Every episode, Ernest and Fanny read some passages from the good book. And just possibly, they will heal some of their sickly and/or crippled followers. Includes their disastrous TV special <em>Ernest & Fanny’s Exorcism Tonight</em>.",
+  "quote": "Oh, Foo Foo says, ‘God bless you, everyone.’",
+  "parent": "Repossessed",
+  "parentYear": "1990",
+  "parentIMDB": "0100475",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Ernest Weller",
+    "Fanny Ray Weller"
+  ],
+  "labels": [
+    "talk show",
+    "religion"
+  ],
+  "credit": "New Line CInema",
+  "altHero": "Ernest Weller and Fanny Ray Weller",
+  "alt1": "Ernest sitting at a desk and holding a Bible",
+  "alt2": "Fanny Ray sitting and holding a pink miniature poodle",
+  "alt3": "audience members holding up signs, one reads “John 3:11” and another reads “lakers 116, Celtics 112”",
+  "alt4": "Ernest and Fanny Ray dancing with arms raised as a possessed woman is tied to a bucking bed",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "religious programming"
+  ]
+}
