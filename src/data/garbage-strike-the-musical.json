@@ -1,0 +1,28 @@
+{
+  "slug": "garbage-strike-the-musical",
+  "title": "Garbage Strike the Musical",
+  "description": "A musical based on the best-selling book. The trash is piling up in the streets as garbage workers go on strike.",
+  "quote": "We’re on strike, we’re on strike. We can do anything that we like.",
+  "parent": "Rocko’s Modern Life",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106115",
+  "rating": "PG",
+  "runtime": "1h 39m",
+  "studio": "Chameleon Brothers Pictures",
+  "labels": [
+    "musical"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "garbage works on strike (they are rats wearing orange caps)",
+  "alt1": "workers lounging in trash",
+  "alt2": "rat worker next to a giant pile of trash",
+  "alt3": "rat workers dancing with strike signs and top hats",
+  "alt4": "rat workers wearing tutus, dancing in the dirty streets ",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals"
+  ]
+}
