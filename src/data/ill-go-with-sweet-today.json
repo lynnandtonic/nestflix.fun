@@ -1,0 +1,33 @@
+{
+  "slug": "ill-go-with-sweet-today",
+  "title": "I’ll Go With Sweet Today",
+  "description": "The live-action adaptation of Yoriko Kichijouji’s popular manga series about a reclusive girl who learns to open up when a new boy arrives at school.",
+  "parent": "Oshi no Ko",
+  "parentYear": "2023-Present",
+  "parentIMDB": "21030032",
+  "rating": "TV-14",
+  "runtime": "6 episodes",
+  "starring": [
+    "Kana Arima",
+    "Melt Narushima",
+    "Aqua Hoshino"
+  ],
+  "labels": [
+    "teen drama",
+    "romance"
+  ],
+  "credit": "Doga Kobo",
+  "altHero": "Kana Arima, young girl with short red hair and big eyes",
+  "alt1": "Arima with Melt Narushima by cherry blossom trees",
+  "alt2": "Arima and Narushima being approached by a hooded boy",
+  "alt3": "Arima happy with tears in her eyes",
+  "alt4": "Narushima yelling",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens",
+    "teen drama series"
+  ]
+}
