@@ -1,0 +1,31 @@
+{
+  "slug": "the-silver-lake",
+  "title": "The Silver Lake",
+  "description": "An evocative Sarah Polley drama that captures the excitement of life and romance in mid-century Los Angeles.",
+  "parent": "The Studio",
+  "parentYear": "(2025-Present)",
+  "parentIMDB": "23649128",
+  "rating": "PG-13",
+  "runtime": "1h 48m",
+  "starring": [
+    "Greta Lee"
+  ],
+  "director": [
+    "Sarah Polley"
+  ],
+  "producer": "Patty Leigh",
+  "studio": "Continental Studios",
+  "labels": [
+    "drama",
+    "romance"
+  ],
+  "credit": "Apple TV+",
+  "altHero": "Greta Lee in a green retro strapless dress smoking a joint with blue sky and trees in the background",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
