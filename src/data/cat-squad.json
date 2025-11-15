@@ -1,0 +1,27 @@
+{
+  "slug": "cat-squad",
+  "title": "Cat Squad",
+  "description": "The popular Australian kids show about a cool cat squad riding motorcycles and stopping bad dogs.",
+  "parent": "Bluey",
+  "parentYear": "2018-Present",
+  "parentIMDB": "7678620",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Ludo Studio",
+  "altHero": "three cats in colorful helmets riding motorcycles",
+  "alt1": "Cat Squad standing in a park",
+  "alt2": "purple cat punching up in a celebratory way",
+  "alt3": "cat on a motorcycle",
+  "alt4": "yellow cat punching up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
