@@ -1,0 +1,35 @@
+{
+  "slug": "the-one",
+  "title": "The One",
+  "description": "One of a kind? One to watch? Are you the Chosen One of Onederworld? Compete and win and Plutonovich will grant you one wish.",
+  "quote": "Dance for your life!",
+  "parent": "O’Dessa",
+  "parentYear": "2025",
+  "parentIMDB": "26304178",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "starring": [
+    "Plutonovich",
+    "Priscilla"
+  ],
+  "studio": "Channel One",
+  "labels": [
+    "reality competition",
+    "game show"
+  ],
+  "credit": "Searchlight Pictures",
+  "altHero": "Plutonovich kissing his index finger",
+  "alt1": "Plutonovich and Priscilla dancing",
+  "alt2": "Plutonovich looking incredulous",
+  "alt3": "dejected contestant has been sentenced with a face lift",
+  "alt4": "Plutonovich on stage with O’dessa who is holding a guitar",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "game shows with a bit of danger!",
+    "new on nestflix"
+  ]
+}
