@@ -1,0 +1,34 @@
+{
+  "slug": "double-bind",
+  "title": "Double Bind",
+  "description": "Detective Yamashiro teams up with psychiatrist Dr. Toko Asamiya to solve crimes by the most disturbed perpetrators.",
+  "quote": "There is no way illusions can come to life.",
+  "parent": "Perfect Blue",
+  "parentYear": "1997",
+  "parentIMDB": "0156887",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "starring": [
+    "Eri Ochiai",
+    "Kenichi Sakuragi",
+    "Takao Shibuya",
+    "Mima Kirigoe"
+  ],
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "Rex Entertainment",
+  "altHero": "male detective, Yamashiro, and female psychiatrist, Dr. Asamiya",
+  "alt1": "Yamashiro and Dr. Asamiya with a young woman, Yoko",
+  "alt2": "crime scene photographer",
+  "alt3": "a man talking to Yoko on the street",
+  "alt4": "Yoko facing away from Dr. Asamiya, both standing in the rain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "dramatic crime shows"
+  ]
+}
