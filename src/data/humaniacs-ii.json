@@ -1,0 +1,29 @@
+{
+  "slug": "humaniacs-ii",
+  "title": "Humaniacs II",
+  "description": "The planet is under attack, again! The Humaniacs want to turn everyone into alien zombies. Victory or extinction!",
+  "quote": "You will all become my alien zombies!",
+  "parent": "Planet 51",
+  "parentYear": "2009",
+  "parentIMDB": "0762125",
+  "rating": "PG-13",
+  "runtime": "1h 32m",
+  "labels": [
+    "horror",
+    "aliens"
+  ],
+  "credit": "Skydance Animation",
+  "altHero": "alien figure with one giant eyeball as a head in a spacesuit",
+  "alt1": "alien ship rises above a couple in a car",
+  "alt2": "laser ray from the sky shooting a diner a car speeds by",
+  "alt3": "small alien ships in the sky with fire and explosions below",
+  "alt4": "a general and a soldier in the red vision of the alien",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "aliens attack",
+    "new on nestflix"
+  ]
+}
