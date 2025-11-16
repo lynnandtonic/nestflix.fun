@@ -1,0 +1,34 @@
+{
+  "slug": "heidi-and-klara",
+  "title": "Heidi & Klara",
+  "description": "In the long-awaited sequel to <em>Mad Heidi</em>, Heidi teams up with her childhood friend Klara and continues to take down the cheese fascists.",
+  "parent": "Mad Heidi",
+  "parentYear": "2022",
+  "parentIMDB": "2943178",
+  "rating": "R",
+  "runtime": "1h 35m",
+  "starring": [
+    "Alice Lucy",
+    "Almar G. Sato"
+  ],
+  "director": [
+    "Johannes Hartmann",
+    "Sandro Klopfstein"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Iron Sky",
+  "altHero": "Heidi and Klara on a motrocycle with sidecar",
+  "alt1": "cheese delivery truck driving over a dam bridge with mountains behind",
+  "alt2": "Heidi and Klara facing down the truck",
+  "alt3": "delivery truck driver wearing a milkman uniform",
+  "alt4": "Klara shooting a gatling gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
