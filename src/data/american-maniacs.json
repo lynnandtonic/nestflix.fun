@@ -1,0 +1,30 @@
+{
+  "slug": "american-maniacs",
+  "title": "American Maniacs",
+  "description": "Murrow-award winner, Wayne Gale, profiles notorious criminals and killers. Includes his final interview with mass murderer, Mickey Knox.",
+  "parent": "Natural Born Killers",
+  "parentYear": "1994",
+  "parentIMDB": "0110632",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "starring": [
+    "Wayne Gale"
+  ],
+  "labels": [
+    "documentary",
+    "true crime"
+  ],
+  "credit": "Warner Bros.",
+  "altHero": "Wayne Gale on Route 66",
+  "alt1": "Gale interviewing an angry cop",
+  "alt2": "man and woman in convertable as part of a dramatization",
+  "alt3": "Gale in thought",
+  "alt4": "serial killer Mickey Knox",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series"
+  ]
+}
