@@ -1,0 +1,31 @@
+{
+  "slug": "the-patrick-show",
+  "title": "The Patrick Show",
+  "description": "Patrick Star broadcasts his variety talk show from his family home in Bikini Bottom. Anything is possible so expect the unexpected.",
+  "parent": "The Patrick Star Show",
+  "parentYear": "2021-Present",
+  "parentIMDB": "12915960",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Patrick Star"
+  ],
+  "producer": "Squidina Star",
+  "labels": [
+    "talk show",
+    "variety"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Patrick Star sitting on a plaid couch",
+  "alt1": "Patrick going to hit a sock like a golf ball but with a plunger",
+  "alt2": "Patrick stuck in a cannon next to a smaller cannon",
+  "alt3": "Patrick and Squidina watching Patrick’s father dance in a jazzercise outfit",
+  "alt4": "Patrick next to a pile of garbage",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows"
+  ]
+}
