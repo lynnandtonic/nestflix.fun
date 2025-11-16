@@ -1,0 +1,35 @@
+{
+  "slug": "star-tramps",
+  "title": "Star Tramps",
+  "description": "Captain John Emporium, First Mate Gayspock, and the crew of the Starship Supercasanova travel the galaxy in search of a good time.",
+  "quote": "Party and procreate, captain!",
+  "parent": "Odd Job Jack",
+  "parentYear": "2003-2007",
+  "parentIMDB": "0373584",
+  "rating": "TV-MA",
+  "runtime": "5 seasons",
+  "starring": [
+    "Tiberius McKorkindale",
+    "Walter Mercedes",
+    "T-Bone Walker",
+    "Joe Gaylord",
+    "Andy Winters"
+  ],
+  "labels": [
+    "adult",
+    "sci-fi"
+  ],
+  "credit": "Smiley Guy Studios",
+  "altHero": "Captain Emporium in the captain’s seat with a fruity drink, with The Love Doc and Isaanc the Bartender",
+  "alt1": "Gayspock pointing at a big screen showing an alien with a penis on his forehead",
+  "alt2": "Emporium in a hot tub with four green alien women",
+  "alt3": "The Love Doc about to give a woman a pelvic exam",
+  "alt4": "Gayspock hanging up curtains",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "adults 18+"
+  ]
+}
