@@ -1,0 +1,32 @@
+{
+  "slug": "the-howard-beale-show",
+  "title": "The Howard Beale Show",
+  "description": "Howard Beale is the mad prophet of the airwaves. He’s angry at the state of the world and tells it like it is.",
+  "quote": "We’re as mad as hell, and we’re not going to take this anymore!",
+  "parent": "Network",
+  "parentYear": "1976",
+  "parentIMDB": "0074958",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "starring": [
+    "Howard Beale"
+  ],
+  "studio": "UBS",
+  "labels": [
+    "talk show",
+    "politics"
+  ],
+  "credit": "MGM Pictures",
+  "altHero": "Howard Beale",
+  "alt1": "Howard Beale speaking in front of a stained glass window",
+  "alt2": "Howard Beale in blue spotlight",
+  "alt3": "Howard Beale in his studio audience",
+  "alt4": "Howard Beale pretending to be dead on stage",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
