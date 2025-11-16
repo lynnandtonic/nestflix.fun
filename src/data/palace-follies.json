@@ -1,0 +1,26 @@
+{
+  "slug": "palace-follies",
+  "title": "Palace Follies",
+  "description": "Classic silent film from the early 20th century, featuring the best dance troupe in America.",
+  "parent": "Pearl",
+  "parentYear": "2022",
+  "parentIMDB": "18925334",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "director": [
+    "David Burrs"
+  ],
+  "labels": [
+    "silent",
+    "dancing"
+  ],
+  "credit": "A24",
+  "altHero": "black and white shot of a line of women dancing",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age",
+    "new on nestflix"
+  ]
+}
