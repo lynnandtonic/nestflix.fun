@@ -1,0 +1,31 @@
+{
+  "slug": "crash-nebula-vs-the-pumpkinator",
+  "title": "Crash Nebula vs The Pumpkinator",
+  "description": "Crash Nebula must race the clock to disarm the Pumpkinator’s planet-killing doomsday device. Can he defeat the Pumpkinator and his team of Jack-o-bots?",
+  "quote": "Intergalactic scourge! I can totally defeat you in less than ten seconds!",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "PG",
+  "runtime": "1h 23m",
+  "labels": [
+    "kids",
+    "animation",
+    "action",
+    "space"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "huge pumpkin mecha robot",
+  "alt1": "pumpkin planet",
+  "alt2": "old woman holding out a trick or treat bag",
+  "alt3": "Crash Nebula",
+  "alt4": "four Jack-o-bots flying through space",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films",
+    "mighty movie heroes"
+  ]
+}
