@@ -1,0 +1,27 @@
+{
+  "slug": "ledgeman",
+  "title": "LedgeMan",
+  "description": "Every day, the same oversensitive man takes something the wrong way, climbs out on a window ledge, and threatens to jump. And every day, his mother appears at the window and tells him to remember all the reasons for living.",
+  "quote": "In spite of what you think. you have never been a disappointment to me.",
+  "parent": "My Winnipeg",
+  "parentYear": "2007",
+  "parentIMDB": "1093842",
+  "rating": "TV-14",
+  "runtime": "50 seasons",
+  "labels": [
+    "drama"
+  ],
+  "credit": "IFC Films",
+  "altHero": "man outside a building, gripping the brick wall; a woman pokes her head out a nearby window",
+  "alt1": "man against the brick of the building looking down",
+  "alt2": "feet on the ledge",
+  "alt3": "man looks into the window to speak to the woman",
+  "alt4": "the woman looks disappointed",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas"
+  ]
+}
