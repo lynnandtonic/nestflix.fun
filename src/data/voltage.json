@@ -1,0 +1,33 @@
+{
+  "slug": "voltage",
+  "title": "Voltage",
+  "description": "Based on the comic book series, <em>Voltage</em> tells the story of Tess, a high school student who is struck by lightning. After that night, everything changes and her new secret could destroy the world or save it.",
+  "quote": "What’s happening to me?",
+  "parent": "Liv and Maddie",
+  "parentYear": "2013-2017",
+  "parentIMDB": "2794380",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Liv Rooney",
+    "Josh Willcox"
+  ],
+  "labels": [
+    "sci-fi",
+    "teens"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Tess, a blonde teenager, shooting blue lightning from her hands",
+  "alt1": "Tess kneeling with her hands palm up and blue eletrical currents flowing between them",
+  "alt2": "villain with half face of metal and a glowing purple eye",
+  "alt3": "Tess looking at a floating purple electrical orb",
+  "alt4": "teen boy holding Tess, unconscious, and he’s surrounded by blue electricity and his eyes are glowing blue",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens",
+    "sci-fi tv"
+  ]
+}
