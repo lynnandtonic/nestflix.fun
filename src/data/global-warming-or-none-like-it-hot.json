@@ -1,0 +1,27 @@
+{
+  "slug": "global-warming-or-none-like-it-hot",
+  "title": "Global Warming Or: None Like It Hot!",
+  "description": "Learn about the causes of global warming and how our handsomest politicians came up with a cheap, last-minute way to combat it once and for all.",
+  "quote": "Not so fast, Sunbeam! We’re greenhouse gases. You ain’t goin’ nowhere!",
+  "parent": "Futurama",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0149460",
+  "rating": "Unrated",
+  "runtime": "13m",
+  "labels": [
+    "educational"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "a personified sunbeam wearing a hat and carrying a briefcase, chatting with the Earth",
+  "alt1": "man kneels next to small girl whose ice cream cone melted onto the sidewalk",
+  "alt2": "tough guy greenhouse gas stopping the sun beam",
+  "alt3": "geenhouse gases laughing as trapped sunbeams heat up the Earth",
+  "alt4": "spaceship dropping a giant ice cube into the ocean",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
