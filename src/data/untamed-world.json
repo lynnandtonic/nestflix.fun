@@ -1,0 +1,32 @@
+{
+  "slug": "untamed-world",
+  "title": "Untamed World",
+  "description": "<em>Untamed World</em> showcases the vast diversity of organisms that have evolved on our humble planet.",
+  "quote": "We’re about to witness the miracle of nature.",
+  "parent": "The Ren & Stimpy Show",
+  "parentYear": "1991-1996",
+  "parentIMDB": "0101178",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Marland Hoek"
+  ],
+  "labels": [
+    "documentary",
+    "animals",
+    "nature"
+  ],
+  "credit": "ViacomCBS Domestic Media",
+  "altHero": "Ren and Stimpy (holding a net) at the Galapagos Islands",
+  "alt1": "Ren in an office next to a globe",
+  "alt2": "crocodile",
+  "alt3": "Ren and Stimpy with flashlights going into a cave",
+  "alt4": "nature photographers looking at a lizard",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv"
+  ]
+}
