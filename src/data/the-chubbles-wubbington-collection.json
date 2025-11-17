@@ -21,8 +21,9 @@
   "alt2": "Hot Mail",
   "alt3": "Wubbington: The End Part 1",
   "alt4": "Chubbles Wubbington’s Spooky Post Stories",
+  "alt4": "Chubbles is Rude Mailbox",
   "layout": "movie.pug",
-  "submovies": 4,
+  "submovies": 5,
   "tags": [
     "entry",
     "movie",
