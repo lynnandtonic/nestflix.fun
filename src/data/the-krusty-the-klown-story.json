@@ -1,0 +1,32 @@
+{
+  "slug": "the-krusty-the-klown-story",
+  "title": "The Krusty the Klown Story: Booze, Drugs, Guns, Lies, Blackmail and Laughter",
+  "description": "The made-for-TV movie about Krusty the Klown’s drug spiral, his time at rehab, and his tumultuous relationship with Mia Farrow.",
+  "quote": "I went through a five-year orgy of non-stop pills and booze with nothing to show for it but four Emmys and a Peabody award.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-MA",
+  "runtime": "1h 32m",
+  "starring": [
+    "Fyvush Finkel"
+  ],
+  "studio": "The WB",
+  "labels": [
+    "drama",
+    "biography"
+  ],
+  "credit": "20th Television",
+  "altHero": "Fyvush Finkel as Krusty speaking in support group",
+  "alt1": "Krusty smoking a cigar",
+  "alt2": "Clown detox wing",
+  "alt3": "Krusty talking to his son, Chan Ho",
+  "alt4": "Chan Ho looks up at Krusty",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramatic biopics"
+  ]
+}
