@@ -1,0 +1,33 @@
+{
+  "slug": "edtv",
+  "title": "Ed TV",
+  "description": "31-year-old video store clerk, Ed Pekurny, has cameras following his every move 24 hours a day, 7 days a week.",
+  "quote": "Somebody smart said, ‘Practicality wins out.‘ So, in this bathroom, I’m a winner.",
+  "parent": "EDtv",
+  "parentYear": "1999",
+  "parentIMDB": "0131369",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "starring": [
+    "Ed Pekurny"
+  ],
+  "producer": "Cynthia Reed",
+  "studio": "True TV",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Ed, shirtless and flexing while brushing his teeth",
+  "alt1": "Ed giving a thumbs up",
+  "alt2": "Ed and his mom, who looks angry, looking at the camera",
+  "alt3": "Ed’s brother Ray and a woman friend",
+  "alt4": "Ed and Shari kissing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
