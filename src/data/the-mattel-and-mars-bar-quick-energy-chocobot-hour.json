@@ -1,0 +1,29 @@
+{
+  "slug": "the-mattel-and-mars-bar-quick-energy-chocobot-hour",
+  "title": "The Mattel and Mars Bar Quick Energy Chocobot Hour",
+  "description": "Colonel Kataffy is up to his old tricks. Major Nougat and the Chocobots are ready to team up against him.",
+  "quote": "Chocolate, away!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "robots"
+  ],
+  "credit": "20th Television",
+  "altHero": "four chocolate themed robots uniting",
+  "alt1": "fortress of choclitude",
+  "alt2": "Chocobots talking to the President",
+  "alt3": "Chocobot with peanut butter cup shoulder caps",
+  "alt4": "Chocobots flying through space",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "super team-ups"
+  ]
+}
