@@ -1,0 +1,27 @@
+{
+  "slug": "seans-of-sunset",
+  "title": "Seans of Sunset",
+  "description": "Roommates Shawn, Shaun, and Sean navigate the world as single professionals all with the same name.",
+  "quote": "Does Sean know that I’m hooking up with Shaun?“ “No, but what Sean don’t know won’t Shaun him.",
+  "parent": "Fairfax",
+  "parentYear": "2021-2022",
+  "parentIMDB": "7492014",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "Shawn, Shaun, and Sean (a white guy, a white woman, and a Black guy)",
+  "alt1": "Sean shirtless and sweaty in a living room",
+  "alt2": "Shawn shirtless in a hot tub",
+  "alt3": "Shaun indoor rock climbing",
+  "alt4": "the Seans with friends waving",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
