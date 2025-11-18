@@ -1,0 +1,30 @@
+{
+  "slug": "school-of-hard-knockers",
+  "title": "School of Hard Knockers",
+  "description": "Corey just wants to have a good time at college, but Dean Bitterman is standing in his way.",
+  "quote": "That youngster will make a perfect addition to my Cabinet. Secretary of Partying Down!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "R",
+  "runtime": "1h 35m",
+  "starring": [
+    "Corey Masterson"
+  ],
+  "labels": [
+    "comedy"
+  ],
+  "credit": "20th Television",
+  "altHero": "Dean Bitterman and the President",
+  "alt1": "Corey detonates a bomb while Nerdlinger plugs his ears",
+  "alt2": "Dean Bitterman and the President look up in shock as bras fall from the sky",
+  "alt3": "the President dancing",
+  "alt4": "Dean Bitterman is angry with a bra on his head",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}
