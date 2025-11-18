@@ -1,0 +1,37 @@
+{
+  "slug": "kid-cop-nights",
+  "title": "Kid Cop Nights",
+  "description": "Cassidy Kidd is Kid Cop. She’s chasing perps, going undercover, and taking down drug rings. All in a night’s work.",
+  "quote": "Hey, no fair! It’s way past your bedtime.",
+  "parent": "Poker Face",
+  "parentYear": "2023-2025",
+  "parentIMDB": "14269590",
+  "rating": "TV-PG",
+  "runtime": "9 seasons",
+  "starring": [
+    "Amber Kazinsky",
+    "Bebe Kazinsky",
+    "Cece Kazinsky",
+    "Dee Dee Kazinsky",
+    "Jack Munson",
+    "Paul Podesta"
+  ],
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "Peacock",
+  "altHero": "Cassidy Kidd, a young Black girl who is a cop",
+  "alt1": "closeup of Cassidy",
+  "alt2": "reporter Scoop McGillicuddy",
+  "alt3": "Cassidy dressed in French dancer costume, sitting on the hood of a cop car with the chief",
+  "alt4": "Cassidy shrugging and crying",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "dramatic crime shows",
+    "new on nestflix"
+  ]
+}
