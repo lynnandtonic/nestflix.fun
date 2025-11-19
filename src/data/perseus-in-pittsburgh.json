@@ -1,0 +1,30 @@
+{
+  "slug": "perseus-in-pittsburgh",
+  "title": "Perseus in Pittsburgh",
+  "description": "The ancient Greeks knew him as Perseus, but now he’s in Pittsburgh. Action, fighting, and none of that mushy stuff.",
+  "quote": "Let’s boogie!",
+  "parent": "Kick Buttowski: Suburban Daredevil",
+  "parentYear": "2010-2012",
+  "parentIMDB": "1600757",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "starring": [
+    "Rodney ‘Rock’ Callahan"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Rock Callahan as Perseus, a buff Black man with flat top dressed in Greek toga",
+  "alt1": "women fanning Perseus with palm fronds",
+  "alt2": "Perseus stopping a bus with his fist",
+  "alt3": "Perseus about to throw a blonde woman like a javelin",
+  "alt4": "Perseus, with winged sandals, confronting another dude in purple parachute pants",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
