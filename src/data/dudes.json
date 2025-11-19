@@ -1,0 +1,28 @@
+{
+  "slug": "dudes",
+  "title": "Dudes",
+  "description": "Chicago’s hottest dating show where the hunk who gets the most kisses wins a romantic trip to Hawaii.",
+  "quote": "Let’s meet the three dudes who are vying for the title of Super Dude.",
+  "parent": "Family Matters",
+  "parentYear": "1989-1998",
+  "parentIMDB": "0096579",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "dating"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "host of the show",
+  "alt1": "the host with three single ladies",
+  "alt2": "the host making a face with text on screen: “Wow! Hunk-O-Rama!”",
+  "alt3": "young lady giving a peace sign",
+  "alt4": "three hunks with big lips on their clothes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows"
+  ]
+}
