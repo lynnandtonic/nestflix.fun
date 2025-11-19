@@ -1,0 +1,28 @@
+{
+  "slug": "sing-it-loud",
+  "title": "Sing It Loud!",
+  "description": "Stephanie Einstein can’t stay out of trouble, so she’s off to Monahan Academy Reform School to get her life back together.",
+  "parent": "Liv and Maddie",
+  "parentYear": "2013-2017",
+  "parentIMDB": "2794380",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": [
+    "Liv Rooney",
+    "South Salamanca",
+    "Bree DuMont"
+  ],
+  "labels": [
+    "comedy",
+    "musical",
+    "teens"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Liv Rooney as Stephanie Einstein",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens"
+  ]
+}
