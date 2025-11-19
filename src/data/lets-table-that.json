@@ -1,0 +1,31 @@
+{
+  "slug": "lets-table-that",
+  "title": "Let’s Table That",
+  "description": "Rad and Tippy Snooker cover interesting stories and talk with fascinating folks around Table Town.",
+  "quote": "Rubbing your belly while patting your head. Science fiction or the latest teen teen craze? We investigate.",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14877120",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Rad Snooker",
+    "Tippy Snooker"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Rad and Tippy Snooker",
+  "alt1": "Rad and Tippy talk to Helen of Helen’s Muffins",
+  "alt2": "Tammy with the biggest smile",
+  "alt3": "Rad and Tippy with a rat wearing multiple hats",
+  "alt4": "Rad and Tippy talk with Roy Fox and students",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
