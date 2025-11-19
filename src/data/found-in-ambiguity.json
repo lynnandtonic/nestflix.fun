@@ -1,0 +1,38 @@
+{
+  "slug": "found-in-ambiguity",
+  "title": "Found in Ambiguity",
+  "description": "Tabley-award winning drama that some are calling the greatest movie of all time. A sleeper hit.",
+  "quote": "Veracity? You can’t grasp the veracity!",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14877120",
+  "rating": "Unrated",
+  "runtime": "47m",
+  "starring": [
+    "Barry Buns",
+    "Renée du Bedat",
+    "Candle Fox"
+  ],
+  "director": [
+    "Kiff Chatterley"
+  ],
+  "studio": "Kiff Chatterley Pictures",
+  "labels": [
+    "drama",
+    "amateur",
+    "arthouse"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Barry Buns wearing a crown in a colosseum",
+  "alt1": "people riding horses in the distance past the Great Pyramids",
+  "alt2": "Renée du Bedat dressed as Shakespeare running across the foyer of a mansion",
+  "alt3": "Barry, Renée, and Candle Fox looking up in the shadow of a UFO",
+  "alt4": "Barry and his hot dog cart going flying with a huge explosion behind",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
