@@ -1,0 +1,28 @@
+{
+  "slug": "trolls",
+  "title": "Trolls",
+  "description": "Trolls are fearsome and blood-thirsty, with a taste for human flesh. The heroic endeavours of Safety Patrol have kept the peace for the citizens of Trolberg for generations.",
+  "quote": "Trolls and humans may be natural enemies.",
+  "parent": "Hilda and the Mountain King",
+  "parentYear": "2021",
+  "parentIMDB": "15777864",
+  "rating": "Unrated",
+  "runtime": "11m",
+  "creator": "Safety Patrol",
+  "labels": [
+    "educational"
+  ],
+  "credit": "Netflix",
+  "altHero": "obvious troll costume emerging from the bushes",
+  "alt1": "illustration of schism between men and trolls",
+  "alt2": "two costumed trolls approaching an A-frame cabin",
+  "alt3": "troll fighting with Safety Patrol officer Erik Ahlberg",
+  "alt4": "family all holding up bells",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
