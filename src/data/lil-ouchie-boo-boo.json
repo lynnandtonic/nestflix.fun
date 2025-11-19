@@ -1,0 +1,27 @@
+{
+  "slug": "lil-ouchie-boo-boo",
+  "title": "Lil’ Ouchie Boo Boo",
+  "description": "If you trip and scrape your knee, or you fall on your elbow. If you stub the toes upon your feet. Lil’ Ouchie Boo Boo is there for you!",
+  "quote": "And sometiemss you will find boo boos can happen on the inside.",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14877120",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Lil’ Ouchie Boo Boo, a bandaid with arms and legs and a big smile",
+  "alt1": "an apple bangs its toe on a block and says, “Ouchie!”",
+  "alt2": "Lil’ Ouchie Boo Boo has a band-aid for the apple",
+  "alt3": "a nail chases Lil’ Ouchie Boo Boo",
+  "alt4": "Lil’ Ouchie Boo Boo pointing at a silhouette with a heart on a display",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
