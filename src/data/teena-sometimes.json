@@ -1,0 +1,31 @@
+{
+  "slug": "teena-sometimes",
+  "title": "Teena Sometimes",
+  "description": "She’s sometimes a princess and sometimes a spy. Together with Ms. Habershaw, her laser cat, she kicks butt and takes names.",
+  "quote": "I’m gonna sparkle you into next week.",
+  "parent": "Kick Buttowski: Suburban Daredevil",
+  "parentYear": "2010-2012",
+  "parentIMDB": "1600757",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Teena Sometimes"
+  ],
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Teena, a blonde princess in a jumpsuit, flying through the air",
+  "alt1": "three ninjas with their pants chopped off to reveal colorful boxers",
+  "alt2": "Ms. Habershaw and her laser eyes",
+  "alt3": "Teena wearing a helmet and standing on the back of a unicorn",
+  "alt4": "Teena dancing with a prince at a ball",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ]
+}
