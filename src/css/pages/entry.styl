@@ -163,6 +163,7 @@ $bp-entry = 800px
       position: relative
       &:after
         --gradient-direction: to top
+
       img
         object-position: 50% 50%
 
@@ -184,7 +185,13 @@ $bp-entry = 800px
       max-height: 750px
 
       img
-        object-position: 50% 0
+        object-position: 50% 40%
+
+      &.top img
+        object-position: 50% 10%
+
+      &.bottom img
+        object-position: 50% 80%
 
     .entry-info
       width: 50%
