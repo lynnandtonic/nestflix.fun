@@ -1,0 +1,43 @@
+{
+  "slug": "hotpants-college-2",
+  "title": "Hotpants College 2",
+  "description": "In the suprise hit sequel, the boys are back for year two and causing more mayhem on campus.",
+  "quote": "Any minute now that room is gonna be filled with butt-naked babes.",
+  "parent": "Love and Death on Long Island",
+  "parentYear": "1997",
+  "parentIMDB": "0119574",
+  "rating": "R",
+  "runtime": "1h 32m",
+  "starring": [
+    "Karl Ambling",
+    "Susie Wagstaff",
+    "Ricky Shelton",
+    "Greg Orme",
+    "Ronnie Bostock",
+    "Big Guy Johnson",
+    "Helen Plantin",
+    "Tandy Webb"
+  ],
+  "director": [
+    "Huck Murphy"
+  ],
+  "producer": "Chris Mornay",
+  "studio": "Bronco Entertainment",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Lions Gate Films",
+  "altHero": "young college guy enters a pizza parlor",
+  "alt1": "a mom coughs as she pours juice at the breakfast table with her teen son",
+  "alt2": "four college dudes crouching outside at night, one is holding a video camera",
+  "alt3": "looking into a window and two girls are undressing",
+  "alt4": "teen boy looks dejected, lying on a countertop next to a tomato ketchup bottle",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
