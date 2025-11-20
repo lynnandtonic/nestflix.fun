@@ -1,0 +1,32 @@
+{
+  "slug": "rising-tides-crashing-skies",
+  "title": "Rising Tides / Crashing Skies",
+  "description": "Blogger Ronaldo Fryman investigates Steven and the Crystal Gems to determine if they are safe for Beach City.",
+  "quote": "This is a matter of weird and death!",
+  "parent": "Steven Universe",
+  "parentYear": "2013-2019",
+  "parentIMDB": "3061046",
+  "rating": "Unrated",
+  "runtime": "1h 12m",
+  "director": [
+    "Ronaldo Fryman"
+  ],
+  "studio": "Studio Fryman, Keep Beach City Weird",
+  "labels": [
+    "documentary",
+    "amateur"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Ronaldo Fryman in a blazer, on a chair, between two ferns",
+  "alt1": "actual footage: a glowing pointing hand in the sky",
+  "alt2": "two teen Black girls, chyron says “Jenny, intimidating teenage girl”",
+  "alt3": "Ronaldo talking to Steven Universe at his front door",
+  "alt4": "Ronaldo with the Crystal Gems on the beach at night",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries"
+  ]
+}
