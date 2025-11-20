@@ -1,0 +1,34 @@
+{
+  "slug": "sing-it-louder",
+  "title": "Sing It Louder!!",
+  "description": "Stephanie Einstein is back at Monahan Academy Reform School, but this time there’s a scared little girl who needs her help.",
+  "quote": "Sometimes all you need is just need one second chance.",
+  "parent": "Liv and Maddie",
+  "parentYear": "2013-2017",
+  "parentIMDB": "2794380",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Liv Rooney",
+    "Ruby Smith"
+  ],
+  "labels": [
+    "comedy",
+    "musical",
+    "teens"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Liv Rooney as Stephanie and Ruby Smith as Sasha back to back",
+  "alt1": "Stephanie singing to Sasha",
+  "alt2": "Sasha and friend laughing at the dinner table",
+  "alt3": "Sasha talking to her friend who seems concerned",
+  "alt4": "Stephanie, Ruby, and other students dancing down colorful stairs",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens",
+    "new on nestflix"
+  ]
+}
