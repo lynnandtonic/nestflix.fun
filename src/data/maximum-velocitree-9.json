@@ -1,0 +1,32 @@
+{
+  "slug": "maximum-velocitree-9",
+  "title": "Maximum Velocitree 9",
+  "description": "Baron Thistle is one step closer to ripping the world apart and the Robo Trees are running out of time.",
+  "quote": "We have 1.32 minutes before the Nexus Shockwave.",
+  "parent": "Rick and Morty",
+  "parentYear": "2013-Present",
+  "parentIMDB": "2861424",
+  "rating": "PG-13",
+  "runtime": "2h 34m",
+  "director": [
+    "James Gunn"
+  ],
+  "studio": "Warner Bros.",
+  "labels": [
+    "action",
+    "sci-fi"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Arbor Knight pointing a sword with the Robo Trees behind",
+  "alt1": "the Hedgeweeds",
+  "alt2": "Palm D'Or",
+  "alt3": "Tannenbaum raising his arms and cheering",
+  "alt4": "Baron Thistle in front of an electrified portal door",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
