@@ -11,8 +11,10 @@ html(lang='en')
         meta(name='author', content='Lynn Fisher')
 
         title !{title}
-            if bodyClass !== 'landing'
-                = ' Nestflix'
+            if bodyClass == 'detail'
+                = ' on Nestflix'
+            else if bodyClass == 'category'
+                = ' on Nestflix'
         meta(name='description', content=description)
 
         link(rel='shortcut icon', href='/img/_icons/favicon.png')

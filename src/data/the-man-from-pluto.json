@@ -1,0 +1,33 @@
+{
+  "slug": "the-man-from-pluto",
+  "title": "The Man from Pluto",
+  "description": "After Pluto is destroyed in a nuclear test, its last son comes to Earth, hungry for vengence.",
+  "quote": "And now I have no choice but to kill him. Him, who never meant us guys no harm at all.",
+  "parent": "Mission Hill",
+  "parentYear": "1999-2002",
+  "parentIMDB": "0197148",
+  "rating": "X",
+  "runtime": "1h 22m",
+  "starring": [
+    "Gus Duncz"
+  ],
+  "director": [
+    "Walter L. Ford"
+  ],
+  "labels": [
+    "sci-fi"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Man from Pluto, abald man in a space suit with a light bulb sticking out the front",
+  "alt1": "Man from Pluto walking through a park",
+  "alt2": "an army general speaks with a soldier",
+  "alt3": "explosions",
+  "alt4": "a fedora hat hanging from a string in front of the Capitol",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ]
+}
