@@ -1,0 +1,34 @@
+{
+  "slug": "the-christian-cowboy",
+  "title": "The Christian Cowboy",
+  "description": "A gunslinging stranger arrives in Las Vegas to clean up the rottenest town in the west. He meets a beautiful nun and his life is changed forever.",
+  "quote": "Prayer time, sinners!",
+  "parent": "Reckless Kelly",
+  "parentYear": "1993",
+  "parentIMDB": "0107930",
+  "rating": "R",
+  "runtime": "1h 43m",
+  "starring": [
+    "Ned Kelly",
+    "Robin Banks"
+  ],
+  "studio": "Delance Pictures",
+  "labels": [
+    "action",
+    "romance"
+  ],
+  "credit": "Warner Bros. Pictures",
+  "altHero": "young priest with cross earring and cowboy hat, riding a motorcycle with a light-up cross on the front",
+  "alt1": "the Christian cowboy preaching on the Vegas strip",
+  "alt2": "a group of gun-toting gangsters",
+  "alt3": "a large man in a Scottish kilt and holding bagpipes, points a gun",
+  "alt4": "beautiful nun praying",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
