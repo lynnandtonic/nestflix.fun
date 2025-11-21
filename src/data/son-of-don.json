@@ -1,0 +1,30 @@
+{
+  "slug": "son-of-don",
+  "title": "Son of Don",
+  "description": "Everyone knows and respects his father. He’s called The Don. Tony is just a kid, but must determine his place within his family and with the neighborhood.",
+  "quote": "You gotta stay tough to be tough, son.",
+  "parent": "De Boskampi’s",
+  "parentYear": "2015",
+  "parentIMDB": "3845822",
+  "rating": "R",
+  "runtime": "1h 46m",
+  "labels": [
+    "drama",
+    "thriller",
+    "mobsters"
+  ],
+  "credit": "Dutch FilmWorks",
+  "altHero": "Tony, a young Italian boy, with his father whispering in his ear",
+  "alt1": "Tony with his friends at a restaurant",
+  "alt2": "The Don giving a toast",
+  "alt3": "Tony carrying boxes of cigarettes",
+  "alt4": "a man tied up in the restaurant kitchen",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "crime movies"
+  ]
+}
