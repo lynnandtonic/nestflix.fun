@@ -1,0 +1,37 @@
+{
+  "slug": "the-gambler",
+  "title": "The Gambler",
+  "description": "Lady Anne Erskine meets Bill Benson, a gambler, and falls for him instantly. To her family’s horror, things soon spin out of control. ",
+  "quote": "May I remind you it’s my future to throw away.",
+  "parent": "Downton Abbey: A New Era",
+  "parentYear": "2022",
+  "parentIMDB": "11703710",
+  "rating": "PG",
+  "runtime": "1h 36m",
+  "starring": [
+    "Myrna Dalgliesh",
+    "Guy Dexter"
+  ],
+  "director": [
+    "Jack Barber"
+  ],
+  "studio": "British Lion",
+  "labels": [
+    "drama",
+    "romance"
+  ],
+  "credit": "Focus Features",
+  "altHero": "Guy Dexter as Bill and Myrna Dalgliesh as Lady Anne, at a gambling table",
+  "alt1": "Bill speaks with Lady Anne near some stairs",
+  "alt2": "Bill looks at Lady Anne as she looks away, upset",
+  "alt3": "Bill and Lady Anne stand and speak across a long dinner table full of people",
+  "alt4": "Bill and Lady Anne hold hands and speak closely",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age",
+    "new on nestflix"
+  ]
+}
