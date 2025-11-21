@@ -1,0 +1,32 @@
+{
+  "slug": "off-duty-cop",
+  "title": "Off Duty Cop",
+  "description": "Detective Steve St. James is never really off the clock while criminals are at work in his city.",
+  "parent": "The Looney Tunes Show", 
+  "parentYear": "2011-2013",
+  "parentIMDB": "1726839",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Leslie Hunt",
+    "Howard Fine"
+  ],
+  "producer": "Martin Quinn",
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Leslie Hunt as Detective Steve St. James, standing in window light shining through window blinds",
+  "alt1": "St. James and his driver having pie and coffee in a diner",
+  "alt2": "a sugar shaker flying toward the head of a mugger in a balaclava running with a purse",
+  "alt3": "St. James maneuvering handcuffs on a big criminal swinging his arms",
+  "alt4": "beautiful woman in handcuffs crouched by an open safe with gold and jewels spilling out",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV serires",
+    "crime shows",
+    "dramatic crime shows"
+  ]
+}
