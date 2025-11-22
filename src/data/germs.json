@@ -1,0 +1,28 @@
+{
+  "slug": "germs",
+  "title": "Germs",
+  "description": "Germs. So small and yet, they’re everywhere. Multiplying. Spreading. Humanity never expected its biggest threat would be… Germs!",
+  "quote": "No, the germs are on me! The germs!",
+  "parent": "We Bare Bears",
+  "parentYear": "2015-2019",
+  "parentIMDB": "4839610",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "labels": [
+    "thriller",
+    "disaster"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "woman running through the street with big green germs all over her",
+  "alt1": "child blowing out candles on a birthday cake",
+  "alt2": "scientists aghast at what they see in the microscope",
+  "alt3": "scientist kneeling in the street, germs are everywhere",
+  "alt4": "a big green germ is consuming the Earth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers"
+  ]
+}
