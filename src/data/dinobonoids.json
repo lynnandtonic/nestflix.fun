@@ -1,0 +1,30 @@
+{
+  "slug": "dinobonoids",
+  "title": "Dinobonoids",
+  "description": "Professor Gaylord and the Dinobonoids are protecting the innocent with the power of friendship.",
+  "quote": "Friendship played an important role in vanquishing our foe.",
+  "parent": "The Grim Adventures of Billy & Mandy",
+  "parentYear": "2003-2007",
+  "parentIMDB": "0292800",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "dinosaurs"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Tex, a mechanical T-Rex, and  Lazlow, a mechanical Stegosaurus, flying in the air",
+  "alt1": "a giant bug-like villain",
+  "alt2": "Professor Gaylord",
+  "alt3": "Professor Gaylord, Tex, and Lazlow all about to give a high five",
+  "alt4": "four more Dinobonoids",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "super team-ups"
+  ]
+}
