@@ -1,0 +1,31 @@
+{
+  "slug": "bastard-chef",
+  "title": "Bastard Chef",
+  "description": "Lance Casteau is the chef/owner of Seize and runs his ship with a bad attitude and a foul mouth.",
+  "quote": "If you can’t turn that into promo gold, then you should honestly consider suicide.",
+  "parent": "Archer",
+  "parentYear": "2009-2023",
+  "parentIMDB": "1486217",
+  "rating": "TV-MA",
+  "runtime": "5 seasons",
+  "starring": [
+    "Lance Casteau"
+  ],
+  "labels": [
+    "reality",
+    "cooking"
+  ],
+  "credit": "20th Television",
+  "altHero": "chef Lance Casteau",
+  "alt1": "outside of Seize restaurant",
+  "alt2": "Casteau yelling and waving around an eggplant",
+  "alt3": "Casteau holding up a knife near his chef team",
+  "alt4": "gentlemen sitting in the dining room",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
