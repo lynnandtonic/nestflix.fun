@@ -1,0 +1,28 @@
+{
+  "slug": "dr-ninja-baljeet",
+  "title": "Dr. Ninja Baljeet",
+  "description": "Aliens, zombies, and tough henchmen are no match for Dr. Ninja Baljeet.",
+  "quote": "I did not go through six years of ninja school just to be called Dr. Baljeet. It is Dr. Ninja Baljeet, ok?",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-2015",
+  "parentIMDB": "0852863",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "studio": "Ferb TV",
+  "labels": [
+    "action"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "ninja kicking in the air",
+  "alt1": "Dr. Baljeet caring for a woman on the beach",
+  "alt2": "squid alien people",
+  "alt3": "Dr. Baljeet hanging from a helicopter and holding onto a dangling woman",
+  "alt4": "Dr. Baljeet and a blonde drive a speed boat away from a yacht",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv"
+  ]
+}
