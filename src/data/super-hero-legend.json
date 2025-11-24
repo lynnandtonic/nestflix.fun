@@ -1,0 +1,29 @@
+{
+  "slug": "super-hero-legend",
+  "title": "Super Hero Legend",
+  "description": "Heroes! They’re the burning energy deep inside you. Masculine Fantasy is determined to become the best hero he can be.",
+  "parent": "Bakuman.",
+  "parentYear": "2010-2013",
+  "parentIMDB": "1738419",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "creator": "Kawaguchi Taro",
+  "labels": [
+    "action",
+    "animation",
+    "superheroes"
+  ],
+  "credit": "J.C.Staff",
+  "altHero": "Masculine Fantasy flying through space",
+  "alt1": "man drinking chocolate drink",
+  "alt2": "woman and ninja man",
+  "alt3": "Masculine Fantasy in a flame of energy",
+  "alt4": "a robot character wearing a fedora and smoking a cigarette",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes"
+  ]
+}
