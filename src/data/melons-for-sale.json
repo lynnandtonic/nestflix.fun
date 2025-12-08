@@ -1,0 +1,32 @@
+{
+  "slug": "melons-for-sale",
+  "title": "Melons for Sale",
+  "description": "A lonely melon salesman struggles with a changing world.",
+  "quote": "Melons for sale!",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14877120",
+  "rating": "PG",
+  "runtime": "43m",
+  "director": [
+    "Allison Craig"
+  ],
+  "producer": "Roy Fox",
+  "labels": [
+    "drama",
+    "arthouse"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "a depressed bird in a hat, manning a cart of melons",
+  "alt1": "the melon bird hollering",
+  "alt2": "closeup of the bird",
+  "alt3": "another bird, a woman, pulls up with a cart of melons",
+  "alt4": "woman bird ringing a small bell",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}

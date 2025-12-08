@@ -1,0 +1,28 @@
+{
+  "slug": "the-sands-of-time",
+  "title": "The Sands of Time",
+  "description": "A hospital drama about Dr. Mackenzie, a medical marvel. He and his team are treating patients and saving lives",
+  "quote": "Doctor, this is highly unusual.",
+  "parent": "Intolerable Cruelty",
+  "parentYear": "2003",
+  "parentIMDB": "0138524",
+  "rating": "TV-MA",
+  "runtime": "4 seasons",
+  "starring": [
+    "Howard D. Doyle"
+  ],
+  "labels": [
+    "soap opera",
+    "medical drama"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "two doctors discussing something serious as they look at x-rays of a torso",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas",
+    "medical dramas",
+    "new on nestflix"
+  ]
+}
