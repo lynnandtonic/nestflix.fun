@@ -1,0 +1,28 @@
+{
+  "slug": "general-romantic-hospital",
+  "title": "General Romantic Hospital",
+  "description": "A medical drama that admits TV doctors are far superior to the real thing. They have much better hair, drive cooler cars, and always have time to discuss their emotions in the hospital cafeteria.",
+  "quote": "Nurse, if we are to work closely together as medical professionals, there’s something between us that must be removed… the patient.",
+  "parent": "Kitty Is Not a Cat",
+  "parentYear": "2018-2020",
+  "parentIMDB": "7094632",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "labels": [
+    "soap opera",
+    "medical drama"
+  ],
+  "credit": "BES Animation",
+  "altHero": "doctor and nurse with their hands inside a patient",
+  "alt1": "doctor casually sitting on a table in the cafeteria holding a cup of coffee",
+  "alt2": "doctor leaning in toward a scrub nurse holding a tray of organs",
+  "alt3": "doctor having an x-ray of his heart",
+  "alt4": "doctor and nurse in a passionate kiss",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "medical dramas"
+  ]
+}
