@@ -1,12 +1,12 @@
 {
   "slug": "late-night-with-deborah-vance",
   "title": "Late Night with Deborah Vance",
-  "description": "The unaired pilot of <em>Late Night</em> featuring comedian Deborah Vance, almost the first female late night talk show host.",
+  "description": "Deborah Vance became the first woman to host a late night talk show with a fiery, single season that quickly became late night’s #1 show.",
   "parent": "Hacks",
   "parentYear": "2021-Present",
   "parentIMDB": "11815682",
   "rating": "TV-MA",
-  "runtime": "1 episode",
+  "runtime": "1 season",
   "studio": "CBS",
   "starring": [
     "Deborah Vance"
@@ -17,10 +17,16 @@
   ],
   "credit": "NBCUniversal Television",
   "altHero": "Deborah Vance giving a monologue in front of a stage curtain",
+  "alt1": "Deborah dancing with Dance Mom",
+  "alt2": "Deborah playing strip poker with Seth Rogen and Kaia Gerber",
+  "alt3": "Deborah with Las Vegas Mayor Jo Pezzimenti",
+  "alt4": "Deborah giving her final monologue",
   "layout": "movie.pug",
+  "stills": true,
   "tags": [
     "entry",
     "TV series",
-    "late night talk shows"
+    "late night talk shows",
+    "new on nestflix"
   ]
 }
