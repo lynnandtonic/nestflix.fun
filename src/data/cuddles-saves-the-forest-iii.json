@@ -1,0 +1,28 @@
+{
+  "slug": "cuddles-saves-the-forest-iii",
+  "title": "Cuddles Saves the Forest III",
+  "description": "In this extra cute installment in the <em>Cuddles</em> franchise, everybody‘s favorite bear must convince lumberjacks to rethink their ways.",
+  "quote": "Come on, everyone! let’s hug.",
+  "parent": "Aaahh!!! Real Monsters",
+  "parentYear": "1994-1997",
+  "parentIMDB": "0108684",
+  "rating": "G",
+  "runtime": "1h 22m",
+  "labels": [
+    "kids",
+    "family"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Cuddles, a purple bear",
+  "alt1": "Cuddles speaks to a lumberjack holding a chainsaw in the forest",
+  "alt2": "Cuddles and animal pals talking to the lumberjack and a young girl",
+  "alt3": "Cuddles talks with the girl",
+  "alt4": "All of them hug as red hearts float around them",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
