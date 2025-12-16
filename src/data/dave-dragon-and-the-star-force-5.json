@@ -1,0 +1,31 @@
+{
+  "slug": "dave-dragon-and-the-star-force-5",
+  "title": "Dave Dragon & The Star Force 5",
+  "description": "Dave Dragon and his team, The Star Force 5, fight to uphold the way of the closed fist: respect, courage, trust, honor, and teamwork.",
+  "parent": "3 Ninjas: High Noon at Mega Mountain",
+  "parentYear": "1998",
+  "parentIMDB": "0118539",
+  "rating": "TV-G",
+  "runtime": "15 seasons",
+  "starring": [
+    "Dave Dragon"
+  ],
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Sony Pictures",
+  "altHero": "Dave Dragon, a buff dude in a hero costume",
+  "alt1": "kid shielding his little sister",
+  "alt2": "a bunch of goons face off with Dave Dragon",
+  "alt3": "Dave Dragon punches a guy",
+  "alt4": "Dave Dragon with the kids he saved",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "new on nestflix"
+  ]
+}
