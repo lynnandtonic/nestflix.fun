@@ -15,7 +15,10 @@
   .card-list
     margin-bottom: 0
     display: grid
-    grid-gap: 1.2rem
+    @media screen and (max-width: $bp-md)
+      gap: 1rem
+    @media screen and (min-width: $bp-md + 1)
+      gap: 1.2rem
 
     // 1 across for tiny screens
     @media screen and (max-width: $bp-sm)
