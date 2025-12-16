@@ -1,0 +1,30 @@
+{
+  "slug": "gordies-journey",
+  "title": "Gordie’s Journey",
+  "description": "For years, he’d been a happily married, straight cis male moose masseuse. But then, in a Calgary minute, everything changed. It’s about time for Gordie to make his true sеxual identity appear. Like in a magic trick, for example.",
+  "quote": "You’re quitting your job to be a magician? You sound loony! And I’m not referring to our nation’s currency.",
+  "parent": "Big Mouth",
+  "parentYear": "2017-2025",
+  "parentIMDB": "6524350",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "studio": "Netflix Canada",
+  "labels": [
+    "drama",
+    "canada"
+  ],
+  "credit": "Netflix",
+  "altHero": "Gordie, a basic white guy, walking by a magic shop",
+  "alt1": "Gordie giving a moose a massage",
+  "alt2": "Gordie having a diner milkshake with his wife, who looks angry",
+  "alt3": "Gordie is naked save for a bowtie and tophat covering his privates, various hands reaching out to touch him",
+  "alt4": "a Dr. Strange-looking magician talks with Gordie",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas",
+    "new on nestflix"
+  ]
+}
