@@ -1,0 +1,32 @@
+{
+  "slug": "haunted-house-cleaners",
+  "title": "Haunted House Cleaners",
+  "description": "If you sense spirits in your home, there’s one man to call. He’s Carrigan Burke and he’s here to clean house.",
+  "quote": "Is this labyrinthine network of sewers playing host… to a malevolent spirit?",
+  "parent": "Poltergeist",
+  "parentYear": "2015",
+  "parentIMDB": "1029360",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": [
+    "Carrigan Burke"
+  ],
+  "labels": [
+    "reality",
+    "paranormal"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "night vision shot of Carrigan Burke",
+  "alt1": "Burke outside a house",
+  "alt2": "Burke peeking up from below a shelf",
+  "alt3": "Burke in an old sewer tunnel",
+  "alt4": "tunnel illuminated in red",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "paranormal investigation",
+    "new on nestflix"
+  ]
+}
