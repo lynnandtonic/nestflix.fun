@@ -1,0 +1,33 @@
+{
+  "slug": "real-families",
+  "title": "Real Families",
+  "description": "The show that spends a week with a new family and asks the question, “Hey America, who are you, really?”",
+  "quote": "Look, it’s unfortunate. But it’s real.",
+  "parent": "WKRP in Cincinnati",
+  "parentYear": "1978-1982",
+  "parentIMDB": "0077097",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Phil Tarry",
+    "Elaine Parker"
+  ],
+  "labels": [
+    "reality",
+    "documentary"
+  ],
+  "credit": "CBS",
+  "altHero": "hosts Phil Tarry and Elaine Parker",
+  "alt1": "Elaine Parker speaking to the camera",
+  "alt2": "Phil Tarry next to a photo of a family",
+  "alt3": "a family waking up in bed",
+  "alt4": "the family on stage with Phil and Elaine",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series",
+    "new on nestflix"
+  ]
+}
