@@ -1,0 +1,35 @@
+{
+  "slug": "the-man-from-deadhorse",
+  "title": "The Man From Deadhorse",
+  "description": "When the chips are down, even a good man can be driven too far. It’s just him, his gun, and his personal code bringing order to the wild wild west.",
+  "quote": "I hope you like the taste of lead, you commie son of a bitch.",
+  "parent": "Fallout",
+  "parentYear": "2024-Present",
+  "parentIMDB": "12637874",
+  "rating": "PG-13",
+  "runtime": "1h 42m",
+  "starring": [
+    "Cooper Howard"
+  ],
+  "director": [
+    "Emil Dale"
+  ],
+  "studio": "California Crest Studios",
+  "labels": [
+    "western"
+  ],
+  "credit": "Amazon Prime Video",
+  "altHero": "Cooper Howard as a cowboy pointing a gun",
+  "alt1": "Howard holding his gun toward the sky",
+  "alt2": "Howard on a ranch in the desert",
+  "alt3": "cowboy with a mustache on the ground pleading for mercy",
+  "alt4": "Howard pointing a handgun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "westerns",
+    "new on nestflix"
+  ]
+}

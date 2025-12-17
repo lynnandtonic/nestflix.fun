@@ -1,0 +1,28 @@
+{
+  "slug": "ghost-hunters",
+  "title": "Ghost Hunters",
+  "description": "Lonny is a ghost history expert and his partner Jib is a supernatural tech specialist. They take us places where the EMF readings are off the charts.",
+  "quote": "I rate this encounter three ghosts.",
+  "parent": "Haunted Hotel",
+  "parentYear": "2025-Present",
+  "parentIMDB": "32499579",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "labels": [
+    "reality",
+    "paranormal"
+  ],
+  "credit": "Netflix",
+  "altHero": "Lonny and Jib celebrating on the night vision monitor",
+  "alt1": "Lonny crouching outside a small hut on a golf course at night",
+  "alt2": "Jib inside the hut reading an EMF device",
+  "alt3": "Lonny and Jib running, Lonny is holding up three fingers",
+  "alt4": "Jib recording Lonny outside an old house",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "paranormal investigation"
+  ]
+}
