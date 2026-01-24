@@ -1,0 +1,32 @@
+{
+  "slug": "branded-by-fire",
+  "title": "Branded By Fire",
+  "description": "After a brutal divorce, Carol Smoke quits her job as a Macy’s buyer to take on a new challenge. The flames of determination have been stoked. Reese Witherspoon as you’ve never seen her before—with brown hair!",
+  "quote": "But then a sudden spark… I stepped up out of the dark.",
+  "parent": "The Great North",
+  "parentYear": "2021-Present",
+  "parentIMDB": "9140632",
+  "rating": "PG-13",
+  "runtime": "1h 35m",
+  "starring": [
+    "Reese Witherspoon"
+  ],
+  "labels": [
+    "drama",
+    "thriller"
+  ],
+  "credit": "20th Television",
+  "altHero": "Reese as Carol Smoke in the middle of a forest fire",
+  "alt1": "judge at Regular City divorce court",
+  "alt2": "hand ripping off an ad that says “smoke jumpers wanted”",
+  "alt3": "Carol and her team landing in the middle of a burning forest",
+  "alt4": "Carol carrying another smoke jumper away from the fire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
