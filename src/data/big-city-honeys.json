@@ -1,0 +1,23 @@
+{
+  "slug": "big-city-honeys",
+  "title": "Big City Honeys",
+  "description": "A story of young women living in the big city, falling in and out of love, but always having the support of their fellow Honeys when they need it. Kendra is uptight, Lexi is a total party girl, and Max is just like, you know, out there.",
+  "quote": "I can’t have my head stuck in a pickle jar. I have a date tonight!",
+  "parent": "American Dad!",
+  "parentYear": "2005-Present",
+  "parentIMDB": "0397306",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "three women toasting cocktails while standing in bathtubs on a graffiti-covered rooftop",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}
