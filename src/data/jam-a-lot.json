@@ -1,0 +1,32 @@
+{
+  "slug": "jam-a-lot",
+  "title": "Jam-a-lot",
+  "description": "A sports musical adventure about an NBA player finding himself in a cartoon Camelot. Originally a bomb at the box office, it’s found a cult following in the decades after.",
+  "quote": "I like to shoot the basketball!",
+  "parent": "Animaniacs",
+  "parentYear": "1993-1998",
+  "parentIMDB": "0105941",
+  "rating": "G",
+  "runtime": "1h 23m",
+  "producer": "Thaddeus Plotz",
+  "studio": "Warner Bros.",
+  "labels": [
+    "kids",
+    "family",
+    "sports"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Black basketball player spins a basketball on his finger",
+  "alt1": "basketball player rides a horse and wearing a knight’s helmet",
+  "alt2": "cartoon animals in the foreground",
+  "alt3": "a cartoon rabbit checks his watch",
+  "alt4": "cartoon animals sing as the player spins the basketball",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films",
+    "new on nestflix"
+  ]
+}
