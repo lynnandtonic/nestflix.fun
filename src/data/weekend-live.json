@@ -1,0 +1,28 @@
+{
+  "slug": "weekend-live",
+  "title": "Weekend Live",
+  "description": "The iconic sketch comedy and music showcase that’s entertained generations.",
+  "parent": "Don’t Think Twice",
+  "parentYear": "2016",
+  "parentIMDB": "4972062",
+  "rating": "TV-14",
+  "runtime": "49 seasons",
+  "starring": [
+    "Hugh Finn",
+    "Alicia Bonham",
+    "Jack Mercer"
+  ],
+  "labels": [
+    "comedy",
+    "variety"
+  ],
+  "credit": "The Film Arcade",
+  "altHero": "Jack Mercer dressed as a circus ringmaster",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv",
+    "new on nestflix"
+  ]
+}
