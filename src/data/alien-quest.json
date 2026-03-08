@@ -1,0 +1,33 @@
+{
+  "slug": "alien-quest",
+  "title": "Alien Quest",
+  "description": "Space, the vast unknown. Their mission? To investigate new worlds, to make contact with alien life forms. To reach out and touch the stars.",
+  "quote": "Engage!",
+  "parent": "Being Ian",
+  "parentYear": "2005-2008",
+  "parentIMDB": "0471989",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Buck Orpheus"
+  ],
+  "labels": [
+    "sci-fi",
+    "space",
+    "robots"
+  ],
+  "credit": "YTV",
+  "altHero": "Buck Orpheus in a spacesuit and holding a ray gun",
+  "alt1": "spaceship flying over a futuristic city",
+  "alt2": "Orpheus and Mr. Micro running",
+  "alt3": "Looking up at a figure on a mountain edge",
+  "alt4": "Orpheus and Mr. Micro in the cockpit",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}
