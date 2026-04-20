@@ -1,0 +1,32 @@
+{
+  "slug": "wonder-man",
+  "title": "Wonder Man",
+  "description": "The cult classic 1980s superhero movie that become a film phenomenon decades later. Wonder Man, with his sidekick Barnaby, uses his powerful ionic energy to protect the planet from evil.",
+  "quote": "Until Barnaby pulled me out, no one else ever gave a damn. It’s too late for me, but you can still walk away.",
+  "parent": "Wonder Man",
+  "parentYear": "2026-Present",
+  "parentIMDB": "21066182",
+  "rating": "PG",
+  "runtime": "1h 38m",
+  "starring": [
+    "Brent Willard"
+  ],
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Marvel Television",
+  "altHero": "Brent Willard as Wonder Man fighting an alien in the desert",
+  "alt1": "Wonder Man",
+  "alt2": "Wonder Man kicking an alien in the face",
+  "alt3": "alien spaceship",
+  "alt4": "Wonder Man aiming an electric bolt at an alien up on a cliff",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "new on nestflix"
+  ]
+}
