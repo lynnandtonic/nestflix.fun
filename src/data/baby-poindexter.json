@@ -1,0 +1,27 @@
+{
+  "slug": "baby-poindexter",
+  "title": "Baby Poindexter",
+  "description": "The most educational DVD available at the checkout aisle at the grocery store.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-Y",
+  "runtime": "40 episodes",
+  "labels": [
+    "kids",
+    "educational"
+  ],
+  "credit": "20th Television",
+  "altHero": "puppet dragon",
+  "alt1": "line drawing of a clown",
+  "alt2": "abstract composition of three floating cubes",
+  "alt3": "puppet panda hugging dragon",
+  "alt4": "puppet panda, dragon, and elephant",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "educational videos"
+  ]
+}
