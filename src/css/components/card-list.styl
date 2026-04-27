@@ -7,10 +7,18 @@
   margin-bottom: calc(var(--body-padding)*2)
 
   h2
+    margin-bottom: 0
+    padding: 15px 0
+    position: sticky
+    top: 0
+    scroll-margin-top: 20px
+    background-color: alpha($body-bg,.9)
+    box-shadow: -20px 0 0 $body-bg,
+                20px 0 0 $body-bg
     text-transform: uppercase
     font-weight: $font-weight-medium
     font-size: 95%
-    scroll-margin-top: 20px
+    z-index: 20
 
   .card-list
     margin-bottom: 0
