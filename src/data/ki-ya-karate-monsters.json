@@ -1,0 +1,28 @@
+{
+  "slug": "ki-ya-karate-monsters",
+  "title": "Ki-Ya Karate Monsters",
+  "description": "From a Shaolin monastery in darkest Transylvania come helpful hell-spawn. With homicidal honor, they rampage for peace.",
+  "quote": "Ki-ya!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "20th Television",
+  "altHero": "a bunch of monsters like werewolf, blob, dracula, etc",
+  "alt1": "Kung Fu Werewolf",
+  "alt2": "Tae Kwon Dracula",
+  "alt3": "Blob Jitsu",
+  "alt4": "Mixed Martial Medusa",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ]
+}
