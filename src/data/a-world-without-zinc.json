@@ -1,0 +1,28 @@
+{
+  "slug": "a-world-without-zinc",
+  "title": "A World Without Zinc",
+  "description": "Jimmy wished for a world without zinc and soon discovers his foolishness. Be careful what you wish for, Jimmy.",
+  "quote": "Come back, zinc. Come back!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "17m",
+  "labels": [
+    "educational"
+  ],
+  "credit": "20th Television",
+  "altHero": "host holding a pipe and talking to Jimmy who is holding a landline phone",
+  "alt1": "finger dialing a rotary phone",
+  "alt2": "Jimmy pointing a gun at his head",
+  "alt3": "Jimmy having a nightmare in bed",
+  "alt4": "host talking to Jimmy in his car",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos",
+    "new on nestflix"
+  ]
+}
