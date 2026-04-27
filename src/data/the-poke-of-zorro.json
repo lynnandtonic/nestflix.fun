@@ -1,0 +1,42 @@
+{
+  "slug": "the-poke-of-zorro",
+  "title": "The Poke of Zorro",
+  "description": "Zorro defends King Arthur’s throne and faces off with formidable opponents: the Three Musketeers, the Man in the Iron Mask, and Scarlet Pimpernel.",
+  "quote": "Sacre bleu! The deadly poke of Zorro!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "starring": [
+    "John Byner",
+    "Shawn Wayans",
+    "Rita Rudner",
+    "Curtis Armstrong",
+    "Cheech Marin",
+    "Gina Gershawn",
+    "Meryl Streep",
+    "Eric Roberts",
+    "Anthony Hopkins",
+    "Steve Austin",
+    "Victoria Beckham",
+    "James Earl Jones"
+  ],
+  "labels": [
+    "action",
+    "adventure"
+  ],
+  "credit": "20th Television",
+  "altHero": "Zorro, the dashing masked vigilante",
+  "alt1": "Zorro fights the Three Musketeers",
+  "alt2": "Zorro laughs as a woman’s dress falls down",
+  "alt3": "Scarlet Pimpernel grabs Zorro by the collar",
+  "alt4": "Zorro celebrates with King Arthur",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action adventure movies"
+  ]
+}
