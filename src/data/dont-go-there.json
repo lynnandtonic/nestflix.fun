@@ -1,0 +1,22 @@
+{
+  "slug": "dont-go-there",
+  "title": "Don’t Go There",
+  "description": "A group of friends navigating romance, careers, and life in the city.",
+  "quote": "You robbed me of my manhood.” “That’s petty theft!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "20th Television",
+  "altHero": "group of friends sitting on a couch in a coffee shop: one guy looks embarrassed, one guy is pointing at the woman who is filing her nails",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
