@@ -1,0 +1,32 @@
+{
+  "slug": "the-gabbo-show",
+  "title": "The Gabbo Show",
+  "description": "An early competitor of Krusty the Clown, The Gabbo Show charmed Springfield with ventriloquism and showmanship.",
+  "quote": "I’m a bad widdle boy.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-Y7",
+  "runtime": "1 season",
+  "starring": [
+    "Arthur Crandall"
+  ],
+  "labels": [
+    "kids",
+    "variety show"
+  ],
+  "credit": "20th Television",
+  "altHero": "ventriloquist Arthur Crandall and Gabbo, a red-haired, freckled, buck-toothed boy puppet",
+  "alt1": "Gabbo exiting a car",
+  "alt2": "Crandall and Gabbo on stage",
+  "alt3": "Gabbo talking on the phone",
+  "alt4": "Gabbo",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
