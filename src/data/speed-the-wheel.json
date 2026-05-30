@@ -1,0 +1,33 @@
+{
+  "slug": "speed-the-wheel",
+  "title": "Speed the Wheel",
+  "description": "On Speed the Wheel, a big-boned badass bets bravely to bag big bucks. Answer trivia questions correctly to get new dollars, but answer incorrectly and the wheel speeds up.",
+  "quote": "Speed! The! Wheel!",
+  "parent": "The Running Man",
+  "parentYear": "2025",
+  "parentIMDB": "14107334",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": [
+    "Gary Greenbacks"
+  ],
+  "studio": "The Network",
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "mustached host Gary Greenbacks wearing a mustard jacket with black sparkly lapels",
+  "alt1": "contestant Bud runs on the wheel",
+  "alt2": "hostess holds up a large 100 new dollar bill with Arnold Schwarzenegger’s face on it",
+  "alt3": "split screen with Gary on the left and Bud on the right, with a multiple choice trivia question in the middle",
+  "alt4": "big letters say “Failure!” as Bud flips in the air within the wheel",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!",
+    "new on nestflix"
+  ]
+}
