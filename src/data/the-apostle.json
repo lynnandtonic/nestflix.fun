@@ -1,0 +1,35 @@
+{
+  "slug": "the-apostle",
+  "title": "The Apostle",
+  "description": "Airing from a secret location, The Apostle gives you the uncomfortable truth, including the real rules of The Running Man.",
+  "quote": "The Apostle calls bullshit!",
+  "parent": "The Running Man",
+  "parentYear": "2025",
+  "parentIMDB": "14107334",
+  "rating": "Unrated",
+  "runtime": "35 episodes",
+  "starring": [
+    "The Apostle"
+  ],
+  "labels": [
+    "talk show", 
+    "politics",
+    "reality"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "The Apostle, a masked man in colorful clothing",
+  "alt1": "The Apostle imposed over security footage from The Running Man: target acquired outside Twerk City",
+  "alt2": "The Apostle imposed over camera footage of contestant in a fast food joint",
+  "alt3": "The Apostle holding a VHS tape labeled The Running Man Season 5 Episode 13",
+  "alt4": "The Apostle holding up six fingers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "web shows",
+    "entertainment commentary",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
