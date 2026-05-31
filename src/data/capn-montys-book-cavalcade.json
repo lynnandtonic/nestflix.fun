@@ -1,0 +1,27 @@
+{
+  "slug": "capn-montys-book-cavalcade",
+  "title": "Cap’n Monty’s Book Cavalcade",
+  "description": "Captain Monty speaks with authors and reading enthusiasts about new books and the classics.",
+  "quote": "Good morn’, mateys. Today, Captain Monty sails his fair vessel… with precious cargo",
+  "parent": "American Dad!",
+  "parentYear": "2005-Present",
+  "parentIMDB": "0397306",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Captain Monty"
+  ],
+  "labels": [
+    "talk show",
+    "educational"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Captain Monty, a pirate with a hook hand",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows",
+    "new on nestflix"
+  ]
+}
