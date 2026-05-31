@@ -1,0 +1,32 @@
+{
+  "slug": "swamp-thaaaang",
+  "title": "Swamp Thaaaang",
+  "description": "The fourth installment in the <em>Swamp Thang</em> saga, based on real life, tragic events that occurred at Camp Ogawa, Maine in the summer of 1995.",
+  "quote": "Judy, relax. There’s nothing out here. Tonight it’s just you and me, okay?",
+  "parent": "DC’s Legends of Tomorrow",
+  "parentYear": "2016-2022",
+  "parentIMDB": "4532368",
+  "rating": "R",
+  "runtime": "1h 37m",
+  "director": [
+    "David Geddes"
+  ],
+  "labels": [
+    "horror",
+    "monsters"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "swamp monster coming out from the water",
+  "alt1": "boy and girl camp counselors about to kiss on a picnic blanket in the woods at night",
+  "alt2": "the girl hears something in the woods",
+  "alt3": "they are about to kiss but behind them, water is splashing",
+  "alt4": "swamp monster splashing out of the water",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ]
+}
