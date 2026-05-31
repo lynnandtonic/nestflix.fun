@@ -1,0 +1,36 @@
+{
+  "slug": "wonder-man-reboot",
+  "title": "Wonder Man",
+  "description": "The cult classic 1980s film gets a modern reboot. Wonder Man, with his sidekick Barnaby, uses his powerful ionic energy to fight evil where he least expects it.",
+  "quote": "I’m never gonna give up. I don’t care about the cost.",
+  "parent": "Wonder Man",
+  "parentYear": "2026-Present",
+  "parentIMDB": "21066182",
+  "rating": "PG-13",
+  "runtime": "2h 13m",
+  "starring": [
+    "Simon Williams",
+    "Joe Pantoliano"
+  ],
+  "director": [
+    "Von Kovak"
+  ],
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Marvel Television",
+  "altHero": "Wonder Man, a black superhero with red-tinted glasses",
+  "alt1": "Wonder Man stands in front a window",
+  "alt2": "Wonder Man talks with Barnaby",
+  "alt3": "Barnaby smiles while he holds a weapon to his chest",
+  "alt4": "wide shot of a pool and Wonder Man stands at the far end",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "new on nestflix"
+  ]
+}
