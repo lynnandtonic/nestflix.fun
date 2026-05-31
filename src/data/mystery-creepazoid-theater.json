@@ -1,0 +1,30 @@
+{
+  "slug": "mystery-creepazoid-theater",
+  "title": "Mystery Creepazoid Theater",
+  "description": "Tales of inexplicable events. Events which cannot be explained in normal, scientific terms.",
+  "quote": "We’ve got to get out of here, Sheila, before we become slime-sucking space aliens!",
+  "parent": "101 Dalmatians: The Series",
+  "parentYear": "1997-1998",
+  "parentIMDB": "0144700",
+  "rating": "TV-14",
+  "runtime": "10 seasons",
+  "labels": [
+    "sci-fi",
+    "horror",
+    "aliens"
+  ],
+  "credit": "Walt Disney Television Animation",
+  "altHero": "man is shocked when a woman turns around with an alien face",
+  "alt1": "people, a cow, and a cat are floating above the street with empty, wide eyes and open mouths",
+  "alt2": "man with bloodshot eyes and open mouth with tongue hanging out",
+  "alt3": "man puts his hand on a woman’s shoulder, while she faces away",
+  "alt4": "man screaming with the full moon behind",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}
