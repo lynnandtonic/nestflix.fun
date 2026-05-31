@@ -1,0 +1,28 @@
+{
+  "slug": "felonies-and-misdemeanors",
+  "title": "Felonies & Misdemeanors",
+  "description": "In the criminal justice system, there are crimes that can land you in jail for more than one year and crimes that can land you in jail for less than one year. Or possibly just result in a small fine. These are the crimes that could go either way.",
+  "quote": "If no one gets hurt, and the motive is noble enough, sometimes, it just ain’t worth the paperwork.",
+  "parent": "Deadbeat",
+  "parentYear": "2014-2016",
+  "parentIMDB": "3147316",
+  "rating": "TV-14",
+  "runtime": "12 seasons",
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "Hulu",
+  "altHero": "black and white photo of a police detective wearing aviators and pointing a gun",
+  "alt1": "black man sitting at an interrogation table with a plastic bag of stuff",
+  "alt2": "same guy from a different angle",
+  "alt3": "detective leaning over to talk to the man",
+  "alt4": "two detectives talking privately",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
