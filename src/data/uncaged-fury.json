@@ -1,0 +1,32 @@
+{
+  "slug": "uncaged-fury",
+  "title": "Uncaged Fury",
+  "description": "They pissed him off. They f****d with his shades. They should’ve brought more guys.",
+  "quote": "It’s showtime!",
+  "parent": "Mortal Kombat II",
+  "parentYear": "2026",
+  "parentIMDB": "17490712",
+  "rating": "R",
+  "runtime": "1h 38m",
+  "starring": [
+    "Johnny Cage"
+  ],
+  "studio": "New Line Cinema",
+  "labels": [
+    "action"
+  ],
+  "credit": "Warner Bros. Pictures",
+  "altHero": "Johnny Cage pushing up his sunglasses with his middle finger",
+  "alt1": "Johnny Cage fighting a bunch of guys in a warehouse",
+  "alt2": "a woman in a red dress aims a bazooka",
+  "alt3": "Johnny does the splits in the air to dodge the missile",
+  "alt4": "Johnny taking his shades off with an explosion behind him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
