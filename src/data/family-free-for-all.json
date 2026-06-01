@@ -1,0 +1,31 @@
+{
+  "slug": "family-free-for-all",
+  "title": "Family Free for All",
+  "description": "It may be your lucky day. It won’t be easy but that’s ok! Join families as they take on a series of quirky challenges to win big prizes—like a brand new motorboat!",
+  "quote": "Wiggle wiggle!",
+  "parent": "It’s Pony",
+  "parentYear": "2021-2022",
+  "parentIMDB": "11416026",
+  "rating": "TV-G",
+  "runtime": "8 seasons",
+  "starring": [
+    "Warbucks O’Shea"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Warbucks O’Shea on stage",
+  "alt1": "man blowing into a tuba with a volleyball inside the horn",
+  "alt2": "whole famly playing tuba volleyball",
+  "alt3": "a family on the show",
+  "alt4": "O’Shea and a family hold up a small red-haired girl",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
