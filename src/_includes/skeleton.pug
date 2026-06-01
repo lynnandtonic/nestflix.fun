@@ -63,6 +63,8 @@ html(lang='en')
 
         main
             block content
+            if bodyClass == 'landing' || bodyClass == 'category'
+                include browse-list
 
         footer
             nav

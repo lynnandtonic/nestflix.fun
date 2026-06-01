@@ -7,7 +7,6 @@ block vars
 
 include _includes/mixin-feature
 include _includes/mixin-cards
-include _includes/mixin-category-img
 
 block content
     section.hero
@@ -40,67 +39,3 @@ block content
     +feature('Angels with Filthy Souls')(class='feature-1')
     +feature('Simple Jack')(class='feature-2')
     +feature('Sunrise Bay')(class='feature-3')
-
-    section.list.short
-        h2#categories Browse categories
-        ul.card-list.thumbs.categories
-            li: a(href="/comedy")
-                +category-img('The Tracy Jordan Collection')
-                span Comedy
-            li: a(href="/drama")
-                +category-img('Satan’s Alley')
-                span Drama
-            li: a(href="/kids-family")
-                +category-img('Kakie the Cake Monster')
-                span Kids & Family
-            li: a(href="/action-thrills")
-                +category-img('The Lucas Lee Collection')
-                span Action & Thrills
-            li: a(href="/sci-fi")
-                +category-img('Codename: Dragonfly')
-                span Sci-Fi
-            li: a(href="/horror")
-                +category-img('The Puritan II')
-                span Horror
-            li: a(href="/reality-documentary")
-                +category-img('Repo Divorcées')
-                span Reality & Documentary
-            li: a(href="/western-classics")
-                +category-img('Bounty Law')
-                span Westerns & Classics
-            li: a(href="/superheroes")
-                +category-img('Dawn of the Seven')
-                span Superheroes
-            li: a(href="/game-shows")
-                +category-img('Wheel of Fish')
-                span Game Shows
-            li: a(href="/talk-shows")
-                +category-img('Night Owls with Jack Delroy')
-                span Talk Shows
-            li: a(href="/holidays-religion")
-                +category-img('Scrooge')
-                span Holidays & Religion
-            li: a(href="/crime")
-                +category-img('The Finder Outer')
-                span Crime
-            li: a(href="/romance")
-                +category-img('Special Someone')
-                span Romance
-            li: a(href="/soaps-telenovelas")
-                +category-img('Nurse Norton’s Affair')
-                span Soaps & Telenovelas
-            li: a(href="/amateur-creators")
-                +category-img('Greg Gaines and Earl Jackson Collection')
-                span Amateur Creators
-            li: a(href="/music")
-                +category-img('Mother')
-                span Music
-            li: a(href="/sports")
-                +category-img('Supreme Extreme Champions')
-                span Sports
-            li: a(href="/adults")
-                +category-img('The Farmer’s Daughters')
-                span Adults 18+
-            li: a(href="/british-tv")
-                +category-img('The Nests of Netherfield')
-                span British TV
