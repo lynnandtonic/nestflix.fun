@@ -1,0 +1,30 @@
+{
+  "slug": "star-star-throne-quest",
+  "title": "Star Star Throne Quest: The Series",
+  "description": "Based on the best-selling books. <em>Star Star Throne Quest</em> follows the space-buckling hero, Space Friar Zamien, and his adventures across the galaxy.",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Ridgeway Burlington"
+  ],
+  "labels": [
+    "sci-fi",
+    "fantasy"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "hooded figure facing a large moon",
+  "alt1": "two fairies floating above a bog",
+  "alt2": "Space Friar Zamien holds up a sword against three moon worms",
+  "alt3": "Zamien approaches a landing spacecraft",
+  "alt4": "Zamien reaches out screaming “nooo!”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "new on nestflix"
+  ]
+}
