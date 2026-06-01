@@ -1,0 +1,29 @@
+{
+  "slug": "were-house",
+  "title": "Were-House!",
+  "description": "The most terrifying thing anyone could witness. This is Were-House!",
+  "quote": "I see the mailbox, but where‘s the house?",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14877120",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "studio": "Scrumshack Films",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "a spooky old house with broken panels that look like teeth",
+  "alt1": "four teens walking through the woods",
+  "alt2": "three teens stop to talk while one checks their phone",
+  "alt3": "a scared teen",
+  "alt4": "a large house with sharp teeth casts a shadow on the teens",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
