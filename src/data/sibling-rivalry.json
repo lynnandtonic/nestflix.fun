@@ -1,0 +1,29 @@
+{
+  "slug": "sibling-rivalry",
+  "title": "Sibling Rivalry",
+  "description": "The world’s stickiest, goopiest, gooiest game show where families feud and homes are wrecked! Siblings complete physical challenges and answer trivia questions to win big prizes.",
+  "parent": "Dexter’s Laboratory",
+  "parentYear": "1996-2003",
+  "parentIMDB": "0115157",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Trevor Twinkle"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "host Trevor Twinkle",
+  "alt1": "contestant covered in apple goop",
+  "alt2": "Trevor flying with a jetpack next to a contestant",
+  "alt3": "prize showcase including a pegasus and a telescope",
+  "alt4": "contestant covered in purple goop",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
