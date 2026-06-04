@@ -1,0 +1,29 @@
+{
+  "slug": "restless-winds",
+  "title": "Restless Winds",
+  "description": "Tatanka, with his local horse companion, Comanche, faces challenges when he falls in love with a settler woman.",
+  "quote": "You will find me where the moon and sun cross paths in the shadows of the great bear.",
+  "parent": "Acting Good",
+  "parentYear": "2022-present",
+  "parentIMDB": "21057376",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "labels": [
+    "soap opera",
+    "romance"
+  ],
+  "credit": "CTV Comedy Channel",
+  "altHero": "white settler woman embraces Tatanka, a Native American man",
+  "alt1": "Tatanka and his horse Comanche, the settler woman speaks to him from behind",
+  "alt2": "settler woman",
+  "alt3": "Comanche",
+  "alt4": "Tatanka and his settler woman holding a baby",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas",
+    "new on nestflix"
+  ]
+}
