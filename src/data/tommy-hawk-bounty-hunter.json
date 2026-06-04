@@ -1,0 +1,34 @@
+{
+  "slug": "tommy-hawk-bounty-hunter",
+  "title": "Tommy Hawk: Bounty Hunter",
+  "description": "Tommy Hawk, bounty hunter, pursues a diverse slate of fugitives in Reno, Nevada.",
+  "quote": "God don’t make no junk… except you!",
+  "parent": "Reno 911!",
+  "parentYear": "2003-2009",
+  "parentIMDB": "0370194",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "starring": [
+    "Tommy Hawk",
+    "Teresa Hawk"
+  ],
+  "studio": "Spike TV",
+  "labels": [
+    "reality",
+    "crime"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "Tommy Hawk, a white man with bright blonde long hair, wearing a Jesus tank top and flexing his biceps",
+  "alt1": "Tommy aiming a crossbow in a junkyard",
+  "alt2": "Tommy and Teresa shooting guns",
+  "alt3": "Tommy showing a wanted flyer on screen",
+  "alt4": "Tommy talking with the sheriff",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
