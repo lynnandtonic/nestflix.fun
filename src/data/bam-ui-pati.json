@@ -1,0 +1,27 @@
+{
+  "slug": "bam-ui-pati",
+  "title": "Bam Ui Pati",
+  "description": "A pop star’s life becomes entangled with a mysterious visitor when she falls ill with a vampire’s body bone curse.",
+  "quote": "According to her charts, her body bone may indeed be cursed.",
+  "parent": "Star vs. the Forces of Evil",
+  "parentYear": "2015-2019",
+  "parentIMDB": "2758770",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "soap opera"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "pop singer",
+  "alt1": "singer in a hospital bed while two fans cry",
+  "alt2": "fans run after the singer down the hospital hallway, one guy is carrying a pizza",
+  "alt3": "vampire stands behind a billowing sheer curtain",
+  "alt4": "vampire puts his hand on the pop stars face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ]
+}
