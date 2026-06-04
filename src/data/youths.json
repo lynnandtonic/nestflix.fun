@@ -1,0 +1,22 @@
+{
+  "slug": "youths",
+  "title": "Youths!",
+  "description": "A group of friends fight the apathy of youth and learn that you only live once.",
+  "quote": "That would be a great idea. If I cared!",
+  "parent": "Star vs. the Forces of Evil",
+  "parentYear": "2015-2019",
+  "parentIMDB": "2758770",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "a group of friends piled on top of each other on a couch",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
