@@ -1,0 +1,29 @@
+{
+  "slug": "the-mega-hyper-heroes",
+  "title": "The Mega Hyper Heroes",
+  "description": "Marco, Johnny, Diana, and Ricky put their rings together and become the Mega Hyper Heroes. The Changeling, Flame-O, Ms. Invisible, and The Bolt are defenders of the universe. ",
+  "quote": "Okay, Mega Hyper Heroes. We’ve got a Metalitron to recycle.",
+  "parent": "Rugrats",
+  "parentYear": "1991-2005",
+  "parentIMDB": "0101188",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "the kids putting their rings together",
+  "alt1": "Metalitron splitting a giant boulder above its head",
+  "alt2": "The Changeling as an elephant",
+  "alt3": "Ms. Invisible",
+  "alt4": "Metalitron typing up the heroes with The Changeling as a snake",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ]
+}
