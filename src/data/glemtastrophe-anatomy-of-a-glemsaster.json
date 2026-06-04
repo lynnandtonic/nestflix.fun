@@ -1,0 +1,33 @@
+{
+  "slug": "glemtastrophe-anatomy-of-a-glemsaster",
+  "title": "Glemtastrophe: Anatomy of a Glemsaster",
+  "description": "The true story about the town of Wet Finger, Nevada and its water supply, tainted by alcohol runoff from Las Vegas. Glem Blorchman, an un-disbarred attorney, takes the case.",
+  "quote": "Once I win, I’ll be like Dracula. Dead and loving it! Except I’ll be alive.",
+  "parent": "Strip Law",
+  "parentYear": "2026",
+  "parentIMDB": "37937030",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "starring": [
+    "Glem Blorchman",
+    "Irene Gumb"
+  ],
+  "labels": [
+    "documentary",
+    "crime",
+    "courtroom"
+  ],
+  "credit": "Netflix",
+  "altHero": "Glem Blorchman illuminated by the light through window blinds",
+  "alt1": "Inez Ramos, problem haver",
+  "alt2": "person with blurred out face",
+  "alt3": "Glem Blorchman being dragged away by a mob on the hood of his car",
+  "alt4": "Glem in the courtroom, sweaty and with his pants at his ankles",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries"
+  ]
+}
