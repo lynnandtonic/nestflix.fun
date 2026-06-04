@@ -1,0 +1,28 @@
+{
+  "slug": "gday",
+  "title": "G’Day",
+  "description": "The life and adventures of a 6-year-old kangaroo in Australia.",
+  "quote": "Sha-boom-boom!",
+  "parent": "Solar Opposites",
+  "parentYear": "2020-2025",
+  "parentIMDB": "8910922",
+  "rating": "TV-Y",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Hulu",
+  "altHero": "kangaroo family",
+  "alt1": "G’Day with her dad in front of their home",
+  "alt2": "kangaroo family talking to a koala in a tree",
+  "alt3": "G’Day and her dad",
+  "alt4": "mom",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
