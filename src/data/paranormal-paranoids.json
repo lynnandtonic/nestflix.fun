@@ -1,0 +1,34 @@
+{
+  "slug": "paranormal-paranoids",
+  "title": "Paranormal Paranoids",
+  "description": "A group of amateur ghost hunters investigate haunted locations before their infamous disappearance and later recovery of Riley Brennan.",
+  "parent": "Shelby Oaks",
+  "parentYear": "2024",
+  "parentIMDB": "14999684",
+  "rating": "Unrated",
+  "runtime": "56 episodes",
+  "starring": [
+    "Riley Brennan",
+    "Laura Tucker",
+    "David Reynolds",
+    "Peter Bailey"
+  ],
+  "labels": [
+    "reality",
+    "paranormal"
+  ],
+  "credit": "Neon",
+  "altHero": "the Paranormal Paranoids team pose for a photo in the woods",
+  "alt1": "Riley speaks to the camera",
+  "alt2": "figure opens a door",
+  "alt3": "Riley talking in a porch chair",
+  "alt4": "Riley looking spooked in an abandoned jail",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "paranormal investigation",
+    "new on nestflix"
+  ]
+}
