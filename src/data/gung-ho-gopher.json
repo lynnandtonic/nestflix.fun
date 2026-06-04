@@ -1,0 +1,29 @@
+{
+  "slug": "gung-ho-gopher",
+  "title": "Gung-Ho Gopher",
+  "description": "Gung-Ho Gopher teaches kids about the great outdoors and the importance of survival skills.",
+  "quote": "Only a Dingaling Duck goes into the wild unprepared.",
+  "parent": "Rocket Power",
+  "parentYear": "1999-2004",
+  "parentIMDB": "0244926",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "nature",
+    "educational"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Gung-Ho Gopher rope swinging into a canyon to save a wild cat",
+  "alt1": "Gung-Ho Gopher in the jungle",
+  "alt2": "Gung-Ho Gopher on safari",
+  "alt3": "Gung-Ho Gopher in a life vest near a river",
+  "alt4": "Gung-Ho Gopher next to a wild goat",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
