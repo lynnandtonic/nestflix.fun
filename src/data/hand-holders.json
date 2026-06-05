@@ -1,0 +1,29 @@
+{
+  "slug": "hand-holders",
+  "title": "Hand Holders",
+  "description": "The story of young Frogatha, a poison tree frog mutant who can’t hold hands with anyone, despite desperately wanting to.",
+  "quote": "You want to hold my hand? But my hand is poisonous and it has a tragic backstory!",
+  "parent": "StuGo",
+  "parentYear": "2025",
+  "parentIMDB": "28076195",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "studio": "PANTelevision",
+  "labels": [
+    "teens",
+    "teen drama"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Frogatha, a nerdy tree frog with braces and glasses",
+  "alt1": "Frogatha with girls at school",
+  "alt2": "mutant elephant seal boy",
+  "alt3": "Frogatha with her dead dad in a hospital bed",
+  "alt4": "frog hand and elephant seal fin reaching out toward each other",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens"
+  ]
+}
