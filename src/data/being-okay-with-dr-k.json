@@ -1,0 +1,30 @@
+{
+  "slug": "being-okay-with-dr-k",
+  "title": "Being Okay with Dr. K",
+  "description": "You know her as the pioneering psychia-surgeon whose work with anxiety has changed lives. Part therapy, part surgery, and all courage.",
+  "quote": "It’s time for you to stop being afraid and to start living!",
+  "parent": "The Second Best Hospital in the Galaxy",
+  "parentYear": "2024-Present",
+  "parentIMDB": "11828386",
+  "rating": "TV-G",
+  "runtime": "10 seasons",
+  "starring": [
+    "Dr. K"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Amazon MGM Studios",
+  "altHero": "Dr. K, an alien woman",
+  "alt1": "wide shot of the set",
+  "alt2": "audience members",
+  "alt3": "Dr. K and a scanning machine with her daughter inside",
+  "alt4": "Dr. K and a calendar chart",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
