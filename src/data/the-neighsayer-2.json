@@ -1,0 +1,31 @@
+{
+  "slug": "the-neighsayer-2",
+  "title": "The Neighsayer 2",
+  "description": "The Neighsayer is back and these cats still aren’t ready for his hooves.",
+  "quote": "You say justice is dead. I say neighhh!",
+  "parent": "Zootopia 2",
+  "parentYear": "2025",
+  "parentIMDB": "26443597",
+  "rating": "PG-13",
+  "runtime": "1h 37m",
+  "starring": [
+    "Brian Winddancer"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Walt Disney Animation Studios",
+  "altHero": "Brian Winddancer, a clydesdale horse as The Neighsayer, with long flowing blonde hair and wearing a denim vest",
+  "alt1": "The Neighsayer getting ready to fight",
+  "alt2": "The Neighsayer kicking a ninja cat in the face",
+  "alt3": "The Neighsayer doing a praying mantis pose as the ninja cat falls down",
+  "alt4": "The Neighsayer punching another ninja cat in the face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
