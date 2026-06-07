@@ -1,0 +1,33 @@
+{
+  "slug": "stargirl",
+  "title": "Stargirl",
+  "description": "Join Courtney Whitmore for exclusive interviews with Hollywood stars and superheroes.",
+  "quote": "Brace for lightspeed, people!",
+  "parent": "Young Justice",
+  "parentYear": "2010-2022",
+  "parentIMDB": "1641384",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Courtney Whitmore"
+  ],
+  "studio": "Goode World Studios",
+  "labels": [
+    "talk show",
+    "entertainment",
+    "superheroes"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Courtney Whitmore",
+  "alt1": "Whitmore with her hands under her chin, fingers touching",
+  "alt2": "Beast Boy",
+  "alt3": "Whitmore with images of other superheroes",
+  "alt4": "Supergirl interviewing Beast Boy who is holding a dog",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
