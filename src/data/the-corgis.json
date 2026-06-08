@@ -1,0 +1,27 @@
+{
+  "slug": "the-corgis",
+  "title": "The Corgis",
+  "description": "The mega-hit kids show all the way from down under.",
+  "quote": "Orange eggplant, Corgi party! Purple bacon, Corgi party! Red pineapple, Corgi party!",
+  "parent": "We Bare Bears",
+  "parentYear": "2015-2019",
+  "parentIMDB": "4839610",
+  "rating": "TV-Y",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "the Corgis: adult men in corgi costumes",
+  "alt1": "the Corgis dancing around a palm tree with Nom Nom the koala on it",
+  "alt2": "now there are four corgis",
+  "alt3": "now there is a kangaroo man",
+  "alt4": "Nom Nom with a red pineapple and pan of purple bacon being shoved in his face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
