@@ -1,0 +1,30 @@
+{
+  "slug": "ultra-meteorite-fighters",
+  "title": "Ultra Meteorite Fighters",
+  "description": "Ordinary teens band together to protect Earth from foes who wish to do it harm. They are the Wolf, the Bear, the Snake, and the Bat: the Ultra Meteorite Fighters.",
+  "quote": "Who needs an army when you’ve got friends?",
+  "parent": "We Bare Bears",
+  "parentYear": "2015-2019",
+  "parentIMDB": "4839610",
+  "rating": "TV-Y7",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "the Fighters upon a hilltop",
+  "alt1": "the teens look up at an eyeball pirate monster",
+  "alt2": "the teens",
+  "alt3": "the Bear, the pink fighter",
+  "alt4": "the Bat, the green fighter",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "new on nestflix"
+  ]
+}
