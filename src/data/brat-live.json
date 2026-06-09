@@ -1,0 +1,36 @@
+{
+  "slug": "brat-live",
+  "title": "Brat Live!",
+  "description": "Forget everything you know about Charli xcx. The album that gripped the world. One unforgettable summer.",
+  "parent": "The Moment",
+  "parentYear": "2026",
+  "parentIMDB": "35524793",
+  "rating": "PG",
+  "runtime": "2h 32m",
+  "starring": [
+    "Charli xcx"
+  ],
+  "director": [
+    "Johannes Godwin"
+  ],
+  "studio": "Amazon Music",
+  "labels": [
+    "documentary",
+    "music"
+  ],
+  "credit": "A24",
+  "altHero": "Charli xcx on stage holding a glittery microphone",
+  "alt1": "Charli xcx on stage with three backup dancers",
+  "alt2": "fans screaming",
+  "alt3": "Charli xcx singing while hanging from wires",
+  "alt4": "Charli xcx strutting with confetti falling around her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "musical performers",
+    "new on nestflix"
+  ]
+}
