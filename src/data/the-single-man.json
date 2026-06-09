@@ -1,0 +1,28 @@
+{
+  "slug": "the-single-man",
+  "title": "The Single Man",
+  "description": "The #1 reality series where a single man dates a variety of women in hopes of choosing a wife.",
+  "quote": "I love you, babe!",
+  "parent": "Uncle Grandpa",
+  "parentYear": "2013-2017",
+  "parentIMDB": "3042608",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "labels": [
+    "reality competition",
+    "dating"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "man with poofy blonde hair holding a rose",
+  "alt1": "four women",
+  "alt2": "an excited cow",
+  "alt3": "the blonde man gave the cow the rose",
+  "alt4": "man and cow smooching",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows"
+  ]
+}
