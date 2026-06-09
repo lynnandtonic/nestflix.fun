@@ -1,0 +1,26 @@
+{
+  "slug": "the-grievance",
+  "title": "The Grievance",
+  "description": "A movie so gross and scary no one over the age of 45 will even watch it.",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-2015",
+  "parentIMDB": "0852863",
+  "rating": "R",
+  "runtime": "1h 38m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "girl with shin-length hair covering her face and body stands in a doorway of an old room",
+  "alt1": "closeup of the girls feet and bugs are crawling out",
+  "alt2": "the girl is closer now, more bugs in the room",
+  "alt3": "even closer now",
+  "alt4": "she’s right in front of you",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
