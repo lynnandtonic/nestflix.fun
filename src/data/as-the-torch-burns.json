@@ -1,0 +1,23 @@
+{
+  "slug": "as-the-torch-burns",
+  "title": "As the Torch Burns",
+  "description": "Two families must navigate the drama surrounding their lives, careers, and relationships.",
+  "quote": "I’m sorry AJ. When you got murdered, I didn’t know I’d fall in love with… your brother!",
+  "parent": "Twelve Forever",
+  "parentYear": "2019",
+  "parentIMDB": "8009622",
+  "rating": "TV-PG",
+  "runtime": "12 seasons",
+  "labels": [
+    "soap opera",
+    "romance"
+  ],
+  "credit": "Netflix",
+  "altHero": "a man crying and a woman shrugging",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ]
+}
