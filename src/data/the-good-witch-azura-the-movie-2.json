@@ -1,0 +1,28 @@
+{
+  "slug": "the-good-witch-azura-the-movie-2",
+  "title": "The Good Witch Azura The Movie 2: The Betrayanning!",
+  "description": "The sequel movie based on the popular book series. What will Azura do when she discovers Villainous Lucy has betrayed her?",
+  "quote": "We’ll never forgive you. Never!",
+  "parent": "The Owl House",
+  "parentYear": "2020-2023",
+  "parentIMDB": "8050756",
+  "rating": "PG",
+  "runtime": "1h 45m",
+  "labels": [
+    "drama",
+    "fantasy"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Azura holds an unconscious Hecate",
+  "alt1": "Villainous Lucy with an energy burst",
+  "alt2": "Azure sends an electric pulse toward Villainous Lucy",
+  "alt3": "Villainous Lucy speaks while holding her staff",
+  "alt4": "Azura cries",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}
