@@ -1,0 +1,29 @@
+{
+  "slug": "forward-to-the-past",
+  "title": "Foward to the Past",
+  "description": "In an experiment gone wrong, Mickey and the Professor find themselves in a different time. Can their paddle steamer reach 99 miles per hour and get them back home?",
+  "quote": "Rivers? Where we’re going, we don’t need rivers.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG",
+  "runtime": "1h 47m",
+  "labels": [
+    "family",
+    "sci-fi",
+    "adventure"
+  ],
+  "credit": "20th Television",
+  "altHero": "the Professor dressed like a southern plantation owner, with Mickey, a teen in a puffy vest and holding a hover board",
+  "alt1": "Mickey and the Professor by a paddle steamer boat",
+  "alt2": "the Professor yelling",
+  "alt3": "Mickey and a woman look concerned as the Professor steers the boat",
+  "alt4": "the paddle steamer on wheels, on land, glowing and driving toward the camera",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
