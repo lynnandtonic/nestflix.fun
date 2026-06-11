@@ -1,0 +1,22 @@
+{
+  "slug": "americas-most-armed-and-dangerous",
+  "title": "America’s Most Armed and Dangerous",
+  "description": "Up-to-date information about criminals prowling American neighborhoods who should be considered extremely armed and dangerous. If you have information, call 1-800-U-SQUEAL.",
+  "quote": "She could be lurking anywhere, about to descend upon another house full of unsuspecting dupes.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-14",
+  "runtime": "10 seasons",
+  "labels": [
+    "real crime"
+  ],
+  "credit": "20th Television",
+  "altHero": "man in a suit sitting on a desk in a police station",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv"
+  ]
+}
