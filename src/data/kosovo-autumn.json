@@ -1,0 +1,26 @@
+{
+  "slug": "kosovo-autumn",
+  "title": "Vjeshtë Kosovar (Kosovo Autumn)",
+  "description": "Winner of the Romanian Film Festival’s prestigious Golden Bucket. Presented in Albanian with English subtitles.",
+  "quote": "I am older than time itself.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG",
+  "runtime": "2h 43m",
+  "director": [
+    "Mladzieul Klernt"
+  ],
+  "labels": [
+    "drama",
+    "arthouse"
+  ],
+  "credit": "20th Television",
+  "altHero": "two soldiers plodding along a wasteland",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}
