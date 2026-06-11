@@ -1,0 +1,26 @@
+{
+  "slug": "the-year-santa-got-lost",
+  "title": "The Year Santa Got Lost",
+  "description": "In this classic Christmas special, Mr. Mailmain tells the story of the year Santa Claus got into an awful pickle.",
+  "quote": "Santa placed a call with the Secretary of Defense Melvin Laird.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "G",
+  "runtime": "48m",
+  "starring": [
+    "Jimmy Stewart"
+  ],
+  "labels": [
+    "holiday",
+    "animation"
+  ],
+  "credit": "20th Television",
+  "altHero": "stop motion-style animated scene with a mailmain reading a story to a bunch of toys ",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ]
+}
