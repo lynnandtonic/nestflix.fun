@@ -1,0 +1,25 @@
+{
+  "slug": "pinitchio",
+  "title": "Pinitchio",
+  "description": "The follow-up to <em>Scratchtasia</em>, Itchy & Scratchy reinterpret the classic children’s tale, Pinocchio.",
+  "quote": "Now you be-a good, Pinitchio, and don’t-a you lie!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG",
+  "runtime": "32m",
+  "creator": "Roger Meyers Sr.",
+  "studio": "I&S Studios",
+  "labels": [
+    "family",
+    "kids"
+  ],
+  "credit": "20th Television",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
