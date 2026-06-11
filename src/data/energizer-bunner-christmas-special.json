@@ -1,0 +1,27 @@
+{
+  "slug": "energizer-bunner-christmas-special",
+  "title": "The Energizer Bunny Christmas Special",
+  "description": "The Energizer Bunny’s Christmas is in real danger of powering down. Can the holidays be saved?",
+  "quote": "Oh, I don’t know why I’m so run down. I must be low on Christmas spirit.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-G",
+  "runtime": "43m",
+  "labels": [
+    "holiday"
+  ],
+  "credit": "20th Television",
+  "altHero": "by a Christmas tree, the Energizer Bunny looks deflated, talks to a small battery",
+  "alt1": "the battery seems excited",
+  "alt2": "closeup of the battery and he is glowing",
+  "alt3": "the battery opening up a little door on the back of the Bunny’s bum",
+  "alt4": "closeup of the Bunny’s surprised face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV special",
+    "for the holidays"
+  ]
+}

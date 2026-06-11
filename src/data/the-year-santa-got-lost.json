@@ -6,7 +6,7 @@
   "parent": "The Simpsons",
   "parentYear": "1989-Present",
   "parentIMDB": "0096697",
-  "rating": "G",
+  "rating": "TV-Y",
   "runtime": "48m",
   "starring": [
     "Jimmy Stewart"
@@ -20,7 +20,7 @@
   "layout": "movie.pug",
   "tags": [
     "entry",
-    "movie",
+    "TV special",
     "for the holidays"
   ]
 }
