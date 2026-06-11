@@ -1,0 +1,27 @@
+{
+  "slug": "taxicab-conversations",
+  "title": "Taxicab Conversations",
+  "description": "They film passengers with cameras and catch them at their most uninhibited.",
+  "quote": "Hey… can you keep a secret?",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality"
+  ],
+  "credit": "20th Television",
+  "altHero": "taxi driving down the road",
+  "alt1": "taxi pulls up to a disco",
+  "alt2": "disco guy stumbles into the cab",
+  "alt3": "woman cab driver talks to the disco guy",
+  "alt4": "another cabbie talking to Homer Simpson in the backseat",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
