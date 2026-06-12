@@ -1,0 +1,30 @@
+{
+  "slug": "the-skye-daley-show",
+  "title": "The Skye Daley Show",
+  "description": "Each weekday, Skye Daley features fascinating stories and interviews intriguing people.",
+  "quote": "The world is waiting to hear your story.",
+  "parent": "Freaked",
+  "parentYear": "1993",
+  "parentIMDB": "0109838",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "starring": [
+    "Skye Daley"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "Skye Daley",
+  "alt1": "Skye Daley speaking with a guest",
+  "alt2": "a guest hidden in silhouette, it looks like they have a large growth on their back/head",
+  "alt3": "shot of the audience",
+  "alt4": "the Bearded Lady, a buff black man with a mohawk",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
