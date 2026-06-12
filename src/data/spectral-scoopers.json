@@ -1,0 +1,29 @@
+{
+  "slug": "spectral-scoopers",
+  "title": "Spectral Scoopers",
+  "description": "Lisa, Alex, and Rob explore haunted and abandoned locations in hopes of finding paranormal activity.",
+  "quote": "Did you guys hear that?",
+  "parent": "Five Nights At Freddy’s 2",
+  "parentYear": "2025",
+  "parentIMDB": "30274401",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "paranormal"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "night vision shot of Lisa, a young blonde woman, wearing headphones and carrying a boom microphone",
+  "alt1": "Lisa in an abandoned building",
+  "alt2": "Alex shining a flashlight",
+  "alt3": "Lisa illuminated by flashlight",
+  "alt4": "Rob holding a video camera near a concrete flight of stairs",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "paranormal investigation",
+    "new on nestflix"
+  ]
+}
