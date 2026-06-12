@@ -1,0 +1,32 @@
+{
+  "slug": "billy-and-two-scoops",
+  "title": "Billy & Two Scoops",
+  "description": "The now infamous ’80s sitcom about Lenny Scoops, who helps his grandmother run their family ice cream shop, Two Scoops, along with their beloved dog, Billy.",
+  "quote": "Tell that to my sweet tooth!",
+  "parent": "Twisted Metal",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14261112",
+  "rating": "TV-G",
+  "runtime": "10 seasons",
+  "starring": [
+    "Marcus Kane"
+  ],
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Peacock",
+  "altHero": "Marcus Kane as Lenny Scoops, a teen boy in a colorful sweater",
+  "alt1": "Lenny grabbing handfuls of candy while sitting on a couch",
+  "alt2": "Lenny’s grandmother knitting on a rocking chair and yelling at Lenny about the candy",
+  "alt3": "grandmother smiles while holding her knitting needles",
+  "alt4": "Billy, a golden retriever, walks out of the bathroom with some toilet paper stuck to his paw",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ]
+}
