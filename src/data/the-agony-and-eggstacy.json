@@ -1,0 +1,29 @@
+{
+  "slug": "the-agony-and-eggstacy",
+  "title": "The Agony and Eggstacy",
+  "description": "The doctors and nurses of this hospital face emergencies in medicine and in romance.",
+  "quote": "Oh, Antonio!",
+  "parent": "Hey Duggee",
+  "parentYear": "2014-Present",
+  "parentIMDB": "4291050",
+  "rating": "TV-PG",
+  "runtime": "12 seasons",
+  "labels": [
+    "soap opera",
+    "medical drama"
+  ],
+  "credit": "CBeebies",
+  "altHero": "the chicken cast of The Agony and Eggstacy",
+  "alt1": "outside of the hospital",
+  "alt2": "nurse with tray of medicine",
+  "alt3": "doctor and nurse talking",
+  "alt4": "doctor in the doorway",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas",
+    "medical dramas"
+  ]
+}
