@@ -1,0 +1,28 @@
+{
+  "slug": "the-milo-show",
+  "title": "The Milo Show",
+  "description": "This is not your standard hamster sitcom. Family life can be funny, especially when you have a clumsy whirlwind like Milo around.",
+  "quote": "Guess I Milo’ed that up again!",
+  "parent": "Fish Hooks",
+  "parentYear": "2010-2014",
+  "parentIMDB": "1725902",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Milo, a suspenders and glasses wearing dork hamster",
+  "alt1": "the hamster family in the living room",
+  "alt2": "Harl the dad and sister",
+  "alt3": "Milo waving his arms as he falls into a tiered birthday cake",
+  "alt4": "Milo smiling with cake all over himself",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ]
+}
