@@ -1,0 +1,29 @@
+{
+  "slug": "cookin-with-chicken",
+  "title": "Cookin’ with Chicken",
+  "description": "Follow along and learn to cook your favorite dishes with Chicken.",
+  "quote": "Now add-a your tomatoes and simmer for twenty minutes! Aaaaah!",
+  "parent": "The Ren & Stimpy Show",
+  "parentYear": "1991-1996",
+  "parentIMDB": "0101178",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "ViacomCBS Domestic Media",
+  "altHero": "a defeathered chicken holding a big spoon and wearing a chef’s hat",
+  "alt1": "chicken chef leaning over a pan with bubbly food",
+  "alt2": "chicken chef jumping into the pan",
+  "alt3": "splashing oil and the text “Yeeowww!”",
+  "alt4": "chicken sitting in the pan",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
