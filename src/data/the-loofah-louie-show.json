@@ -1,0 +1,33 @@
+{
+  "slug": "the-loofah-louie-show",
+  "title": "The Loofah Louie Show",
+  "description": "Kids’ Opinion Award winner. The adventures of Louie, Amos, and Lottie are funny and relatable. It will crack you up. The most hysterical of all the cartoon characters!",
+  "quote": "How ’bout a game of pop the water balloon?",
+  "parent": "Teen Titans Go!",
+  "parentYear": "2013-Present",
+  "parentIMDB": "2771780",
+  "rating": "TV-G",
+  "runtime": "10 seasons",
+  "starring": [
+    "Loofah Louie"
+  ],
+  "labels": [
+    "kids",
+    "comedy",
+    "animation"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Louie, a loofah, Amos, a fish, and Lottie, a mouse, splashing in a puddle",
+  "alt1": "Amos and Lottie playing corn hole with a bomb",
+  "alt2": "Louie standing on the corn hole board next to the bomb",
+  "alt3": "Louie pumping a water pump into Amos’ mouth as he blows up full of water",
+  "alt4": "Now Louie is taking on water from the pump and he is so huge and water is starting to leak out of him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
