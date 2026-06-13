@@ -1,0 +1,29 @@
+{
+  "slug": "revenge-of-the-snail",
+  "title": "Revenge of the Snail",
+  "description": "A film about her life by Grace Pudel while at Canberra Film School.",
+  "parent": "Memoir of a Snail",
+  "parentYear": "2024",
+  "parentIMDB": "23770030",
+  "rating": "Unrated",
+  "runtime": "5m",
+  "starring": [
+    "Edna Everage"
+  ],
+  "director": [
+    "Grace Pudel"
+  ],
+  "labels": [
+    "short film",
+    "amateur",
+    "animation"
+  ],
+  "credit": "Madman Entertainment",
+  "altHero": "two model characters, one of Grace (a woman wearing a snail cap), and a man with curly hair and mustache",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
