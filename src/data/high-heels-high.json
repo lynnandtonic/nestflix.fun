@@ -1,0 +1,28 @@
+{
+  "slug": "high-heels-high",
+  "title": "High Heels High",
+  "description": "Justine is the leader of the most popular girls in school and faces off against her nemesis, Tatiana.",
+  "quote": "They gave you a new face and… it’s mine!",
+  "parent": "A.N.T. Farm",
+  "parentYear": "2011-2014",
+  "parentIMDB": "1772752",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "teen",
+    "teen drama"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Justine, a blonde girl in a red dress, making finger quotes",
+  "alt1": "group of teen girls in colorful clothes",
+  "alt2": "Justine and the girls talking with Tatiana whose face is bandaged up",
+  "alt3": "Tatiana removes her bandages and Justine is shocked",
+  "alt4": "Tatiana and Justine look exactly alike",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens"
+  ]
+}
