@@ -1,0 +1,23 @@
+{
+  "slug": "wedding-bitches",
+  "title": "Wedding Bitches",
+  "description": "There’s nothing quite like a wedding to bring out the bitches.",
+  "quote": "Ma, what the f*** are you wearing?",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "parentIMDB": "0496424",
+  "rating": "TV-MA",
+  "runtime": "5 seasons",
+  "studio": "Bravo",
+  "labels": [
+    "reality"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "bride is aghast at her mother who is wearing her own fancy white gown with gloves",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
