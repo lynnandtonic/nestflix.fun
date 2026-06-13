@@ -1,0 +1,28 @@
+{
+  "slug": "baloney-and-kids",
+  "title": "Baloney & Kids",
+  "description": "Baloney is our friendly friend that we made up ourselves. He likes to play and sing all day that we made up ourselves.",
+  "quote": "I love school so much, I wish I could marry it!",
+  "parent": "Animaniacs",
+  "parentYear": "1993-1998",
+  "parentIMDB": "0105941",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "studio": "Stupid Broadcasting Services",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Baloney, a big orange dinosaur, hugging two kids in a classroom",
+  "alt1": "a stuffed toy dinosaur with magic sparkles all around it",
+  "alt2": "Baloney and two kids",
+  "alt3": "two kids jumping for joy",
+  "alt4": "Baloney at a blackboard",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
