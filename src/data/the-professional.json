@@ -1,0 +1,29 @@
+{
+  "slug": "the-professional",
+  "title": "The Professional",
+  "description": "In this classic TV movie, Roark is a professional, a man who accepts assignments which are in some countries illegal.",
+  "parent": "Columbo",
+  "parentYear": "1968-1978",
+  "parentIMDB": "1466074",
+  "rating": "TV-MA",
+  "runtime": "1h 30m",
+  "producer": "Kay Freestone",
+  "labels": [
+    "thriller",
+    "crime drama"
+  ],
+  "credit": "Universal Television",
+  "altHero": "aerial shot of Roark on a motel bed",
+  "alt1": "Roark cleaning a gun on a hotel bed",
+  "alt2": "Roark in a suit next to a brick wall",
+  "alt3": "a dead man’s hand illuminated by a streetlight",
+  "alt4": "Roark lays in bed holding a gun to his face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ]
+}
