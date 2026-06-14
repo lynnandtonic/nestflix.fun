@@ -1,0 +1,33 @@
+{
+  "slug": "full-disclosure",
+  "title": "Full Dis:closure",
+  "description": "The story of the dissolution of a relationship.",
+  "quote": "I break things, Mira. That’s what I do. It’s why I avoided you for so long… ’cause I didn’t wanna break you.",
+  "parent": "Girls",
+  "parentYear": "2012-2017",
+  "parentIMDB": "1723816",
+  "rating": "Unrated",
+  "runtime": "47m",
+  "starring": [
+    "Adam Sackler"
+  ],
+  "producer": "Adam Sackler, Jessa Johansson",
+  "labels": [
+    "drama",
+    "amateur"
+  ],
+  "credit": "HBO",
+  "altHero": "Adam and Mira in bed, looking at each other",
+  "alt1": "Adam and Mira in bed postcoital",
+  "alt2": "Mira looking at Adam with confused disgust",
+  "alt3": "Adam and Mira talking",
+  "alt4": "Adam looking longingly to the middle distance",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
