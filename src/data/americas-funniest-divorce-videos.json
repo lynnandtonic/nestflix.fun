@@ -1,0 +1,26 @@
+{
+  "slug": "americas-funniest-divorce-videos",
+  "title": "America’s Funniest Divorce Videos",
+  "description": "Who gets what and who gets who? You’ll find out on <em>America’s Funniest Divorce Videos</em>.",
+  "quote": "We gon’ make you laugh. We gon’ make you cry. But most of all, we gon’ nail yo’ ass!",
+  "parent": "Intolerable Cruelty",
+  "parentYear": "2003",
+  "parentIMDB": "0138524",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Gus Petch"
+  ],
+  "labels": [
+    "reality"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "host Gus Petch",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
