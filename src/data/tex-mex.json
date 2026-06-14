@@ -1,0 +1,31 @@
+{
+  "slug": "tex-mex",
+  "title": "Tex Mex",
+  "description": "Jake and Johnny are two friends, struggling to make ends meet in rural Texas. After Jake heads down a shaky path, Johnny consults the guidance of Father Bryson.",
+  "quote": "This ain’t the way, Jake.",
+  "parent": "Love and Death on Long Island",
+  "parentYear": "1997",
+  "parentIMDB": "0119574",
+  "rating": "R",
+  "runtime": "1h 48m",
+  "starring": [
+    "Ronnie Bostock",
+    "Jake Baker"
+  ],
+  "labels": [
+    "drama"
+  ],
+  "credit": "Lions Gate Films",
+  "altHero": "Ronnie Bostock as Johnny running through a dark warehouse next to a pile of shipping pallets",
+  "alt1": "Jake pulls a knife on Johnny, who is standing in the way of two hispanic construction workers",
+  "alt2": "Jake is angry",
+  "alt3": "Johnny has been stabbed, lowered to the ground by Father Bryson",
+  "alt4": "Father Bryson looks sad",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}
