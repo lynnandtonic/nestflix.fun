@@ -1,0 +1,33 @@
+{
+  "slug": "im-somebody-the-deena-jones-story",
+  "title": "I”m Somebody! The Deena Jones Story",
+  "description": "It all started on the streets of Detroit, where three girls named Deena, Lorrell, and Michelle dreamed about one day becoming singing stars.",
+  "parent": "Dreamgirls",
+  "parentYear": "2006",
+  "parentIMDB": "0443489",
+  "rating": "PG-13",
+  "runtime": "1h 36m",
+  "starring": [
+    "Deena Jones"
+  ],
+  "producer": "Curtis Taylor, Jr.",
+  "labels": [
+    "documentary",
+    "music"
+  ],
+  "credit": "DreamWorks Pictures",
+  "altHero": "Deena Jones as Cleopatra",
+  "alt1": "the schoolyard where Deena grew up",
+  "alt2": "Deena, Lorrell, and Michelle when they were young",
+  "alt3": "Deena and Lorrell",
+  "alt4": "Deena on her wedding day with Curtis Taylor, Jr.",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "musical performers",
+    "new on nestflix"
+  ]
+}
