@@ -1,0 +1,27 @@
+{
+  "slug": "the-pleasures-of-paris",
+  "title": "The Pleasures of Paris",
+  "description": "Every Thursday, Dexter Paris shares tricks and techniques to master French cuisine at home.",
+  "quote": "And remember, when ze husband comes home tonight, let him know what wonders eating can do for the marriage.",
+  "parent": "Columbo",
+  "parentYear": "1968-1978",
+  "parentIMDB": "1466074",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Dexter Paris"
+  ],
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "Universal Television",
+  "altHero": "Dexter Paris and guest Lieutenant Frank Columbo of the LAPD",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
