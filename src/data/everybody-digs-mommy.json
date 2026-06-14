@@ -1,0 +1,31 @@
+{
+  "slug": "everybody-digs-mommy",
+  "title": "Everybody Digs Mommy!",
+  "description": "Family can be so embarrassing—especially when your parents are actually pretty cool.",
+  "quote": "There’s no generation gap in this family!",
+  "parent": "Gary & Mike",
+  "parentYear": "2001",
+  "parentIMDB": "0235904",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Veronica Baxter"
+  ],
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "UPN",
+  "altHero": "Larry with his mom and dad",
+  "alt1": "Larry with a guitar",
+  "alt2": "dad winking",
+  "alt3": "mom on the stairs",
+  "alt4": "mom playing the guitar",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ]
+}
