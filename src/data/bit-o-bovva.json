@@ -1,0 +1,31 @@
+{
+  "slug": "bit-o-bovva",
+  "title": "Bit O’ Bovva",
+  "description": "Guy Ritchie’s latest gritty crime comedy about a young Londoner down on his luck.",
+  "quote": "Tell Rosie, that filthy scrubba, her fish and chips were the best.",
+  "parent": "Don’t Trust the B---- in Apartment 23",
+  "parentYear": "2012-2014",
+  "parentIMDB": "1819509",
+  "rating": "R",
+  "runtime": "2h 15m",
+  "starring": [
+    "James Van Der Beek"
+  ],
+  "director": [
+    "Guy Ritchie"
+  ],
+  "labels": [
+    "crime",
+    "comedy",
+    "drama"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "James Van Der Beek in a dirty alley, wearing a big chain and fedora, holding up a stack of cash",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "crime movies",
+    "new on nestflix"
+  ]
+}
