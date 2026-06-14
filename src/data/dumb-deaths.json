@@ -1,0 +1,27 @@
+{
+  "slug": "dumb-deaths",
+  "title": "Dumb Deaths",
+  "description": "Everybody dies. But not everybody dies dumbly. This is Dumb Deaths.",
+  "quote": "Yo man, is that a bear? I bet it totally wants to hug me.",
+  "parent": "Ghosts",
+  "parentYear": "2021-Present",
+  "parentIMDB": "11379026",
+  "rating": "TV-MA",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality"
+  ],
+  "credit": "CBS",
+  "altHero": "hippie couple in the woods, the woman is pointing at something",
+  "alt1": "hippie woman running toward a bear",
+  "alt2": "hippie man leaning over dead woman putting his hand on her face",
+  "alt3": "hippie man looking up at the sky",
+  "alt4": "hippie man raising hands into the air",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
