@@ -1,0 +1,24 @@
+{
+  "slug": "night-night-with-graham-cavanaugh",
+  "title": "Night Night with Graham Cavanaugh",
+  "description": "Graham Cavanaugh hosts a late-night talk show featuring extraordinary guests, comedy sketches, musical performances, and more.",
+  "parent": "Dog with a Blog",
+  "parentYear": "2012-2015",
+  "parentIMDB": "2222135",
+  "rating": "TV-14",
+  "runtime": "7 seasons",
+  "starring": [
+    "Graham Cavanaugh"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Graham Cavanaugh talking with a guest holding a puppy",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows"
+  ]
+}
