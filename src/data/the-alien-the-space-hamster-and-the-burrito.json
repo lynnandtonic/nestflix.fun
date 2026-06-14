@@ -1,0 +1,28 @@
+{
+  "slug": "the-alien-the-space-hamster-and-the-burrito",
+  "title": "The Alien, The Space Hamster, and the Burrito",
+  "description": "An alien with five arms buddies up with a space hamster, and they travel across the universe in search of the ultimate burrito.",
+  "quote": "Burritos are food.",
+  "parent": "iCarly",
+  "parentYear": "2007-2012",
+  "parentIMDB": "0972534",
+  "rating": "Unrated",
+  "runtime": "1m",
+  "director": [
+    "Spencer Shay"
+  ],
+  "labels": [
+    "short film",
+    "sci-fi",
+    "amateur",
+    "animation"
+  ],
+  "credit": "Nickelodeon Productions",
+  "altHero": "model of a five-armed space alien next to a hamster figure with a space helmet on standing next to a burrito",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
