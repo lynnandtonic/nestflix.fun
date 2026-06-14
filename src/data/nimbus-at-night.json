@@ -1,0 +1,29 @@
+{
+  "slug": "nimbus-at-night",
+  "title": "Nimbus at Night",
+  "description": "Johnny Nimbus is the king of Wisconsin late night television. Watch as he interviews interesting people and performers.",
+  "parent": "Liv and Maddie",
+  "parentYear": "2013-2017",
+  "parentIMDB": "2794380",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "starring": [
+    "Johnny Nimbus"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Johnny Nimbus at his desk wearing a plaid jacket",
+  "alt1": "a fake parrot wearing a hat",
+  "alt2": "Johnny Nimbus in a pink jacket",
+  "alt3": "Liv Rooney is a guest",
+  "alt4": "Johnny Nimbus and guests",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows"
+  ]
+}
