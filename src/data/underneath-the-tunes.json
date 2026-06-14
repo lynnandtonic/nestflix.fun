@@ -1,0 +1,28 @@
+{
+  "slug": "underneath-the-tunes",
+  "title": "Underneath the Tunes",
+  "description": "Behind the biggest music acts in Canada, including the downfall of Robin Sparkles.",
+  "parent": "How I Met Your Mother",
+  "parentYear": "2005-2014",
+  "parentIMDB": "0460649",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "documentary",
+    "music"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "Robin Sparkles performing",
+  "alt1": "Steven Page of Barenaked Ladies",
+  "alt2": "graphic of a van going from Alberta to Ontario",
+  "alt3": "Paul Shaffer",
+  "alt4": "Geddy Lee of Rush",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series",
+    "musical performers"
+  ] 
+}
