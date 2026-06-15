@@ -1,0 +1,30 @@
+{
+  "slug": "the-zazzy-tims-show",
+  "title": "The Zazzy Tims Show",
+  "description": "Every Wednesday, Zazzy Tims chats with celebrities, authors, chefs, musicians, and of course, moms.",
+  "parent": "Oh. What. Fun.",
+  "parentYear": "2025",
+  "parentIMDB": "31998881",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Zazzy Tims"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Amazon MGM Studios",
+  "altHero": "Zazzy Tims in red",
+  "alt1": "Zazzy Tims in blue",
+  "alt2": "Zazzy with a holiday mom",
+  "alt3": "Zazzy in green",
+  "alt4": "Zazzy dancing with moms on her set",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
