@@ -1,0 +1,33 @@
+{
+  "slug": "ufo-mania",
+  "title": "UFO Mania",
+  "description": "Join close encounter expert, Shelley Snipes, as she takes a hard look at some compelling new data.",
+  "quote": "Have you seen something in the sky but were afraid to talk about it?",
+  "parent": "Muppets from Space",
+  "parentYear": "1999",
+  "parentIMDB": "0158811",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Shelley Snipes"
+  ],
+  "studio": "The Galaxy Channel",
+  "labels": [
+    "reality",
+    "aliens"
+  ],
+  "credit": "Sony Pictures Releasing",
+  "altHero": "Shelley Snipes",
+  "alt1": "a UFO flying in the sky",
+  "alt2": "Stonehenge",
+  "alt3": "aliens playing in an above ground pool",
+  "alt4": "Miss Piggy and Gonzo who is dressed in aluminum foil",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "aliens!",
+    "reality tv"
+  ]
+}
