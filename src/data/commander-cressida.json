@@ -1,0 +1,27 @@
+{
+  "slug": "commander-cressida",
+  "title": "Commander Cressida",
+  "description": "Commander Cressida is the best of the galactic astronauts. Her boots are on the ground and her head is in the stars. Fearless and curious, with her space dog Sirius.",
+  "parent": "Ready Jet Go!",
+  "parentYear": "2016-2019",
+  "parentIMDB": "5292052",
+  "rating": "TV-G",
+  "runtime": "17 seasons",
+  "labels": [
+    "kids",
+    "space"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "Commander Cressida, a Black woman astronaut hero",
+  "alt1": "Commander Cressida with Sirius the dog and her team of astronauts",
+  "alt2": "Commander Cressida with green goggles on",
+  "alt3": "team of astronauts holding shovels and looking at the sky",
+  "alt4": "Commander Cressida with a shovel and a moon behind",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ]
+}
