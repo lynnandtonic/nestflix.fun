@@ -1,0 +1,30 @@
+{
+  "slug": "lose-it-and-weep",
+  "title": "Lose It and Weep",
+  "description": "Watch as people transform, competing to lose the most weight and win a cash prize.",
+  "parent": "What to Expect When You’re Expecting",
+  "parentYear": "2012",
+  "parentIMDB": "1586265",
+  "rating": "TV-PG",
+  "runtime": "10 seasons",
+  "starring": [
+    "Jules Baxter"
+  ],
+  "labels": [
+    "reality competition"
+  ],
+  "credit": "Lionsgate",
+  "altHero": "Jules Baxter giving a tough face and pointing",
+  "alt1": "contestant sliding along a slip and slide",
+  "alt2": "Jules yells at a former contestant who is eating at a food truck",
+  "alt3": "finalists dressed up fo the finale",
+  "alt4": "Jules on a Zoom call and she has gone into labor",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
