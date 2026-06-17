@@ -1,0 +1,37 @@
+{
+  "slug": "the-buddy-collection",
+  "title": "The Buddy Collection",
+  "description": "A collection of classic Buddy, the cartoon character with big eyes. Big, huge, gigantic, enormous, round eyes.",
+  "quote": "Got no cares and got no worries.",
+  "parent": "Animaniacs",
+  "parentYear": "1993-1998",
+  "parentIMDB": "0105941",
+  "rating": "G",
+  "runtime": "16m",
+  "starring": [
+    "Buddy"
+  ],
+  "creator": "Weed Memlo",
+  "studio": "Warner Bros.",
+  "labels": [
+    "comedy",
+    "short film",
+    "animation",
+    "family"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Buddy winking at the camera",
+  "alt1": "Outback Buddy (1929)",
+  "alt2": "Postman Buddy (1930)",
+  "alt3": "Gardening Buddy (1931)",
+  "alt4": "Baking Buddy (1932)",
+  "alt5": "Busdrier Buddy (1933)",
+  "layout": "movie.pug",
+  "submovies": 5,
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts",
+    "family films"
+  ]
+}
