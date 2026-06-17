@@ -1,0 +1,28 @@
+{
+  "slug": "the-loved-and-the-loveless",
+  "title": "The Loved and the Loveless",
+  "description": "The greatest love stories can come with equal parts pain. Slade Brockwell falls for Chandelier and his life is never the same.",
+  "quote": "I’ve loved you since the very first moment I saw you. From the very first moment.",
+  "parent": "Foster’s Home for Imaginary Friends",
+  "parentYear": "2004-2009",
+  "parentIMDB": "0419326",
+  "rating": "TV-14",
+  "runtime": "12 seasons",
+  "labels": [
+    "soap opera",
+    "romance"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Slade and Chandelier embrace",
+  "alt1": "Chandelier is smitten",
+  "alt2": "Slade smiles",
+  "alt3": "Slace and Chandelier kiss",
+  "alt4": "two nurses at a hospital",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ]
+}
