@@ -1,0 +1,28 @@
+{
+  "slug": "brain-sucking-aliens-from-the-moon",
+  "title": "Brain Sucking Aliens from the Moon",
+  "description": "They’ve arrived on Earth and are looking for one thing… brains!",
+  "quote": "I’m afraid we’re too late, Rick. They sucked out her brain!",
+  "parent": "Foster’s Home for Imaginary Friends",
+  "parentYear": "2004-2009",
+  "parentIMDB": "0419326",
+  "rating": "PG-13",
+  "runtime": "1h 39m",
+  "labels": [
+    "sci-fi",
+    "aliens"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "UFO with visible string taking off into the sky",
+  "alt1": "alien with multiple eyes in a clear dome carries an unconscious woman through the trees, you can see visible ropes holding up the alien",
+  "alt2": "two men shooting ray guns while another man, a scientist, holds his ears",
+  "alt3": "woman has wonky eyes",
+  "alt4": "the three men look at the woman, who is on the ground. the scientist holds up a flashlight",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "aliens!"
+  ]
+}
