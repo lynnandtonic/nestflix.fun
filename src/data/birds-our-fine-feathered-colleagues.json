@@ -1,0 +1,32 @@
+{
+  "slug": "birds-our-fine-feathered-colleagues",
+  "title": "Birds: Our Fine Feathered Colleagues",
+  "description": "Regional Geographic dives into the everyday world of birds.",
+  "quote": "Of course one thing mother blue jay can’t defend against is a set of steel tongs.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "G",
+  "runtime": "12m",
+  "starring": [
+    "Troy McClure"
+  ],
+  "studio": "Regional Geographic",
+  "labels": [
+    "educational",
+    "animals"
+  ],
+  "credit": "20th Television",
+  "altHero": "a blue jay in a nest",
+  "alt1": "Troy McClure by some trees",
+  "alt2": "Troy holding up two badgers by the bird",
+  "alt3": "Troy looking at the nest of eggs",
+  "alt4": "Troy and a young boy in a lab looking at an incubator full of baby birds",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
