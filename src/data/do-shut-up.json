@@ -1,0 +1,29 @@
+{
+  "slug": "do-shut-up",
+  "title": "Do Shut Up",
+  "description": "England’s classic, longest-running series about a hard-drinking, yet loving family of soccer hooligans.",
+  "quote": "You gave me a smash on the noggin” last year!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-14",
+  "runtime": "7 episodes",
+  "labels": [
+    "sitcom",
+    "british TV"
+  ],
+  "credit": "20th Television",
+  "altHero": "two guys in a living room at Christmas drinking two huge glasses of beer",
+  "alt1": "hands hold up a beer bottle with a red bow on it",
+  "alt2": "one guy smashing the other guy on the head with the beer bottle",
+  "alt3": "an old lady with a bonnet over curlers and two oven mitts on",
+  "alt4": "two guys holding up wooden paddles at the old woman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "british tv"
+  ]
+}
