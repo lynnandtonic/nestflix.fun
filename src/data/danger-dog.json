@@ -1,0 +1,31 @@
+{
+  "slug": "danger-dog",
+  "title": "Danger Dog",
+  "description": "Don’t despair, Danger Dog is here to protect the city from villains, alien invasion, and ruff politicians.",
+  "quote": "The mayor’s barf is worse than his bite.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "creator": "Jeff Jenkins",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "20th Television",
+  "altHero": "Danger Dog, a blue superhero dog",
+  "alt1": "alien ship blasting yellow lasers at a town",
+  "alt2": "mother dog barfing into her stroller",
+  "alt3": "Danger Dog confronts the mayor",
+  "alt4": "the mayor barfing into a trash can",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "tv superheroes"
+  ]
+}
