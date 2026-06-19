@@ -1,0 +1,29 @@
+{
+  "slug": "i-cant-believe-they-invented-it",
+  "title": "I Can’t Believe They Invented It!",
+  "description": "Troy McClure speaks with the inventors of products you could only imagine before, like The Foam Dome, The Jetwalker, Mr. Sugarcube, Spiffy, and more.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Troy McClure"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "20th Television",
+  "altHero": "Troy McClure holding a microphone",
+  "alt1": "woman pouring a bag of sugar into a Mr. Sugarcube machine",
+  "alt2": "guy wearing Foam Dome hat with that holds two beers and drinks them through bending straws",
+  "alt3": "woman sitting in a chair",
+  "alt4": "McClure with Dr. Nick Riviera, inventor of Spiffy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
