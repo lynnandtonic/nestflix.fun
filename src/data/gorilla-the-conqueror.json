@@ -1,0 +1,22 @@
+{
+  "slug": "gorilla-the-conqueror",
+  "title": "Gorilla the Conqueror",
+  "description": "The granddaddy of all gorilla movies.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "20th Television",
+  "altHero": "huge Gorilla in a city holding a woman and a tree",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
