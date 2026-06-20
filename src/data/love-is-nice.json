@@ -1,0 +1,32 @@
+{
+  "slug": "love-is-nice",
+  "title": "Love Is Nice",
+  "description": "She waited her whole life to get married, but when it rains, it pours.",
+  "quote": "One groom… two grooms? But he… But you can’t… Oh, my medication!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG-13",
+  "runtime": "1h 46m",
+  "starring": [
+    "Julia Roberts",
+    "Richard Gere",
+    "Bill Pullman"
+  ],
+  "labels": [
+    "romantic comedy"
+  ],
+  "credit": "20th Television",
+  "altHero": "a bride with two grooms",
+  "alt1": "bride and groom facing the pastor",
+  "alt2": "pastor looks concerned",
+  "alt3": "pastor has fallen face first into a tiered wedding cake",
+  "alt4": "audience is aghast except a young boy who is excited",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies"
+  ]
+}
