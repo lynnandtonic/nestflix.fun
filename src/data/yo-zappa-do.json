@@ -1,0 +1,31 @@
+{
+  "slug": "yo-zappa-do",
+  "title": "Yo Zappa Do!",
+  "description": "Expect the unexpected with America’s favorite teen wizard, Yo Zappa Do.",
+  "quote": "Yo, yo, yo, what do you say? Here I am to save the day.",
+  "parent": "Raising Hope",
+  "parentYear": "2010-2014",
+  "parentIMDB": "1615919",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "director": [
+    "Stu Levine"
+  ],
+  "studio": "Kids Net",
+  "labels": [
+    "kids"
+  ],
+  "credit": "20th Television",
+  "altHero": "Yo Zappa Do, a blonde teen boy wizard",
+  "alt1": "young girl covered in spaghetti",
+  "alt2": "Yo Zappa Do talking with two girls and a man in a dog suit",
+  "alt3": "kid sticks out her tongue",
+  "alt4": "monkey wearing a Yo Zappa Do! shirt",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
