@@ -1,0 +1,27 @@
+{
+  "slug": "vegetable-man",
+  "title": "Vegetable Man",
+  "description": "You’ll want to make sure you’re eating your veggies.",
+  "parent": "Aqua Teen Hunger Force",
+  "parentYear": "2000-2015",
+  "parentIMDB": "0297494",
+  "rating": "R",
+  "runtime": "1h 28m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "vegetable man, a scary man covered in veggies, in the grocery store",
+  "alt1": "woman browsing vegetables at the grocery store",
+  "alt2": "a man’s eye peeking out of a pile of green peppers",
+  "alt3": "woman holding a green pepper and screaming",
+  "alt4": "vegetable man chasing the woman through the store",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ]
+}
