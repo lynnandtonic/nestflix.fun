@@ -1,0 +1,31 @@
+{
+  "slug": "undercover-nerd",
+  "title": "Undercover Nerd",
+  "description": "Action star Rainier Wolfcastle takes on one of the toughest places on the planet: high school.",
+  "quote": "The geek shall inherit the Earth.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG-13",
+  "runtime": "1h 42m",
+  "starring": [
+    "Rainier Wolfcastle"
+  ],
+  "studio": "Paramountie Studios",
+  "labels": [
+    "action"
+  ],
+  "credit": "20th Television",
+  "altHero": "Rainier Wolfcastle in a high school wearing a bowtie and thick black glasses",
+  "alt1": "bullies beating up some smaller kids",
+  "alt2": "bully talking with Rainier, but he is quite small in comparison",
+  "alt3": "bullies talking to Rainier by the lockers",
+  "alt4": "one of the bullies has been shoved through the torso of the other bully",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
