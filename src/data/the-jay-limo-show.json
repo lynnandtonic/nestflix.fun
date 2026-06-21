@@ -1,0 +1,24 @@
+{
+  "slug": "the-jay-limo-show",
+  "title": "The Jay Limo Show",
+  "description": "The Jay Limo show combines comedy with entertainment commentary, interviews with guests, and musical performances.",
+  "parent": "Cars",
+  "parentYear": "2006",
+  "parentIMDB": "0317219",
+  "rating": "TV-14",
+  "runtime": "17 seasons",
+  "starring": [
+    "Jay Limo"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "Pixar Animation Studios",
+  "altHero": "Jay Limo, a blue car, doing his monologue on set",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows"
+  ]
+}
