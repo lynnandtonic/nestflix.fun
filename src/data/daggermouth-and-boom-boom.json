@@ -1,0 +1,30 @@
+{
+  "slug": "daggermouth-and-boom-boom",
+  "title": "Daggermouth and Boom Boom",
+  "description": "Relive the classic antics of best friends and sometimes enemies, Daggermouth and Boom Boom.",
+  "quote": "I did twenty laps and I’m about to do twenty more!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "studio": "Nickelodeon",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "20th Television",
+  "altHero": "Daggermouth, a fish wearing a crown, reads the paper and smiles at Boom Boom, a purple cat in a striped shirt",
+  "alt1": "Daggermouth sits alone at a table reading the paper",
+  "alt2": "Daggermouth throws his newspaper as Boom Boom laps up milk from a bowl on the table",
+  "alt3": "Daggermouth chases Boom Boom out the door",
+  "alt4": "Daggermouth chases Boom Boom down the road",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix" 
+  ]
+}
