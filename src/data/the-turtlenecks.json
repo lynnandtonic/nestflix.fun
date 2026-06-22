@@ -1,0 +1,28 @@
+{
+  "slug": "the-turtlenecks",
+  "title": "The Turtlenecks",
+  "description": "Your baby will love singing along when it’s time to “Too-tooty-too” with The Turtlenecks!",
+  "quote": "Too-tooty-too goes my kazoo. I will kazoo. Hey how ’bout you?",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "music"
+  ],
+  "credit": "20th Television",
+  "altHero": "two men in turtlenecks playing kazoos",
+  "alt1": "four men in colorful turtlenecks walk along the grass in a giant mushroom fantasy land",
+  "alt2": "the Turtlenecks dancing in a line",
+  "alt3": "two of the Turtlenecks playing with kazoos",
+  "alt4": "two of the Turtlenecks pointing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
