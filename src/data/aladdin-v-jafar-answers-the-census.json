@@ -1,0 +1,23 @@
+{
+  "slug": "aladdin-v-jafar-answers-the-census",
+  "title": "Aladdin V: Jafar Answers the Census",
+  "description": "In this straight-to-video sequel to <em>Aladdin IV: Jafar May Need Glasses</em>, Jafar answers some of the toughest questions yet.",
+  "quote": "Does the bird count?",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "G",
+  "runtime": "1h 29m",
+  "studio": "Walt Disney Pictures",
+  "labels": [
+    "family"
+  ],
+  "credit": "20th Television",
+  "altHero": "Jafar at the door, Iago on his shoulder, talking to a man holding a clipboard",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
