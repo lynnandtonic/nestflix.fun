@@ -1,0 +1,22 @@
+{
+  "slug": "guy-friends",
+  "title": "Guy Friends!",
+  "description": "Guy friends. A computer made us roommates in college. That’s why we’re friends. Guy friends!",
+  "quote": "I thought you were a big Olympics guy.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "TV_PG",
+  "runtime": "1 season",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "20th Television",
+  "altHero": "two expressionless guys sitting on the couch",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
