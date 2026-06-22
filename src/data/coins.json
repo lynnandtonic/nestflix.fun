@@ -1,0 +1,26 @@
+{
+  "slug": "coins",
+  "title": "Coins",
+  "description": "The secret life of coins. We’ll keep making things talk until you don’t show up.",
+  "quote": "There was a time when I paid for a ride on a trolley, or a good cigar, or a hand-cranked film of a man tipping his hat and twirling his mustache.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "G",
+  "runtime": "1h 34m",
+  "starring": [
+    "Kevin Hart"
+  ],
+  "labels": [
+    "family",
+    "animation"
+  ],
+  "credit": "20th Television",
+  "altHero": "a coin talking at a support group circle of other coins ",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
