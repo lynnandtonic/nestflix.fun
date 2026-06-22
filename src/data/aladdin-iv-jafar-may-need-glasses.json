@@ -1,0 +1,23 @@
+{
+  "slug": "aladdin-iv-jafar-may-need-glasses",
+  "title": "Aladdin IV: Jafar May Need Glasses",
+  "description": "In this straight-to-video sequel to the classic Aladdin trilogy, Jafar finally gets his eyes checked.",
+  "quote": "Umm, about the same. Number one might be a tiny bit better.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "G",
+  "runtime": "1h 30m",
+  "studio": "Walt Disney Pictures",
+  "labels": [
+    "family"
+  ],
+  "credit": "20th Television",
+  "altHero": "Jafar at the eye doctor",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
