@@ -1,0 +1,23 @@
+{
+  "slug": "fast-talking-high-trousers",
+  "title": "Fast Talking High Trousers",
+  "description": "The 1943 classic noir film about two hard-headed detectives who must work together on a tough case.",
+  "quote": "Maybe I’m through supposin’ and I’m fixed to start figurin’.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "PG-13",
+  "runtime": "1h 27m",
+  "labels": [
+    "thriller",
+    "crime noir"
+  ],
+  "credit": "20th Television",
+  "altHero": "black and white still of two men in fedoras and pants up above their noses; they are discussing a dead body on the floor of an office",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers"
+  ]
+}
