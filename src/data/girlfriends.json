@@ -1,0 +1,23 @@
+{
+  "slug": "girlfriends",
+  "title": "Girlfriends",
+  "description": "In life and romance, no one understands you quite like your girlfriends.",
+  "quote": "It’s funny. He fought in Vietnam. He’s an exorist. But there’s one thing that terrifies him: commitment!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "studio": "Lifetime",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "20th Television",
+  "altHero": "two ladies sharing a tub of ice cream",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
