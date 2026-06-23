@@ -1,0 +1,27 @@
+{
+  "slug": "militant-uncle-cooking-hour",
+  "title": "Militant Uncle Cooking Hour",
+  "description": "Your favorite militant Māori uncle teaches you how to cook and how to resist.",
+  "quote": "Now I’m going to slice these carrots like Hōne Heke chopped down the British flagpole at Waitangi in 1844.",
+  "parent": "Aroha Bridge",
+  "parentYear": "2013-2019",
+  "parentIMDB": "8897456",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Uncle Noogy"
+  ],
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "Piki Films",
+  "altHero": "Uncle Noogy, a Māori man wearing a beret and sunglasses, preparing a dish in the kitchen; there is a “Live, Laugh, Land Rights” sign on the wall",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
