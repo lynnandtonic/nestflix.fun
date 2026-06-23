@@ -1,0 +1,27 @@
+{
+  "slug": "girl-you-my-friend",
+  "title": "Girl, You My Friend!",
+  "description": "Elektra navigates life and friendship with buds Flirtacia, Zelda the Ostrich, and Charlie the Robot. You’ll love how there’s a character for each of you to relate to.",
+  "quote": "Self esteem boosted. Boom!",
+  "parent": "Jellystone!",
+  "parentYear": "2021-2025",
+  "parentIMDB": "11198220",
+  "rating": "TV-PG",
+  "runtime": "7 seasons",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Elektra in a park carrying shopping bags",
+  "alt1": "Elektra zapping a restaurant bill while Charlie’s brain overheats",
+  "alt2": "Flirtacia sitting in a bit tub of popcorn",
+  "alt3": "Flirtacia handing Elektra her phone with avatar of a guy named Ted",
+  "alt4": "Elektra yelling in Zelda’s face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ]
+}
