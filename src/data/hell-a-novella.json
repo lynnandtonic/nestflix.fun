@@ -1,0 +1,23 @@
+{
+  "slug": "hell-a-novella",
+  "title": "Hell-a Novella",
+  "description": "Romance can be hell. Follow the tumultuous on-again-off-again relationship of Gabriella and Alejandro.",
+  "quote": "Why won’t you love me, Alejandro?",
+  "parent": "Helluva Boss",
+  "parentYear": "2019-Present",
+  "parentIMDB": "10691770",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "labels": [
+    "telenovela",
+    "romance"
+  ],
+  "credit": "Amazon Prime Video",
+  "altHero": "Gabriella, a hot demon lady, crying and pleading",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "telenovelas"
+  ]
+}
