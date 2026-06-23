@@ -1,0 +1,37 @@
+{
+  "slug": "old-lady-house",
+  "title": "Old Lady House",
+  "description": "The grunty one physically abuses the shrill one, and the shrill one psychologically abuses the grunty one.",
+  "quote": "You want to sleep? Well I’ll sleep you!",
+  "parent": "It’s Always Sunny in Philadelphia",
+  "parentYear": "2005-Present",
+  "parentIMDB": "0472954",
+  "rating": "Unrated",
+  "runtime": "5 episodes",
+  "starring": [
+    "Bonnie Kelly",
+    "Mrs. McDonald",
+    "Jack Kelly",
+    "Frank Reynolds",
+    "Deandra Reynolds",
+    "Ronald McDonald"
+  ],
+  "producer": "Dennis Reynolds",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "20th Television",
+  "altHero": "Bonnie Kelly at the kitchen table, yelling at Mrs. McDonald",
+  "alt1": "Bonnie lifting a hammer above Mrs. McDonald’s sleeping head",
+  "alt2": "Mrs. McDonald staring directly into the camera",
+  "alt3": "Deandra Reynolds making a cheesy entrance",
+  "alt4": "Jack Kelly at the door",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix" 
+  ]
+}
