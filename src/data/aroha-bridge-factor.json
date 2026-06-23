@@ -1,0 +1,29 @@
+{
+  "slug": "aroha-bridge-factor",
+  "title": "Aroha Bridge Factor",
+  "description": "Enjoy being criticized in cruel eliminations? Try out for Aroha Bridge Factor! You could be the next, ya know, guy you saw that time.",
+  "quote": "You’re inspirational.",
+  "parent": "Aroha Bridge",
+  "parentYear": "2013-2019",
+  "parentIMDB": "8897456",
+  "rating": "TV-G",
+  "runtime": "7 seasons",
+  "labels": [
+    "reality competition",
+    "singing"
+  ],
+  "credit": "Piki Films",
+  "altHero": "man clutching his heart with hope, surrounded by stars",
+  "alt1": "judges panel",
+  "alt2": "contestant duo, Hook Ups",
+  "alt3": "bald judge",
+  "alt4": "blonde woman judge",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "music competition"
+  ]
+}
