@@ -1,0 +1,29 @@
+{
+  "slug": "captain-wonderpants-the-movie",
+  "title": "Captain Wonderpants: The Movie",
+  "description": "Your favorite TV superhero, now on the big screen. He’s always there to save the day! When he’s around, we’re okay! The bad guys don’t stand a chance! ’Cause here comes Captain Wonderpants!",
+  "quote": "This is a job for Captain Wonderpants!",
+  "parent": "Wow! Wow! Wubbzy!",
+  "parentYear": "2006-2010",
+  "parentIMDB": "0762067",
+  "rating": "G",
+  "runtime": "1h 27m",
+  "labels": [
+    "kids",
+    "superheroes"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Captain Wonderpants carrying a woman under the sea",
+  "alt1": "two men having a conversation in an office",
+  "alt2": "huge robot holding a woman in his claw and shooting lasers out his eyes",
+  "alt3": "Captain Wonderpants",
+  "alt4": "Captain Wonderpants facing down a giant octopus",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films",
+    "mighty movie heroes"
+  ]
+}
