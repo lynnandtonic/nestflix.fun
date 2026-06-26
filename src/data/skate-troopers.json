@@ -1,0 +1,29 @@
+{
+  "slug": "skate-troopers",
+  "title": "Skate Troopers",
+  "description": "The Skate Troopers protect the innocent against the Dorlocks, who are walking evilm, and Zorn, their leader.",
+  "quote": "This will be your last cracker!",
+  "parent": "Zeke And Luther",
+  "parentYear": "2009-2012",
+  "parentIMDB": "1189346",
+  "rating": "TV-Y7",
+  "runtime": "23 seasons",
+  "creator": "Wesley Mandrake",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Disney XD",
+  "altHero": "two boys in futuristic blue and purple jumpsuits, wearing helmets that obscure their faces",
+  "alt1": "the troopers prepping for a fight",
+  "alt2": "the troopers on hover boards",
+  "alt3": "a Dorlock holding up a cracker and a bright blue beverage",
+  "alt4": "purple trooper kicking a Dorlock with a “Boom!” graphic",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ]
+}
