@@ -1,0 +1,35 @@
+{
+  "slug": "a-cry-from-the-heart",
+  "title": "A Cry From the Heart",
+  "description": "Unikingdom film festival debut, a blockbuster about the most dangerous thing of all: love. His love for her burned eternal, like a campfire made of the sun. But he never had the guts to tell her of his longing until today.",
+  "quote": "I’m here to tell you about the love that’s churning in my guts.",
+  "parent": "Unikitty!",
+  "parentYear": "2017-2020",
+  "parentIMDB": "6874502",
+  "rating": "Unrated",
+  "runtime": "15m",
+  "starring": [
+    "Hawkodile"
+  ],
+  "director": [
+    "Hawkodile"
+  ],
+  "labels": [
+    "romantic drama",
+    "amateur"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Hawkodile riding a motorcycle",
+  "alt1": "Hawkodile holding up a boombox outside a house",
+  "alt2": "Hawkodile dressed as a woman, Professor Not Fox, hugging a cardboard stand-in, Smooth Jerkerson",
+  "alt3": "Hawkodile pointing, angry, surrounded by fire",
+  "alt4": "Professor Not Fox proposing with a ring",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas",
+    "amateur filmmakers"
+  ]
+}
