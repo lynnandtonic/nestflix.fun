@@ -1,0 +1,26 @@
+{
+  "slug": "tales-from-the-crisper",
+  "title": "Tales from the Crisper",
+  "description": "An ambitious scientist named Frankencelery creates more than he bargained for.",
+  "quote": "Stand back and behold!",
+  "parent": "VeggieTales",
+  "parentYear": "1993–2015",
+  "parentIMDB": "0865856",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "starring": [
+    "Phil Winkelstein"
+  ],
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "Big Idea Entertainment",
+  "altHero": "Frankencelery walking out the door",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
