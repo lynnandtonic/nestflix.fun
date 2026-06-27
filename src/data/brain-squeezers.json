@@ -1,0 +1,28 @@
+{
+  "slug": "brain-squeezers",
+  "title": "Brain Squeezers",
+  "description": "The game show that‘s all the buzz. Kids and teens answer questions in hopes of winning $10,000. But beware incorrect answers, you might get doinked!",
+  "quote": "Robbie just got pus-blasted!",
+  "parent": "VicTORIous",
+  "parentYear": "2010-2013",
+  "parentIMDB": "1604099",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "labels": [
+    "game show"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "teams and host on the set of Brain Squeezers",
+  "alt1": "the host pointing and a graphic says “Doink!”",
+  "alt2": "teen boy convered in cream-colored goop",
+  "alt3": "teen girl covered in ash",
+  "alt4": "another teen girl trying to grab a stack of cash, but a big wrestler guy is laying on top of her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!",
+    "new on nestflix"
+  ]
+}
