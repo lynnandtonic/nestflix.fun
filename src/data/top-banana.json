@@ -1,0 +1,22 @@
+{
+  "slug": "top-banana",
+  "title": "Top Banana",
+  "description": "Welcome to the Banana-rama extravaganza! This banana is a comic genius! And, of course, only the smartest, most tasteful people can appreciate his work.",
+  "quote": "Whoopsy Doozy!",
+  "parent": "VeggieTales",
+  "parentYear": "1993–2015",
+  "parentIMDB": "0865856",
+  "rating": "G",
+  "runtime": "3 seasons",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Big Idea Entertainment",
+  "altHero": "banana wearing a top hat and bowtie slips and falls",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ]
+}
