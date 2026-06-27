@@ -1,0 +1,27 @@
+{
+  "slug": "journey-to-a-new-world",
+  "title": "Journey To A New World",
+  "description": "Nearly 300 years ago, a small band of valiant vegetables would embark on a ship they called The Cauliflower to settle an unknown land, led by the fearless Obadiah Bumbly.",
+  "quote": "Oh, Brother Obadiah, thou art so… uptight.",
+  "parent": "VeggieTales",
+  "parentYear": "1993–2015",
+  "parentIMDB": "0865856",
+  "rating": "G",
+  "runtime": "48m",
+  "labels": [
+    "educational"
+  ],
+  "credit": "Big Idea Entertainment",
+  "altHero": "sailing ship moving across the ocean",
+  "alt1": "Obadiah Bumbly, a pilgrim cucumber, planting a flag on the beach",
+  "alt2": "Apply’s Fun House where you can play checkers",
+  "alt3": "two pilgrim carrots playing checkers",
+  "alt4": "Ephraim Apply, an apple, talking with Obadiah Bumbly",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ]
+}
