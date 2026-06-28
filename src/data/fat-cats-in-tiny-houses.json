@@ -1,0 +1,23 @@
+{
+  "slug": "fat-cats-in-tiny-houses",
+  "title": "Fat Cats in Tiny Houses",
+  "description": "These cats are so fat! Tiny homes might be in, but these cats are in them.",
+  "quote": "Help, I’m stuck.",
+  "parent": "Rocko’s Modern Life: Static Cling",
+  "parentYear": "2019",
+  "parentIMDB": "6172460",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "animals"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "small house with a huge cat stuck inside, with its head sticking out the door, its paws out the windows, and its tail out the chimney",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv"
+  ]
+}
