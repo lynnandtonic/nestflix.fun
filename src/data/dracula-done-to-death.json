@@ -1,0 +1,29 @@
+{
+  "slug": "dracula-done-to-death",
+  "title": "Dracula Done to Death",
+  "description": "It’s not new. It’s not original. It isn’t even very interesting. Dracula as you’ve never seen him before. Dead.",
+  "quote": "Get some bagels?",
+  "parent": "Rocko’s Modern Life",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106115",
+  "rating": "PG",
+  "runtime": "1h 31m",
+  "labels": [
+    "horror",
+    "monster",
+    "vampires"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "creepy old castle",
+  "alt1": "silhouette opening a door",
+  "alt2": "a coffin with a sign that says “Don’t open until X-mas”",
+  "alt3": "two guys looking into a coffin, one guy is holding a hammer and stake",
+  "alt4": "there is a skeleton in the coffin with a stake through its chest",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
