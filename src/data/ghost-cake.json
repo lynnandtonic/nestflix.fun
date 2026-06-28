@@ -1,0 +1,25 @@
+{
+  "slug": "ghost-cake",
+  "title": "Ghost Cake",
+  "description": "These apparitions have unfinished business in the kitchen.",
+  "quote": "Look, there’s one now!",
+  "parent": "Rocko’s Modern Life: Static Cling",
+  "parentYear": "2019",
+  "parentIMDB": "6172460",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "paranormal",
+    "cooking"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "in night vision green, a pirate ghost holds up a sword and pulls a tiered cake from the oven",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "paranormal investigation",
+    "food and cooking"
+  ]
+}
