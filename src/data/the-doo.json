@@ -1,0 +1,26 @@
+{
+  "slug": "the-doo",
+  "title": "The Doo",
+  "description": "A hair-raising film. It seemed like a harmless hairstyle until it began to crave… raw flesh.",
+  "parent": "Rocko’s Modern Life",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106115",
+  "rating": "PG-13",
+  "runtime": "1h 12m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "a woman stands by a man in the park, his huge hair making the shape of hand",
+  "alt1": "woman and man in the park",
+  "alt2": "woman screaming as a hair hand reaches for her",
+  "alt3": "a whirlwind of hair",
+  "alt4": "the man’s hair has swallowed the woman, only her feet sticking out",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
