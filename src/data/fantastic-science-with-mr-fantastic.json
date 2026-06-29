@@ -1,0 +1,35 @@
+{
+  "slug": "fantastic-science-with-mr-fantastic",
+  "title": "Fantastic Science with Mr Fantastic",
+  "description": "Join Reed Richards each week as he explores the wonders of space, science, and the world around us—with explosive results!",
+  "quote": "Who wants to see a big explosion?",
+  "parent": "The Fantastic Four: First Steps",
+  "parentYear": "2025",
+  "parentIMDB": "10676052",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Reed Richards"
+  ],
+  "producer": "Reed Tech, N.Y.",
+  "studio": "ABC",
+  "labels": [
+    "kids",
+    "science",
+    "educational"
+  ],
+  "credit": "Marvel Studios",
+  "altHero": "Reed Richards wearing goggles and holding an igniter",
+  "alt1": "Richards writing on a blackboard",
+  "alt2": "the set of the show with kids in seats, Richards stretches his arm to reach a corner of the blackboard",
+  "alt3": "Richards speaking to the kids",
+  "alt4": "engine giving off a big blue flame",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids science shows",
+    "new on nestflix"
+  ]
+}
