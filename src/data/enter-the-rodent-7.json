@@ -1,0 +1,28 @@
+{
+  "slug": "enter-the-rodent-7",
+  "title": "Enter the Rodent 7: Not Before I’ve Had My Coffee",
+  "description": "You’ve seen him kick. You’ve seen him bite. You’ve seen him run in his treadmill. He is Lang-Chao, Gerbil of Death.",
+  "quote": "We’re samurai kung fu warlords from east of Pittsburgh. Our kung fu is better than your kung fu.",
+  "parent": "Rocko’s Modern Life",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106115",
+  "rating": "PG-13",
+  "runtime": "1h 45m",
+  "labels": [
+    "action",
+    "martial arts"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "Lang-Chao, a gerbil in kung fu attire, wielding a Q-tip",
+  "alt1": "someone watches in delight as Lang-Chao runs on a hamster wheel",
+  "alt2": "3 samurai kung fu guys",
+  "alt3": "Lang-Chao surrounded by football players",
+  "alt4": "sleepy Lang-Chao filling up a bowl of cereal",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
