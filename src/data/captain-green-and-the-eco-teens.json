@@ -1,0 +1,28 @@
+{
+  "slug": "captain-green-and-the-eco-teens",
+  "title": "Captain Green and the Eco-Teens",
+  "description": "Captain Green and the Eco Teens! Picking up trash and recycling things! Doing our chores, hugging a tree, solving problems non-violently!",
+  "quote": "Let’s save the rainforest with an eco rap!",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Captain Green, a superhero with a bright green mohawk, putting a soda can in a recycle bin",
+  "alt1": "gloved hand picking up a soda can from the ground",
+  "alt2": "Captain Green giving a thumbs up to three friends: a native man in traditional garb, a red-haired boy with a broken foot, and an Asian woman holding a football",
+  "alt3": "Captain Green hugging a tree",
+  "alt4": "Captain Green shaking hands with another buff guy with an X on his chest",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
