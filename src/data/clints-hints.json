@@ -1,0 +1,22 @@
+{
+  "slug": "clints-hints",
+  "title": "Clint’s Hints",
+  "description": "Join Jeff as he (and you) figure out the hints Clint leaves behind.",
+  "quote": "A footprint! That’s a hint!",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "real human man in a striped shirt against a cartoon room background",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
