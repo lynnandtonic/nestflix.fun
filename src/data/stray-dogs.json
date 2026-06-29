@@ -1,0 +1,27 @@
+{
+  "slug": "stray-dogs",
+  "title": "Stray Dogs!",
+  "description": "They chase fast cars. They bite mailmen just to hear them squeal. They don’t go where they’re supposed to. They are stray dogs!",
+  "parent": "Rocko’s Modern Life",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106115",
+  "rating": "PG",
+  "runtime": "1h 23m",
+  "labels": [
+    "drama",
+    "animals"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "a bunch of tough looking mutts, one is wearing a bowler hat",
+  "alt1": "two dogs chasing a car",
+  "alt2": "two dogs doing some street gambling",
+  "alt3": "a dog about to bite a mailman",
+  "alt4": "a dog turning up its nose at a fire hydrant",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}
