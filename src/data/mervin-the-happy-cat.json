@@ -1,0 +1,21 @@
+{
+  "slug": "mervin-the-happy-cat",
+  "title": "Mervin the Happy Cat",
+  "description": "He’s got paws and ears and whiskers and a lot of fur. And you’ll never hear him crying. He’s Mervin the Happy Cat!",
+  "parent": "Rocko’s Modern Life",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106115",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "pink cat in a bowtie dancing",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
