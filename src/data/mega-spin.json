@@ -1,0 +1,32 @@
+{
+  "slug": "mega-spin",
+  "title": "Mega-Spin",
+  "description": "Spin the wheel and if it lands on “win” you’ll be the next Mr. Lucky and proud owner of a major prize! Do you deserve the revered title of Mr. Lucky? Or are you a festering pile of bad luck poo-poo?",
+  "quote": "Spin that wheel!",
+  "parent": "Rocko’s Modern Life",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106115",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Chuck Roast"
+  ],
+  "studio": "Channel 98",
+  "labels": [
+    "game show",
+    "spin the wheel"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "Chuck Roast with the giant wheel",
+  "alt1": "Chuck Roast at a lucky contestant’s trailer home with a construction crew of beavers holding mallets",
+  "alt2": "Chuck Roast, the shark host of the show",
+  "alt3": "a turtle contestant shuts his eyes as the wheel spins",
+  "alt4": "a shiny new trailer",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
