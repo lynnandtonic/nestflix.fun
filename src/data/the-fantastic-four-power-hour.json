@@ -1,0 +1,32 @@
+{
+  "slug": "the-fantastic-four-power-hour",
+  "title": "The Fantastic Four Power Hour",
+  "description": "Changed by cosmic rays from space, now they save the human race. Sue Storm commands the light, Johnny’s flames burn blazing bright.  Ben is rockin’ the world with might, and Reed bends science left and right!",
+  "quote": "It’s clobbering time!",
+  "parent": "The Fantastic Four: First Steps",
+  "parentYear": "2025",
+  "parentIMDB": "10676052",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes",
+    "animation"
+  ],
+  "credit": "Marvel Studios",
+  "altHero": "The Fantastic Four in their flying car",
+  "alt1": "The Human Torch flaming a giant gargoyle",
+  "alt2": "The Invisible Woman blasting a robot guy",
+  "alt3": "The Thing",
+  "alt4": "Mr. Fantastic fighting a robot",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action tv",
+    "superheroes on tv",
+    "new on nestflix"
+  ]
+}
