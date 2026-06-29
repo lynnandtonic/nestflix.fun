@@ -1,0 +1,28 @@
+{
+  "slug": "snooper-dog-and-the-clue-crew",
+  "title": "Snooper Dog and the Clue Crew",
+  "description": "The Clue Crew is a group of kids who solve local mysteries with the help of their dog, Snooper.",
+  "quote": "Put the sizzle in fanizzle y’all.",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-Y7",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids",
+    "mystery"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "The Clue Crew, a group of hippie kids and their dog Snooper",
+  "alt1": "a scary house with lightning behind",
+  "alt2": "The Clue Cruiser ice cream van",
+  "alt3": "Snooper screaming in fear",
+  "alt4": "the gang running through a door",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
