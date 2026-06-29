@@ -1,0 +1,28 @@
+{
+  "slug": "the-million-dollar-spin",
+  "title": "The Million Dollar Spin",
+  "description": "Spin the wheel to win one million dollars!",
+  "quote": "I’m going to give it all to charity!",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "game shows",
+    "spin the wheel"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "host of the game with slick blonde hair",
+  "alt1": "the host with contestant Jerry and the wheel",
+  "alt2": "Jerry about to spin the wheel",
+  "alt3": "the wheel stopped on the $1million winner!",
+  "alt4": "balloons falling all around the set",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
