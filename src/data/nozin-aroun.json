@@ -1,0 +1,31 @@
+{
+  "slug": "nozin-aroun",
+  "title": "Nozin’ Aroun’",
+  "description": "A programme for young adults, made by young adults, concentrating on all the subjects that young adults are interested in, like unemployment.",
+  "quote": "When will the government realise that young adults are responsible people?",
+  "parent": "The Young Ones",
+  "parentYear": "1982-1984",
+  "parentIMDB": "0083505",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "variety",
+    "music",
+    "politics"
+  ],
+  "credit": "BBC2",
+  "altHero": "host Baz giving a thumbs up, surrounded by young adults dancing",
+  "alt1": "host Maggie up in the rafters",
+  "alt2": "Baz dancing with an older gentleman",
+  "alt3": "a young Black man giving an interview",
+  "alt4": "a young white man giving an interview",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "variety shows"
+  ]
+}
