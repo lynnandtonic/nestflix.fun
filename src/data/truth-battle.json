@@ -1,0 +1,33 @@
+{
+  "slug": "truth-battle",
+  "title": "Truth Battle",
+  "description": "Rex Smith’s controversial show discussing American far-right politics, conspiracy theories, and world events.",
+  "quote": "Stay awake and stay vigilant.",
+  "parent": "The Pentaverate",
+  "parentYear": "2022",
+  "parentIMDB": "10203880",
+  "rating": "Unrated",
+  "runtime": "102 episodes",
+  "starring": [
+    "Rex Smith"
+  ],
+  "labels": [
+    "talk show",
+    "politics"
+  ],
+  "credit": "Netflix",
+  "altHero": "Rex Smith, an older white man with glasses and a MAGA hat, speaking into a microphone",
+  "alt1": "Rex Smith",
+  "alt2": "closeup of Rex Smith’s eyes",
+  "alt3": "closeup of Rex Smith’s mouth",
+  "alt4": "Rex Smith cola",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "political talk shows",
+    "web shows",
+    "new on nestflix"
+  ]
+}
