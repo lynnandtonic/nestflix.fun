@@ -1,0 +1,28 @@
+{
+  "slug": "goombas",
+  "title": "Goomba’s",
+  "description": "It’s those crazy calamaris, the Goombas! The Goomba boys and girls eat pizzas and calzones and they are having lots of fun.",
+  "parent": "The Ratings Game",
+  "parentYear": "1984",
+  "parentIMDB": "0087979",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "studio": "MBC",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Showtime",
+  "altHero": "three green Italian dudes, the Goomba boys",
+  "alt1": "the boys checking out two Goomba gals",
+  "alt2": "a Goomba boy eating pizza",
+  "alt3": "the Goomba boys being scolded by two nuns",
+  "alt4": "lots of Goombas in the streets of Goombaland",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
