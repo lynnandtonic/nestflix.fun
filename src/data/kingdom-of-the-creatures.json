@@ -1,0 +1,32 @@
+{
+  "slug": "kingdom-of-the-creatures",
+  "title": "Kingdom of the Creatures",
+  "description": "Exciting animal adventures with nature’s pal, Martin Pardon.",
+  "quote": "Watch in wonderment as he naturally burrows for his food.",
+  "parent": "Timon & Pumbaa",
+  "parentYear": "1995-1999",
+  "parentIMDB": "0112197",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Martin Pardon"
+  ],
+  "labels": [
+    "reality",
+    "nature",
+    "animals"
+  ],
+  "credit": "Walt Disney Television Animation",
+  "altHero": "Martin Pardon in nature, holding a flag, carrying a camp pack, and with a small turtle on his head",
+  "alt1": "Martin Pardon holding up a tiger",
+  "alt2": "Martin Pardon in a bush pointing at an armadillo in the distance",
+  "alt3": "Martin Pardon with the armadillo who is holding a sign that says “no-vem-sinc-tus-",
+  "alt4": "the armadillo holding an umbrella as it rains only on him creating a puddle below him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv"
+  ]
+}
