@@ -1,0 +1,24 @@
+{
+  "slug": "riddle-me-this",
+  "title": "Riddle Me This!",
+  "description": "The game show where people solve riddles for cash and prizes.",
+  "parent": "Ugly Americans",
+  "parentYear": "2010-2012",
+  "parentIMDB": "1621748",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Quaggle the Troll"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "Quaggle on set with three contestants: a woman with glasses, a man with a giant hand for a head, and a man with a giant brain bulging in his skull",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
