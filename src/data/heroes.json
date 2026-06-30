@@ -1,0 +1,29 @@
+{
+  "slug": "heroes",
+  "title": "Heroes",
+  "description": "Heroic deeds documented. Heroes is filmed on location with the cooperation of members of the superhero community.",
+  "quote": "By 7:30, 8:00, evil is wide awake. But we’re even wider. We’ve been up since 6:30!",
+  "parent": "The Tick",
+  "parentYear": "1994-1997",
+  "parentIMDB": "0112196",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "documentary",
+    "superheroes"
+  ],
+  "credit": "FOX Television",
+  "altHero": "viking woman superhero beating up a giant robot hand",
+  "alt1": "superhero catching a dog",
+  "alt2": "Spartan superhero arresting a villain",
+  "alt3": "two superheroes about to bust into an apartment",
+  "alt4": "the Tick and his sidekick Arthur",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series",
+    "tv superheroes"
+  ]
+}
