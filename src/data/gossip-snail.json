@@ -1,0 +1,23 @@
+{
+  "slug": "gossip-snail",
+  "title": "Gossip Snail",
+  "description": "Gossip Snail is anonymously digging up all the dirt on the social elite and giving it straight to you.",
+  "quote": "Hugs and kisses, Gossip Snail.",
+  "parent": "Turbo Fast",
+  "parentYear": "2013-2016",
+  "parentIMDB": "3010520",
+  "rating": "TV-14",
+  "runtime": "6 seasons",
+  "labels": [
+    "teen drama"
+  ],
+  "credit": "Netflix",
+  "altHero": "silhouette of a snail",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "teen drama series",
+    "tv for teens"
+  ]
+}
