@@ -1,0 +1,29 @@
+{
+  "slug": "dates-on-a-plane",
+  "title": "Dates on a Plane",
+  "description": "What if you only had one flight to meet and marry your soulmate? But, there’s a twist. If you don’t fall in love, you have to fall out of the plane.",
+  "quote": "You are now free to move about the cabin, and find the love of your life.",
+  "parent": "Animaniacs",
+  "parentYear": "2020-2023",
+  "parentIMDB": "6951546",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "studio": "Webpix",
+  "labels": [
+    "reality",
+    "dating"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "pilot holding a glass of champagne",
+  "alt1": "line of people going up stairs to a plane",
+  "alt2": "tall woman twirling her hair and holding a suitcase, talking to a short guy",
+  "alt3": "an enthusiastic guy talking to another guy",
+  "alt4": "guy being kicked out of the airplane with a parachute on",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows"
+  ]
+}
