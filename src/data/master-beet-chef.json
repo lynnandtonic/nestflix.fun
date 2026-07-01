@@ -1,0 +1,24 @@
+{
+  "slug": "master-beet-chef",
+  "title": "Master Beet Chef",
+  "description": "Learn how to cook borscht and more with this classic Russian cooking show.",
+  "quote": "I like extensive use of beet.",
+  "parent": "Animaniacs",
+  "parentYear": "2020-2023",
+  "parentIMDB": "6951546",
+  "rating": "Unrated",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "old Russian woman holding up a giant beet",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
