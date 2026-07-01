@@ -1,0 +1,25 @@
+{
+  "slug": "croblins-2",
+  "title": "Croblins 2",
+  "description": "The Croblins are back at it again and taking you on a whole new adventure.",
+  "quote": "Toot-toot-bachoo!",
+  "parent": "Big City Greens",
+  "parentYear": "2018-Present",
+  "parentIMDB": "7165904",
+  "rating": "G",
+  "runtime": "1h 36m",
+  "studio": "Hallucination Animation",
+  "labels": [
+    "family",
+    "kids",
+    "animation"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Croblin guy",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
