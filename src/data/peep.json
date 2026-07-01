@@ -1,0 +1,27 @@
+{
+  "slug": "peep",
+  "title": "Peep",
+  "description": "Little Bo Peep has lost her sheep. But now, they’re baaaa-ack for revenge.",
+  "parent": "Animaniacs",
+  "parentYear": "2020-2023",
+  "parentIMDB": "6951546",
+  "rating": "PG-13",
+  "runtime": "1h 42m",
+  "studio": "Webpix",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Little Bo Peep in the dark, looking at a lamp post",
+  "alt1": "Little Bo Peep walking down a dark, creepy path amongst dead trees and lamp posts",
+  "alt2": "Little Bo Peep licking her finger near a sheep hoofprint",
+  "alt3": "a sheep with sinister yellow eyes, surrounded by lots of other yellow eyes",
+  "alt4": "Little Bo Peep, illuminated with purple light, running to attack",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
