@@ -1,0 +1,28 @@
+{
+  "slug": "the-lunacorns",
+  "title": "The Lunacorns",
+  "description": "Join Princess Self-Respectra and the Lunacorns and learn all about the wonders of imagination, good citizenship, and proper grooming!",
+  "quote": "To get to Raincloud City, I’ll need my magic hairbrush!",
+  "parent": "The Penguins of Madagascar",
+  "parentYear": "2008-2015",
+  "parentIMDB": "1911658",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Princess Self-Respectra, a purple unicorn",
+  "alt1": "Princess Self-Respectra surrounded by objects with eyes: a robot, a dresser, a book, and a crayon",
+  "alt2": "closeup of the robot",
+  "alt3": "Princess Self-Respectra brushing her tail",
+  "alt4": "closeup of the dresser with one of its drawers open",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
