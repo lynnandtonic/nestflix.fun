@@ -1,0 +1,36 @@
+{
+  "slug": "hard-kill",
+  "title": "Hard Kill",
+  "description": "Lance DeLorca is Rico Cruz. With his partner, Booker Dane, he squares off with the ruthless drug lord, El Jéfe.",
+  "quote": "You need backup, just say the word.",
+  "parent": "Castle",
+  "parentYear": "2009-2016",
+  "parentIMDB": "1219024",
+  "rating": "R",
+  "runtime": "1h 32m",
+  "starring": [
+    "Lance DeLorca",
+    "Brock Harmon",
+    "Henry Allen Boothe",
+    "Naomi Duvray",
+    "Kate Kingsley"
+  ],
+  "labels": [
+    "action",
+    "crime"
+  ],
+  "credit": "ABC Studios",
+  "altHero": "Lance DeLorca as Rico Cruz",
+  "alt1": "Cruz and El Jéfe talking in a desert town",
+  "alt2": "Booker Dane with a sniper rifle",
+  "alt3": "above shot of the face off",
+  "alt4": "El Jéfe and a woman henchman who has a red-haired woman at knifepoint",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
