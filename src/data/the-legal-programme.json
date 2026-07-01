@@ -1,0 +1,29 @@
+{
+  "slug": "the-legal-programme",
+  "title": "The Legal Programme",
+  "description": "When it comes to law and love, these attorneys know when it’s time to bend the rules.",
+  "quote": "I’d like to call a witness to the stand your honor. You!",
+  "parent": "Aroha Bridge",
+  "parentYear": "2013-2019",
+  "parentIMDB": "8897456",
+  "rating": "TV-14",
+  "runtime": "7 seasons",
+  "labels": [
+    "crime",
+    "courtroom"
+  ],
+  "credit": "Piki Films",
+  "altHero": "man and woman lawyers",
+  "alt1": "man lawyer",
+  "alt2": "man judge",
+  "alt3": "woman lawyer questions a witness",
+  "alt4": "man and woman lawyers in a park",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV shows",
+    "crime shows",
+    "dramatic crime shows"
+  ]
+}
