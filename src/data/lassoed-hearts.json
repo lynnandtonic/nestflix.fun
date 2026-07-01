@@ -1,0 +1,32 @@
+{
+  "slug": "lassoed-hearts",
+  "title": "Lassoed Hearts",
+  "description": "A cheesy, feel-good story of a woman down on her luck in the big city. She returns home for the holidays and rediscovers her small town’s charms.",
+  "quote": "Looks like this city girl finally learned how to throw a lasso.",
+  "parent": "Adult Swim Yule Log 2: Branchin’ Out",
+  "parentYear": "2024",
+  "parentIMDB": "34930738",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "studio": "Hallmark",
+  "labels": [
+    "comedy",
+    "romance",
+    "holiday"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "curly red-haired woman holding a lasso that’s wrapped around a cowboy man",
+  "alt1": "woman throwing the lasso",
+  "alt2": "woman smiles at the cowboy",
+  "alt3": "the cowboy looks at the woman",
+  "alt4": "mistletoe hanging from the ceiling",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies",
+    "for the holidays",
+    "new on nestflix"
+  ]
+}
