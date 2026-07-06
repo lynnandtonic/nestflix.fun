@@ -1,0 +1,30 @@
+{
+  "slug": "kung-fu-bustle",
+  "title": "Kung Fu Bustle",
+  "description": "As summertime approached, Lord Nunchucks was becoming one of the most eligible—and dangerous—suitors of the season.",
+  "quote": "While you were flirting with a duke, I studied the nunchuck.",
+  "parent": "Primos",
+  "parentYear": "2024-2025",
+  "parentIMDB": "15837206",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "period drama",
+    "british tv",
+    "martial arts"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "a well-dressed lady punching Lord Nunchucks in the gut",
+  "alt1": "Lord Nunchucks facinga way, holding nunchucks",
+  "alt2": "Lord Nunchucks flailing his nunchucks",
+  "alt3": "woman swooning in the wind",
+  "alt4": "woman in tears hugging Lord Nunchucks",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "british TV",
+    "tv dramas"
+  ]
+}
