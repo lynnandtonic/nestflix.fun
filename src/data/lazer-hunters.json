@@ -1,0 +1,28 @@
+{
+  "slug": "lazer-hunters",
+  "title": "Lazer Hunters",
+  "description": "Experience the cultural phenomenon: the story and adventures of Brick LeFever.",
+  "quote": "I promise you! I’ll search the entire galaxy to find out who poisoned your entrée.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-14",
+  "runtime": "8 seasons",
+  "labels": [
+    "sci-fi",
+    "drama"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Brick LeFever holding a gun with his arm out",
+  "alt1": "Brick LeFever holding an alien woman who is dying",
+  "alt2": "Brick LeFever looking upset",
+  "alt3": "Brick LeFever with a man that looks just like him at a funeral",
+  "alt4": "Brick LeFever holding a sword in front of huge flames",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ]
+}
