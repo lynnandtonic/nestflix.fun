@@ -1,0 +1,22 @@
+{
+  "slug": "dr-whiskers-md",
+  "title": "Dr. Whiskers M.D.",
+  "description": "In the hospital with Dr. Whiskers, follow unbelievable twists and turns.",
+  "quote": "I will finally reveal whose paws were behind the murders of the Calico Crew!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "medical drama"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "medical dramas"
+  ]
+}
