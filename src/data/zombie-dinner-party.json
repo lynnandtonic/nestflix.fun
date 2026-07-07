@@ -1,0 +1,27 @@
+{
+  "slug": "zombie-dinner-party",
+  "title": "Zombie Dinner Party",
+  "description": "This summer, you are what you eat. Blood, guts, dinner.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "R",
+  "runtime": "1h 38m",
+  "labels": [
+    "horror",
+    "zombies"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "group of zombies, one has a grip on a guy’s arm",
+  "alt1": "zombie is biting the guy’s arm, blood dripping",
+  "alt2": "zombies swarming a guy",
+  "alt3": "a zombie has pulled his intestines out of his gut",
+  "alt4": "a cop in a breakroom, zombie arms bursting through the wall holding eating utensils",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
