@@ -1,0 +1,32 @@
+{
+  "slug": "inspire-america",
+  "title": "Inspire America!",
+  "description": "That cheesy show with inspirational stories, then everyboby cries, and then everybody dances at the end!",
+  "quote": "Amazing. But more than amazing, inspiring.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Flannery Shedlawn"
+  ],
+  "producer": "Jandy Natwick",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "host Flannery Shedlawn wiping away a tear with a tissue",
+  "alt1": "Flannery Shedlawn crying while eating a cookie",
+  "alt2": "Flannery Shedlawn dancing with an elderly woman guest",
+  "alt3": "Flannery Shedlawn holding a microphone",
+  "alt4": "at a graduation, speaker with his face in his hands with embarrassment as a student comes on stage",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
