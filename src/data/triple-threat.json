@@ -1,0 +1,27 @@
+{
+  "slug": "triple-threat",
+  "title": "Triple Threat",
+  "description": "Three movies in one: <em>Wolf Woods</em>, <em>The Barber</em>, and <em>Smile</em>. Legend calls it the scariest movie ever that no one has ever survived to see the end. Proceed if you dare.",
+  "quote": "Do you have a feeling like we’re being watched?",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "Unrated",
+  "runtime": "1h 56m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "red eyes peering out from the bushes",
+  "alt1": "a teen couple embracing and screaming",
+  "alt2": "black and white shot of a guy in a barber’s chair and a looming silhouette with scissors",
+  "alt3": "from behind, a little girl in pigtails swinging on a swingset",
+  "alt4": "Japanese school girls",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
