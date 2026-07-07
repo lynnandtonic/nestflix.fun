@@ -1,0 +1,29 @@
+{
+  "slug": "the-best-vhs-in-the-world",
+  "title": "The Best VHS in the World",
+  "description": "The same action you remember from that gold plastic video tape. Inexplicably your best friend’s favorite movie.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "R",
+  "runtime": "1h 46m",
+  "labels": [
+    "action",
+    "sci-fi",
+    "aliens"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "a pug dog driving a car",
+  "alt1": "car being chased by a police car",
+  "alt2": "car going up a ramp off a ramp",
+  "alt3": "the car is caugh in the air by a UFO’s green beam",
+  "alt4": "the cops shield their eyes as the UFO explodes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "aliens!"
+  ]
+}
