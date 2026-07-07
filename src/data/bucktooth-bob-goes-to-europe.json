@@ -1,0 +1,22 @@
+{
+  "slug": "bucktooth-bob-goes-to-europe",
+  "title": "Bucktooth Bob Goes to Europe",
+  "description": "It’s not just the language barrier Bucktooth Bob has to navigate when he visits Europe for the very first time.",
+  "quote": "The Eiffel Tower? More like He-fell Tower.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Bucktooth Bob, an American lumberjack type man, looking at a fancy French man walking toward a banana peel on the walkway of the Eiffel Tower",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}
