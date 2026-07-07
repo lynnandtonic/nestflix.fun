@@ -1,0 +1,27 @@
+{
+  "slug": "x-treme-barista",
+  "title": "X-Treme Barista",
+  "description": "Baristas compete head-to-head to see who can make the superior cup of coffee. Who will get French pressed?",
+  "quote": "I ain’t come to here to make friends, I came here to make blends, dawg!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality competition"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Yuji, a barista wearing big wraparound sunglasses, holds up a coffee cup with a froth swan",
+  "alt1": "a hand holds a coffee cup under a milk frother",
+  "alt2": "Yuji presents his swan coffee to a judge",
+  "alt3": "Kid Crunchy Z pours a green energy drink into the espresso thing",
+  "alt4": "Yuji being apprehended by the cops",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ]
+}
