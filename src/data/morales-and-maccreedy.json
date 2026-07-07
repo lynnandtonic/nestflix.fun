@@ -1,0 +1,34 @@
+{
+  "slug": "morales-and-maccreedy",
+  "title": "Morales and MacCreedy",
+  "description": "Back-to-back movie marathon of classic Morales and MacCreedy. One day, Detective Morales gets assigned a new partner, Duncan MacCreedy, and everything changes.",
+  "quote": "Don’t ye go dyin’ on me, Morales!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "PG-13",
+  "runtime": "12h 34m",
+  "starring": [
+    "Stacy Ramirez",
+    "Oliver Peters",
+    "Joe Dan Price"
+  ],
+  "labels": [
+    "action",
+    "buddy cops"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Morales, a blonde woman, with MacCreedy, a red-haird Scottish man in traditional garb",
+  "alt1": "MacCreedy blowing bullets from a bagpipe",
+  "alt2": "MacCreedy kicks open an office door, startling Morales",
+  "alt3": "Morales talks to MacCreedy who has blank green eyes",
+  "alt4": "Morales and MacCreedy with a baby riding a pterodactyl",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "buddy cops"
+  ]
+}
