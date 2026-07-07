@@ -1,0 +1,28 @@
+{
+  "slug": "the-longest-weekend",
+  "title": "The Longest Weekend",
+  "description": "Based on a true story, a French film about a love that burns too bright and too hot.",
+  "quote": "My darling, our love is too intense for us to be together for an extended period of time.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "PG-13",
+  "runtime": "3h",
+  "labels": [
+    "romantic drama",
+    "arthouse"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "black and white shot, a man with a French mustache looks upset as a woman cries behind him on the beach",
+  "alt1": "man and woman run toward each other",
+  "alt2": "closeup of the man and woman talking",
+  "alt3": "a red rose loses a petal",
+  "alt4": "hands play a piano",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas"
+  ]
+}
