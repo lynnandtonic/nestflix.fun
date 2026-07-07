@@ -1,0 +1,31 @@
+{
+  "slug": "its-a-date",
+  "title": "It’s a Date!",
+  "description": "The hit dating show where three eligible bachelors compete for a date with a lovely lady. She asks the questions and they hopefully impress with slick answers.",
+  "quote": "It’s a date!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": [
+    "Bob Karpett"
+  ],
+  "labels": [
+    "reality",
+    "dating"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "host Bob Karpett in a white tuxedo next to a lady",
+  "alt1": "Bob Karpett",
+  "alt2": "three silhouettes of the bachelors",
+  "alt3": "lady asking questions from cards",
+  "alt4": "the stage, dividing the lady from the bachelors",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows"
+  ]
+}
