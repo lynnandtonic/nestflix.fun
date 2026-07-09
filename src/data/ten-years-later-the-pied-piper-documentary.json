@@ -1,0 +1,41 @@
+{
+  "slug": "ten-years-later-the-pied-piper-documentary",
+  "title": "Ten Years Later: The Pied Piper Documentary",
+  "description": "Once a 2010s tech darling, Pied Piper ultimately crashed and burned with their doomed launch of PiperNet. Ten years later, we follow up with founder Richard Hendricks.",
+  "quote": "You don’t feel bad that you never got to make the world a better place?",
+  "parent": "Silicon Valley",
+  "parentYear": "2014-2019",
+  "parentIMDB": "2575988",
+  "rating": "PG-13",
+  "runtime": "1h 20m",
+  "starring": [
+    "Richard Hendricks",
+    "Erlich Bachman",
+    "Nelson Bighetti",
+    "Bertram Gilfoyle",
+    "Dinesh Chugtai",
+    "Monica Hall",
+    "Jared Dunn",
+    "Ron LaFlamme",
+    "Rod Morgenstern",
+    "Bill Gates",
+    "Kara Swisher"
+  ],
+  "labels": [
+    "documentary"
+  ],
+  "credit": "HBO",
+  "altHero": "Pied Piper winning at Tech Crunch Disrupt SF",
+  "alt1": "Bertram Gilfoyle",
+  "alt2": "Richard Hendricks holding up a Pied Piper mouse pad",
+  "alt3": "Erlich Bachman obscured by curtain and shadow",
+  "alt4": "Dinesh Chugtai",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "new on nestflix"
+  ]
+}
