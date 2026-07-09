@@ -1,0 +1,32 @@
+{
+  "slug": "marriage-maze",
+  "title": "Marriage Maze",
+  "description": "Host Bert Schnick welcomes couples who seem to have made a hash of their marriage and cooked their goose. Can they be a happy couple or will they need treatment?",
+  "quote": "Come up here and let’s feel you!",
+  "parent": "Shock Treatment",
+  "parentYear": "1981",
+  "parentIMDB": "0083067",
+  "rating": "Unrated",
+  "runtime": "2 seasons",
+  "starring": [
+    "Bert Schnick"
+  ],
+  "studio": "DTV",
+  "labels": [
+    "game show"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "host Bert Schnick, in a bright orange suit with slick black hair and sunglasses",
+  "alt1": "Bert on stage with two contestants",
+  "alt2": "woman contestant thinking, a timer on screen at 16 seconds",
+  "alt3": "man contestant looking concerned, a timer on screen at 11 seconds",
+  "alt4": "contestant Janet Majors",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
