@@ -1,0 +1,22 @@
+{
+  "slug": "wilma",
+  "title": "Wilma",
+  "description": "Wilma speaks with celebrities, subject matter experts, and inspiring young people from all across the country.",
+  "parent": "Search Party",
+  "parentYear": "2016-2022",
+  "parentIMDB": "5460226",
+  "rating": "TV-G",
+  "runtime": "7 seasons",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "HBO Max",
+  "altHero": "Wilma, a black woman with short white hair wearing a green caped dress",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
