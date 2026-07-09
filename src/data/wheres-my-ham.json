@@ -1,0 +1,27 @@
+{
+  "slug": "wheres-my-ham",
+  "title": "Where’s My Ham?",
+  "description": "An actually really informative documentary that will change your life.",
+  "quote": "I’m sorry I tried that ham from earlier on.",
+  "parent": "Smiling Friends",
+  "parentYear": "2022-Present",
+  "parentIMDB": "12074628",
+  "rating": "Unrated",
+  "runtime": "47m",
+  "labels": [
+    "documentary"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "two large, shirtless, hairy men floating in space fighting over a ham",
+  "alt1": "same men, wide shot so you can see they are both wearing diapers",
+  "alt2": "one man is straddling the other on a bed, the ham is resting on the guy’s legs",
+  "alt3": "closeup of the men, their skin is so shiny",
+  "alt4": "closeup of the other man",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries"
+  ]
+}
