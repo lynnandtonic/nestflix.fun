@@ -1,0 +1,31 @@
+{
+  "slug": "master-wu-and-the-rebel-monks",
+  "title": "Master Wu and The Rebel Monks",
+  "description": "Martial arts legend Tony Wu stars as Master Wu, who teaches the signature style of Laughing Dragon kung fu to the next generation.",
+  "quote": "You see, any practice, even sweeping, is kung fu, if you learn to focus your mind.",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "PG-13",
+  "runtime": "1h 38m",
+  "starring": [
+    "Tony Wu"
+  ],
+  "labels": [
+    "action",
+    "martial arts"
+  ],
+  "credit": "PBS",
+  "altHero": "Tony Wu as an old Chinese man with long white beard",
+  "alt1": "Master Wu speaks with an apprentice in a large hall",
+  "alt2": "the apprentice reacts as a pot is kicked at him",
+  "alt3": "Master Wu moving quickly with dramatic speed lines",
+  "alt4": "the apprentice holding his toe in pain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
