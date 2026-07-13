@@ -1,0 +1,28 @@
+{
+  "slug": "spooky-poo",
+  "title": "Sppoky Poo",
+  "description": "A group of friends solve local mysteries with the help of their kangaroo, Spooky Poo.",
+  "quote": "Spooky Poo!",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "mystery"
+  ],
+  "credit": "PBS",
+  "altHero": "the gang: two guys and two girls running away with a Spooky Poo, their kangaroo",
+  "alt1": "a ghost",
+  "alt2": "the gang running",
+  "alt3": "Spooky Poo running",
+  "alt4": "a mummy running through a revolving door",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
