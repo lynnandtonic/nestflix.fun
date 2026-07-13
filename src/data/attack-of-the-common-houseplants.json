@@ -1,0 +1,23 @@
+{
+  "slug": "attack-of-the-common-houseplants",
+  "title": "Attack of the Common Houseplants!",
+  "description": "The houseplants are alive! A mercenary gardener for hire must escape the evil Hydrangea of Doom.",
+  "quote": "I think it’s time you had a shower!",
+  "parent": "Captain Flamingo",
+  "parentYear": "2006-2010",
+  "parentIMDB": "0470105",
+  "rating": "PG-13",
+  "runtime": "1h 31m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "YTV",
+  "altHero": "a giant plant with an open mouth and sharp teeth",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
