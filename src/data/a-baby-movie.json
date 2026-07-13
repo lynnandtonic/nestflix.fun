@@ -1,0 +1,22 @@
+{
+  "slug": "a-baby-movie",
+  "title": "A Baby Movie",
+  "description": "Based on the popular internet meme, <em>A Baby Movie</em> answers the question of how long can you watch babies laughing?",
+  "parent": "Bat-Fam",
+  "parentYear": "2025-Present",
+  "parentIMDB": "27621333",
+  "rating": "G",
+  "runtime": "1h 24m",
+  "labels": [
+    "family",
+    "kids"
+  ],
+  "credit": "Amazon Prime Video",
+  "altHero": "two giggling babies",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}

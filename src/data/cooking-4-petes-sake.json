@@ -1,0 +1,28 @@
+{
+  "slug": "cooking-4-petes-sake",
+  "title": "Cooking 4 Pete’s Sake",
+  "description": "Chef Peter Fish takes a whirlwind tour around India cooking dishes live from all the different regions.",
+  "quote": "As you probably know, the people here are strictly vegetarian, but we’re going to try a little chicken dish they might like anyway.",
+  "parent": "Bob and Margaret",
+  "parentYear": "2998-2001",
+  "parentIMDB": "0122813",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Peter Fish"
+  ],
+  "labels": [
+    "reality",
+    "food",
+    "cooking",
+    "british tv"
+  ],
+  "credit": "Channel 4",
+  "altHero": "Peter Fish in chef’s clothes in front of a wok, unhappy looking Indian people standing behind him",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
