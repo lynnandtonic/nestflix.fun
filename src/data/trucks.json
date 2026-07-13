@@ -1,0 +1,29 @@
+{
+  "slug": "trucks",
+  "title": "Trucks",
+  "description": "A movie about a boy who follows his dreams. Johnny Half-ton sets out to prove he’s the toughest truck in town.",
+  "quote": "We’ll see who’s got pull around here!",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "G",
+  "runtime": "1h 38m",
+  "labels": [
+    "family",
+    "kids",
+    "animation"
+  ],
+  "credit": "PBS",
+  "altHero": "Johnny Half-ton, a truck with eyes, with his lady friend, Cindy Cupholder, a pink car",
+  "alt1": "four trucks tethered to a block of bricks",
+  "alt2": "a semi truck with eyes",
+  "alt3": "Rita the Meter Maid, a green car, crying via her windshield wiper fluid",
+  "alt4": "Jonny and Cindy cuddling under the moonlight",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
