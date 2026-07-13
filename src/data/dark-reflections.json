@@ -1,0 +1,23 @@
+{
+  "slug": "dark-reflections",
+  "title": "Dark Reflections",
+  "description": "An anthology series with very accurate satire of our modern fascination with technology. Shit your pants level scary.",
+  "quote": "Good morning class. Welcome to human maths. I mean maths.",
+  "parent": "Camp Camp",
+  "parentYear": "2016-2024",
+  "parentIMDB": "5797374",
+  "rating": "TV-MA",
+  "runtime": "4 seasons",
+  "labels": [
+    "sci-fi",
+    "horror"
+  ],
+  "credit": "Rooster Teeth",
+  "altHero": "a science teacher has blank eyes and tentacles coming out of his mouth",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ]
+}
