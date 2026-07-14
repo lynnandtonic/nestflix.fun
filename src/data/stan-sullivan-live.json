@@ -1,0 +1,24 @@
+{
+  "slug": "stan-sullivan-live",
+  "title": "Stan Sullivan Live!",
+  "description": "Stan Sullivan cuts to the chase with hard hitting interviews with surprising guests.",
+  "parent": "Devil May Cry",
+  "parentYear": "2025-Present",
+  "parentIMDB": "15716776",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Stan Sullivan"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Netflix",
+  "altHero": "Stan Sullivan, a man with white slicked back hair and long sideburns, wearing tinted glasses and speaking into a microphone",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
