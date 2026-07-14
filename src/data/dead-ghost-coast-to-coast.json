@@ -1,0 +1,27 @@
+{
+  "slug": "dead-ghost-coast-to-coast",
+  "title": "Dead Ghost, Coast to Coast",
+  "description": "The loud, irreverent talk show featuring news, entertainment, celebrity interviews, and caller questions.",
+  "quote": "Did those farm zombies scare the pants off you kiddies?",
+  "parent": "Cow and Chicken",
+  "parentYear": "1997-1999",
+  "parentIMDB": "0118289",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Red Guy in a superhero costume, leaning on a desk",
+  "alt1": "Red Guy as a superhero talk show host",
+  "alt2": "Red Guy laying on the ground and pointing",
+  "alt3": "Red Guy yelling into a telephone",
+  "alt4": "Red Guy at his talk show desk",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
