@@ -1,0 +1,33 @@
+{
+  "slug": "ebenezer-screw",
+  "title": "Ebenezer Screw",
+  "description": "A new Christmas classic about that old cold-hearted miser, Ebenezer Screw.",
+  "quote": "Are you as horny as I am?",
+  "parent": "Beavis and Butt-Head",
+  "parentYear": "1993-1997",
+  "parentIMDB": "20859904",
+  "rating": "Unrated",
+  "runtime": "23m",
+  "starring": [
+    "Tiny Johnson",
+    "Bob Scratchit"
+  ],
+  "labels": [
+    "adult film",
+    "erotic",
+    "holiday"
+  ],
+  "credit": "MTV Animation",
+  "altHero": "Bob Scratchit as Ebenezer Screw, shirtless and wearing a top hat and red scarf",
+  "alt1": "Tiny Johnson wearing a Santa hat",
+  "alt2": "Ebenezer Screw standing in a bedroom with a lady in lingerie sitting on the bed",
+  "alt3": "Ebenezer Screw removing his scarf",
+  "alt4": "the woman removing her bra",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "adults 18+"
+  ]
+}
