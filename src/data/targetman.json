@@ -1,0 +1,30 @@
+{
+  "slug": "targetman",
+  "title": "Targetman",
+  "description": "When trouble hits the fan, call Targetman. He’s dead on. Shot in 4-D and featuring the highest body count in movie history.",
+  "quote": "Don’t lose your head over it. Oops, I guess you did.",
+  "parent": "Disney’s Doug",
+  "parentYear": "1996-1999",
+  "parentIMDB": "0122815",
+  "rating": "R",
+  "runtime": "1h 41m",
+  "labels": [
+    "action",
+    "sci-fi",
+    "superheroes"
+  ],
+  "credit": "Walt Disney Television Animation",
+  "altHero": "Targetman, a robot cyborg hero",
+  "alt1": "robot birds with tanks and choppers taking over a city",
+  "alt2": "Targetman shooting a giant gatling gun",
+  "alt3": "Targetman flying through a car tunnel from an explosion",
+  "alt4": "Targetman aiming his arm gun at you",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films",
+    "mighty movie heroes"
+  ]
+}
