@@ -1,0 +1,28 @@
+{
+  "slug": "robofrog-2",
+  "title": "Robofrog 2: Rise of the Ribbitarians",
+  "description": "Every tadpole sees its darkest day, but eventually… we rise. He’s part robot, part frog, and he’s back.",
+  "parent": "Clarence",
+  "parentYear": "2013-2018",
+  "parentIMDB": "3061050",
+  "rating": "PG-13",
+  "runtime": "1h 54m",
+  "labels": [
+    "sci-fi",
+    "action",
+    "robots"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Robofrog emerging from a pond, lifting up a lily pad with his head",
+  "alt1": "burning city",
+  "alt2": "edge of a pond with lily pads",
+  "alt3": "top of Robofrog’s head pushing the lily pad up",
+  "alt4": "Robofrog illuminated by moonlight",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films"
+  ]
+}
