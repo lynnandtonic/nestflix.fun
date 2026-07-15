@@ -1,0 +1,32 @@
+{
+  "slug": "painting-with-rusty-shanks",
+  "title": "Painting with Rusty Shanks",
+  "description": "Learn to paint landscapes with artist Rusty Shanks.",
+  "quote": "Last week, I taught you how to paint shrubbery using your own head as a brush.",
+  "parent": "Dilbert",
+  "parentYear": "1999-2000",
+  "parentIMDB": "0118984",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": [
+    "Rusty Shanks"
+  ],
+  "labels": [
+    "reality",
+    "art",
+    "diy"
+  ],
+  "credit": "UPN",
+  "altHero": "Rusty Shanks, a curly haired man, in front of a canvas and easel",
+  "alt1": "Rusty smiling",
+  "alt2": "Rusty dabs some orange on a canvas with a paintbrush",
+  "alt3": "landscape painting of a house by a river",
+  "alt4": "an artist man talks with Rusty who looks concerned",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home, diy, and art"
+  ]
+}
