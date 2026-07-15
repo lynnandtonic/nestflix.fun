@@ -1,0 +1,30 @@
+{
+  "slug": "the-billie-and-bobbie-show",
+  "title": "The Billie and Bobbie Show",
+  "description": "A brother/sister duo that tells knock-knock jokes and sings folk songs about friendship, sunshine, and sibling love.",
+  "parent": "Austin & Ally",
+  "parentYear": "2011-2016",
+  "parentIMDB": "1830491",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "variety",
+    "music"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "Billie, a teen boy, and Bobbie, a teen girl, both wearing blonde wigs, singing in front of a gold curtain in matching red outfits",
+  "alt1": "Billie and Bobbie performing",
+  "alt2": "Billie and Bobbie in blue jumper outfits on stage",
+  "alt3": "Billie and Bobbie hamming it up",
+  "alt4": "Billie and Bobbie wearing glittery plaid vests",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows",
+    "music variety",
+    "new on nestflix"
+  ]
+}
