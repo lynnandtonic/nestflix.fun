@@ -1,0 +1,27 @@
+{
+  "slug": "the-invasion-of-the-giant-bug",
+  "title": "The Invasion of the Giant Bug",
+  "description": "The horror! A monster insect comes creeping into town and tries to take over.",
+  "parent": "Bob the Builder",
+  "parentYear": "1999-2011",
+  "parentIMDB": "0262151",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "HIT Entertainment",
+  "altHero": "a giant bug with multiple legs, three eyes, and sharp teeth climbs skyskrapers in a city at night",
+  "alt1": "two men having dinner through a window",
+  "alt2": "closeup of the men eating",
+  "alt3": "the bug peeking into the window from the outside",
+  "alt4": "the man avoids the insect’s claw",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
