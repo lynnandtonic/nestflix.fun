@@ -1,0 +1,36 @@
+{
+  "slug": "revenge-of-the-teenage-dead",
+  "title": "Revenge of the Teenage Dead",
+  "description": "His name is Biff Harris. The story he’s about to tell you is true. If it wasn’t, he wouldn’t be dead.",
+  "quote": "The teenage zombies could not control their bloodlust. Every parent was on the menu.",
+  "parent": "Doogie Howser, M.D",
+  "parentYear": "1989-1993",
+  "parentIMDB": "0096569",
+  "rating": "Unrated",
+  "runtime": "25m",
+  "starring": [
+    "Vinnie Delpino",
+    "Douglas Howser",
+    "Wanda Plenn"
+  ],
+  "director": [
+    "Vinnie Delpino"
+  ],
+  "labels": [
+    "horror",
+    "amateur"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "dead teen boy in a tux sitting up inside a coffin in a dark, candle-lit room",
+  "alt1": "man wearing a hockey mask and holding a chainsaw climbs up the stairs",
+  "alt2": "Douglas Howser as Pete, a scared boy",
+  "alt3": "Wanda Plenn as Mary Sue, screaming into Pete’s face",
+  "alt4": "man in the hockey mask",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
