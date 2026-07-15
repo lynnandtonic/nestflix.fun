@@ -1,0 +1,33 @@
+{
+  "slug": "excess-hollywoo",
+  "title": "Excess Hollywoo",
+  "description": "The latest entertainment news in Hollywoo land. Interviews with celebrities, actors, and musicians, plus behind the scenes exclusives.",
+  "quote": "Haha! You said words!",
+  "parent": "BoJack Horseman",
+  "parentYear": "2014-2020",
+  "parentIMDB": "3398228",
+  "rating": "TV-PG",
+  "runtime": "10 seasons",
+  "starring": [
+    "A Ryan Seacrest Type",
+    "Some Lady"
+  ],
+  "labels": [
+    "talk show",
+    "entertainment"
+  ],
+  "credit": "Netflix",
+  "altHero": "A Ryan Seacrest Type interviews a dolphin in the studio",
+  "alt1": "A Ryan Seacrest Type giving the news",
+  "alt2": "a whale host",
+  "alt3": "A Ryan Seacrest Type interviewing Bojack Horseman and Mr. Peanutbutter",
+  "alt4": "a man at a protest being interviewed",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "entertainment commentary",
+    "new on nestflix"
+  ]
+}
