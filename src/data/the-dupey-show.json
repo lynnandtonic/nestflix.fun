@@ -1,0 +1,23 @@
+{
+  "slug": "the-dupey-show",
+  "title": "The Dupey Show",
+  "description": "By any criteria, they are superior. They are the Dupeys! The cartoon series based on the popular children’s toy.",
+  "quote": "If your parents don’t buy you a Dupey every week, they’re only pretending to love you!",
+  "parent": "Dilbert",
+  "parentYear": "1999-2000",
+  "parentIMDB": "0118984",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "UPN",
+  "altHero": "four colorful fluffy dupeys",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
