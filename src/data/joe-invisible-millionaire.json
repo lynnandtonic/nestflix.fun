@@ -1,0 +1,24 @@
+{
+  "slug": "joe-invisible-millionaire",
+  "title": "Joe Invisible Millionaire",
+  "description": "The previously unaired reality dating show where eligible singles compete for the attention of a millionaire who finally wants to be seen.",
+  "quote": "You’re not invisible Joe, because I can see your heart.",
+  "parent": "Unbreakable Kimmy Schmidt",
+  "parentYear": "2015-2019",
+  "parentIMDB": "3339966",
+  "rating": "TV-MA",
+  "runtime": "1 season",
+  "studio": "VH3",
+  "labels": [
+    "reality",
+    "dating"
+  ],
+  "credit": "Netflix",
+  "altHero": "contestant Titus Andromedon talking with Invisible Joe, who can only be seen by his top hat and mustache that is taped to the chin strap of the hat",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows"
+  ]
+}
