@@ -1,0 +1,31 @@
+{
+  "slug": "weird-world",
+  "title": "Weird World",
+  "description": "Join V.V. Argost for his educational talk show that covers all things cryptid.",
+  "quote": "Greetings and bienvenue!",
+  "parent": "The Secret Saturdays",
+  "parentYear": "2008-2010",
+  "parentIMDB": "1291662",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": [
+    "V.V. Argost",
+    "Munya"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "V.V. Argost sitting in an armchair",
+  "alt1": "Argost and Munya looking at a bigfoot-like creature laying on the ground",
+  "alt2": "Munya carrying a tray of meat through a jail and various cryptid arms are reaching out of the cells",
+  "alt3": "Argost in a military uniform",
+  "alt4": "Argost looking at an architectural artifact",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
