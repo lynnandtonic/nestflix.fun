@@ -1,0 +1,31 @@
+{
+  "slug": "crowbar-jones-2-another-reckoning",
+  "title": "Crowbar Jones 2: Another Reckoning",
+  "description": "In 2034, Beartropolis is consumed by crime. Only one bear has the power to bring order to chaos.",
+  "quote": "Wait a second. The President would never give out his Ferrari Turbo to anyone!",
+  "parent": "We Bare Bears",
+  "parentYear": "2015-2019",
+  "parentIMDB": "4839610",
+  "rating": "Unrated",
+  "runtime": "35m",
+  "director": [
+    "Grizz"
+  ],
+  "labels": [
+    "amateur",
+    "action"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Grizz as Crowbar Jones, a bear with bowtie and grey hair",
+  "alt1": "a bear ninja",
+  "alt2": "Mr. President, a penguin with a platinum album and a gold medal",
+  "alt3": "a bear sits at the computer and another bear paces the room, it’s obviously been split screen composited as one bear is partially cut off",
+  "alt4": "Crowbar Jones wearing a scuba suit and jet pack flying in front of handmade, cardboard clouds",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
