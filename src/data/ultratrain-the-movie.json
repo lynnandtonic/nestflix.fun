@@ -1,0 +1,27 @@
+{
+  "slug": "ultratrain-the-movie",
+  "title": "Ultratrain: The Movie",
+  "description": "In the first Ultratrain movie, our hero faces off with his nemesis Trainiac and the stakes are higher than ever.",
+  "quote": "The canyon”s wide and deep, but I’m going to make this dangerous leap!",
+  "parent": "Thomas & Friends: All Engines Go",
+  "parentYear": "2021-2025",
+  "parentIMDB": "14556544",
+  "rating": "PG",
+  "runtime": "1h 23m",
+  "labels": [
+    "action"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Ultratrain, a red and gold train engine, and Trainiac, a purple one",
+  "alt1": "Ultratrain",
+  "alt2": "Ultratrain and Trainiac separated by a canyon",
+  "alt3": "Trainiac",
+  "alt4": "Trainiac’s head spinning as Ultratrain passes him by",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
