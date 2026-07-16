@@ -1,0 +1,30 @@
+{
+  "slug": "burning-bridgettes",
+  "title": "Burning Bridgettes",
+  "description": "A hard-hitting crime drama starring Bridgette like you’ve never seen her before… as twins! It has cool cars and even cooler Bridgettes. They kick the bad guys’ butts. There are speed boat chases, nuclear Armageddons, and puppies wrestling each other while wearing tiny overalls.",
+  "parent": "Total DramaRama",
+  "parentYear": "2018-2023",
+  "parentIMDB": "8526988",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Bridgette"
+  ],
+  "labels": [
+    "crime drama",
+    "buddy cops"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Bridgette, a small blonde child, dressed as a cop in front of flames",
+  "alt1": "detective Bridgette taking down a thief as cop Bridgette arrives",
+  "alt2": "Bridgettes in cool sports cars",
+  "alt3": "Bridgettes being approached by two huge criminals",
+  "alt4": "detective Bridgette kicking a criminal in the face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "buddy cops"
+  ]
+}
