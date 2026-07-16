@@ -1,0 +1,28 @@
+{
+  "slug": "chinchilli-chinchilla",
+  "title": "Chinchilli Chinchilla",
+  "description": "You’ll believe cartoons are real when you hang with Chinchilli. Hope he doesn’t get into too much trouble!",
+  "quote": "I’ve never juggled chainsaws before, but what could go wrong?",
+  "parent": "Total DramaRama",
+  "parentYear": "2018-2023",
+  "parentIMDB": "8526988",
+  "rating": "TV-Y7",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Chinchilli, a cartoon chinchilla wearing a scarf and sneakers",
+  "alt1": "Chinchilli looking at a bucket on the beach",
+  "alt2": "Chinchilli running frantically with the bucket on his head",
+  "alt3": "Chinchilli with the bucket on his head, falling through the sky",
+  "alt4": "wide shot showing Chinchilli is falling next to a building and into a dumpster",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
