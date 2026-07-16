@@ -1,0 +1,33 @@
+{
+  "slug": "cooking-with-chef-pig",
+  "title": "Cooking with Chef Pig",
+  "description": "Join Chef Pig and Ant as they teach new words and new recipes.",
+  "quote": "Building a word is a lot like cooking, you just have to follow the recipe and put things in the right order.",
+  "parent": "Word World",
+  "parentYear": "2007-2011",
+  "parentIMDB": "1097633",
+  "rating": "TV-Y",
+  "runtime": "1 season",
+  "starring": [
+    "Pig",
+    "Ant"
+  ],
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "Pig wearing a chef’s hat in a kitchen ",
+  "alt1": "Pig’s hoof pointing at a book open to a page with a pot on it",
+  "alt2": "a pot that is made of the letters P-O-T",
+  "alt3": "Pig putting a spoon into the pot full of white food",
+  "alt4": "Pig sticking his face in the pot as Ant sits on the countertop",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
