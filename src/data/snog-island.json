@@ -1,0 +1,23 @@
+{
+  "slug": "snog-island",
+  "title": "Snog Island",
+  "description": "Young singles travel to Snog Island in hopes of finding a romantic connection.",
+  "quote": "Did you snog him? Did you snog him though?",
+  "parent": "The Wonderfully Weird World of Gumball",
+  "parentYear": "2025-Present",
+  "parentIMDB": "36985473",
+  "rating": "TV-MA",
+  "runtime": "17 seasons",
+  "labels": [
+    "reality",
+    "dating"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "a young woman argues with attitude",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows"
+  ]
+}
