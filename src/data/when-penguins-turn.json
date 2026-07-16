@@ -1,0 +1,22 @@
+{
+  "slug": "when-penguins-turn",
+  "title": "When Penguins Turn!",
+  "description": "This seemingly flacid bird has adapted perfectly to the hostile environment. But explorers beware! Few are prepared for the consequences when peguins turn.",
+  "parent": "Wallace & Gromit’s Cracking Contraptions",
+  "parentYear": "2022",
+  "parentIMDB": "0339881",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "labels": [
+    "documentary",
+    "animals"
+  ],
+  "credit": " Atom Films",
+  "altHero": "a bunch of penguins sitting on the ice",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv"
+  ]
+}
