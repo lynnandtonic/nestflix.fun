@@ -1,0 +1,31 @@
+{
+  "slug": "longshot",
+  "title": "Longshot",
+  "description": "Longshot takes on every type of beast, baddie, and supervillain in this action-packed series.",
+  "parent": "X-Men: The Animated Series",
+  "parentYear": "1992-1997",
+  "parentIMDB": "0103584",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Longshot"
+  ],
+  "studio": "Mojovision",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Marvel Entertainment",
+  "altHero": "Longshot, a blonde superhero atop a cliff",
+  "alt1": "Longshot swinging a slingshot",
+  "alt2": "a green villain punching a wall just above Longshot’s head",
+  "alt3": "a woman superhero with long silver hair",
+  "alt4": "multi-eyed sea monster about to be exploded by two missiles",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes"
+  ]
+}
