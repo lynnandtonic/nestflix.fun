@@ -1,0 +1,27 @@
+{
+  "slug": "blasting-chronicler-donshine",
+  "title": "Blasting Chronicler Don Shine",
+  "description": "Don Shine is a masked hero who protects the innocent from supervillains like Satanzorg and the Nusttoria.",
+  "parent": "Ultraman Geed",
+  "parentYear": "2017",
+  "parentIMDB": "6842116",
+  "rating": "TV-14",
+  "runtime": "65 episodes",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "TXN",
+  "altHero": "Don Shine, a robot hero",
+  "alt1": "Don Shine blasting lasers",
+  "alt2": "villain Satanzorg holds a young lady hostage",
+  "alt3": "Don Shine looking surprised",
+  "alt4": "Don Shine hugging the lady",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes"
+  ]
+}
