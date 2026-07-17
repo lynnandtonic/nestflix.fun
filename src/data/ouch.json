@@ -1,0 +1,36 @@
+{
+  "slug": "ouch",
+  "title": "Ouch!",
+  "description": "The Rutle’s second film which finds the group running from a murderous cult.",
+  "parent": "The Rutles: All You Need is Cash",
+  "parentYear": "1978",
+  "parentIMDB": "0077147",
+  "rating": "G",
+  "runtime": "1h 32m",
+  "starring": [
+    "Dirk McQuickly",
+    "Ron Nasty",
+    "Barry Wom",
+    "Stig O'Hara"
+  ],
+  "director": [
+    "Dick Rutland"
+  ],
+  "labels": [
+    "comedy",
+    "musical"
+  ],
+  "credit": "NBC",
+  "altHero": "the Rutles making letter shapes with their bodies",
+  "alt1": "the Rutles performing in a desert oasis",
+  "alt2": "the Rutles jumping all together in a sand dune",
+  "alt3": "the Rutles riding a beach boat car while a native woman runs after them",
+  "alt4": "the Rutles sitting in the sand saying “Ouch!”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals"
+  ]
+}
