@@ -1,0 +1,34 @@
+{
+  "slug": "gamma-goo-from-planet-9",
+  "title": "Gamma Goo from Planet 9",
+  "description": "Time is running out for the city under siege! It’s man against monster in a battle to save the city from this oozing enemy.",
+  "quote": "I’ll stop that goo if it’s the last thing I do!",
+  "parent": "The Mr. Men Show",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1029211",
+  "rating": "PG-13",
+  "runtime": "54m",
+  "starring": [
+    "Little Miss Sunshine",
+    "Mr. Bump",
+    "Mr. Happy",
+    "Little Miss Scary"
+  ],
+  "labels": [
+    "sci-fi",
+    "aliens"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "city skyline covered in pink good, helicopters circle in the sky",
+  "alt1": "woman screams as pink goo floods in her door",
+  "alt2": "woman and police officer run away from a pink ooze",
+  "alt3": "spraying fire extinguishers at the goo",
+  "alt4": "cackling evil villain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ]
+}
