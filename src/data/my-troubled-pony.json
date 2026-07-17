@@ -1,0 +1,27 @@
+{
+  "slug": "my-troubled-pony",
+  "title": "My Troubled Pony",
+  "description": "Roxanne is a troubled pony, navigating romance and danger with her best friend Daffodil and lovers, Javier and Guillermo.",
+  "quote": "Javier, I’m afraid I don’t Have much time left. Tomorrow they”re sending me to the glue factory.",
+  "parent": "The Grim Adventures of Billy & Mandy",
+  "parentYear": "2003-2007",
+  "parentIMDB": "0292800",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "labels": [
+    "soap opera"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Roxanne, a sad purple pony with big hair and a bow",
+  "alt1": "Roxanne talking to Javier, a pony with mustache and sombrero ",
+  "alt2": "Roxanne and Javier",
+  "alt3": "Guillermo, a pony with an eyepatch, holds Roxannes hoof as they dange from a helicopter",
+  "alt4": "Roxanne falling into a volcano",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ]
+}
