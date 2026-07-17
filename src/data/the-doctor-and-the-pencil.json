@@ -1,0 +1,30 @@
+{
+  "slug": "the-doctor-and-the-pencil",
+  "title": "The Doctor and the Pencil",
+  "description": "Jurgen Haarbermaaster’s 1972 avant-garde film. An exploration of pain and rage, but also playful and comedic. So playful.",
+  "parent": "The Mighty Boosh",
+  "parentYear": "2004-2007",
+  "parentIMDB": "0416394",
+  "rating": "Unrated",
+  "runtime": "48m",
+  "director": [
+    "Jurgen Haarbermaaster"
+  ],
+  "labels": [
+    "drama",
+    "arthouse"
+  ],
+  "credit": "Baby Cow Productions",
+  "altHero": "black and white shot of a mad doctor",
+  "alt1": "creepy man dressed as a pencil",
+  "alt2": "the doctor looks upset as a light bulb swings back and forth",
+  "alt3": "closeup of the pencil man",
+  "alt4": "a hand holds a telephone receiver up to a flattened piece of organ meat",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}
