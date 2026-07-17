@@ -1,0 +1,37 @@
+{
+  "slug": "the-sunken-treasure-of-the-salty-sea",
+  "title": "The Sunken Treasure of the Salty Sea",
+  "description": "A swashbuckling adventure with sinister sea monsters and scary pirates.",
+  "quote": "Mr. Man overboard! Again.",
+  "parent": "The Mr. Men Show",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1029211",
+  "rating": "G",
+  "runtime": "1h 32m",
+  "starring": [
+    "Mr. Strong",
+    "Mr. Bump",
+    "Little Miss Sunshine",
+    "Little Miss Scary",
+    "Mr. Tickle",
+    "Mr. Quiet"
+  ],
+  "labels": [
+    "action",
+    "adventure",
+    "pirates"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "a ship with big sails on the ocean",
+  "alt1": "two guys driving the boat and on the lookout",
+  "alt2": "a guy holds a mop as two huge tentacles reach out for him",
+  "alt3": "guy in the crow’s nest of a ship",
+  "alt4": "guy wearing a mask with a parrot on his shoulder, holding a sword",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action adventure movies"
+  ]
+}
