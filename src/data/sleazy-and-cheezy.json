@@ -1,0 +1,28 @@
+{
+  "slug": "sleazy-and-cheezy",
+  "title": "Sleazy and Cheezy!",
+  "description": "Watch Sleazy and Cheezy take each other down in more and more creative ways. Kids and really immature adults will laugh until they get double vision!",
+  "parent": "The Fairly OddParents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Sleazy, a cat, and Cheezy, a mouse in a kitchen; Cheezy is holding a frying pan",
+  "alt1": "Sleazy holding a fork that is holding a lit firework that looks like Cheezy",
+  "alt2": "Cheezy looking up in the smoke of Sleazy’s explosion",
+  "alt3": "a burned up Sleazy has his claws out",
+  "alt4": "Cheezy screaming in fear",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
