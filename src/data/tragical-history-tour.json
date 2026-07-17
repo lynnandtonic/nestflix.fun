@@ -1,0 +1,36 @@
+{
+  "slug": "tragical-history-tour",
+  "title": "Tragical History Tour",
+  "description": "The Rutle’s first flop that has since gained a cult following. Four Oxford history professors take a hitch-hiking tour of tea shops in the Rutland area.",
+  "parent": "The Rutles: All You Need is Cash",
+  "parentYear": "1978",
+  "parentIMDB": "0077147",
+  "rating": "G",
+  "runtime": "1h",
+  "starring": [
+    "Dirk McQuickly",
+    "Ron Nasty",
+    "Barry Wom",
+    "Stig O'Hara"
+  ],
+  "director": [
+    "Dick Rutland"
+  ],
+  "labels": [
+    "comedy",
+    "musical"
+  ],
+  "credit": "NBC",
+  "altHero": "the Rutles wearing pig masks",
+  "alt1": "the Rutles dressed as professors on the side of the road",
+  "alt2": "a bus approaches",
+  "alt3": "the band performing with lots of weird people dancing around them",
+  "alt4": "the Rutles in all white suits dancing in unison down some stairs",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals"
+  ]
+}
