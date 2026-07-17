@@ -1,0 +1,29 @@
+{
+  "slug": "poke-eye-the-longshoreman",
+  "title": "Poke Eye the Longshoreman",
+  "description": "Poke Eye the Longshoreman is a marble-mouthed ruffian who solves problems with his fists. After a helping of beets, he beats the Jiminy Crickets out of that villain!",
+  "quote": "Gets a taste of me sucker punch, ya big palooka!",
+  "parent": "The Fairly Oddparents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "studio": "The End Of Your Lifetime Channel",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Poke Eye the Longshoreman, a bald, eye-patched sailor man with huge forearms",
+  "alt1": "Poke Eye faces down a much bigger, gruffer sailor",
+  "alt2": "Poke Eye eating beets",
+  "alt3": "Poke Eye getting a burst of strength",
+  "alt4": "Poke Eye about to hit the bigger sailor, but his hands are ballooned up with “Sucker” written on them",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
