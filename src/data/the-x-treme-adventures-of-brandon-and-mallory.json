@@ -1,0 +1,27 @@
+{
+  "slug": "the-x-treme-adventures-of-brandon-and-mallory",
+  "title": "The X-Treme Adventures of Brandon and Mallory",
+  "description": "Brandon and Mallory are getting into some sweet adventures, facing off against some sweet villains, having a sweet helper monkey to get them into and out of trouble, and hanging out with the sweet, radical reaper.",
+  "parent": "The Grim Adventures of Billy & Mandy",
+  "parentYear": "2003-2007",
+  "parentIMDB": "0292800",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Brandon and Mallory and their monkey helper",
+  "alt1": "Mallory and Brandon racing in a car",
+  "alt2": "Brandon uppercut punching a ninja",
+  "alt3": "the reaper",
+  "alt4": "skull mecha guy with lightning behind",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ]
+}
