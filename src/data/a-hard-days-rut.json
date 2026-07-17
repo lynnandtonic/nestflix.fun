@@ -1,0 +1,37 @@
+{
+  "slug": "a-hard-days-rut",
+  "title": "A Hard Day’s Rut",
+  "description": "The first film from the English rock band, The Rutles, as they prepare for a big performance.",
+  "parent": "The Rutles: All You Need is Cash",
+  "parentYear": "1978",
+  "parentIMDB": "0077147",
+  "rating": "G",
+  "runtime": "1h 27m",
+  "starring": [
+    "Dirk McQuickly",
+    "Ron Nasty",
+    "Barry Wom",
+    "Stig O'Hara"
+  ],
+  "director": [
+    "Dick Rutland"
+  ],
+  "labels": [
+    "comedy",
+    "musical"
+  ],
+  "credit": "NBC",
+  "altHero": "the Rutles performing on a white sound stage",
+  "alt1": "the Rutles on a building’s roof, shading their faces with their hands",
+  "alt2": "the Rutles all in black, in a field, with their hands tucked into their shirts",
+  "alt3": "the Rutles performing",
+  "alt4": "The Rutles having a photo taken in the park",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "new on nestflix"
+  ]
+}
