@@ -1,0 +1,31 @@
+{
+  "slug": "guess-whats-in-the-box",
+  "title": "Guess What’s in the Box?",
+  "description": "The rules are simple. We’ll show you a box and you must guess what’s inside! Answer correctly, and you’ll win whatever’s in the box.",
+  "quote": "I want to change my answer! I think it’s a giant jelly bean too!",
+  "parent": "The Mr. Men Show",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1029211",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Mr. Nosey",
+    "Mr. Small"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Mr. Nosey and Mr. Small jumping out of a mystery box",
+  "alt1": "Mr. Nosey and Mr. Small present a curtain",
+  "alt2": "hosts with three contestants next to a giant mystery box",
+  "alt3": "three contestants and their guesses",
+  "alt4": "they reveal a donkey was in the mystery box",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
