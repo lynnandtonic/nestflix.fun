@@ -1,0 +1,34 @@
+{
+  "slug": "yellow-submarine-sandwich",
+  "title": "Yellow Submarine Sandwich",
+  "description": "The magical, colorful Rutterland is home to Sgt. Rutter’s Only Darts Club Band.",
+  "parent": "The Rutles: All You Need is Cash",
+  "parentYear": "1978",
+  "parentIMDB": "0077147",
+  "rating": "G",
+  "runtime": "1h 30m",
+  "starring": [
+    "Dirk McQuickly",
+    "Ron Nasty",
+    "Barry Wom",
+    "Stig O'Hara"
+  ],
+  "labels": [
+    "family",
+    "musical",
+    "animation"
+  ],
+  "credit": "NBC",
+  "altHero": "animated the Rutles sitting with a yellow submarine sandwich",
+  "alt1": "playing the piano",
+  "alt2": "a surreal hallway with the submarine sandwich",
+  "alt3": "cheese and onions",
+  "alt4": "a surreal landscape with pigs, sharks, and other creatures",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals"
+  ]
+}
