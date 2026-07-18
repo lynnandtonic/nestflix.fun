@@ -1,0 +1,30 @@
+{
+  "slug": "cyborg-cider-man-no-2",
+  "title": "Cyborg Cider-Man No. 2",
+  "description": "Cyborg Cider-Man protects the city from bitter supervillains who wish to sour the peace.",
+  "quote": "He’s covered in lemon juice!",
+  "parent": "The Disastrous Life of Saiki K",
+  "parentYear": "2016-2018",
+  "parentIMDB": "6354518",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "TV Tokyo",
+  "altHero": "Cyborg Cider-Man, a hero with antenna on hie helmet and big red scarf",
+  "alt1": "Lemon Man villain spraying lemon juice at a man",
+  "alt2": "two people in the city",
+  "alt3": "Cyborg Cider-Man punching Lemon Man and juice is spraying everywhere",
+  "alt4": "Cyborg Cider-Man and Lemon Man in what looks like an advertisement for beverages",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "tv superheroes"
+  ]
+}
