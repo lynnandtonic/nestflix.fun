@@ -1,0 +1,26 @@
+{
+  "slug": "space-grizzlies",
+  "title": "Space Grizzlies",
+  "description": "Major Ursa and Princess Gemma travel the galaxy to face Sleezo, mastermind of space.",
+  "parent": "The Berenstain Bears",
+  "parentYear": "2003-2004",
+  "parentIMDB": "34475386",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "sci-fi"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "Sleezo, a laughing villain bear",
+  "alt1": "spaceship flying through space",
+  "alt2": "Major Ursa, wearing a blue spacesuit",
+  "alt3": "Princess Gemma, wearing a pink and purple spacesuit",
+  "alt4": "Sleezo",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ]
+}
