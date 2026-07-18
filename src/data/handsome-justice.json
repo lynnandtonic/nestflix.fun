@@ -1,0 +1,32 @@
+{
+  "slug": "handsome-justice",
+  "title": "Handsome Justice",
+  "description": "Clint Handsome is a top defense attorney, using his charm in the courtroom to win cases and hearts.",
+  "quote": "And, counselor… you’re out of order.",
+  "parent": "The Christmas House",
+  "parentYear": "2020",
+  "parentIMDB": "12950902",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Mike Mitchell"
+  ],
+  "labels": [
+    "crime drama",
+    "courtroom"
+  ],
+  "credit": "Hallmark Channel",
+  "altHero": "Mike Mitchell as Clint Handsome",
+  "alt1": "Clint Handsome addresses the jury",
+  "alt2": "the judge",
+  "alt3": "the jury clapping",
+  "alt4": "Clint Handsome speaking with his grateful client",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
