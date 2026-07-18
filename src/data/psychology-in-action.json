@@ -1,0 +1,31 @@
+{
+  "slug": "psychology-in-action",
+  "title": "Psychology in Action",
+  "description": "Dr. Robert Hartley discusses diagnosis, research, and practice with a panel of expert psychologists. ",
+  "quote": "What friction? I don’t know what you’re talking about. My father is a beautiful human being. I love my father.",
+  "parent": "The Bob Newhart Show",
+  "parentYear": "1972-1978",
+  "parentIMDB": "0068049",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Robert Hartley"
+  ],
+  "studio": "W.T.T.W.",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "CBS",
+  "altHero": "Dr. Robert Hartley, psychologist",
+  "alt1": "Hartley in a chair circle with five guests",
+  "alt2": "two women: one brunette and an older one knitting",
+  "alt3": "Hartley speaks with a man with glasses",
+  "alt4": "another male guest looks at the camera",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows"
+  ]
+}
