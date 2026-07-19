@@ -1,0 +1,28 @@
+{
+  "slug": "texas-chainsaw-massacre-unsolved",
+  "title": "Texas Chainsaw Massacre: Unsolved",
+  "description": "In the summer of 1973, a few miles outside of Austin, Texas, five youths were attacked in a grisly and gruesome fashion by an unidentified madman. Go on a journey into one of Texas’s most famous unsolved murders.",
+  "quote": "There’s an image in my mind that’ll never go away.",
+  "parent": "Texas Chainsaw Massacre",
+  "parentYear": "2022",
+  "parentIMDB": "11755740",
+  "rating": "R",
+  "runtime": "1h",
+  "labels": [
+    "documentary",
+    "true crime"
+  ],
+  "credit": "Legendary Pictures",
+  "altHero": "newspaper story about the murders with a photo of a house",
+  "alt1": "an old photograph of the young friends",
+  "alt2": "body bags",
+  "alt3": "diagram of a woman with red and black marker annotations",
+  "alt4": "survivor Sally Hardesty, now an old woman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries"
+  ]
+}
