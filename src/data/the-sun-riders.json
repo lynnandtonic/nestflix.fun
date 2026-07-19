@@ -1,0 +1,30 @@
+{
+  "slug": "the-sun-riders",
+  "title": "The Sun Riders",
+  "description": "Super Quasar, Aurora Six, and Johnny Sunspot are the Sun Riders and use their sun powers to take down super villains.",
+  "quote": "Sun gun, dazzle stun!",
+  "parent": "Super Robot Monkey Team Hyperforce Go!",
+  "parentYear": "2004-2006",
+  "parentIMDB": "0423746",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "The Sun Riders in their orange and white costumes atop a clif",
+  "alt1": "Aurora Six shooting a laser gun",
+  "alt2": "Super Quasar",
+  "alt3": "Johnny Sunspot shooting a black hole out of his hands",
+  "alt4": "their team-up robot hitting a monster with a huge hammer",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "super team-ups"
+  ]
+}
