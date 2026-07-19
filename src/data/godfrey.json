@@ -1,0 +1,25 @@
+{
+  "slug": "godfrey",
+  "title": "Godfrey!",
+  "description": "Gordon Godfrey hosts his own talk show featuring political commentary, news, and discussions with prominent guests in Metropolis.",
+  "parent": "Superman & Lois",
+  "parentYear": "2021-2024",
+  "parentIMDB": "11192306",
+  "rating": "TV-14",
+  "runtime": "7 seasons",
+  "starring": [
+    "Gordon Godfrey"
+  ],
+  "labels": [
+    "talk show",
+    "politics"
+  ],
+  "credit": "DC Entertainment",
+  "altHero": "Gordon Godfrey",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "political talk shows"
+  ]
+}
