@@ -1,0 +1,27 @@
+{
+  "slug": "the-adventures-of-mighty-plumber",
+  "title": "The Adventures of Mighty Plumber",
+  "description": "Mighty Plumber to the rescue! Faster than a speeding plunger. More powerful than a pipe wrench! Able to snag disgusting drain clogs with a flick of the wrist.",
+  "quote": "Help me, Mighty Plumber, please!",
+  "parent": "The Adventures of Super Mario Bros. 3.",
+  "parentYear": "1990",
+  "parentIMDB": "0098762",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "action"
+  ],
+  "credit": "NBC",
+  "altHero": "Mighty Plumber, a man with a fedora, swinging a plunger",
+  "alt1": "a woman flailing in a flooded kitchen",
+  "alt2": "woman screaming as a giant sewage monster stands behind her",
+  "alt3": "Mighty Plumber swinging through a kitchen",
+  "alt4": "Mighty Plumber standing on the giant sewage monster that is tied up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv"
+  ]
+}
