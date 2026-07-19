@@ -1,0 +1,22 @@
+{
+  "slug": "wicked-scary",
+  "title": "Wicked Scary",
+  "description": "A hungry monster prowls at night. The infamous, remastered director’s cut that many believe to be cursed. Watch at your own risk.",
+  "parent": "Teen Titans",
+  "parentYear": "2003-2006",
+  "parentIMDB": "0343314",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "woman is frightened in the shadow of a hooded figure with four tentacles",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
