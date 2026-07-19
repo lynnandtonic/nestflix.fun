@@ -1,0 +1,23 @@
+{
+  "slug": "white-snow-and-the-six-elves",
+  "title": "White Snow and the Six Elves",
+  "description": "White Snow escapes her horrible family situation and befriends six elves in a woodsy cottage.",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "parentIMDB": "14596212",
+  "rating": "G",
+  "runtime": "1h 23m",
+  "studio": "Elmore Studios",
+  "labels": [
+    "family",
+    "animation"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a blonde Disney-esque woman is about to take a bite of a pear",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "family films"
+  ]
+}
