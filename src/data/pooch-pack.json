@@ -1,0 +1,27 @@
+{
+  "slug": "pooch-pack",
+  "title": "Pooch Pack",
+  "description": "The Pooch Pack is ready to serve when you need a hand, always promoting values of friendship and teamwork.",
+  "quote": "Pooches, let’s activate some mooches!",
+  "parent": "Super Team Canada",
+  "parentYear": "2025-Present",
+  "parentIMDB": "31131214",
+  "rating": "TV-Y",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Atomic Cartoons",
+  "altHero": "The Pooch Pack, four dogs using various modes of transport, with a kid on an ATV",
+  "alt1": "dog in a spacesuit by a woman whose cat is stuck up a tree",
+  "alt2": "a concerned cat in a tree",
+  "alt3": "the young boy wearing a helmet and standing by a ladder",
+  "alt4": "The Pooch Pack",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
