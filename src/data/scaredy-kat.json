@@ -1,0 +1,27 @@
+{
+  "slug": "scaredy-kat",
+  "title": "Scaredy-Kat",
+  "description": "Everything is scary when you’re Scaredy-Kat and always getting into spooky situations!",
+  "parent": "SWAT Kats: The Radical Squadron",
+  "parentYear": "1993-1995",
+  "parentIMDB": "0126173",
+  "rating": "TV-PG",
+  "runtime": "7 seasons",
+  "labels": [
+    "kids",
+    "comedy"
+  ],
+  "credit": "Hanna-Barbera",
+  "altHero": "Scaredy-Kat, an orange cat, screaming with his eyes bulging and tongue sticking out",
+  "alt1": "Scaredy-Kat screaming as he holds a lit bomb",
+  "alt2": "Scaredy-Kat strapped to an exam table",
+  "alt3": "Scaredy-Kat opening a door and a huge ghost is on the other side",
+  "alt4": "Scaredy-Kat opening a coffin and screaming, his brain jumping out of his head",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
