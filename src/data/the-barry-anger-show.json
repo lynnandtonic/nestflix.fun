@@ -1,0 +1,30 @@
+{
+  "slug": "the-barry-anger-show",
+  "title": "The Barry Anger Show",
+  "description": "Barry Anger is angry! And yet he’s still talking with special guests from all walks of life.",
+  "quote": "You stupid people with no lives are watching The Barry Anger Show!",
+  "parent": "Teacher’s Pet",
+  "parentYear": "2004",
+  "parentIMDB": "28362647",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": [
+    "Barry Anger"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Walt Disney Television Animation",
+  "altHero": "Barry Anger, an angry talk show host with glasses",
+  "alt1": "Barry snarling at the camera",
+  "alt2": "scientist Dr. Ivan Krank",
+  "alt3": "Barry atop a stage light",
+  "alt4": "dog catcher",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
