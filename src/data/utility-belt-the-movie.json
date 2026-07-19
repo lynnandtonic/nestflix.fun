@@ -1,0 +1,24 @@
+{
+  "slug": "utility-belt-the-movie",
+  "title": "Utility Belt The Movie",
+  "description": "The story of Batman’s greatest ally and best friend in the whole wide world.",
+  "quote": "You put things in it.",
+  "parent": "Teen Titans Go! To The Movies",
+  "parentYear": "2018",
+  "parentIMDB": "7424200",
+  "rating": "PG",
+  "runtime": "1h 21m",
+  "studio": "DC",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Batman putting a wallet into a little compartment on his utility belt",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes"
+  ]
+}
