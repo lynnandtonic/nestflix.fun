@@ -1,0 +1,25 @@
+{
+  "slug": "the-ben-and-stumpy-show",
+  "title": "The Ben and Stumpy Show",
+  "description": "The surprise comedy hit about best friends Ben and Stumpy whose antics will keep you laughing all week.",
+  "quote": "Duhhh! Barf!",
+  "parent": "The Ren & Stimpy Show",
+  "parentYear": "1991-1996",
+  "parentIMDB": "0101178",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "creator": "Haggis MacHaggis",
+  "studio": "Big Time Studios",
+  "labels": [
+    "comedy",
+    "puppets"
+  ],
+  "credit": "ViacomCBS Domestic Media",
+  "altHero": "hand puppet versions of Ren and Stimpy",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ]
+}
