@@ -1,0 +1,31 @@
+{
+  "slug": "heads-youre-dead",
+  "title": "Heads, You’re Dead!",
+  "description": "A provocative horror drama that forces you to reckon with your own assumptions.",
+  "quote": "Heads, I win. Tails, you’re dead!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "R",
+  "runtime": "1h 36m",
+  "director": [
+    "Shank Nutkin"
+  ],
+  "labels": [
+    "horror",
+    "drama"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "escaped convict with sharp teeth laughing as a coin flips in the air",
+  "alt1": "convict stands near a toll booth in the desert, a man’s face peeking out",
+  "alt2": "man crying and crouched inside the toll booth",
+  "alt3": "coin flipping in the air",
+  "alt4": "a raven flies with the sun behind in the sky",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
