@@ -1,0 +1,31 @@
+{
+  "slug": "expert-or-liar",
+  "title": "Expert or Liar!",
+  "description": "Host Bert Coleman disguises himself and questions people on the street to see who’s an Expert or Liar! Answer correctly and you’re an expert! But get just one question wrong and the world will know you’re a big fat liar!",
+  "quote": "Flower expert? More like a big, dumb liar no one wants to hang out with.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": [
+    "Bert Coleman"
+  ],
+  "labels": [
+    "game show",
+    "reality"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "host Bert Coleman",
+  "alt1": "contestant Rigby is being questioned by a little old woman as a film crew emerges from the bushes",
+  "alt2": "woman is unzipping herself to reveal a man underneath",
+  "alt3": "Bert Coleman with the crew",
+  "alt4": "Bert Coleman leaning down to speak with contestant Rigby who is wearing a Liar sandwich board and has been beat up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
