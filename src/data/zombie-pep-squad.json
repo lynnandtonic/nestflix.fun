@@ -1,0 +1,28 @@
+{
+  "slug": "zombie-pep-squad",
+  "title": "Zombie Pep Squad",
+  "description": "A high school zombie tale with the world record for most stings in a movie ever. They’ve got spirit, how ’bout you?",
+  "quote": "What do you say we ditch the party and head on up to Make Out Point?",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "R",
+  "runtime": "1h 38m",
+  "labels": [
+    "horror",
+    "zombies"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "blonde cheerleader screaming in her boyfriend’s face",
+  "alt1": "cheerleader screaming as a corpse cheerleader falls out of her locker",
+  "alt2": "boyfriend smiling with vampire teeth",
+  "alt3": "group of zombie cheerleaders walking down the hallway",
+  "alt4": "cheerleader screams as two zombie cheerleaders dangle upside down and surround her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
