@@ -1,0 +1,29 @@
+{
+  "slug": "planet-music",
+  "title": "Planet Music",
+  "description": "The popular Cromulonian reality competition show.  24 hours, five planets, five songs. But in the end, there can only be one Planet Music! All participation is involuntary. Disqualified and losing planets are disintegrated by plasma ray.",
+  "quote": "Show us what you got!",
+  "parent": "Rick and Morty",
+  "parentYear": "2013-Present",
+  "parentIMDB": "2861424",
+  "rating": "Unrated",
+  "runtime": "988 seasons",
+  "labels": [
+    "reality competition",
+    "singing"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "frog-like alien band",
+  "alt1": "crinkly pink alien band",
+  "alt2": "Rick and Morty on a stage",
+  "alt3": "a planet with a big X over it",
+  "alt4": "alien band with football-shaped heads",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "reality competition shows",
+    "music competition"
+  ]
+}
