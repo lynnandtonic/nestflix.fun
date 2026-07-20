@@ -1,0 +1,29 @@
+{
+  "slug": "cake-or-fake",
+  "title": "Cake or Fake?",
+  "description": "Contestants must determine if realistic-looking objects are cake or fake. What will it be once they cut into it?",
+  "quote": "Give me the knife.",
+  "parent": "Rick and Morty",
+  "parentYear": "2013-Present",
+  "parentIMDB": "2861424",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "labels": [
+    "game show",
+    "food"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "contestant in flame shirt holds up a knife",
+  "alt1": "host stands near a guy who is strapped down to a vertical, circular wheel",
+  "alt2": "flame shirt contestant squints to get a better look",
+  "alt3": "woman helper hands the contestant a knife",
+  "alt4": "wheel man screams as flame shirt guy approaches him with the knife",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking",
+    "game shows with a bit of danger!"
+  ]
+}
