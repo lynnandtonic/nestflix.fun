@@ -1,0 +1,31 @@
+{
+  "slug": "jungle-chef",
+  "title": "Jungle Chef",
+  "description": "The time has come to bring together the best of the best in jungle cuisine. Who will win the battle and become King of the Jungle Chefs?",
+  "parent": "Pink Panther and Pals",
+  "parentYear": "2010",
+  "parentIMDB": "1058776",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Mockingbird Mike"
+  ],
+  "labels": [
+    "reality competition",
+    "food",
+    "cooking"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "dramatic lighting of a crocodile chef contestant, surrounded by spotlights and smoke",
+  "alt1": "Jungle Chef set",
+  "alt2": "crocodile chef pouring sauces into a bowl",
+  "alt3": "ant chef next to some hot sauce",
+  "alt4": "host Mockingbird Mike flying next to the cooking time clock",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
