@@ -1,0 +1,30 @@
+{
+  "slug": "i-like-pink",
+  "title": "I Like Pink",
+  "description": "The love story of Poopy and Explodey, who must escape the grasp of Peg Pelvis Pete.",
+  "quote": "There’s nothing wrong here in Montana, Poopy. Do you want to pick my nose, Poopy?",
+  "parent": "The Ren & Stimpy Show",
+  "parentYear": "1991-1996",
+  "parentIMDB": "0101178",
+  "rating": "Unrated",
+  "runtime": "21m",
+  "producer": "Ren Höek",
+  "labels": [
+    "drama",
+    "amateur",
+    "animation"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "hand-drawn animation of dogs Poopy and Explodey riding in an airplane",
+  "alt1": "Poopy",
+  "alt2": "Poopy and Explodey under the ocean",
+  "alt3": "Peg Pelvis Pete running down the street",
+  "alt4": "Poopy and Explodey in their home",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
