@@ -1,0 +1,32 @@
+{
+  "slug": "painting-is-great-with-benny-harris",
+  "title": "Painting is Great with Benny Harris",
+  "description": "Learn to paint with artist Benny Harris and his loyal hedgehog, Penelope.",
+  "quote": "Sometimes, we just gotta take our accidents and make them a little more chipper. Cheer up there, little moustache! Now that’s a pleasant little mustache we just painted.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Benny Harris"
+  ],
+  "labels": [
+    "reality",
+    "art",
+    "diy"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Benny Harris, bearded and curly haired artist, holding a palette next to a painting of a guy with a moustache",
+  "alt1": "Benny with hedgehog Penelope on his shoulder next to a blank canvas",
+  "alt2": "closeup of Benny",
+  "alt3": "closeup of a paintbrush painting the moustache",
+  "alt4": "Benny looking at a camera",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home, diy, and art"
+  ]
+}
