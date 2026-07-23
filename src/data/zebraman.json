@@ -1,0 +1,30 @@
+{
+  "slug": "zebraman",
+  "title": "Zebraman",
+  "description": "In a 2010 decadent Tokyo, aliens are invading and a striped hero emerges to protect the earth.",
+  "quote": "Fly, Zebraman!",
+  "parent": "Zebraman",
+  "parentYear": "2004",
+  "parentIMDB": "0388556",
+  "rating": "TV-G",
+  "runtime": "7 episodes",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Toei Company",
+  "altHero": "Zebraman, a superhero in a white and black striped costume, holding his gloved hand up in the air",
+  "alt1": "Zebraman rides a motorcycle up a hill",
+  "alt2": "a group of alien henchmen",
+  "alt3": "alien crab monster",
+  "alt4": "Yuzuru Jyumonji, Zebraman’s human identity",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv",
+    "tv superheroes",
+    "new on nestflix"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "super-mega-awesome-ultra-guy",
+  "title": "Super Mega Awesome Ultra Guy",
+  "description": "He can fly in the sky. He’s Super Mega Awesome Ultra Guy! My oh my, he flies so high.",
+  "parent": "Ask the Storybots",
+  "parentYear": "2016-2019",
+  "parentIMDB": "5846856",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "superheroes"
+  ],
+  "credit": "Netflix",
+  "altHero": "bearded man with a backwards baseball cap and a cape flies through the sky",
+  "alt1": "flying again, but from a side view",
+  "alt2": "kids in a schoolyard point up at him in the sky",
+  "alt3": "Super Mega Awesome Ultra Guy flies fast toward a mean yeti",
+  "alt4": "running through a city street",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "tv superheroes",
+    "new on nestflix"
+  ]
+}
