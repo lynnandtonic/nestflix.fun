@@ -1,0 +1,41 @@
+{
+  "slug": "god-does-real",
+  "title": "God Does Real",
+  "description": "The story of televangelist Dilterton “The Boy Who Saw Heaven” Timble’s custody case and the godless lawyer, Lincoln Gumb.",
+  "quote": "In heaven I played paintball with Princess Diana.",
+  "parent": "Strip Law",
+  "parentYear": "2026",
+  "parentIMDB": "37937030",
+  "rating": "PG",
+  "runtime": "1h 45m",
+  "starring": [
+    "Tom Hilderberger",
+    "Henley Farmargland",
+    "Kev Marucchio",
+    "Thon Aberdeen",
+    "Glem Blorchman"
+  ],
+  "director": [
+    "Culford Crawlen"
+  ],
+  "studio": "More God Movies",
+  "labels": [
+    "drama",
+    "religion"
+  ],
+  "credit": "Netflix",
+  "altHero": "actor playing Dilterton Timble, bathed in light and amongst the clouds",
+  "alt1": "Dilterton’s lawyer",
+  "alt2": "Lincoln Gumb snorting cocaine off his desk and screaming",
+  "alt3": "Dilterton with glowing eyes and outstretched arms",
+  "alt4": "Lincoln Gumb frightened by a crucifix",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "religious programming",
+    "new on nestflix"
+  ]
+}
