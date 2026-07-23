@@ -1,0 +1,27 @@
+{
+  "slug": "unicorn-commandos",
+  "title": "Unicorn Commandos",
+  "description": "Gentle loving unicorns take a drink at a magic stream and are transformed into super soldiers. Now, they protect the land from their battle corral.",
+  "parent": "Saving Me",
+  "parentYear": "2022-Present",
+  "parentIMDB": "22441388",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "BYUtv",
+  "altHero": "five colorful unicorns with body armor",
+  "alt1": "Bronco-loco",
+  "alt2": "Sergeant Stampede’s horn glittering and glowing",
+  "alt3": "a unicorn horn pointed at an explosion in the sky",
+  "alt4": "Neighpalm in front of a huge explosion cloud",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
