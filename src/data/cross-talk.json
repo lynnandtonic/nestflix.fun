@@ -1,0 +1,31 @@
+{
+  "slug": "cross-talk",
+  "title": "Cross Talk",
+  "description": "Every Saturday, Ted Shaw discusses important issues with guests representing both the conservative right and the liberal left.",
+  "quote": "School uniforms, yes or no?",
+  "parent": "Smart Guy",
+  "parentYear": "1997-1999",
+  "parentIMDB": "0118466",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Ted Shaw"
+  ],
+  "labels": [
+    "talk show",
+    "politics"
+  ],
+  "credit": "Walt Disney Television",
+  "altHero": "host Ted Shaw",
+  "alt1": "Ted Shaw flanked by four guests",
+  "alt2": "commentator Pete Gilroy",
+  "alt3": "commentator Sandy Banks-Hastings",
+  "alt4": "child commentator T.J. Henderson",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "political talk shows"
+  ]
+}
