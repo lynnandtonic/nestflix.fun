@@ -1,0 +1,29 @@
+{
+  "slug": "a-talk-in-the-clouds",
+  "title": "A Talk in the Clouds With Portia Jones",
+  "description": "Host Portia Jones speaks candidly with guests including inspirational folks, teens in trouble, and your favorite celebrities and heroes.",
+  "parent": "SuperMansion",
+  "parentYear": "2015-2019",
+  "parentIMDB": "4843640",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Portia Jones"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Crackle",
+  "altHero": "host Portia Jones",
+  "alt1": "Portia Jones on her talk show set",
+  "alt2": "Portia hugging a guest",
+  "alt3": "Portia with her hand up to her ear",
+  "alt4": "Portia wearing a superhero getup",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
