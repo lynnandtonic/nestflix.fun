@@ -1,0 +1,32 @@
+{
+  "slug": "sliced",
+  "title": "Sliced",
+  "description": "A mystery ingredient. Four chefs will compete. Only one will win. The rest will be… sliced.",
+  "quote": "It will be, what do you call it? Yummy!",
+  "parent": "The Powerpuff Girls",
+  "parentYear": "2016-2019",
+  "parentIMDB": "4718304",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Malty Brown"
+  ],
+  "labels": [
+    "reality competition",
+    "food",
+    "cooking"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "host Malty Brown",
+  "alt1": "a pile of hot dogs",
+  "alt2": "stopwatch with a butcher knife as a minute hand",
+  "alt3": "Scientist with lab equipment and hot dogs",
+  "alt4": "three judges with forks up about to try a dish",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
