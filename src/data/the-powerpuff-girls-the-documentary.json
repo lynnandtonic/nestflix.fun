@@ -1,0 +1,31 @@
+{
+  "slug": "the-powerpuff-girls-the-documentary",
+  "title": "The Powerpuff Girls: A Documentary",
+  "description": "You might know them as those three cute little girls, saving the day before bedtime. Well, for Brian Larsen, that’s not enough. He wants to know what makes ’em tick. ",
+  "quote": "Sugar… spice… and everything nice.",
+  "parent": "The Powerpuff Girls",
+  "parentYear": "1998-2005",
+  "parentIMDB": "0175058",
+  "rating": "PG",
+  "runtime": "1h 21m",
+  "director": [
+    "Brian Larsen"
+  ],
+  "labels": [
+    "documentary",
+    "superheroes"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "faraway shot of the blue, pink, and green trails of the Powerpuff Girls as they fly away from a smoking city",
+  "alt1": "filmmaker Brian Larsen",
+  "alt2": "Townsville on a map with lots of red dots on and around it",
+  "alt3": "newspaper with headline “PPGS save the day”",
+  "alt4": "Carl Jusscarl, domestic waste dispoal technician",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries"
+  ]
+}
