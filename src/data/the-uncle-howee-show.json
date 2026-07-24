@@ -1,0 +1,29 @@
+{
+  "slug": "the-uncle-howee-show",
+  "title": "The Uncle Howee Show",
+  "description": "Uncle Howee and Loomis the rabbit are your friends! Join them for a song on the piano and antics that will suck you in.",
+  "quote": "Wowee zowee!",
+  "parent": "R. L. Stine’s The Haunting Hour: The Series",
+  "parentYear": "2010-2014",
+  "parentIMDB": "1765510",
+  "rating": "TV-Y",
+  "runtime": "1 season",
+  "labels": [
+    "kids",
+    "variety"
+  ],
+  "credit": "The Hatchery",
+  "altHero": "Uncle Howee, man with glasses, plaid jacket, and red bowtie, at the piano with his puppet rabbit friend Loomis",
+  "alt1": "Uncle Howee and Loomis",
+  "alt2": "Uncle Howee smashing a pie in another man’s face",
+  "alt3": "Loomis with a carrot",
+  "alt4": "Uncle Howee with a life-sized teen boy marionette",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
