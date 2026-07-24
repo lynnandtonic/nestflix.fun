@@ -1,0 +1,28 @@
+{
+  "slug": "blade-games",
+  "title": "Blade Games",
+  "description": "This is America’s 8th fastest growning sport. You won’t believe how cool Blade Games are! Blade experts like Kal “The Chopman” Smith and Tank le’Slice compete in chopping, slicing, and even dicing.",
+  "parent": "Regular Show: The Lost Tapes",
+  "parentYear": "2026-Present",
+  "parentIMDB": "32604054",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality competition",
+    "sports"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Kal “The Chopman” Smith slicing through a line of plastic water bottles",
+  "alt1": "a butcher knife slicing through a stuffed lamb",
+  "alt2": "a knife slicing through a sheet of paper as someone watches closely",
+  "alt3": "Tank le’Slice, knife in hand, approaching an apple on a pedestal",
+  "alt4": "Kal “The Chopman” Smith slicing a toilet paper roll as other contestants watch",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "sports films and series"
+  ]
+}
