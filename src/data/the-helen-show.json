@@ -1,0 +1,27 @@
+{
+  "slug": "the-helen-show",
+  "title": "The Helen Show",
+  "description": "Live from Miami, Helen interviews interesting people and your favorite celebrities. Get on your feet, it’s dancing time.",
+  "quote": "Now let’s have some fun!",
+  "parent": "Austin & Ally",
+  "parentYear": "2011-2016",
+  "parentIMDB": "1830491",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "Helen, a blonde woman, sitting in a chair on set and chatting",
+  "alt1": "Helen leaning in and smiling at a young male guest",
+  "alt2": "Helen dancing while Austin Moon sits awkwardly",
+  "alt3": "Helen dancing",
+  "alt4": "Helen dancing awkwardly behind Austin Moon and Ally Dawson sitting on a couch",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
