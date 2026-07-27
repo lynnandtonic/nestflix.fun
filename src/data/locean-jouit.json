@@ -1,0 +1,37 @@
+{
+  "slug": "locean-jouit",
+  "title": "L’Océan Jouit",
+  "description": "A very unique, very courageous movie about our species. Not what we are, but what we leave behind. The forest is kind of like our mother and the ocean, our dad.",
+  "quote": "You awoke the beast in me.",
+  "parent": "Call My Agent!",
+  "parentYear": "2015-2020",
+  "parentIMDB": "4277922",
+  "rating": "R",
+  "runtime": "1h 28m",
+  "starring": [
+    "Julien Doré",
+    "Sofia LePrince"
+  ],
+  "director": [
+    "Julien Doré"
+  ],
+  "labels": [
+    "musical",
+    "drama",
+    "adult"
+  ],
+  "credit": "France Télévisions",
+  "altHero": "nude man and woman, who are covered by plants and animal parts including octopus tentacles",
+  "alt1": "man approaches woman in a foggy forest, she is holding a baby goat",
+  "alt2": "man prays by her side",
+  "alt3": "the couple is singing",
+  "alt4": "the couple kissing as pink mist spreads behind them",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "adults 18+"
+  ]
+}
