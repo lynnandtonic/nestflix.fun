@@ -1,0 +1,31 @@
+{
+  "slug": "the-eden-late-show",
+  "title": "The Eden Late Show",
+  "description": "For the night owls of Eden, Rayman talks current events and happenings with special guests, and hosts the popular annual Retribution Day special.",
+  "parent": "Captain Laserhawk: A Blood Dragon Remix",
+  "parentYear": "2023",
+  "parentIMDB": "14837566",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "starring": [
+    "Rayman"
+  ],
+  "studio": "ETV",
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "Netflix",
+  "altHero": "Rayman in a bowtie and on set",
+  "alt1": "Rayman saying hi to the audience",
+  "alt2": "Rayman holding a microphone",
+  "alt3": "Rayman with a frog guy in the Retribution Machine",
+  "alt4": "Rayman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows",
+    "new on nestflix"
+  ]
+}
