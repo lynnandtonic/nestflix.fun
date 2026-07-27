@@ -1,0 +1,31 @@
+{
+  "slug": "the-pilot-and-the-mermaid",
+  "title": "The Pilot and the Mermaid",
+  "description": "Based on the book <em>The Mermaid and the Pilot</em>. A Navy fighter pilot crash lands on a tropical beach and falls in love with a beautiful mermaid.",
+  "quote": "Oh, Pilot. I wish I could stay, but I can only breathe oxygen for twenty minutes at a time.",
+  "parent": "Austin & Ally",
+  "parentYear": "2011-2016",
+  "parentIMDB": "1830491",
+  "rating": "PG-13",
+  "runtime": "1h 31m",
+  "starring": [
+    "Austin Moon",
+    "Brandy Braxton"
+  ],
+  "director": [
+    "Spike Stevens"
+  ],
+  "labels": [
+    "drama",
+    "romance",
+    "fantasy"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "Austin Moon as a pilot, holding Brandy Baxter who is a mermaid",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas"
+  ]
+}
