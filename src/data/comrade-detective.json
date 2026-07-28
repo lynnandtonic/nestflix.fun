@@ -1,0 +1,30 @@
+{
+  "slug": "comrade-detective",
+  "title": "Comrade Detective",
+  "seo": "Tovarasul Militian",
+  "description": "Lost Romanian series recently remastered and dubbed, originally created to celebrate and promote Communist ideals. Troubled police detective Gregor Anghel’s partner is murdered. He and his new partner investigate, uncovering a sinister, capitalist plot by the West.",
+  "quote": "You don’t become a good Communist by going to meetings. You do it on the streets. You do it with your fists.",
+  "parent": "Comrade Detective",
+  "parentYear": "2017",
+  "parentIMDB": "5834198",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "studio": "Romanian Film Preservation Society",
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "Amazon Prime Video",
+  "altHero": "detective Gregor Anghel walking down the street, wearing sunglasses and a leather jacket",
+  "alt1": "Gregor in the car on a stakeout with his partner",
+  "alt2": "binocular view of a man in a mask holding his partner hostage",
+  "alt3": "two detectives with trophies clap at Gregor and his new partner while they are looking at a Monopoly board",
+  "alt4": "beat-up man in a hospital bed raising his hands during an interview",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ]
+}
