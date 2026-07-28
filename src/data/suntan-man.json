@@ -1,0 +1,26 @@
+{
+  "slug": "suntan-man",
+  "title": "Suntan Man",
+  "description": "When your summer vacation turns to mayhem, Suntan Man will provide the protection.",
+  "quote": "I’m getting too gold for this.",
+  "parent": "Foster’s Home for Imaginary Friends",
+  "parentYear": "2004-2009",
+  "parentIMDB": "0419326",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "starring": [
+    "Rod Tango"
+  ],
+  "labels": [
+    "action",
+    "comedy"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Rod Tango as Suntan Man, a buff dude in swim trunks on the beach, about to fight two ninjas",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
