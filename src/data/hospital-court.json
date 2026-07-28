@@ -1,0 +1,30 @@
+{
+  "slug": "hospital-court",
+  "title": "Hospital Court",
+  "description": "Dr. Jennifer Braun is an orthopedist attorney who spent twenty years in medical school, law school, and medical law school to become the best in her field.",
+  "quote": "I don’t need legs, I have laws. And if you break those, you’re going to jail.",
+  "parent": "Children Ruin Everything",
+  "parentYear": "2022-2025",
+  "parentIMDB": "10738442",
+  "rating": "TV-14",
+  "runtime": "6 seasons",
+  "labels": [
+    "medical drama",
+    "crime drama"
+  ],
+  "credit": "CTV",
+  "altHero": "Dr. Jennifer Braun and Dr. Rodondo wearing scrubs in a courtroom",
+  "alt1": "Dr. Braun",
+  "alt2": "Dr. Rodondo looking shocked",
+  "alt3": "Dr. Rodondo speaks with Dr. Braun",
+  "alt4": "Dr. Braun yelling",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "medical dramas",
+    "new on nestflix"
+  ]
+}
