@@ -1,0 +1,30 @@
+{
+  "slug": "heavens-vice",
+  "title": "Heaven’s Vice",
+  "description": "Levi and Gideon are brothers. And angels. But they’re not in heaven anymore.",
+  "quote": "After everything I’ve been through… being sent to Purgatory by my evil twin, getting eaten by a kraken, giving birth to the Antichrist. Twice. I need to be with someone stable.",
+  "parent": "Charmed",
+  "parentYear": "2018-2022",
+  "parentIMDB": "6394324",
+  "rating": "TV-14",
+  "runtime": "10 seasons",
+  "labels": [
+    "horror",
+    "teens",
+    "fantasy"
+  ],
+  "credit": "CBS Studios",
+  "altHero": "Levi and Gideon with their angel wings",
+  "alt1": "Levi and Gideon ready to fight, Angelica looks scared",
+  "alt2": "demon with a mohawk",
+  "alt3": "Gideon leaving as Levi hugs Angelica",
+  "alt4": "Gideon looking contemplative, with Levi and Angelica behing him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens",
+    "new on nestflix"
+  ]
+}
