@@ -1,0 +1,28 @@
+{
+  "slug": "the-curse-of-the-cannibal-ghost-of-the-house-on-horror-hill",
+  "title": "The Curse of the Cannibal Ghost of the Haunted House on Horror Hill",
+  "description": "A creature feature about a cannibal ghost. He’ll scare you to death… and then eat your ghost!",
+  "quote": "What is that up ahead? That haunted house on that horrible looking hill!",
+  "parent": "Foster’s Home for Imaginary Friends",
+  "parentYear": "2004-2009",
+  "parentIMDB": "0419326",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror",
+    "paranormal"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "car approaching a hill with a spooky looking house",
+  "alt1": "man and woman driving in the car",
+  "alt2": "woman holds onto the man as a scary old farmer holds a pitchfork",
+  "alt3": "creepy farmer holds up long, spindly fingers",
+  "alt4": "ghost swirling around the house",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
