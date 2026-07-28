@@ -1,0 +1,30 @@
+{
+  "slug": "cake-idiots",
+  "title": "Cake Idiots",
+  "description": "Amateur bakers must bake and decorate a cake for extremely harsh critics.",
+  "quote": "You may be a professor of archaelogy at the University of Alberta, but you’re also a cake idiot.",
+  "parent": "Children Ruin Everything",
+  "parentYear": "2022-2025",
+  "parentIMDB": "10738442",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality competition",
+    "food",
+    "baking"
+  ],
+  "credit": "CTV",
+  "altHero": "host looking concerned toward a baker contestant",
+  "alt1": "host talking with a contestant",
+  "alt2": "host smiling and pointing",
+  "alt3": "host talking with a baker piping frosting on a cake",
+  "alt4": "cake that looks like a mound of mush",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking",
+    "new on nestflix"
+  ]
+}
