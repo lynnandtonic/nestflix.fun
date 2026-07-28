@@ -1,0 +1,31 @@
+{
+  "slug": "alien-visitation",
+  "title": "Alien Visitation",
+  "description": "Join R. Wilson Monroe as he pierces the veil of government secrecy, showing you the first extraterrestrials known to have visited this planet. See testimony from experts and first-hand footage shot by Commander John Crichton’s nephew.",
+  "parent": "Farscape",
+  "parentYear": "1999-2003",
+  "parentIMDB": "0187636",
+  "rating": "TV-14",
+  "runtime": "1h 23m",
+  "starring": [
+    "R. Wilson Monroe"
+  ],
+  "labels": [
+    "documentary",
+    "aliens"
+  ],
+  "credit": "Sci-Fi Channel",
+  "altHero": "host R. Wilson Monroe",
+  "alt1": "Officer Aeryn Sun giving an interview",
+  "alt2": "John Crichton’s nephew",
+  "alt3": "General Ka D'Argo",
+  "alt4": "found footage of John Crichton",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "new on nestflix"
+  ]
+}
