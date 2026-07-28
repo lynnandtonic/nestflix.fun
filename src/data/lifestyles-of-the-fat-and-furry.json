@@ -1,0 +1,28 @@
+{
+  "slug": "lifestyles-of-the-fat-and-furry",
+  "title": "Lifestyles of the Fat and Furry",
+  "description": "Traveling the globe to bring you the fabulously fantastic fantasies of famous and financially fit felines.",
+  "quote": "No cat has ever lounged more in the lap of luxury.",
+  "parent": "Garfield and Friends",
+  "parentYear": "1988-1994",
+  "parentIMDB": "0094469",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality",
+    "animals"
+  ],
+  "credit": "CBS",
+  "altHero": "host of the show: a balding human man wearing a purple shirt and white blazer",
+  "alt1": "cat on a yacht",
+  "alt2": "cat eating bon bons on a pillow",
+  "alt3": "private cat jet",
+  "alt4": "Garfield in bed holding a knife and fork, a butler is tying a napkin to his chin",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv"
+  ]
+}
