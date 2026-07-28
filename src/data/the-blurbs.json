@@ -1,0 +1,28 @@
+{
+  "slug": "the-blurbs",
+  "title": "The Blurbs",
+  "description": "Tune in as the Blurb family navigates everyday life in the suburbs.",
+  "quote": "Oops! Guess I boo booed it!",
+  "parent": "Clarence",
+  "parentYear": "2013-2018",
+  "parentIMDB": "3061050",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "dad shrugging",
+  "alt1": "dad freaking out with the family, Poe is holding a fancy headdress",
+  "alt2": "Boo Boo cheering",
+  "alt3": "Loretta looking displeased as someone waves in the window",
+  "alt4": "Poe and her boyfriend on the couch looking startled by the fish on the wall",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ]
+}
