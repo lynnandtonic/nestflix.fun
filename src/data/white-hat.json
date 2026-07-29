@@ -1,0 +1,31 @@
+{
+  "slug": "white-hat",
+  "title": "White Hat",
+  "description": "Based on the popular comic book series. Superhero White Hat must protect Cityville from The Green Beret and protect his secret identity.",
+  "quote": "Either you have an innocent heart murmur or you’re in love.",
+  "parent": "Gortimer Gibbon’s Life on Normal Street",
+  "parentYear": "2014-2016",
+  "parentIMDB": "3496764",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "Amazon Prime Video",
+  "altHero": "White Hat, a man in an all-white suit and black mask and white hat",
+  "alt1": "Finneas testing his ultrasonic ear with Margaret",
+  "alt2": "White Hat running down a city street",
+  "alt3": "White Hat using his ultrasonic ear",
+  "alt4": "The Green Beret and henchmen unpacking a bunch of money",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action tv",
+    "tv superheroes",
+    "new on nestflix"
+  ]
+}
