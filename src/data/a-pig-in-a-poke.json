@@ -1,0 +1,33 @@
+{
+  "slug": "a-pig-in-a-poke",
+  "title": "A Pig in a Poke",
+  "description": "On <em>A Pig in a Poke</em>, it pays to be a glutton. Families test their knowledge and compete for big prize packages. Oink! Oink! Oink!",
+  "quote": "Oink, oink. We’ll be pigs.",
+  "parent": "National Lampoon’s European Vacation",
+  "parentYear": "1985",
+  "parentIMDB": "0089670",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Kent Winkdale"
+  ],
+  "labels": [
+    "game show",
+    "family",
+    "trivia"
+  ],
+  "credit": "Warner Bros.",
+  "altHero": "host Kent Winkdale",
+  "alt1": "The Griswold family wearing their pig costumes",
+  "alt2": "Clark Griswold with Kent Winkdale",
+  "alt3": "prize package including house appliances and a motorcycle",
+  "alt4": "The Froeger family",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "new on nestflix"
+  ]
+}
