@@ -1,0 +1,36 @@
+{
+  "slug": "eight-ways-to-shabbat",
+  "title": "Eight Ways to Shabbat",
+  "description": "One man, one Sabbath, eight terrible targets. This hit man’s got to do what it takes to seek his revenge before the sun goes down.",
+  "quote": "L’chaim, mother fucker.",
+  "parent": "Hunters",
+  "parentYear": "2020-2023",
+  "parentIMDB": "7456722",
+  "rating": "R",
+  "runtime": "1h 46m",
+  "starring": [
+    "Lonny Flash"
+  ],
+  "director": [
+    "Kelsey Bollig"
+  ],
+  "producer": "David Weil",
+  "labels": [
+    "action",
+    "jewsploitation"
+  ],
+  "credit": "Amazon Prime Video",
+  "altHero": "Lonny Flash outside a house, holding a giant gun",
+  "alt1": "Lonny shooting a handgun",
+  "alt2": "Lonny holding a gun on a guy from outside a car window",
+  "alt3": "Lonny sitting at a dinner table lit by candles and a fire behind",
+  "alt4": "blonde woman looking concerned",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
