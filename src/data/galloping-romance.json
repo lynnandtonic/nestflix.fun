@@ -1,0 +1,38 @@
+{
+  "slug": "galloping-romance",
+  "title": "Galloping Romance",
+  "description": "Mickey Mouse stars in a comedy short that will have you rolling on the floor with laughter.",
+  "parent": "Mickey’s Gala Premier",
+  "parentYear": "1933",
+  "parentIMDB": "0024329",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "starring": [
+    "Mickey Mouse",
+    "Minnie Mouse",
+    "Pegleg Pete"
+  ],
+  "director": [
+    "Joseph M. Schenck"
+  ],
+  "studio": "United Artists",
+  "labels": [
+    "short film",
+    "comedy"
+  ],
+  "credit": "Walt Disney Productions",
+  "altHero": "Mickey riding a galloping xylophone and throwing a lasso",
+  "alt1": "Mickey playing a xylophone and Minnie playing the piano",
+  "alt2": "Pegleg Pete stealing Minnie out the window",
+  "alt3": "Pegleg Pete and Minnie riding a horse as Pete shoots a gun behind him",
+  "alt4": "Mickey riding a galloping octopus while wielding two guns",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "hollywood’s golden age",
+    "new on nestflix"
+  ]
+}
