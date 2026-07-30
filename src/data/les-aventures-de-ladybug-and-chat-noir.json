@@ -1,0 +1,31 @@
+{
+  "slug": "les-aventures-de-ladybug-and-chat-noir",
+  "title": "Les Aventures de Ladybug & Chat Noir",
+  "description": "She’s scared of cats, but powerless without this feline. Cat Noir and Ladybug: two heroes facing their destiny.",
+  "parent": "Miraculous: Tales of Ladybug & Cat Noir",
+  "parentYear": "2015-Present",
+  "parentIMDB": "2580046",
+  "rating": "PG-13",
+  "runtime": "2h 32m",
+  "director": [
+    "Thomas Astruc"
+  ],
+  "labels": [
+    "action",
+    "superheroes",
+    "animation"
+  ],
+  "credit": "ZAG Entertainment",
+  "altHero": "Cat Noir and Ladybug on the rooftops of Paris",
+  "alt1": "Cat Noir and Ladybug flying through the air from a bright yellow explosion",
+  "alt2": "Cat Noir",
+  "alt3": "Ladybug",
+  "alt4": "Cat Noir and Ladybug running across the rooftops",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes"
+  ]
+}
