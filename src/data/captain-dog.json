@@ -1,0 +1,32 @@
+{
+  "slug": "captain-dog",
+  "title": "Captain Dog",
+  "description": "You don’t need to worry if trouble is around the corner. Captain Dog always saves the day!",
+  "quote": "Did somebody holler for a hero in a collar?",
+  "parent": "Puppy Dog Pals",
+  "parentYear": "2017-2023",
+  "parentIMDB": "6688750",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes",
+    "animation"
+  ],
+  "credit": "Disney Junior",
+  "altHero": "Captain Dog, superhero dog in a spotlight on a rooftop",
+  "alt1": "a group of dogs looking scared as a large shadow looms",
+  "alt2": "giant villain dog walks amongst skyscrapers",
+  "alt3": "Captain Dog flies fast and tries to beat a train that is going to derail",
+  "alt4": "Captain Dog flying into the sky to attack an alien UFO",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action tv",
+    "tv superheroes",
+    "new on nestflix"
+  ]
+}
