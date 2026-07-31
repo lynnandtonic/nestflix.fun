@@ -1,0 +1,29 @@
+{
+  "slug": "apollo-the-super-pup",
+  "title": "Apollo the Super-Pup",
+  "description": "Apollo the Super-Pup saves the day his own super way!",
+  "parent": "Paw Patrol",
+  "parentYear": "2013-Present",
+  "parentIMDB": "3121722",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "Spin Master Entertainment",
+  "altHero": "Apollo, a grey dog superhero with cape and mask",
+  "alt1": "Apollo ready to fight a giant spider who has a cat trapped in her web",
+  "alt2": "Apollo flying off into the sky with the cat on his back",
+  "alt3": "Apollo running on some grass",
+  "alt4": "Apollo taking off while another dog rides on a skateboard",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "tv superheroes"
+  ]
+}
