@@ -1,0 +1,31 @@
+{
+  "slug": "video-countdown-live",
+  "title": "Video Countdown Live",
+  "description": "Join Jett Deely every week to count down your favorite music videos from your favorite music artists.",
+  "parent": "Austin & Ally",
+  "parentYear": "2011-2016",
+  "parentIMDB": "1830491",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "starring": [
+    "Jett Deely"
+  ],
+  "labels": [
+    "variety show",
+    "music"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "host Jett Deely",
+  "alt1": "Jett Deely with a guest",
+  "alt2": "Jett Deely with Austin Moon",
+  "alt3": "Jett Deely",
+  "alt4": "Jett Deely interviewing Austin Moon",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows",
+    "music variety"
+  ]
+}
