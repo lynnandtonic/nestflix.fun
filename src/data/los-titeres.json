@@ -1,0 +1,37 @@
+{
+  "slug": "los-titeres",
+  "title": "Los Títeres",
+  "seo": "Los Titeres",
+  "description": "<em>Los Títeres</em> recreates the world of puppets with great realism. Action, unbearable suspense, and good romance, with first-rate backdrops and unforgettable acting.",
+  "quote": "Somos títeres, nada mas.",
+  "parent": "31 Minutos",
+  "parentYear": "2003-2014",
+  "parentIMDB": "0376364",
+  "rating": "TV-Y7",
+  "runtime": "1 season",
+  "starring": [
+    "Maximiliano Ortiz",
+    "Rogelio Patraña",
+    "Celestina Reyes",
+    "Lautaro Cabrera",
+    "Nancy Cachete"
+  ],
+  "labels": [
+    "kids",
+    "puppets"
+  ],
+  "credit": "TVN",
+  "altHero": "puppets The King and Princess Cachirula",
+  "alt1": "the whole team of puppets",
+  "alt2": "Prince Calugo and Princess Cachirula kissing",
+  "alt3": "The Granuja Witch and the Captain",
+  "alt4": "Hipo",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
