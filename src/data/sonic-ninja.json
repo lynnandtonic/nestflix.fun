@@ -1,0 +1,28 @@
+{
+  "slug": "sonic-ninja",
+  "title": "Sonic Ninja",
+  "description": "In a dark near future, a solitary hero must save the world amidst his own worries.",
+  "parent": "Assassination Classroom",
+  "parentYear": "2013-2016",
+  "parentIMDB": "3837246",
+  "rating": "R",
+  "runtime": "1h 35m",
+  "labels": [
+    "action"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Sonic Ninja, a futuristic ninja against a grimy city",
+  "alt1": "Sonic Ninja jumps from a building top",
+  "alt2": "devil",
+  "alt3": "Sonic Ninja against the moon",
+  "alt4": "woman holding a gun looks shocked",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ],
+  "logoWidth": "400"
+}
