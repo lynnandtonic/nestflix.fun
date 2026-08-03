@@ -1,0 +1,28 @@
+{
+  "slug": "swamp-son",
+  "title": "Swamp Son",
+  "description": "A multi-part horror tale warning of the dangers of meeting a nice boy at summer camp.",
+  "quote": "How about a kiss, Misty?",
+  "parent": "As Told by Ginger",
+  "parentYear": "2000-2006",
+  "parentIMDB": "0235911",
+  "rating": "PG-13",
+  "runtime": "3h 43m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "swamp monster teen boy",
+  "alt1": "young boy and girl in a canoe on a lake",
+  "alt2": "the girl tucks her hair behind her ear",
+  "alt3": "the boy is changing into a swamp monster",
+  "alt4": "the girl screaming",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
