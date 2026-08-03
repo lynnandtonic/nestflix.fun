@@ -1,0 +1,28 @@
+{
+  "slug": "the-bernardo-show",
+  "title": "The Bernardo Show",
+  "description": "Shark and film enthusiast Bernardo interviews expert guests and shares his expertise.",
+  "quote": "Did I captivate you? I hope not. I don’t work at Sea World.",
+  "parent": "Bad CGI Sharks",
+  "parentYear": "2019",
+  "parentIMDB": "8901466",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "MaJaMa",
+  "altHero": "VHS style graphics of Bernardo dancing",
+  "alt1": "Bernardo in a plaid jacket in his living room set",
+  "alt2": "VHS style graphics",
+  "alt3": "Bernardo with Shark Stooge #3",
+  "alt4": "Bernardo",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows"
+  ],
+  "logoWidth": "200"
+}
