@@ -1,0 +1,30 @@
+{
+  "slug": "the-intern",
+  "title": "The Intern",
+  "description": "When it comes to psycho killers, a little med school is a terrible thing. ",
+  "quote": "I’ll be back… for your spleen.",
+  "parent": "Beavis and Butt-Head",
+  "parentYear": "1993-1997",
+  "parentIMDB": "20859904",
+  "rating": "R",
+  "runtime": "1h 37m",
+  "starring": [
+    "Arnold Schwarzenegger"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "MTV Animation",
+  "altHero": "Arnold Schwarzenegger wearing sunglasses and doctor’s head mirror",
+  "alt1": "Schwarzenegger grabbing an alien in a hospital gown",
+  "alt2": "Schwarzenegger punching into the alien’s torso",
+  "alt3": "Schwarzenegger pulling out its spleen",
+  "alt4": "Schwarzenegger flexing with the spleen in his hand",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
