@@ -1,0 +1,25 @@
+{
+  "slug": "the-wanda-watson-show",
+  "title": "The Wanda Watson Show",
+  "description": "Wanda Watson interviews guests from the arts and entertainment industry, politics, and everyday life.",
+  "parent": "Austin & Ally",
+  "parentYear": "2011-2016",
+  "parentIMDB": "1830491",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Wanda Watson"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "Wanda Watson on set",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": "220"
+}
