@@ -1,0 +1,31 @@
+{
+  "slug": "antics",
+  "title": "Antics",
+  "description": "The silly adventures of ant friends Sketcher, Asia, and Pimento.",
+  "quote": "Magnifying glasses use convex lenses of various focal lengths to… is anyone else hot?",
+  "parent": "A.N.T. Farm",
+  "parentYear": "2011-2014",
+  "parentIMDB": "1772752",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "creator": "Fletcher Quimby",
+  "labels": [
+    "comedy",
+    "teens",
+    "animation"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "two teen ants Sketcher and Asia",
+  "alt1": "Pimento farting around Sketcher and Asia as they have a picnic",
+  "alt2": "Pimento smoking and screaming under the glare of a magnifying glass",
+  "alt3": "Pimento crashed into two birds’ barbeque grill",
+  "alt4": "Asia playing guitar, covered in bird feed",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "web shows"
+  ],
+  "logoWidth": "240"
+}
