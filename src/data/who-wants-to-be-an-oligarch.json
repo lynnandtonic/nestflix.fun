@@ -1,0 +1,29 @@
+{
+  "slug": "who-wants-to-be-an-oligarch",
+  "title": "Who Wants to Be an Oligarch?",
+  "description": "The popular Russian inquisitive program.",
+  "quote": "Who is greatest leader in world?",
+  "parent": "Animaniacs",
+  "parentYear": "2020-2023",
+  "parentIMDB": "6951546",
+  "rating": "Unrated",
+  "runtime": "2 seasons",
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Russian host with a curly mustache and wearing an ushanka hat",
+  "alt1": "the set of the show, with the host in the center with a contestant",
+  "alt2": "host holding up a card",
+  "alt3": "contestant with question on screen where the possible answers to the question “Who is greatest leader in world?” is four instances of “Putin”",
+  "alt4": "a Putin banner is on set now and the host is doing a Russian squat dance",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ],
+  "logoWidth": "180"
+}
