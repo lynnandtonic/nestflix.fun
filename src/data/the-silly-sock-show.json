@@ -1,0 +1,24 @@
+{
+  "slug": "the-silly-sock-show",
+  "title": "The Silly Sock Show",
+  "description": "It’s a family of socks and they do funny stuff! Join Jim the gym sock, twins Toeseph and Toesha, Dr. Sockington, Miss Ing Sock, Nene Sock, and Toeprah for a kickin’ good time.",
+  "quote": "Mimimimimi!",
+  "parent": "Abbott Elementary",
+  "parentYear": "2021-Present",
+  "parentIMDB": "14218830",
+  "rating": "TV-Y",
+  "runtime": "94 episodes",
+  "labels": [
+    "kids",
+    "puppets"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a family of sock puppets talking together",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
