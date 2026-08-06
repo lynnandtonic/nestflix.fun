@@ -1,0 +1,30 @@
+{
+  "slug": "lifestyles-of-the-very-good",
+  "title": "Lifestyles of the Very Good",
+  "description": "Host Throbbin Screech highlights the folks doing great deeds and speaks to them about their motivations and accomplishments.",
+  "parent": "Adventures of Sonic the Hedgehog",
+  "parentYear": "1993",
+  "parentIMDB": "0222518",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Throbbin Screech"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Sega of America",
+  "altHero": "Throbbin Screech at his desk",
+  "alt1": "Screech with a firehouse dalmation holding a cat in his mouth",
+  "alt2": "Screech with a seal doctor",
+  "alt3": "Sonic the Hedgehog in a pink armchair",
+  "alt4": "Screech with a football playing rhino holding a trophy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": "190"
+}
