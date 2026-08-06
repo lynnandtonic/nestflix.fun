@@ -1,0 +1,29 @@
+{
+  "slug": "pitch-me-im-dreaming",
+  "title": "Pitch Me, I’m Dreaming",
+  "description": "Entrepreneurs pitch their idea to billionaires, and if it’s bad, they get dropped into a flaming pit! That’s capitalism, baby!",
+  "quote": "Pitch me! I’m dreaming.",
+  "parent": "Animaniacs",
+  "parentYear": "2020-2023",
+  "parentIMDB": "6951546",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "studio": "The Business Channel",
+  "labels": [
+    "reality competition",
+    "business"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "panel of billionaires",
+  "alt1": "white man billionaire",
+  "alt2": "entrepreneur presenting a big carrot",
+  "alt3": "woman billionaire",
+  "alt4": "panel of billionaires watching the entrepreneur fall through a trapdoor on the floor",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ]
+}
