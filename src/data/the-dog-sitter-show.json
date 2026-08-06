@@ -1,0 +1,27 @@
+{
+  "slug": "the-dog-sitter-show",
+  "title": "The Dog Sitter Show",
+  "description": "Whenever Domber’s owner goes on holiday, the dreaded dog sitter pays him a visit.",
+  "quote": "I’ve told you a hundred times, don’t eat the door.",
+  "parent": "Corneil & Bernie",
+  "parentYear": "2003-2006",
+  "parentIMDB": "0446208",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Millimages",
+  "altHero": "Domber the dog with his pet sitter, a blonde man giving a thumbs up",
+  "alt1": "Domber and his pet sitter stand in the doorway",
+  "alt2": "Domber looks concerned",
+  "alt3": "the pet sitter winking at the camera",
+  "alt4": "the pet sitter laughing at Domber who has dog food poured all over his face and a broom stuck to his bum",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ]
+}
