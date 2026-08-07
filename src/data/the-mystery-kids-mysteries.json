@@ -1,0 +1,31 @@
+{
+  "slug": "the-mystery-kids-mysteries",
+  "title": "The Mystery Kids Mysteries",
+  "description": "Cryptids, hauntings, and paranormal activity are no problem because the gang is on the case.",
+  "quote": "Crikeys!",
+  "parent": "Wander Over Yonder",
+  "parentYear": "2013-2016",
+  "parentIMDB": "2252938",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids",
+    "space",
+    "mystery"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "two alien kids, the girl (Mavis) has a glowing sweater",
+  "alt1": "futuristic A-frame sky house with a dragon flying by",
+  "alt2": "The Mystery Ship spaceship",
+  "alt3": "alien uncle driving the ship",
+  "alt4": "space dog",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ],
+  "logoWidth": "270"
+}
