@@ -1,0 +1,29 @@
+{
+  "slug": "birdgirl-redemption",
+  "title": "Birdgirl: Redemption",
+  "description": "When Sebbentown is in trouble, they signal the one hero they can count on: Birdgirl.",
+  "quote": "Maybe try texting next time.",
+  "parent": "Birdgirl",
+  "parentYear": "2021-2022",
+  "parentIMDB": "10309118",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "studio": "Warner Bros. Pictures, Sebbentown Films",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Birdgirl shrugging while holding a newspaper that says “Sebbentown Under Attack!”",
+  "alt1": "Birdgirl signal in the air in Sebbentown",
+  "alt2": "man in top hat near the signal light",
+  "alt3": "meteor flying past the signal in the sky",
+  "alt4": "Birdgirl tackled the man to save him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes"
+  ]
+}
