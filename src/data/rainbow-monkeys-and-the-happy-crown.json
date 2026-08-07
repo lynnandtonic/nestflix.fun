@@ -1,0 +1,29 @@
+{
+  "slug": "rainbow-monkeys-and-the-happy-crown",
+  "title": "Rainbow Monkeys and the Happy Crown",
+  "description": "Based on the popular book. Rainbow Monkeys, so very round and super chunky! Bringing love wherever they go. Everyone is made of a big rainbow!",
+  "quote": "I’ve got an idea! Let’s have fun!",
+  "parent": "Codename: Kids Next Door",
+  "parentYear": "2002-2008",
+  "parentIMDB": "0312109",
+  "rating": "G",
+  "runtime": "1h 32m",
+  "labels": [
+    "kids",
+    "fantasy"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "princess with two rainbow monkeys and a dwarf",
+  "alt1": "princess and rainbow monkeys dancing in the hills",
+  "alt2": "two rainbow monkeys",
+  "alt3": "blue rainbow monkey with his arms up",
+  "alt4": "rainbow monkeys dancing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "kids and family films"
+  ],
+  "logoWidth": ""
+}
