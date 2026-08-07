@@ -1,0 +1,23 @@
+{
+  "slug": "dont-lift-that-heavy-object",
+  "title": "Don’t Lift That Heavy Object!",
+  "description": "Real life dinosaurs caught in the act of moving heavy things.",
+  "quote": "Now the key here is to lift with your knees.",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "dinosaur screaming as he tries to move a piano",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ],
+  "logoWidth": "210"
+}
