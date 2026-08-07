@@ -1,0 +1,37 @@
+{
+  "slug": "cosmic-queen",
+  "title": "Cosmic Queen",
+  "description": "Hollywood meets Bollywood in this classic Stark adventure featuring Agatha Harkness as the Cosmic Queen.",
+  "parent": "What If…?",
+  "parentYear": "2021=2024",
+  "parentIMDB": "10168312",
+  "rating": "PG",
+  "runtime": "1h 30m",
+  "starring": [
+    "Agatha Harkness",
+    "Kingo"
+  ],
+  "director": [
+    "Howard Stark"
+  ],
+  "studio": "Stark Pictures",
+  "labels": [
+    "adventure",
+    "bollywood"
+  ],
+  "credit": "Marvel Studios Animation",
+  "altHero": "Agatha Harkness in Cosmic Queen headdress",
+  "alt1": "soldier hitting a gong",
+  "alt2": "celestials",
+  "alt3": "Cosmic Queen with glowing dress and surrounded by floating ancient letters",
+  "alt4": "Kingo with backup dancing soldiers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age",
+    "new on nestflix"
+  ],
+  "logoWidth": "290"
+}
