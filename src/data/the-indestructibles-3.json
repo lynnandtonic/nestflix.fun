@@ -1,0 +1,32 @@
+{
+  "slug": "the-indestructibles-3",
+  "title": "The Indestructibles 3",
+  "description": "All the badass action heroes band together for one last mission.",
+  "parent": "Castle",
+  "parentYear": "2009-2016",
+  "parentIMDB": "1219024",
+  "rating": "R",
+  "runtime": "1h 54m",
+  "starring": [
+    "Brock Harmon",
+    "Lance DeLorca",
+    "Serafina",
+    "Rolf Magnus",
+    "Clay Biggs"
+  ],
+  "director": [
+    "Brock Harmon"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "ABC Studios",
+  "altHero": "Brock Harmon holding a gun in a war zone",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ],
+  "logoWidth": ""
+}
