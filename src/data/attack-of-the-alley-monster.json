@@ -1,0 +1,23 @@
+{
+  "slug": "attack-of-the-alley-monster",
+  "title": "Attack of the Alley Monster",
+  "description": "A true story so terrifying we made up a new word to describe it: scaretacularfying!",
+  "parent": "Captain Flamingo",
+  "parentYear": "2006-2010",
+  "parentIMDB": "0470105",
+  "rating": "PG-13",
+  "runtime": "1h 33m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "YTV",
+  "altHero": "monster made of trash",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ],
+  "logoWidth": ""
+}
