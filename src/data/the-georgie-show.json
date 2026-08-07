@@ -1,0 +1,27 @@
+{
+  "slug": "the-georgie-show",
+  "title": "The Georgie Show",
+  "description": "Georgie is a friendly dinosaur and has a special Georgian hug for every kid.",
+  "quote": "We are all special and you are my special friend.",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "Georgie, a red dinosaur character",
+  "alt1": "Georgie with two kids",
+  "alt2": "Georgie",
+  "alt3": "the cheering crowd",
+  "alt4": "Georgie with two kids",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
