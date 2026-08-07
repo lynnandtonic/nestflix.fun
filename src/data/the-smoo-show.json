@@ -1,0 +1,25 @@
+{
+  "slug": "the-smoo-show",
+  "title": "The Smoo! Show",
+  "description": "A brand new program quickly thrown together in a shameless grab for ratings.",
+  "quote": "Smoo, smoo, smoo, smoo, smoo",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "studio": "ABC",
+  "labels": [
+    "comedy",
+    "music"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "three dinosaurs in bowties singing",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ],
+  "logoWidth": "180"
+}
