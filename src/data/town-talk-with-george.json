@@ -1,0 +1,30 @@
+{
+  "slug": "town-talk-with-george",
+  "title": "Town Talk With George",
+  "description": "George Newman’s talk show that evolves from highlighting interesing people and characters to a high-energy display of conflict and drama.",
+  "parent": "UHF",
+  "parentYear": "1989",
+  "parentIMDB": "0098546",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "starring": [
+    "George Newman"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Orion Pictures",
+  "altHero": "George Newman speaking into a microphone from the audience",
+  "alt1": "George Newman amazed by a handful of state maps",
+  "alt2": "people brawling on stage including a KKK guy, a guy in a hockey mask, and a little school girl",
+  "alt3": "George with a musican in white overalls",
+  "alt4": "George with a clown and holding dog treats",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows"
+  ],
+  "logoWidth": "220"
+}
