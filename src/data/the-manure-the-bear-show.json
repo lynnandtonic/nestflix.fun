@@ -1,0 +1,27 @@
+{
+  "slug": "the-manure-the-bear-show",
+  "title": "The Manure the Bear Show",
+  "description": "Manure the Bear! Somethin’ ain’t right in his shorts that draws flies.",
+  "parent": "Cow and Chicken",
+  "parentYear": "1997-1999",
+  "parentIMDB": "0118289",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "kids",
+    "comedy"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Manure the Bear, a bear wearing a diaper surrounded by flies",
+  "alt1": "Manure the Bear standing with crossed arms",
+  "alt2": "young, blonde girl with a teapot",
+  "alt3": "girl pouring tea for Manure the Bear",
+  "alt4": "girl pinching her nose next to Manure the Bear’s diaper",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
