@@ -1,0 +1,32 @@
+{
+  "slug": "dr-kirk-marcus-md",
+  "title": "Dr. Kirk Marcus, M.D.",
+  "description": "Dr. Kirk Marcus, M.D. can handle any challenge in the operating room.",
+  "quote": "Not the pajamas!",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Judd Matthews"
+  ],
+  "labels": [
+    "medical drama"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "Judd Matthews as Dr. Kirk Marcus",
+  "alt1": "Dr. Kirk Marcus looking at an x-ray",
+  "alt2": "Dr. Kirk Marcus",
+  "alt3": "Dr. Kirk Marcus looking over a chart for a baby",
+  "alt4": "the baby",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "medical dramas",
+    "new on nestflix"
+  ],
+  "logoWidth": "160"
+}
