@@ -1,0 +1,27 @@
+{
+  "slug": "hamilton-rogue",
+  "title": "Hamilton Rogue",
+  "description": "He’s an international playboy, a jewel thief, and a master spy. He’s Hamilton Rogue",
+  "quote": "This Rogue’s for hire.",
+  "parent": "The Ratings Game",
+  "parentYear": "1984",
+  "parentIMDB": "0087979",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "starring": [
+    "Richie De Salvo"
+  ],
+  "studio": "MBC",
+  "labels": [
+    "thriller",
+    "espionage"
+  ],
+  "credit": "Showtime",
+  "altHero": "Hamilton Rogue, an unassuming man in a white tux",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "thrillers"
+  ]
+}
