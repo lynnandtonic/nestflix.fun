@@ -1,0 +1,31 @@
+{
+  "slug": "nunzios-girls",
+  "title": "Nunzio's Girls",
+  "description": "Nunzio is the doctor of love and you’ll want to spend the whole night with his girls. Action, adventure, and beautiful women.",
+  "quote": "This ain’t just a business operation to me. We’re family.",
+  "parent": "The Ratings Game",
+  "parentYear": "1984",
+  "parentIMDB": "0087979",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "studio": "MBC",
+  "labels": [
+    "action",
+    "crime"
+  ],
+  "credit": "Showtime",
+  "altHero": "Nunzio, a gangster, walking down the street surrounded by three women",
+  "alt1": "car driving down the road",
+  "alt2": "Nunzio with two women in his car",
+  "alt3": "car chase through a tunnel",
+  "alt4": "Nunzio with three women in his car, he’s kissing one of them",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv",
+    "new on nestflix"
+  ],
+  "logoWidth": "240"
+}
