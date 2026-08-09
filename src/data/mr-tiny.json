@@ -1,0 +1,27 @@
+{
+  "slug": "mr-tiny",
+  "title": "Mr. Tiny",
+  "description": "He’s just a little guy in a great, big world.",
+  "parent": "Mr. Bean: The Animated Series",
+  "parentYear": "2002-Present",
+  "parentIMDB": "0280277",
+  "rating": "G",
+  "runtime": "1h 23m",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Tiger Aspect Productions",
+  "altHero": "Mr. Tiny, a little leprechaun guy, waving from a tea saucer on a table",
+  "alt1": "Mr. Tiny standing on the rim of the saucer",
+  "alt2": "Mr. Tiny sliding across some jam on a piece of toast",
+  "alt3": "Mr. Tiny jumping off a knife onto a napkin",
+  "alt4": "Mr. Tiny sleeping tucked into the napkin",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "kids and family films"
+  ],
+  "logoWidth": "230"
+}
