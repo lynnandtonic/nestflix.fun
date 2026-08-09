@@ -1,0 +1,31 @@
+{
+  "slug": "thats-incredibly-stupid",
+  "title": "That’s Incredibly Stupid!",
+  "description": "The game show where contestants do any darn thing in order to win fantastic prizes.",
+  "quote": "That’s! Incredibly! Stupid!",
+  "parent": "Tiny Toon Adventures",
+  "parentYear": "1990-1992",
+  "parentIMDB": "0098929",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Pitfalls Dave"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "host Pitfalls Dave, a guy in a cowboy hat",
+  "alt1": "Pitfalls Dave holding cash",
+  "alt2": "Pitfalls Dave waving a checkered flag next to a demolition derby",
+  "alt3": "contestant, Plucky Duck, laying on the floor next to two super buff wrestler women",
+  "alt4": "Pitfalls Dave with contestants by an ACME building",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!"
+  ],
+  "logoWidth": ""
+}
