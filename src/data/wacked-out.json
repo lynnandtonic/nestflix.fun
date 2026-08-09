@@ -1,0 +1,27 @@
+{
+  "slug": "wacked-out",
+  "title": "W.A.C.ked Out",
+  "description": "From the creators of <em>I Got It Good</em>. What happens when Gary can’t get into this man’s army? Well, he does the next best thing: he joins this gal’s army, and becomes W.A.C.ked out.",
+  "parent": "The Ratings Game",
+  "parentYear": "1984",
+  "parentIMDB": "0087979",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "studio": "MBC",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Showtime",
+  "altHero": "Gary getting his application rejected",
+  "alt1": "Gary getting an idea",
+  "alt2": "women in uniform walking in formation",
+  "alt3": "Gary wearing a wig and women’s uniform",
+  "alt4": "Gary in a wig and bra in the women’s changing room",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ]
+}
