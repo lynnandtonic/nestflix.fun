@@ -1,0 +1,28 @@
+{
+  "slug": "the-monster",
+  "title": "The Monster",
+  "description": "An unexpected stop at a castle on the hill turns into a monstrous nightmare.",
+  "parent": "Mr. Bean: The Animated Series",
+  "parentYear": "2002-Present",
+  "parentIMDB": "0280277",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "Tiger Aspect Productions",
+  "altHero": "Frankenstein monster coming out of a doorway",
+  "alt1": "creepy castle on a hill",
+  "alt2": "wooden door",
+  "alt3": "woman scremaing",
+  "alt4": "man screaming",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ],
+  "logoWidth": "230"
+}
