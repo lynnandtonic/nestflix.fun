@@ -1,0 +1,21 @@
+{
+  "slug": "the-cuddly-little-poots",
+  "title": "The Cuddly Little Poots",
+  "description": "They’re cute, they’re adorable, they’re moist, and they have a full line of expensive licensed products. They’re the cuddly little poots!",
+  "parent": "Rocko’s Modern Life",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106115",
+  "rating": "G",
+  "runtime": "1h 23m",
+  "labels": [
+    "kids"
+  ],
+  "credit": "MTV Networks",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "kids and family films"
+  ],
+  "logoWidth": ""
+}
