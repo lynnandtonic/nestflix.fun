@@ -1,0 +1,31 @@
+{
+  "slug": "life-of-eiffel",
+  "title": "Life Of Eiffel",
+  "description": "The daily life of teen star and toilet paper princess, Eiffel.",
+  "quote": "I’m not odd. I’m audacious!",
+  "parent": "Nicky, Ricky, Dicky & Dawn",
+  "parentYear": "2014-2018",
+  "parentIMDB": "3596176",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "teens"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Eiffel, a teen girl",
+  "alt1": "Eiffel with a cardboard cutout of herself as a princess",
+  "alt2": "Eiffel’s little sister, Lilly",
+  "alt3": "Eiffel smiling",
+  "alt4": "Eiffel flipping a coffe table and board games fall to the floor",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "tv for teens",
+    "new on nestflix"
+  ],
+  "logoWidth": "310"
+}
