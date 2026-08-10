@@ -1,0 +1,31 @@
+{
+  "slug": "ghosts-and-ghoulish-with-rich-ghoulish",
+  "title": "Ghosts & Ghoulish with Rich Ghoulish",
+  "description": "Join Rich Ghoulish as he investigates the paranormal and uses his patented Spirit Gawker to understand what ghosts are trying to tell us.",
+  "parent": "Night Eyes",
+  "parentYear": "2022-Present",
+  "parentIMDB": "17506266",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Rich Ghoulish"
+  ],
+  "labels": [
+    "reality",
+    "paranormal"
+  ],
+  "credit": "Mukpuddy Animation",
+  "altHero": "Rich Ghoulish, a bird with bright white hair",
+  "alt1": "Rich Ghoulish looks up at a shop window",
+  "alt2": "Rich Ghoulish’s hand next to a white skull on the window’s surface",
+  "alt3": "Rich Ghoulish by the shop window",
+  "alt4": "Rich Ghoulish’s Spirit Gawker device",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "paranormal investigation"
+  ],
+  "logoWidth": "250"
+}
