@@ -1,0 +1,28 @@
+{
+  "slug": "the-refurbishers",
+  "title": "The Refurbishers",
+  "description": "Joel and Donna are a husband and wife team that attempt to form the perfect marriage between form and function in every renovation. He’s substance, she’s style. She’s a paint chip, he’s a power tool.",
+  "parent": "Odd Job Jack",
+  "parentYear": "2003-2007",
+  "parentIMDB": "0373584",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "home makeover"
+  ],
+  "credit": "Smiley Guy Studios",
+  "altHero": "Joel and Donna in hard hats",
+  "alt1": "Joel and Donna about to pull a curtain to reveal a space for a client",
+  "alt2": "Joel yelling at the camera",
+  "alt3": "Donna on the phone while Joel climbs a ladder outside a house",
+  "alt4": "Joel and Donna with two clients",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home, diy, and art"
+  ],
+  "logoWidth": "274"
+}
