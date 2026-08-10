@@ -1,0 +1,31 @@
+{
+  "slug": "maromi",
+  "title": "Maromi",
+  "description": "Maromi is a healer dog, bringing warmth and calm to boys and girls who need it.",
+  "quote": "Take a rest.",
+  "parent": "Paranoia Agent",
+  "parentYear": "2004",
+  "parentIMDB": "0433722",
+  "rating": "TV-G",
+  "runtime": "15 episodes",
+  "creator": "Tsukiko Sagi",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Madhouse",
+  "altHero": "Maromi, a small pink dog with big eyes",
+  "alt1": "Maromi emerging from a basket of toys",
+  "alt2": "a young boy baseball player",
+  "alt3": "Maromi tapping the boy on the leg",
+  "alt4": "the boy running and Maromi is riding a bike behind him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ],
+  "logoWidth": ""
+}
