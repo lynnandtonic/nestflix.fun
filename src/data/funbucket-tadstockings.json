@@ -1,0 +1,27 @@
+{
+  "slug": "funbucket-tadstockings",
+  "title": "Funbucket Tadstockings",
+  "description": "Hijinks ensue when Funbucket Tadstockings shows up. He travels through time to solve mysteries and he doesn’t follow any rules.",
+  "quote": "Bingo bango, I’m Funbucket.",
+  "parent": "Solar Opposites",
+  "parentYear": "2020-2025",
+  "parentIMDB": "8910922",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Hulu",
+  "altHero": "Funbucket, a furry kid-sized beast, with a boy next to a time machine",
+  "alt1": "Funbucket and boy running from a dinosaur",
+  "alt2": "Funbucket and boy choking a guy in a car",
+  "alt3": "Funbucket and boy riding a bike next to an adult lying on the ground with a parking cone on their head",
+  "alt4": "Funbucket in front of an overturned trash can",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
