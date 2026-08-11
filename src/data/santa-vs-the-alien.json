@@ -1,0 +1,28 @@
+{
+  "slug": "santa-vs-the-alien",
+  "title": "Santa vs. the Alien",
+  "description": "Santa Claus is coming to town… to take down a dinosaur alien invasion.",
+  "parent": "Rugrats",
+  "parentYear": "1991-2005",
+  "parentIMDB": "0101188",
+  "rating": "PG",
+  "runtime": "1h 22m",
+  "labels": [
+    "action",
+    "holiday",
+    "aliens"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Santa holding a chimney cannon",
+  "alt1": "Santa running as lasers explode behind him",
+  "alt2": "dinosaur alien with glowing red eyes",
+  "alt3": "Santa firing the chimney cannon",
+  "alt4": "dinosaur alien sad with a Christmas tree in his mouth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ]
+}
