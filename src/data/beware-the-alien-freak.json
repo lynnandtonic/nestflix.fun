@@ -1,0 +1,24 @@
+{
+  "slug": "beware-the-alien-freak",
+  "title": "Beware the Alien Freak!!",
+  "description": "Horror! Destruction! Chaos! An alien freak arrives on Earth and humans must stop it.",
+  "parent": "Sonic the Hedgehog 3",
+  "parentYear": "2024",
+  "parentIMDB": "18259086",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "labels": [
+    "horror",
+    "monster",
+    "aliens"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "giant dinosaur alien",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "aliens!"
+  ]
+}
