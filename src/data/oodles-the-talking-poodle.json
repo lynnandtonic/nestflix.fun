@@ -1,0 +1,28 @@
+{
+  "slug": "oodles-the-talking-poodle",
+  "title": "Oodles the Talking Poodle",
+  "description": "Oodles the Talking Poodle really uses his noodle. When there is trouble, he’ll come on the double. He’s one dog who knows his tricks.",
+  "quote": "Come quick! Uncle Lyle’s locked in the barn again and it’s on fire!",
+  "parent": "Rugrats",
+  "parentYear": "1991-2005",
+  "parentIMDB": "0101188",
+  "rating": "TV-Y7",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Oodles, a pink poodle wearing a t-shirt and cape",
+  "alt1": "Oodles jumping through a wood fence",
+  "alt2": "Oodles talking to two kids",
+  "alt3": "Oodles running",
+  "alt4": "Oodles punching a lock off a barn door",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "220"
+}
