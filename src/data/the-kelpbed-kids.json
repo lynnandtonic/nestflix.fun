@@ -1,0 +1,29 @@
+{
+  "slug": "the-kelpbed-kids",
+  "title": "The Kelpbed Kids",
+  "description": "Classic artistical comedy show about the adventures of a neighborhood group of children.",
+  "quote": "Oh, no you don’t, you dizzy ding dong!",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "comedy"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "the Kelpbed Kids celebrating",
+  "alt1": "one kid has the others tied up",
+  "alt2": "the tied up kids are sad",
+  "alt3": "another kid’s mouth is covered in candy",
+  "alt4": "one kid’s grabbing the candy bag",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
