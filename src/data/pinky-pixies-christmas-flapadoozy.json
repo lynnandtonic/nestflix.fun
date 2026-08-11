@@ -1,0 +1,21 @@
+{
+  "slug": "pinky-pixies-christmas-flapadoozy",
+  "title": "Pinky Pixie’s Christmas Flapadoozy",
+  "description": "Time is running out and Christmas is almost here. The loneliest little elf in the world isn’t quite ready.",
+  "parent": "Rocket Power",
+  "parentYear": "1999-2004",
+  "parentIMDB": "0244926",
+  "rating": "G",
+  "runtime": "48m",
+  "labels": [
+    "holiday"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "elf and snow man in the North Pole",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ]
+}
