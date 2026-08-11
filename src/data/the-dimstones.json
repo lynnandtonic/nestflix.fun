@@ -1,0 +1,22 @@
+{
+  "slug": "the-dimstones",
+  "title": "The Dimstones",
+  "description": "Meet the slightly less modern stone-age family, the Dimstones.",
+  "parent": "Rugrats",
+  "parentYear": "1991-2005",
+  "parentIMDB": "0101188",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "two rocks beating themselves with stone clubs",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "350"
+}
