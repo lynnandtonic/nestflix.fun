@@ -1,0 +1,29 @@
+{
+  "slug": "crustacean-crime-theatre",
+  "title": "Crustacean Crime Theatre",
+  "description": "Crustaceans committing crimes and getting caught.",
+  "quote": "Curses! Foiled again!",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "documentary",
+    "crime"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "crab in a jail cell",
+  "alt1": "crab with a curly mustache stealing another hermit crab’s shell",
+  "alt2": "running off with the stolen shell",
+  "alt3": "victim crab talking to the fish cops",
+  "alt4": "cop mob carrying the perpetrator crab",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv"
+  ],
+  "logoWidth": "250"
+}
