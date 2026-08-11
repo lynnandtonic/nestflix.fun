@@ -1,0 +1,30 @@
+{
+  "slug": "the-guitar-lord",
+  "title": "The Guitar Lord",
+  "description": "Zeus the Guitar Lord’s talk show that his mom gave him for his birthday.",
+  "quote": "I don’t have a guitar.",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "studio": "Bikini Bottom Public Access",
+  "labels": [
+    "talk show",
+    "music"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Zeus playing the guitar atop a mountain of skulls",
+  "alt1": "Zeus in his basement living room",
+  "alt2": "Zeus playing the guitar",
+  "alt3": "unfolded advertisement for a guitar",
+  "alt4": "Zeus on the phone",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows"
+  ],
+  "logoWidth": "210"
+}
