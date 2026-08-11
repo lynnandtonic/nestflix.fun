@@ -1,0 +1,37 @@
+{
+  "slug": "squidwards-house-party",
+  "title": "Squidward’s House Party",
+  "description": "Bikini Bottom’s #1 show, hosted by the Guitar Lord. Party on.",
+  "quote": "Are you ready to party Squidward style?",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Squidward Tentacles",
+    "SpongeBob SquarePants",
+    "Guitar Lord",
+    "Patrick Star",
+    "Sandy Cheeks",
+    "Pearl Krabs"
+  ],
+  "studio": "Bikini Bottom Public Access",
+  "labels": [
+    "talk show",
+    "music"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "the gang rocking on a mountain of skulls",
+  "alt1": "Sandy Cheeks dancing",
+  "alt2": "Patrick Star drumming",
+  "alt3": "crowd cheering",
+  "alt4": "the Guitar Lord playing guitar",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows"
+  ]
+}
