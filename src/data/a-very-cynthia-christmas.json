@@ -1,0 +1,22 @@
+{
+  "slug": "a-very-cynthia-christmas",
+  "title": "A Very Cynthia Christmas",
+  "description": "Cynthia takes on a new challenge: making the most perfect Christmas ever.",
+  "parent": "Rugrats",
+  "parentYear": "1991-2005",
+  "parentIMDB": "0101188",
+  "rating": "G",
+  "runtime": "1h 32m",
+  "labels": [
+    "kids",
+    "holiday"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Cynthia in a Santa hat driving a pink covertible",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ]
+}
