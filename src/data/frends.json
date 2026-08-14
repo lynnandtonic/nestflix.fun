@@ -1,0 +1,33 @@
+{
+  "slug": "frends",
+  "title": "Frends",
+  "description": "A sitcom about two friends, written by Kim Jong Un himself.",
+  "quote": "Kim Jong Un, how you gonna date two sexy ladies at the same time?",
+  "parent": "The Adventures of Kim Jong Un",
+  "parentYear": "2012",
+  "parentIMDB": "2317569",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "starring": [
+    "Kim Jong Un",
+    "Denzel Rodman"
+  ],
+  "studio": "True Korea Only Channel", 
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Dropout",
+  "altHero": "Kim Jong Un sitting on the couch with a girl while Denzel Rodman stands nearby; there is a bucket of NKFC on the table",
+  "alt1": "Kim Jong Un walking into an apartment with a bucket of NKFC and a bag of Asian porn",
+  "alt2": "Denzel Rodman ducking to get into the apartment door",
+  "alt3": "Denzel Rodman answering the door for an anime girl",
+  "alt4": "Kim Jong Un on the couch with two anime girls",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": ""
+}
