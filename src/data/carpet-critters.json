@@ -1,0 +1,27 @@
+{
+  "slug": "carpet-critters",
+  "title": "Carpet Critters",
+  "description": "The adventures of a group of toddler friends, trying to make sense of a big world.",
+  "parent": "The Fairly OddParents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-Y",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "two babies in a pen, one drinking a bottle and one blowing spit bubbles",
+  "alt1": "babies in a pen in a living room",
+  "alt2": "baby toys",
+  "alt3": "three sad looking toddlers in the pen",
+  "alt4": "baby drooling all over",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "350"
+}
