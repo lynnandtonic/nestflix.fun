@@ -1,0 +1,28 @@
+{
+  "slug": "crime-haters",
+  "title": "Crime Haters",
+  "description": "A crime hating duo. One is a handsome lady’s man. The other overstates his fame to friends.",
+  "quote": "I deserve this.",
+  "parent": "The Adventures of Kim Jong Un",
+  "parentYear": "2012",
+  "parentIMDB": "2317569",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "starring": [
+    "Kim Jong Un",
+    "Denzel Rodman"
+  ],
+  "studio": "True Korea Only Channel", 
+  "labels": [
+    "crime drama",
+    "action"
+  ],
+  "credit": "Dropout",
+  "altHero": "Kim Jong Un and Denzel Rodman as cops pointing guns in the street",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows"
+  ]
+}
