@@ -1,0 +1,34 @@
+{
+  "slug": "handsome-suit-lawyers",
+  "title": "Handsome Suit Lawyers",
+  "description": "A handsome duo that conquers the courtroom and the operating room.",
+  "quote": "My brilliant partner‘s evidence will free that sexy lady. Meanwhile, I turn myself in for being a bad friend.",
+  "parent": "The Adventures of Kim Jong Un",
+  "parentYear": "2012",
+  "parentIMDB": "2317569",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "starring": [
+    "Kim Jong Un",
+    "Denzel Rodman"
+  ],
+  "studio": "True Korea Only Channel", 
+  "labels": [
+    "crime drama",
+    "medical drama",
+    "courtroom"
+  ],
+  "credit": "Dropout",
+  "altHero": "Kim Jong Un and Denzel Rodman wearing ties and entering a courtroom",
+  "alt1": "Denzel Rodman pointing",
+  "alt2": "witness on the stand with heart eyes",
+  "alt3": "Denzel Rodman getting handcuffed by a cop",
+  "alt4": "Kim Jong Un and Denzel Rodman wearing scrubs",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows"
+  ]
+}
