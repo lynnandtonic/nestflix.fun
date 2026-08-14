@@ -1,0 +1,33 @@
+{
+  "slug": "putin-time",
+  "title": "Putin Time",
+  "description": "Highly-rated, critically-aclaimed childen’s program. A weekly summary of President Putin’s exploits for children of the nation.",
+  "quote": "Monday, Putin tame six black bear.",
+  "parent": "The Adventures of Kim Jong Un",
+  "parentYear": "2012",
+  "parentIMDB": "2317569",
+  "rating": "Unrated",
+  "runtime": "5 seasons",
+  "starring": [
+    "Vladimir Putin"
+  ],
+  "labels": [
+    "kids",
+    "talk show"
+  ],
+  "credit": "Dropout",
+  "altHero": "Putin",
+  "alt1": "Putin holding up a pair of colorful underwear",
+  "alt2": "Putin’s face superimposed over Saturday Night Fever dancing scene",
+  "alt3": "tired looking, smoking newscaster with photo of Putin and six black bears",
+  "alt4": "newscaster with photo of Putin and a man in church",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ],
+  "logoWidth": ""
+}
