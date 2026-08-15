@@ -1,0 +1,31 @@
+{
+  "slug": "the-jellyson-group",
+  "title": "The Jellyson Group",
+  "description": "Bikini Bottom’s best and only show about jellyfishing.",
+  "quote": "Tonight we will be discussing the moon jellyfish. Only seen once every 25 years, it will soon be migrating through Bikini Bottom.",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Jeff Jellyson"
+  ],
+  "labels": [
+    "talk show",
+    "sports"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Jeff Jellyson",
+  "alt1": "Jeff Jellyson talking to a guest sipping tea and wearing a jellyfish dress",
+  "alt2": "Jeff Jellyson with a clown who is juggling jellyfish",
+  "alt3": "Jeff Jellyson reading a notecard",
+  "alt4": "Jeff Jellyson with guests",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sports talk"
+  ]
+}
