@@ -1,0 +1,29 @@
+{
+  "slug": "walnuts-a-chuckie-black-hanukkah",
+  "title": "Walnuts: A Chuckie Black Hanukkah",
+  "description": "Chuckie Black is feeling down about Hanukkah and he has eight days to find the true meaning of the holiday.",
+  "quote": "It’s the Great Menorah, Chuckie Black!",
+  "parent": "The Fairly OddParents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "G",
+  "runtime": "30m",
+  "labels": [
+    "holiday",
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Walnuts kids dancing with a “Happy Hanukkah” banner",
+  "alt1": "kid in yarmulke playing a xylophone with a cat dancing nearby",
+  "alt2": "blonde girl dancing",
+  "alt3": "Black kid in yarmulke dancing",
+  "alt4": "menorah tilted over and a boy laying on the ground in frustration, his yarmulke on the floor next to him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ],
+  "logoWidth": ""
+}
