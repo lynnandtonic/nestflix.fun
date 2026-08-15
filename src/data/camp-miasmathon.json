@@ -1,0 +1,51 @@
+{
+  "slug": "camp-miasmathon",
+  "title": "Camp Miasmathon",
+  "description": "The long-running slasher franchise about Little Death, the vengeful ghost risen from the lake at Camp Miasma.",
+  "parent": "Teenage Sex and Death at Camp Miasma",
+  "parentYear": "2026",
+  "parentIMDB": "35298123",
+  "rating": "R",
+  "runtime": "23h 12m",
+  "starring": [
+    "Billy Presley",
+    "David Edwards",
+    "Sarah Thomas",
+    "John Martin",
+    "Evan Bauer",
+    "Stephanie Pink",
+    "Ronald Russell",
+    "Hanna Cook"
+  ],
+  "studio": "Peekaboo Films, Spearhead Entertainment",
+  "labels": [
+    "collection",
+    "horror",
+    "slasher"
+  ],
+  "credit": "Mubi",
+  "altHero": "Little Death holding a spear",
+  "alt1": "Camp Miasma",
+  "alt2": "Camp Miasma Part II: The Next Summer",
+  "alt3": "Camp Miasma 3D",
+  "alt4": "Camp Miasma Part IV: The Curse of Little Death",
+  "alt5": "Camp Miasma Part V: The Final Chapter",
+  "alt6": "Camp Miasma Part VI: A New Beginning",
+  "alt7": "Camp Miasma Part VII: Psychic Warriors",
+  "alt8": "Camp Miasma Part VIII: Little Death Takes Manhattan",
+  "alt9": "Camp Miasma Part IX: Slay Bells",
+  "alt10": "Medieval Miasma",
+  "alt11": "Camp Miasma Part XI: Little Death in Big Tokyo",
+  "alt12": "Miasma 3000",
+  "alt13": "Camp Miasma",
+  "alt14": "Camp Miasma Part XIV: Little Death Vs. Sleep Man",
+  "layout": "movie.pug",
+  "submovies": 14,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks",
+    "new on nestflix"
+  ],
+  "logoWidth": "360"
+}
