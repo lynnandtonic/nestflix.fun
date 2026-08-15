@@ -1,0 +1,28 @@
+{
+  "slug": "go-go-racer",
+  "title": "Go Go Racer",
+  "description": "Go Go Racer is a young car racer determined to win and to uncover corruption in the racing world.",
+  "quote": "But, Pop, I must. I must race in this race. I am a Racer. I race with speed, and racing with speed is what I must do.",
+  "parent": "The Fairly OddParents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "white #1 racing car crossing the checkered finish line",
+  "alt1": "a bunch of colorful racing cars at the starting line",
+  "alt2": "closeup of white #1 racing car",
+  "alt3": "coach looking cross-eyed",
+  "alt4": "man in racetrack tower waving checkered flag",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ]
+}
