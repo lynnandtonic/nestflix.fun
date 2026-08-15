@@ -1,0 +1,29 @@
+{
+  "slug": "blackbird-and-sparrow",
+  "title": "Blackbird and Sparrow",
+  "description": "Superhero Blackbird fights criminals and corruption with the help of his sidekick, Sparrow.",
+  "quote": "Curse you, Quizzler!",
+  "parent": "The Fairly OddParents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "superheroes"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Blackbird, a masked superhero with feathers coming out of his mask",
+  "alt1": "Blackbird spotlight in the sky",
+  "alt2": "mansion",
+  "alt3": "Sparrow superhero uniform on a mannequin",
+  "alt4": "Blackbird next to his car which is crashed and smoking",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "tv superheroes"
+  ]
+}
