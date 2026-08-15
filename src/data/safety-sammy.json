@@ -1,0 +1,28 @@
+{
+  "slug": "safety-sammy",
+  "title": "Safety Sammy’s Safety Guide",
+  "description": "How to be safe in an unsafe world with Safety Sammy.",
+  "quote": "The world is not your friend. There is danger lurking around every corner.",
+  "parent": "CatDog",
+  "parentYear": "1998-2005",
+  "parentIMDB": "0154061",
+  "rating": "Unrated",
+  "runtime": "21m",
+  "labels": [
+    "educational"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Safety Sammy, a paper puppet man, wearing a helmet and holding a matchbook",
+  "alt1": "Safety Sammy on fire",
+  "alt2": "Safety Sammy with some angry hazards: a car, scissors, and an electrical plug",
+  "alt3": "Safety Sammy on a ladder by a giant electrical outlet",
+  "alt4": "Safety Sammy jumping over a small pyramid and off a ledge",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ],
+  "logoWidth": "180"
+}
