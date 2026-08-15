@@ -1,0 +1,31 @@
+{
+  "slug": "everyone-is-horrible",
+  "title": "Everyone is Horrible",
+  "description": "Everyone continues to be horrible, and Squidward’s got the proof.",
+  "quote": "Horrible. Next.",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Squidward Tentacles"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Squidward looking frustrated at a desk",
+  "alt1": "Squidward looking up at a big photo of a guy eating out of a chum bucket and covered in food",
+  "alt2": "Squidward screaming while reading a piece of paper",
+  "alt3": "Squidward annoyed pointing at a picture of SpongeBob with eyes redacted",
+  "alt4": "Squidward pointing at a pulldown graphic of four people",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": ""
+}
