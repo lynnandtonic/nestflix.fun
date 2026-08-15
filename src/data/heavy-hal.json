@@ -1,0 +1,23 @@
+{
+  "slug": "heavy-hal",
+  "title": "Heavy Hal",
+  "description": "Daily life and musical adventures for Heavy Hal and the neighborhood kids.",
+  "quote": "Yo, Yo, Yo, join in the show.",
+  "parent": "The Fairly OddParents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Heavy Hal with a diverse group of friends all playing instruments",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": ""
+}
