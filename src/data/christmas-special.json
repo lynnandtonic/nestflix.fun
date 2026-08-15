@@ -1,0 +1,27 @@
+{
+  "slug": "christmas-special",
+  "title": "Christmas Special",
+  "description": "That nostalic Christmas special from your youth that you watch to truly get the holidays started.",
+  "parent": "The Fairly OddParents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "G",
+  "runtime": "34m",
+  "labels": [
+    "holiday",
+    "animation"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "two elves with a snowman",
+  "alt1": "Santa’s house in the North Pole",
+  "alt2": "reindeer",
+  "alt3": "snowman has come to life",
+  "alt4": "small reindeer flying in the air",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays"
+  ]
+}
