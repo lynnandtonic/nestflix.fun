@@ -1,0 +1,31 @@
+{
+  "slug": "labyrinth-guy",
+  "title": "Labyrinth Guy",
+  "description": "That guy, Neon, thinks he’s in a nightmare. but his nightmare is really reality. He doesn’t know reality is really computer-generated. So really his reality is really a nightmare. It’s just a metaphor for the alienation we all feel.",
+  "quote": "Here, the future is in your hands.",
+  "parent": "All Grown Up!",
+  "parentYear": "2003-2008",
+  "parentIMDB": "0387714",
+  "rating": "PG-13",
+  "runtime": "2h 13m",
+  "labels": [
+    "sci-fi",
+    "action",
+    "martial arts"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Neon sitting in an armchair",
+  "alt1": "black man wearing small sunglasses",
+  "alt2": "holding out two hands, each holding a different colored pill",
+  "alt3": "Neon and a woman on the rooftop",
+  "alt4": "three agents ready to fight",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films",
+    "new on nestflix"
+  ],
+  "logoWidth": "360"
+}
