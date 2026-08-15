@@ -1,0 +1,31 @@
+{
+  "slug": "fun-believable-with-rube",
+  "title": "Fun-Believable with Rube",
+  "description": "Rube Goldfish explores the amazing and unknown of Bikini Bottom. What you are about to see is gonna make you say, “That’s fun-believable.”",
+  "quote": "Yipe! Would you look at that? Amazing.",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Rube Goldfish"
+  ],
+  "labels": [
+    "talk show",
+    "travel"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Rube Goldfish posing inside a lifesaver",
+  "alt1": "Rube interviewing Nosferatu",
+  "alt2": "Rube interviewing an old fish and an extremely old worm",
+  "alt3": "Rube chatting with Sandy Cheeks",
+  "alt4": "Rube pointing at Patrick and SpongeBob spelling out “Fun Believable” with their bodies",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
