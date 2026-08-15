@@ -1,0 +1,24 @@
+{
+  "slug": "adolescent-genetically-modified-karate-cows",
+  "title": "Adolescent Genetically Modified Karate Cows",
+  "description": "Three genetically modified cow siblings protect their city with strategy and karate.",
+  "parent": "The Fairly OddParents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "creator": "Butch Hartman",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "three tough cows with colored face masks and karate weapons",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ],
+  "logoWidth": "270"
+}
