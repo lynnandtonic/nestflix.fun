@@ -1,0 +1,32 @@
+{
+  "slug": "scientifically-wonderful-world-of-science",
+  "title": "Scientifically Wonderful World of Science",
+  "description": "Scientist Chester V has devoted his life to inventing the future and speaks directly to children using the language of science.",
+  "quote": "Remember, there’s no such thing as small science. Only small scientists!",
+  "parent": "Cloudy with a Chance of Meatballs 2",
+  "parentYear": "2013",
+  "parentIMDB": "1985966",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "starring": [
+    "Chester V"
+  ],
+  "labels": [
+    "kids",
+    "educational",
+    "science"
+  ],
+  "credit": "Sony Pictures Animation",
+  "altHero": "Chester V, a scientist with green glasses, red beard, and labcoat",
+  "alt1": "photo of Chester V as a kid",
+  "alt2": "Chester V in the lab, pointing at a Food Bar XL",
+  "alt3": "Chester V in a dining room with some kids at a table with Food Bars",
+  "alt4": "Chester V with a bunch of kids holding Food Bars and he is holding Barb, his orangutan",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids science shows"
+  ]
+}
