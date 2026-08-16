@@ -1,0 +1,31 @@
+{
+  "slug": "managing-motivation-for-managers",
+  "title": "Managing Motivation for Managers, Motivational Techniques",
+  "description": "Joan Kranden teaches motivational techniques for office managers including positive reinforcement, mentorship, reverse psychology, and gamification.",
+  "quote": "A machine will never replace you. Great job!",
+  "parent": "Regular Show: The Lost Tapes",
+  "parentYear": "2026-Present",
+  "parentIMDB": "32604054",
+  "rating": "Unrated",
+  "runtime": "37m",
+  "starring": [
+    "Joan Kranden"
+  ],
+  "labels": [
+    "educational",
+    "self-help"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Joan Kranden, a black woman with ’90s hair and big shoulder pads",
+  "alt1": "Joan in an office with the words “Positive reinforcement”",
+  "alt2": "Joan boosted up and looking over the door of a restroom stall",
+  "alt3": "guy mopping a gym floor and giving a huge thumbs up",
+  "alt4": "Joan turning to the camera while speaking to a group of office workers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "education and development"
+  ]
+}
