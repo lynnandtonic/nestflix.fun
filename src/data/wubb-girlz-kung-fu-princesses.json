@@ -1,0 +1,30 @@
+{
+  "slug": "wubb-girlz-kung-fu-princesses",
+  "title": "Wubb Girlz Kung Fu Princesses: Attack of the Dirty Sock Monster",
+  "description": "The Wubb Girlz in their feature film debut. Shine, Sparkle, and Shimmer must face off with the big baddie of dirty laundry. They’ll have to kung fu their way out of this.",
+  "quote": "Wait, what’s that odor? It smells like dirty socks!",
+  "parent": "Wow! Wow! Wubbzy!",
+  "parentYear": "2006-2010",
+  "parentIMDB": "0762067",
+  "rating": "PG",
+  "runtime": "1h 35m",
+  "studio": "Wuzzlewood Studios",
+  "labels": [
+    "action",
+    "martial arts"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Wubb Girlz flying through the air",
+  "alt1": "Wubb girl pointing",
+  "alt2": "Wubb Girlz",
+  "alt3": "dirty sock monster",
+  "alt4": "Wubb Girlz standing on a giant washing machine",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ],
+  "logoWidth": "400"
+}
