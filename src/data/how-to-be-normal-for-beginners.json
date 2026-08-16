@@ -1,0 +1,29 @@
+{
+  "slug": "how-to-be-normal-for-beginners",
+  "title": "How to Be Normal for Beginners",
+  "description": "Are you tired of being called a freak? Do people throw you out of their homes? Well, do they? Let’s go on a journey into normality.",
+  "quote": "Here is your typical average Joe on his way to work. See how he is dressed. Even his hair is boring.",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "Unrated",
+  "runtime": "34m",
+  "labels": [
+    "educational",
+    "self-help"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "host in a suit",
+  "alt1": "basic blonde fish guy in work attire standing in the doorway of a house",
+  "alt2": "rows of cubicles, each with the same looking fish guy working in it",
+  "alt3": "nametag: Hello my name is Mr. Normal",
+  "alt4": "two identical fish guys holding coffee and about to pass each other in the office",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "education and development"
+  ],
+  "logoWidth": "220"
+}
