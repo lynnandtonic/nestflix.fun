@@ -1,0 +1,30 @@
+{
+  "slug": "solar-eclipse-of-the-night-3",
+  "title": "Solar Eclipse of the Night 3",
+  "description": "The final chapter of the <em>Solar Eclipse of the Night</em> saga, where Lara must finally choose between her two vampire lovers, Chrstopher and Jared.",
+  "quote": "When you leave, my heart weeps, so stay with me, my love.",
+  "parent": "We Bare Bears",
+  "parentYear": "2015-2019",
+  "parentIMDB": "4839610",
+  "rating": "PG-13",
+  "runtime": "2h 3m",
+  "labels": [
+    "romantic drama",
+    "fantasy",
+    "vampires"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "vampire Christopher with his hand on Lara’s cheek",
+  "alt1": "Christopher pining while leaning against a tree",
+  "alt2": "Jared standing in the rain",
+  "alt3": "Jared and Christopher facing off",
+  "alt4": "Christopher and Lara in a pool of dark water, Jared is sitting nearby",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas",
+    "new on nestflix"
+  ]
+}
