@@ -1,0 +1,33 @@
+{
+  "slug": "top-felon",
+  "title": "Top Felon",
+  "description": "The show where spring break’s sexiest, wildest lawbreakers compete for a chance to be pardoned. One lucky felon can get back to spring breaking. The rest will be sent to prison labor camps stuffing them little cotton balls into bottles of medicine.",
+  "quote": "I’m here to make bail, not to make friends.",
+  "parent": "Teenage Euthanasia",
+  "parentYear": "2021-2023",
+  "parentIMDB": "13641028",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "starring": [
+    "Little Flor-Ida"
+  ],
+  "labels": [
+    "reality competition",
+    "crime",
+    "inside prison"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "prisoners wearing jail orange, but sexy outfits",
+  "alt1": "host Little Flor-Ida holding a Ffizer medicine bottle",
+  "alt2": "intro card for prisoner named Orange",
+  "alt3": "little Russian grandma prisoner talking with Little Flor-Ida",
+  "alt4": "two prisoners being taken off in handcuffs while others dance on top of cars in front of a spring break audience",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv"
+  ],
+  "logoWidth": "280"
+}
