@@ -1,0 +1,30 @@
+{
+  "slug": "the-science-of-jurassic-park",
+  "title": "The Science of Jurassic Park",
+  "description": "Discover how the dinosaurs at Jurassic Park were created from fossilized DNA.",
+  "quote": "Bingo! Dino DNA!",
+  "parent": "Jurassic Park",
+  "parentYear": "1993",
+  "parentIMDB": "0107290",
+  "rating": "Unrated",
+  "runtime": "17m",
+  "producer": "John Hammond",
+  "labels": [
+    "educational",
+    "science",
+    "dinosaurs"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Mr. DNA, a little strand of DNA character",
+  "alt1": "full mosquito on a tree branch, a dinosaur is below",
+  "alt2": "men digging deep into the earth",
+  "alt3": "scientist pulling samples from a mosquito trapped in amber",
+  "alt4": "a dinosaur egg cracking open",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "education and development"
+  ]
+}
