@@ -1,0 +1,40 @@
+{
+  "slug": "penny-pinchers",
+  "title": "Penny Pinchers",
+  "description": "Comedic legends Pinky and the Brain stumble upon a small fortune and discover the difficulties in keeping it.",
+  "quote": "Look Brain! A penny! It’s our lucky day!",
+  "parent": "Pinky and the Brain",
+  "parentYear": "1995-1998",
+  "parentIMDB": "0112123",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "starring": [
+    "Pinky",
+    "Brain",
+    "Bruce Largent"
+  ],
+  "director": [
+    "K. Jepson"
+  ],
+  "producer": "Hal Slug",
+  "labels": [
+    "short film",
+    "comedy",
+    "silent"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Pinky and Brain standing on the street next to a penny",
+  "alt1": "Pinky and Brain chasing the penny as it rolls down the street",
+  "alt2": "a man’s shoe stomps on and squashes Brain as Pinky cringes",
+  "alt3": "Pink holds the penny out with two hands",
+  "alt4": "a safe has fallen on Brain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "hollywood’s golden age"
+  ],
+  "logoWidth": ""
+}
