@@ -1,0 +1,31 @@
+{
+  "slug": "hatties-tea-party",
+  "title": "Hattie’s Tea Party",
+  "description": "Hattie Tetch delivers news, gossip, and exclusive interviews with prominent people of Gotham. ",
+  "quote": "They don’t call me The Mad Hatter of News for nothing.",
+  "parent": "Batman: Caped Crusader",
+  "parentYear": "2024-Present",
+  "parentIMDB": "14681596",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Hattie Tetch"
+  ],
+  "studio": "Monoscope Pictures",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Amazon Prime Video",
+  "altHero": "Hattie Tetch, a proper looking woman sitting on an armchair and drinking tea",
+  "alt1": "Hattie Tetch",
+  "alt2": "Hattie Tetch speaking with Commissioner Gordon",
+  "alt3": "Hattie Tetch",
+  "alt4": "Hattie Tetch drinking tea",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
