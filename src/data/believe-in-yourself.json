@@ -1,0 +1,22 @@
+{
+  "slug": "believe-in-yourself",
+  "title": "Believe in Yourself!",
+  "description": "Shimmery Twinkleheart boosts kids’ self-esteem through encouragement and good deeds.",
+  "quote": "You did it, Cinnamon. Because you believed in yourself",
+  "parent": "Gravity Falls",
+  "parentYear": "2012-2016",
+  "parentIMDB": "1865718",
+  "rating": "TV-Y",
+  "runtime": "628 episodes",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Shimmery Twinkleheart, Cinnamon, and a captured thief",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
