@@ -1,0 +1,27 @@
+{
+  "slug": "the-daily-bugle",
+  "title": "The Daily Bugle",
+  "description": "Former reporter J. Jonah Jameson delivers the latest news in New York City and endeavors to prove that Spider-Man is a menace to society.",
+  "parent": "Spider-Man: No Way Home",
+  "parentYear": "2021",
+  "parentIMDB": "10872600",
+  "rating": "Unrated",
+  "runtime": "3 seasons",
+  "starring": [
+    "J. Jonah Jameson"
+  ],
+  "labels": [
+    "talk show",
+    "politics"
+  ],
+  "credit": "Sony Pictures Releasing",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "web series",
+    "political talk shows",
+    "web shows"
+  ],
+  "logoWidth": "230"
+}
