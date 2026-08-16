@@ -1,0 +1,28 @@
+{
+  "slug": "up-and-away",
+  "title": "Up & Away!",
+  "seo": "up and away",
+  "description": "Triad (Squalo Mechanicals, Carrion Motors, and Fuchs Industrial) present information about their rocket technology and ultrium, a brand new fuel source.",
+  "quote": "It’s time for humanity to blast off!",
+  "parent": "Batman: Caped Crusader",
+  "parentYear": "2024-Present",
+  "parentIMDB": "14681596",
+  "rating": "Unrated",
+  "runtime": "20m",
+  "labels": [
+    "educational"
+  ],
+  "credit": "Amazon Prime Video",
+  "altHero": "host with space background and astronaut, space station imagery",
+  "alt1": "soup line",
+  "alt2": "soldiers at war",
+  "alt3": "military tank",
+  "alt4": "rocket launching",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "education and development"
+  ]
+}
