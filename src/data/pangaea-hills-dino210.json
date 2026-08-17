@@ -1,0 +1,26 @@
+{
+  "slug": "pangaea-hills-dino210",
+  "title": "Pangaea Hills, Dino210",
+  "description": "A drama that deals with real issues confronting contemporary teenagers today.",
+  "quote": "Damien, we need to talk. I think I may be in trouble.",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-14",
+  "runtime": "10 seasons",
+  "studio": "ABC",
+  "labels": [
+    "teens",
+    "teen drama"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "a teen boy and girl talking in the cafeteria, the girl has a dinosaur egg",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "teen drama series",
+    "tv for teens"
+  ],
+  "logoWidth": "180"
+}
