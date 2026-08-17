@@ -1,0 +1,28 @@
+{
+  "slug": "the-lambshank-redemption",
+  "title": "The Lambshank Redemption",
+  "description": "The story of Candy Dufresne, who is sentenced to life in Shawshank State Penitentiary for murder, despite his claims of innocence.",
+  "quote": "Get busy living or get busy dying.",
+  "parent": "Sausage Party: Foodtopia",
+  "parentYear": "2024-2025",
+  "parentIMDB": "23036426",
+  "rating": "R",
+  "runtime": "2h 22m",
+  "labels": [
+    "drama"
+  ],
+  "credit": "Amazon MGM Studios",
+  "altHero": "Candy Dufresne, a lollipop, standing triumphant with his arms raised in the rain",
+  "alt1": "Shawshank prison at night",
+  "alt2": "Candy Dufresne poking his head out of a large pipe draining into a stream",
+  "alt3": "Candy Dufresne wading through the water",
+  "alt4": "a red van travels down the road",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ],
+  "logoWidth": "300"
+}
