@@ -1,0 +1,23 @@
+{
+  "slug": "exploding-cop",
+  "title": "Exploding Cop",
+  "description": "He was just an ordinary cop. Then one day they killed his partner, his wife, his kids, his parents, and his travel agent. Then they ran over his dog a couple of times. Now he’s angry. He’s way past the boiling point.",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "R",
+  "runtime": "1h 37m",
+  "labels": [
+    "action",
+    "crime"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "dinosaur cop with smoke emerging from all over his body",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ],
+  "logoWidth": "230"
+}
