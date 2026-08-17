@@ -1,0 +1,25 @@
+{
+  "slug": "house-full-of-dads",
+  "title": "House Full of Dads",
+  "description": "Life can be a little loud when you’ve got a house full of dads.",
+  "quote": "Daddy, will you please read me a bedtime story?",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "studio": "ABC",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "little kid dinosaur in bed while a dozen dad dinosaurs read to her simultaneously",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ],
+  "logoWidth": ""
+}
