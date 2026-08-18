@@ -1,0 +1,30 @@
+{
+  "slug": "the-love-matic-grampa",
+  "title": "The Love-Matic Grampa",
+  "description": "Moe the bartender discovers his love testing machine has been taken over by the ghost of Abe Simpson, who is here to help him with his romantic problems.",
+  "quote": "Hey, I don’t need no advice from no pinball machine.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "1 episode",
+  "creator": "Matt Groening",
+  "labels": [
+    "sitcom",
+    "pilot"
+  ],
+  "credit": "20th Television",
+  "altHero": "Moe pointing and smiling at a light-up love testing machine",
+  "alt1": "Moe cleaning the bar looking sad",
+  "alt2": "Moe thinking next to the love machine",
+  "alt3": "Moe smiling at a woman using the machine",
+  "alt4": "Moe and the woman holding hands in front of the machine",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "220"
+}
