@@ -1,0 +1,28 @@
+{
+  "slug": "logomania",
+  "title": "Logomania",
+  "description": "A satirical action film examining the over-marketed, corporate world we live in.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG",
+  "runtime": "16m",
+  "labels": [
+    "short film",
+    "action"
+  ],
+  "credit": "20th Television",
+  "altHero": "a city where every building features a corporate brand, a cute but huge monster crashes through the city",
+  "alt1": "elf in a car next to a giant slurpee",
+  "alt2": "blonde Stacy in a car giggling as the Burly paper towel guy flexes in the car next to her",
+  "alt3": "monster holding Stacy in its hand climbs a giant Buzz Cola can",
+  "alt4": "Stacy and the elf flying through the air with more branded buildings behind them",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ],
+  "logoWidth": ""
+}
