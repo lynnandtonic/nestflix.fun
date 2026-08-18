@@ -1,0 +1,25 @@
+{
+  "slug": "that-happy-cat",
+  "title": "That Happy Cat",
+  "description": "1928’s poorly recieved short film featuring Scratchy in his film debut.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "5m",
+  "labels": [
+    "short film",
+    "comedy",
+    "animation"
+  ],
+  "credit": "20th Television",
+  "altHero": "black and white, old-fashioned Scratchy in a fedora walking down the street",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts",
+    "hollywood’s golden age"
+  ],
+  "logoWidth": "170"
+}
