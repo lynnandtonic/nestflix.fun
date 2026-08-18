@@ -1,0 +1,31 @@
+{
+  "slug": "worlds-deadliest-executions",
+  "title": "World’s Deadliest Executions",
+  "description": "From the producers of <em>When Skirts Fall Off</em> and <em>Secrets of National Security Revealed</em> comes a closer look at the toughest Death Row criminals and their deadly executions.",
+  "quote": "All right! Now let’s get this carcass over to the hospital and carve it up for organs.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "starring": [
+    "Ed McMahon"
+  ],
+  "labels": [
+    "reality",
+    "crime"
+  ],
+  "credit": "20th Television",
+  "altHero": "Ed McMahon in front of an electric chair",
+  "alt1": "cop and showgirls walking a prisoner through two bleachers of audience toward the electric chair",
+  "alt2": "showgirls presenting the prisoner in the chair",
+  "alt3": "prisoner getting electrocuted",
+  "alt4": "Chief Wiggum, Ed McMahon, and the showgirls coughing at the smoke",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv"
+  ]
+}
