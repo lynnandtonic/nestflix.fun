@@ -42,6 +42,7 @@ function readAllJsonFiles() {
                 'tv special',
                 'web series',
                 'video series',
+                'video',
                 'search',
             ].map((it) => it.toLowerCase()),
         },
