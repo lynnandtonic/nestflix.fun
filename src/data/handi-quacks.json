@@ -1,0 +1,30 @@
+{
+  "slug": "handi-quacks",
+  "title": "Handi-Quacks",
+  "description": "One day, three ducks were crossing the road going to get some soda, but they weren’t looking where they were going and a bus came along and hit them all. Now they’re handicapped and that’s pretty much it!",
+  "quote": "Our palms are slippery and sweaty because of the heat from that new wood stove we just bought.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "creator": "Peter Griffin",
+  "labels": [
+    "comedy",
+    "pilot"
+  ],
+  "credit": "20th Television",
+  "altHero": "scribbly hand-drawn picture of a city and three ducks: blue, purple, and yellow",
+  "alt1": "the handi-quacks crossing the street",
+  "alt2": "the handi-quacks getting hit by a bus",
+  "alt3": "the handi-quacks injured on the road",
+  "alt4": "the handi-quacks, now disabled, in their home playing cards next to a wood stove",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "amateur filmmakers"
+  ],
+  "logoWidth": "200"
+}
