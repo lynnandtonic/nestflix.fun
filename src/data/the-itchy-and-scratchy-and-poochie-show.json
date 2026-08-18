@@ -1,0 +1,31 @@
+{
+  "slug": "the-itchy-and-scratchy-and-poochie-show",
+  "title": "The Itchy & Scratchy & Poochie Show",
+  "description": "The short-lived series featuring Poochie, a dog with attitude, who joins the iconic Itchy and Scratchy.",
+  "quote": "Hey, kids, always recycle… to the extreme!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "2 episodes",
+  "studio": "I&S Studios",
+  "labels": [
+    "kids",
+    "comedy",
+    "animation"
+  ],
+  "credit": "20th Television",
+  "altHero": "Itchy and Scratchy and Poochie, a dog in a backwards cap",
+  "alt1": "Poochie hitch hiking and holding a surfboard as Itchy and Scratchy drive by",
+  "alt2": "Poochie playing an electric guitar",
+  "alt3": "Poochie in a car reaching out to Scratchy",
+  "alt4": "Itchy chainsawing Scratchy who is stuck in a block of ice, they are talking to Poochie",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": ""
+}
