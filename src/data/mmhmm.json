@@ -1,0 +1,23 @@
+{
+  "slug": "mmhmm",
+  "title": "Mmhmm!",
+  "description": "It’s comedy gold when this group of ladies with attitude start speaking their minds.",
+  "quote": "Mmhmm!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "20th Television",
+  "altHero": "three Black women sitting at a kitchen table",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "270"
+}
