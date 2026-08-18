@@ -1,0 +1,26 @@
+{
+  "slug": "gotham-insider",
+  "title": "Gotham Insider",
+  "description": "Summer Gleeson explores the latest news in Gotham entertainment, celebrities, and prominent people.",
+  "parent": "Batman: The Animated Series",
+  "parentYear": "1992-1995",
+  "parentIMDB": "0103359",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "starring": [
+    "Summer Gleeson"
+  ],
+  "labels": [
+    "talk show",
+    "entertainment"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "entertainment commentary"
+  ],
+  "logoWidth": "350"
+}
