@@ -1,0 +1,33 @@
+{
+  "slug": "rock-bottom",
+  "title": "Rock Bottom",
+  "description": "Godfrey Jones shines a light on the lowest of the low in our society.",
+  "quote": "She was a university honors student who devoted her life to kids, unntil the night a grossly overweight pervert gave her a crash course in depravity.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-14",
+  "runtime": "7 seasons",
+  "starring": [
+    "Godfrey Jones"
+  ],
+  "labels": [
+    "reality",
+    "documentary",
+    "real crime"
+  ],
+  "credit": "20th Television",
+  "altHero": "Godfrey Jones in a newsroom",
+  "alt1": "farm worker in front of a barn",
+  "alt2": "Homer Simpson with text “Babysitter and the Beast”",
+  "alt3": "Godfrey Jones screaming",
+  "alt4": "Groundskeeper Willie with text “Rowdy roddy peeper”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv"
+  ],
+  "logoWidth": "220"
+}
