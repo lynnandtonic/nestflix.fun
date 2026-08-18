@@ -1,0 +1,24 @@
+{
+  "slug": "bin-laden-in-a-blender",
+  "title": "Bin Laden in a Blender",
+  "description": "The popular animated internet cartoon that delivers what it promises.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "studio": "BetterThanTV.com",
+  "labels": [
+    "comedy",
+    "animation"
+  ],
+  "credit": "20th Television",
+  "altHero": "a blender in a cave holding water and a tiny Bin Laden, a hand is reaching to turn it on",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "web series",
+    "web shows"
+  ],
+  "logoWidth": "220"
+}
