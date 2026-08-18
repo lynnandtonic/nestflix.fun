@@ -1,0 +1,32 @@
+{
+  "slug": "happy-times",
+  "title": "Happy Times",
+  "description": "The classic, groundbreaking ’70s show about a Black family living in America.",
+  "quote": "That is not my job!",
+  "parent": "Drake & Josh",
+  "parentYear": "2004-2007",
+  "parentIMDB": "0363328",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Helen Dubois"
+  ],
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Helen Dubois, a young Black girl reading a book",
+  "alt1": "brother and sister in the living room",
+  "alt2": "brother talking",
+  "alt3": "brother threw a football and knocked items off the coffee table",
+  "alt4": "mom is angry",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ],
+  "logoWidth": "270"
+}
