@@ -1,0 +1,30 @@
+{
+  "slug": "cat-and-mouse",
+  "title": "Cat and Mouse",
+  "description": "A tension-packed half hour where contestants answer questions and complete puzzles to win the star prize.",
+  "parent": "EastEnders",
+  "parentYear": "1985-Present",
+  "parentIMDB": "0088512",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Dave Right"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "BBC One",
+  "altHero": "host Dave Right in a silver suit",
+  "alt1": "Dave Right welcomes contestants to the stage",
+  "alt2": "assistant holds up a golden mouse trap",
+  "alt3": "a contestant wearing mouse ears and nose",
+  "alt4": "two contestants wearing cat and mouse ears",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ],
+  "logoWidth": "230"
+}
