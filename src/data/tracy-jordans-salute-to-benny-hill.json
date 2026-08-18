@@ -1,0 +1,25 @@
+{
+  "slug": "tracy-jordans-salute-to-benny-hill",
+  "title": "Tracy Jordan’s Salute to Benny Hill",
+  "description": "Tracy Jordan’s 3-hour television special dedicated to the comedy and legacy of Benny Hill.",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "parentIMDB": "0496424",
+  "rating": "TV-PG",
+  "runtime": "3h",
+  "starring": [
+    "Tracy Jordan"
+  ],
+  "studio": "NBC",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "Tracy Jordan dressed as Benny Hill with a nurse and a priest in the park",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV special",
+    "comedy tv"
+  ]
+}
