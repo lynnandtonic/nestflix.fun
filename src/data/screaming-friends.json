@@ -1,0 +1,24 @@
+{
+  "slug": "screaming-friends",
+  "title": "Screaming Friends",
+  "description": "The surreal misadventures of a company dedicated to spreading terror. Obviously, the jokes are great, but what you’ll love is the storytelling.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "labels": [
+    "comedy",
+    "animation"
+  ],
+  "credit": "20th Television",
+  "altHero": "cour cartoon characters screaming in a kitchen, one is a toaster on a skateboard, one is a blue baby with a chainsaw, one is a parking cone, and one is a drunk Magic 8 ball",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv",
+    "new on nestflix"
+  ],
+  "logoWidth": "220"
+}
