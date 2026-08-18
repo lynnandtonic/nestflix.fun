@@ -1,0 +1,29 @@
+{
+  "slug": "nuclear-energy-our-misunderstood-friend",
+  "title": "Nuclear Energy: Our Misunderstood Friend",
+  "description": "Smilin’ Joe Fission is your atomic tour guide to the strange and exciting world of nuclear power.",
+  "quote": "Of course we’re hot. We’re radioactive!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "labels": [
+    "educational",
+    "science"
+  ],
+  "credit": "20th Television",
+  "altHero": "Smilin’ Joe Fission, an atom with a cowboy hat",
+  "alt1": "a family surrounded by lots of electronics",
+  "alt2": "Smilin’ Joe Fission with three fuel rods",
+  "alt3": "a look inside a nuclear reactor",
+  "alt4": "Smilin’ Joe Fission brushing nuclear waste under a rug",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ],
+  "logoWidth": ""
+}
