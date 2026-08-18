@@ -1,0 +1,30 @@
+{
+  "slug": "the-itchem-and-scratchem-blow",
+  "title": "The Itchem and Scratchem Blow",
+  "description": "The famous animated dueling duo! But with new Jamaican flair!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "studio": "I&S Studios",
+  "labels": [
+    "kids",
+    "comedy",
+    "animation"
+  ],
+  "credit": "20th Television",
+  "altHero": "Itchem wearing Jamaican clothing and holding a bong, Scratchem with dreadlocks and holding a blunt",
+  "alt1": "Itchem lighting Scratchem’s dreadlocks on fire",
+  "alt2": "Itchem laying Scratchem down on a towel",
+  "alt3": "Itchem smoking a huge blunt with Scratchem inside",
+  "alt4": "Itchem making peace signs with his hands that are covered in Scratchem’s eye goo",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}
