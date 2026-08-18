@@ -1,0 +1,32 @@
+{
+  "slug": "the-half-assed-approach-to-foundation-repair",
+  "title": "The Half-Assed Approach to Foundation Repair",
+  "description": "Troy McClure takes you through the do’s and do-not-do’s of foundation repair.",
+  "quote": "Now, do you have extruded polyvinyl foam insulation?",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "6h",
+  "starring": [
+    "Troy McClure"
+  ],
+  "labels": [
+    "educational",
+    "home improvement",
+    "diy"
+  ],
+  "credit": "20th Television",
+  "altHero": "Troy McClure wearing overalls, holding a bucket and trowel, in front of a crack in the wall",
+  "alt1": "McClure in front of some stairs",
+  "alt2": "McClure with foam insulation",
+  "alt3": "McClure painting a board",
+  "alt4": "McClure with a trowel in front of a crack and some chicken wire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "home, diy, and art"
+  ]
+}

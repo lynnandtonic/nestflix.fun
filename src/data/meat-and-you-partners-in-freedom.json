@@ -1,0 +1,32 @@
+{
+  "slug": "meat-and-you-partners-in-freedom",
+  "title": "Meat And You: Partners In Freedom",
+  "description": "Troy McClure visits a stockyard and shows how meat gets from the ranch to your stomach.",
+  "quote": "I was a grade A moron to ever question eating meat!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "6m",
+  "starring": [
+    "Troy McClure"
+  ],
+  "labels": [
+    "educational",
+    "food"
+  ],
+  "credit": "20th Television",
+  "altHero": "Troy McClure, dressed as a cowboy, with a young kid near a pen of cows",
+  "alt1": "a cow",
+  "alt2": "food chain diagram with a bunch of animals just pointing to a human",
+  "alt3": "McClure with the boy who has a steak on a plate",
+  "alt4": "the factory is dumping meat into the back of a truck that says “Meat for You”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "educational videos"
+  ],
+  "logoWidth": "300"
+}
