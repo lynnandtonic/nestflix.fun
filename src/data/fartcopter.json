@@ -1,0 +1,28 @@
+{
+  "slug": "fartcopter",
+  "title": "Fartcopter",
+  "description": "Fartcopter is on the scene. The nation’s capitol gets a dose of copter farts. Fartcopter reviews the new Tyler Perry movie. Endangered animals… endangered of copter farts. And kids seem to be falling in love with Fartcopter.",
+  "quote": "[fart noises]",
+  "parent": "Childrens Hospital",
+  "parentYear": "2010-2016",
+  "parentIMDB": "1325113",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "glowing Fartcopter",
+  "alt1": "little remote control Fartcopter at the U.S. Capitol",
+  "alt2": "Black couple embracing and Fartcopteris flying nearby",
+  "alt3": "Fartcopter by a panda bear",
+  "alt4": "Fartcopter circling a boy and girl cuddling on a couch",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ],
+  "logoWidth": "230"
+}
