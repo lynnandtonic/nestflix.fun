@@ -1,0 +1,29 @@
+{
+  "slug": "big-jaws",
+  "title": "Big Jaws",
+  "description": "You think you know the scariest thing in the water. Well, prepare yourself for something bigger.",
+  "quote": "Oh my god! Now we have a common enemy. We have to work together.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "PG",
+  "runtime": "1h 23m",
+  "creator": "Peter Griffin",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "20th Television",
+  "altHero": "a huge shark jumping out of the water, a smaller shark and boat in the background",
+  "alt1": "shark eating the back of a boat, two men trying to fight it off",
+  "alt2": "closeup of the shark and men",
+  "alt3": "the men looking into the distance with worry",
+  "alt4": "shark cringing with wide eyes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
