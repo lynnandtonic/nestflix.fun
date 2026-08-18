@@ -1,0 +1,27 @@
+{
+  "slug": "the-picnic",
+  "title": "The Picnic",
+  "description": "He used to eat in the park all alone, until a woman with unique tastes arrived in his life.",
+  "quote": "You mean this picnic is ruining our ants!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "PG",
+  "runtime": "1h 37m",
+  "starring": [
+    "Jude Law",
+    "Renee Zellwegger"
+  ],
+  "labels": [
+    "romantic comedy"
+  ],
+  "credit": "20th Television",
+  "altHero": "Jude Law on a picnic blanket with Renee Zellwegger who has an elongated nose and is eating up some ants",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies"
+  ],
+  "logoWidth": "200"
+}
