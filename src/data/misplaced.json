@@ -1,0 +1,24 @@
+{
+  "slug": "misplaced",
+  "title": "Misplaced",
+  "description": "Survivors crash land on a remote island and discover it holds many mysteries as they encounter giant pandas, hurricanes, trolls, unicorns, and more.",
+  "quote": "The answer is so simple.",
+  "parent": "Foster’s Home for Imaginary Friends",
+  "parentYear": "2004-2009",
+  "parentIMDB": "0419326",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "labels": [
+    "sci-fi",
+    "adventure",
+    "mystery"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a diverse group of people listen to a bald man with an eye patch looking at a map",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ]
+}
