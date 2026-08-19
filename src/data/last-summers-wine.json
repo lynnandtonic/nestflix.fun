@@ -1,0 +1,31 @@
+{
+  "slug": "last-summers-wine",
+  "title": "Last Summer’s Wine",
+  "description": "Action star Rod Tango takes a dramatic turn, playing a man who discovers a quiet life amongst the grapes.",
+  "quote": "There’s something magic about this place. It’s in the soil.",
+  "parent": "Foster’s Home for Imaginary Friends",
+  "parentYear": "2004-2009",
+  "parentIMDB": "0419326",
+  "rating": "PG",
+  "runtime": "1h 42m",
+  "starring": [
+    "Rod Tango"
+  ],
+  "labels": [
+    "drama"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Rod Tango as a waiter sniffing some grapes next to a table with two women",
+  "alt1": "Rod Tango as a waiter, with his face tattoo and big gold earring",
+  "alt2": "Rod Tango romancing one of the women",
+  "alt3": "Rod Tango bringing out a bottle of wine",
+  "alt4": "Rod Tango gardening, while wearing a purple apron and sun hat",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ],
+  "logoWidth": "220"
+}
