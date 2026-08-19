@@ -1,0 +1,24 @@
+{
+  "slug": "whats-the-big-deo",
+  "title": "What’s the Big Deo?",
+  "description": "Deo, the deodorant ally, is navigating life as a bumbling suburban father.",
+  "quote": "What’s the big deo?",
+  "parent": "Foster’s Home for Imaginary Friends",
+  "parentYear": "2004-2009",
+  "parentIMDB": "0419326",
+  "rating": "TV-G",
+  "runtime": "2 episodes",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Bloo painting a trout orange in a kitchen as a human wife looks on",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ],
+  "logoWidth": "150"
+}
