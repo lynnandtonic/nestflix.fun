@@ -1,0 +1,29 @@
+{
+  "slug": "the-watts-worldtravelers",
+  "title": "The Watts Worldtravelers",
+  "description": "Basketball extraordinaires, The Watts Worldtravelers, solve local mysteries with the help of their cool dog, Afro Dog.",
+  "quote": "Man, we could double dribble our way out of this one!",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "parentIMDB": "4326894",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "mystery"
+  ],
+  "credit": "Netflix",
+  "altHero": "The Watts Worldtravelers basketball team spinning basketballs on their fingers with Colt Luger and Afro Dog",
+  "alt1": "one of the Worldtravelers spinning a basketball",
+  "alt2": "another of the Worldtravelers with a big afro",
+  "alt3": "Afro Dog",
+  "alt4": "the Worldtravelers, Colt Luger, and Afro Dog running through a discotheque",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ]
+}

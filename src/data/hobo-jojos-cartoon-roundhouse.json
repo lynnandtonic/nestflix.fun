@@ -1,0 +1,28 @@
+{
+  "slug": "hobo-jojos-cartoon-roundhouse",
+  "title": "Hobo JoJo’s Cartoon Roundhouse",
+  "description": "Hobo JoJo hosts your favorite block of morning cartoons and plays games with kids and families.",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "parentIMDB": "4326894",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "variety"
+  ],
+  "credit": "Netflix",
+  "altHero": "Hobo Jojo",
+  "alt1": "old-timey police officer",
+  "alt2": "Hobo Jojo next to a bin of gifts",
+  "alt3": "Hobo Jojo and the police officer next to a pregnant mom with two kids",
+  "alt4": "Hobo Jojo with two kids about to play ring toss",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows",
+    "new on nestflix"
+  ]
+}
