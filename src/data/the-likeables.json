@@ -1,0 +1,29 @@
+{
+  "slug": "the-likeables",
+  "title": "The Likeables",
+  "description": "It’s time for friends and pro-social fun with The Likeables.",
+  "quote": "Only when everybody looks alike and acts alike and thinks alike and never ever gets angry can we achieve world peace!",
+  "parent": "G.I. Joe: A Real American Hero",
+  "parentYear": "1985-1986",
+  "parentIMDB": "0086719",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "studio": "Cobra Television Network",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Sunbow Productions",
+  "altHero": "three green elf-like beings, The Likeables, in a miniature storybook village",
+  "alt1": "two green and one purple Likeables",
+  "alt2": "green girl Likeable producing sparkles from her hand",
+  "alt3": "purple Likeable sparkling",
+  "alt4": "green boy Likeable",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
