@@ -1,0 +1,28 @@
+{
+  "slug": "selling-arlen",
+  "title": "Selling Arlen",
+  "description": "Realtors John Redcorn and Nancy Gribble sell the most beautiful homes with great professional chemistry.",
+  "quote": "This will be our forever home.",
+  "parent": "King of the Hill",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118375",
+  "rating": "Unrated",
+  "runtime": "2 seasons",
+  "starring": [
+    "John Redcorn",
+    "Nancy Gribble"
+  ],
+  "labels": [
+    "reality",
+    "real estate"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "John Redcorn, a Native man, and Nancy Gribble, a blonde woman, in a staged house",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "web series",
+    "home, diy, and art",
+    "web shows"
+  ]
+}
