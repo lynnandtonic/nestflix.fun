@@ -1,0 +1,28 @@
+{
+  "slug": "doctor-money",
+  "title": "Doctor Money",
+  "description": "Congratulations, future millionaire. You’re about to learn Dr. Money’s wealth secrets.",
+  "quote": "So you want to make even more money? Well, I say, take a shortcut!",
+  "parent": "King of the Hill",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118375",
+  "rating": "Unrated",
+  "runtime": "6h",
+  "labels": [
+    "educational",
+    "finance"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Dr. Money, an Asian man in a tuxedo",
+  "alt1": "Dr. Money walking out of a horse-drawn carriage driven by two men in top hats",
+  "alt2": "Dr. Money by a pool with two women in bikinis",
+  "alt3": "Dr. Money wearing hunting gear and holding a rifle",
+  "alt4": "Dr. Money with two hot ladies holding a torn up sign with “Point A” and “Point B” printed on each piece",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "education and development"
+  ]
+}
