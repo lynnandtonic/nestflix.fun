@@ -1,0 +1,29 @@
+{
+  "slug": "the-ace-and-his-jewels",
+  "title": "The Ace and His Jewels",
+  "description": "The funniest highlights from The Ace of Diamonds and his Jewels, who take on local teams and use their crazy antics to raise money for charity.",
+  "quote": "Even pitching from the outfield, Ace is still throwing smoke.",
+  "parent": "King of the Hill",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118375",
+  "rating": "Unrated",
+  "runtime": "2h",
+  "labels": [
+    "sports",
+    "comedy"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "The Ace giving a shrug on the field",
+  "alt1": "The Ace on stilts",
+  "alt2": "a batter shocked at missing a pitch",
+  "alt3": "The Ace eating a sandwich on the field",
+  "alt4": "The Ace with a giant novelty check and three elder folks",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "sports films and series"
+  ],
+  "logoWidth": "220"
+}
