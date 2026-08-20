@@ -1,0 +1,31 @@
+{
+  "slug": "lizardzilla",
+  "title": "Lizardzilla",
+  "description": "Lizardzilla emerges from slumber and wreaks havoc on Tokyo.",
+  "parent": "Let’s Go Luna!",
+  "parentYear": "2018-2022",
+  "parentIMDB": "7200884",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "director": [
+    "Ishiro"
+  ],
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "Lizardzilla, a giant dinosaur with a kind face, smiling and holding a car",
+  "alt1": "Lizardzilla’s foot stomping on the pavement",
+  "alt2": "a deer screaming and pointing",
+  "alt3": "Lizardzilla from below, holding a car",
+  "alt4": "Lizardzilla sprinkling salt on the car",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ]
+}
