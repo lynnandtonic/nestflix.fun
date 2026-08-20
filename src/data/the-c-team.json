@@ -1,0 +1,27 @@
+{
+  "slug": "the-c-team",
+  "title": "The C Team",
+  "description": "A team of former special forces commandos showcase the power of Cobra Command.",
+  "quote": "I pity the fool who doesn’t join Cobra!",
+  "parent": "G.I. Joe: A Real American Hero",
+  "parentYear": "1985-1986",
+  "parentIMDB": "0086719",
+  "rating": "TV-PG",
+  "starring": [
+    "Mr. C"
+  ],
+  "runtime": "2 seasons",
+  "studio": "Cobra Television Network",
+  "labels": [
+    "action"
+  ],
+  "credit": "Sunbow Productions",
+  "altHero": "Mr. C, a bald tough guy with a hair letter C on his forehead",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv"
+  ],
+  "logoWidth": "140"
+}
