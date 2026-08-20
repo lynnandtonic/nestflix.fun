@@ -1,0 +1,39 @@
+{
+  "slug": "sheos",
+  "title": "Sheos",
+  "description": "A taut and gripping film in the Warhol tradition. Millions of years ago, man emerged from the ocean and took his first steps on dry land. The cave people had to put something on their feet.",
+  "quote": "Rosebud.",
+  "parent": "Married... with Children",
+  "parentYear": "1987-1997",
+  "parentIMDB": "0092400",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "starring": [
+    "Kelly Bundy",
+    "Al Bundy",
+    "Buck Bundy"
+  ],
+  "director": [
+    "Al Bundy"
+  ],
+  "producer": "Kelly Bundy",
+  "labels": [
+    "short film",
+    "arthouse",
+    "amateur"
+  ],
+  "credit": "Sony Pictures Television",
+  "altHero": "black and white shot of bare feet tied down to big rocks",
+  "alt1": "Al Bundy with a pole dangling a sandal in the air",
+  "alt2": "two bare feet standing on frying pans on the grass",
+  "alt3": "a dog and a shoe",
+  "alt4": "Kelly Bundy accepting a shoe from the hand of God",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ],
+  "logoWidth": "230"
+}
