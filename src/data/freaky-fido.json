@@ -1,0 +1,42 @@
+{
+  "slug": "freaky-fido",
+  "title": "Freaky Fido",
+  "description": "The timeless story of a misunderstood teen struggling to find acceptance in a harsh and judgemental world, when he swaps brains with a dog.",
+  "quote": "Fido, you’re not allowed to butt scoot on the carpet!",
+  "parent": "Dog with a Blog",
+  "parentYear": "2012-2015",
+  "parentIMDB": "2222135",
+  "rating": "G",
+  "runtime": "46m",
+  "starring": [
+    "Tyler James",
+    "Regan Burns",
+    "Ellen Jennings",
+    "Nikki Ortiz",
+    "Stan the dog"
+  ],
+  "director": [
+    "Avery Jennings"
+  ],
+  "labels": [
+    "family",
+    "comedy",
+    "amateur"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "teen girl with a dog on the couch",
+  "alt1": "teen boy holding a dog bowl and talking to his parents",
+  "alt2": "boy and dog being hit by lightning",
+  "alt3": "boy panting like a dog and the dog is talking with a fake mouth",
+  "alt4": "boy panting and butt scooting across the rug",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "kids and family films",
+    "amateur filmmakers",
+    "new on nestflix"
+  ],
+  "logoWidth": "320"
+}
