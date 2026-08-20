@@ -1,0 +1,29 @@
+{
+  "slug": "the-six-tasks-of-snowman-hank",
+  "title": "The Six Tasks of Snowman Hank",
+  "description": "The classic holiday special that warmed the hearts of children everywhere. Snowman Hank teaches kids the power of friends and turning bad guys good.",
+  "quote": "So put away those petty problems and embrace your fellow man.",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "parentIMDB": "0278866",
+  "rating": "TV-G",
+  "runtime": "47m",
+  "labels": [
+    "holiday",
+    "animation"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "Snowman Hank, a snowman playing a guitar, surrounded by dancing kids and animals",
+  "alt1": "Snowman Hank dancing with the kids and animals on the ranch",
+  "alt2": "a fox and a bunny hugging",
+  "alt3": "aerial shot of Snowman Hank and the dancing kids",
+  "alt4": "fox, snake, and bunny in front of a Christmas tree",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV special",
+    "for the holidays"
+  ],
+  "logoWidth": "350"
+}
