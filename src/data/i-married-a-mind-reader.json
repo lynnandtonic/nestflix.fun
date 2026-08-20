@@ -1,0 +1,32 @@
+{
+  "slug": "i-married-a-mind-reader",
+  "title": "I Married a Mind Reader",
+  "description": "The now infamous real-life couple, Henry Stoller and Abigail Marsh, play a husband whose wife has a secret talent.",
+  "quote": "Oh, Henry!",
+  "parent": "Medium",
+  "parentYear": "2005-2011",
+  "parentIMDB": "0412175",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Henry Stoller",
+    "Abigail Marsh"
+  ],
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Paramount Network Television",
+  "altHero": "Stoller and Marsh",
+  "alt1": "Marsh vacuuming",
+  "alt2": "Marsh looking at a diamond necklace",
+  "alt3": "Marsh smiling",
+  "alt4": "Stoller smiling",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "380"
+}
