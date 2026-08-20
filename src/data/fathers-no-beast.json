@@ -1,0 +1,30 @@
+{
+  "slug": "fathers-no-beast",
+  "title": "Father’s No Beast",
+  "description": "The story of a man who lives two lives. Good citizen by day and werewolf by night.",
+  "quote": "Don’t trust anybody! I could be your neighbor!",
+  "parent": "G.I. Joe: A Real American Hero",
+  "parentYear": "1985-1986",
+  "parentIMDB": "0086719",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "studio": "Cobra Television Network",
+  "labels": [
+    "sitcom",
+    "werewolves"
+  ],
+  "credit": "Sunbow Productions",
+  "altHero": "mirror reflection of werewolf man in a three-piece suit",
+  "alt1": "man walking toward a house",
+  "alt2": "man walking to look into a mirror on the wall",
+  "alt3": "man’s reflection",
+  "alt4": "werewolf man looking at the camera",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "180"
+}
