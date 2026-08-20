@@ -1,0 +1,42 @@
+{
+  "slug": "yankee-doodle-doctor",
+  "title": "Yankee Doodle Doctor",
+  "description": "What started as a serious documentary about surgeons in uniform, evolved into a slapstick comedy satire by the doctors themselves, commenting on the horror of trying to preserve what war destroys.",
+  "quote": "I think I just found my wristwatch. Or he’s giving birth to an alarm clock.",
+  "parent": "M*A*S*H",
+  "parentYear": "1972-1983",
+  "parentIMDB": "0068098",
+  "rating": "Unrated",
+  "runtime": "34m",
+  "starring": [
+    "Crandall Clayton",
+    "Hawkeye Pierce", 
+    "Radar O'Reilly",
+    "John McIntyre",
+    "Margie Cutler"
+  ],
+  "director": [
+    "Duane William Bricker",
+    "Henry Blake",
+    "Hawkeye Pierce"
+  ],
+  "labels": [
+    "comedy",
+    "war",
+    "amateur"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "military doctors in their boxers in silly poses",
+  "alt1": "doctor with silly glasses, fake mustache, and cigar",
+  "alt2": "doctor with crossed eyes and tongue out",
+  "alt3": "patient waking up as a doctor saws him in half",
+  "alt4": "doctor drinking champagne out of a woman’s shoe",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ],
+  "logoWidth": "190"
+}
