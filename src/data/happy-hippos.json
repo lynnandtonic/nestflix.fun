@@ -1,0 +1,22 @@
+{
+  "slug": "happy-hippos",
+  "title": "Happy Hippos",
+  "description": "They’re happy and they’re clappy. They’re the Happy Hippos! Happy, happy, happy from their head to their toes!",
+  "parent": "Horrid Henry",
+  "parentYear": "2006-2020",
+  "parentIMDB": "0985991",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Novel Entertainment",
+  "altHero": "three dancing and smiling hippos",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "250"
+}
