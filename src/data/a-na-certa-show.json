@@ -1,0 +1,30 @@
+{
+  "slug": "a-na-certa-show",
+  "title": "A ’Na Certa Show",
+  "description": "Mauro Coccodrello covers political and cultural moments and discusses the effects with special guests.",
+  "parent": "This World Can’t Tear Me Down",
+  "parentYear": "2023",
+  "parentIMDB": "27440006",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "starring": [
+    "Mauro Coccodrello"
+  ],
+  "labels": [
+    "talk show",
+    "politics"
+  ],
+  "credit": "Netflix",
+  "altHero": "Mauro Coccodrello",
+  "alt1": "Coccodrello on set",
+  "alt2": "neo-Nazi demonstration",
+  "alt3": "Coccodrello",
+  "alt4": "Coccodrello speaking with a guest",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "political talk shows"
+  ]
+}
