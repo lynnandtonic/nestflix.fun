@@ -1,0 +1,25 @@
+{
+  "slug": "dizzy-eat-world",
+  "title": "Dizzy Eat World",
+  "description": "An exploration of hunger and the nature of Earth’s nourishment.",
+  "parent": "Tiny Toon Adventures: How I Spent My Vacation",
+  "parentYear": "1992",
+  "parentIMDB": "0105598",
+  "rating": "Unrated",
+  "runtime": "21s",
+  "creator": "Dizzy Devil",
+  "labels": [
+    "short film",
+    "amateur",
+    "animation"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "crude crayon drawing of Dizzy with the earth in his mouth",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ],
+  "logoWidth": "180"
+}
