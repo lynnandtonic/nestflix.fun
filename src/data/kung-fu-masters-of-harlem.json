@@ -1,0 +1,32 @@
+{
+  "slug": "kung-fu-masters-of-harlem",
+  "title": "Kung Fu Masters of Harlem",
+  "description": "Action star Jack Stone takes on a new opponent, kung fu master Khan and his horde of ninjas.",
+  "quote": "If that’s the way you want it… it’s on!",
+  "parent": "The Proud Family",
+  "parentYear": "2001-2005",
+  "parentIMDB": "0293737",
+  "rating": "PG",
+  "runtime": "1h 43m",
+  "starring": [
+    "Jack Stone"
+  ],
+  "labels": [
+    "action",
+    "martial arts"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "shirtless Jack Stone, a buff Black man with an afro",
+  "alt1": "Stone surrounded by four spears stuck in the ground",
+  "alt2": "four ninjas stand guard as a shadowy figure walks down a temple hallway",
+  "alt3": "Stone surrounded by a circle of ninjas in black and an even bigger circle of ninjas in red",
+  "alt4": "Khan, a wiry man with an eye patch and twirling a stringy beard",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
