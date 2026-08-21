@@ -1,0 +1,29 @@
+{
+  "slug": "jester-bolawskis-medieval-torture-hour",
+  "title": "Jester Bolawski’s Medieval Torture Hour",
+  "description": "Join Jester Bolawski for an hour of comedy, hijinks, and medieval torture.",
+  "quote": "Would you like your eyes sucked out by a goat, then replaced with some hot toffee apples?",
+  "parent": "The Young Ones",
+  "parentYear": "1982-1984",
+  "parentIMDB": "0083505",
+  "rating": "TV-MA",
+  "runtime": "3 seasons",
+  "labels": [
+    "variety",
+    "comedy"
+  ],
+  "credit": "BBC2",
+  "altHero": "Jester Bolawski on a dungeon set",
+  "alt1": "woman dressed as a medieval damsel",
+  "alt2": "Bolawski smiling with a guest dressed as a peasant",
+  "alt3": "torture expert Toby Gruntsplatter",
+  "alt4": "Dennis Waterman's Showbiz XI",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy tv"
+  ],
+  "logoWidth": "270"
+}
