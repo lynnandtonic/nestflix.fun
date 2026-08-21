@@ -1,0 +1,27 @@
+{
+  "slug": "barracuda-boardroom",
+  "title": "Barracuda Boardroom",
+  "description": "The reality show where fledgling inventors pitch their ideas to wealthy entrepreneurs in hopes of securing start-up capital.",
+  "quote": "Ka-ching!",
+  "parent": "I Didn’t Do It",
+  "parentYear": "2014-2015",
+  "parentIMDB": "2996052",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "reality competition"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "billionaire Barracudas: a Black man, white woman, and white man",
+  "alt1": "Black man billionaire",
+  "alt2": "white man billionaire holding a purple product bottle",
+  "alt3": "white woman billionaire",
+  "alt4": "teen entrepreneurs presenting to the Barracudas",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ]
+}
