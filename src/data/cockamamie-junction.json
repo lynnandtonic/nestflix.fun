@@ -1,0 +1,30 @@
+{
+  "slug": "cockamamie-junction",
+  "title": "Cockamamie Junction",
+  "description": "The beloved kids western show about life in Cockamamie Junction.",
+  "parent": "The Batman",
+  "parentYear": "2004-2008",
+  "parentIMDB": "0398417",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "creator": "Arnold Wesker",
+  "labels": [
+    "kids",
+    "western"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "fox, bear, and snake riding on the train",
+  "alt1": "train steam",
+  "alt2": "train with a face",
+  "alt3": "train entering town",
+  "alt4": "fox, bear, and snake in town",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "westerns"
+  ],
+  "logoWidth": "230"
+}
