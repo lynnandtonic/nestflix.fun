@@ -1,0 +1,36 @@
+{
+  "slug": "lez-girls",
+  "title": "Lez Girls",
+  "description": "Based on the novel by Jenny Schecter and once thought to be lost media, <em>Lez Girls</em> tells the stories of the lives and the loves of lesbians in Los Angeles.",
+  "quote": "I thought women would be better somehow.",
+  "parent": "The L Word",
+  "parentYear": "2004-2009",
+  "parentIMDB": "0330251",
+  "rating": "R",
+  "runtime": "1h 52m",
+  "starring": [
+    "Niki Stevens",
+    "Isabella Perkins "
+  ],
+  "director": [
+    "Jenny Schecter"
+  ],
+  "producer": "Tina Kennard",
+  "labels": [
+    "drama"
+  ],
+  "credit": "Showtime",
+  "altHero": "brunette woman speaking to a short-haired blonde woman",
+  "alt1": "short-haired blonde woman",
+  "alt2": "two brunette women look concerned",
+  "alt3": "two other women look happy",
+  "alt4": "older brunette woman speaking with a younger woman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
