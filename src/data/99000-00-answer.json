@@ -1,0 +1,31 @@
+{
+  "slug": "99000-00-answer",
+  "title": "$99,000.00 Answer",
+  "description": "The show that gives away $99,000! Each trivia question is a hurdle, the money grows each time, until $99,000. You can stop any time.",
+  "quote": "Pick a category.",
+  "parent": "The Honeymooners",
+  "parentYear": "1955-1956",
+  "parentIMDB": "0042114",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Herb Norris"
+  ],
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "CBS",
+  "altHero": "host Herb Norris",
+  "alt1": "Norris with a contestant",
+  "alt2": "Norris with a different contestant",
+  "alt3": "Norris and the first contestant",
+  "alt4": "Norris, a contestant, and an assitant holding a board full of categories",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
