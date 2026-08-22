@@ -1,0 +1,27 @@
+{
+  "slug": "guns-guts-glory",
+  "title": "Guns Guts Glory",
+  "description": "Lieutenant Graves has been beaten by the war and is trying to get home to his love, Barbara.",
+  "parent": "The Looney Tunes Show",
+  "parentYear": "2011-2013",
+  "parentIMDB": "1726839",
+  "rating": "R",
+  "runtime": "2h 12m",
+  "labels": [
+    "war drama"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "soldier shooting a gun",
+  "alt1": "army tank and soldiers",
+  "alt2": "war boat on choppy waters with explosions",
+  "alt3": "soldier screaming with a concerned woman",
+  "alt4": "woman screaming",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas"
+  ],
+  "logoWidth": ""
+}
