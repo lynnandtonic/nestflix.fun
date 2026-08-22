@@ -1,0 +1,31 @@
+{
+  "slug": "quizboys",
+  "title": "Quizboys",
+  "description": "Teenage scholars compete in a knowledge game to win impressive prizes and bragging rights.",
+  "parent": "The Venture Brothers",
+  "parentYear": "2004-2018",
+  "parentIMDB": "0417373",
+  "rating": "TV-G",
+  "runtime": "2 season",
+  "starring": [
+    "Pete White"
+  ],
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "host Pete White",
+  "alt1": "Pete White with three contestants at podiums",
+  "alt2": "blonde assistant showcasing prize package including a tent, canoe, moped, and jukebox",
+  "alt3": "Pete White holding up a card",
+  "alt4": "boy contestant pointing angrily at another contestant",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows",
+    "tv for teens"
+  ]
+}
