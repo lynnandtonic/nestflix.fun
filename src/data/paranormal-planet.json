@@ -1,0 +1,25 @@
+{
+  "slug": "paranormal-planet",
+  "title": "Paranormal Planet",
+  "description": "<em>Paranormal Planet</em> investigates supernatural phenomena and interviews subject matter exerpts.",
+  "parent": "The Sarah Jane Adventures",
+  "parentYear": "2007-2011",
+  "parentIMDB": "",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "studio": "The Psychic Channel",
+  "labels": [
+    "talk show",
+    "paranormal"
+  ],
+  "credit": "BBC",
+  "altHero": "blonde woman host in an old theatre",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "paranormal investigation",
+    "british tv"
+  ],
+  "logoWidth": ""
+}
