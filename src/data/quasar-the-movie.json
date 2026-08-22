@@ -1,0 +1,27 @@
+{
+  "slug": "quasar-the-movie",
+  "title": "Quasar the Movie: Dark Side of the Spoon",
+  "description": "A seemingly harmless bowl of Logic Loops brings an unexpected surprise aboard Pat-Tron and Captain Quasar’s ship.",
+  "quote": "One of these days, Pat-Tron, I’m gonna sell you for scrap!",
+  "parent": "The Patrick Star Show",
+  "parentYear": "2021-Present",
+  "parentIMDB": "12915960",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "labels": [
+    "sci-fi"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "a dog-like robot alien growling on Captain Quasar’s back",
+  "alt1": "Pat-Tron made Captain Quasar breakfast",
+  "alt2": "close-up at the box of Logic Loops with text “Robo alien invader inside”",
+  "alt3": "little robot alien bursting from Pat-Tron’s abdomen",
+  "alt4": "the alien has grown huge, with dripping green saliva",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ]
+}
