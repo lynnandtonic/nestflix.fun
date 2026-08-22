@@ -1,0 +1,30 @@
+{
+  "slug": "phantom-of-dixie",
+  "title": "Phantom of Dixie",
+  "description": "The modern remake of the classic Milo Booth horror film, starring Scooby Dee as Mary Jane.",
+  "parent": "The Scooby-Doo Show",
+  "parentYear": "1976-1978",
+  "parentIMDB": "0074053",
+  "rating": "PG-13",
+  "runtime": "1h 32m",
+  "starring": [
+    "Scooby Dee"
+  ],
+  "labels": [
+    "horror",
+    "thriller"
+  ],
+  "credit": "Hanna-Barbera Productions",
+  "altHero": "the phantom, a man with white face and red eyes wearing a cape and fedora",
+  "alt1": "southern-style house with lightning striking",
+  "alt2": "Scooby Dee as Mary Jane, knitting on the couch by the fire",
+  "alt3": "the phantom approaches her",
+  "alt4": "the phantom grabs her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
