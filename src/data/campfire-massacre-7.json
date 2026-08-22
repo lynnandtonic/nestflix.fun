@@ -1,0 +1,26 @@
+{
+  "slug": "campfire-massacre-7",
+  "title": "Campfire Massacre 7",
+  "description": "The latest installment of the <em>Campire Massacre</em> franchise, where kids finally feel safe making s’mores again.",
+  "parent": "The Patrick Star Show",
+  "parentYear": "2021-Present",
+  "parentIMDB": "12915960",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "a group of fish kids around a campfire",
+  "alt1": "excited kids making s’mores",
+  "alt2": "huge, multi-eyed, multi-tentacled monster appears holding graham crackers",
+  "alt3": "fish kids squished inside s’mores",
+  "alt4": "big monster chomping and drooling",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
