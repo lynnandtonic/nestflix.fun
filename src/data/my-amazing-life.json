@@ -1,0 +1,33 @@
+{
+  "slug": "my-amazing-life",
+  "title": "My Amazing Life",
+  "description": "Teens are followed around by camera crews in hopes of becoming a star of their own reality television show.",
+  "parent": "The Lodge",
+  "parentYear": "2016-2017",
+  "parentIMDB": "6176812",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Danielle Clark"
+  ],
+  "labels": [
+    "reality",
+    "teens"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Danielle flipping her long brown hair in a closet of clothes",
+  "alt1": "Danielle on facetime with a friend",
+  "alt2": "camera zooms in on another girl speaking with her father",
+  "alt3": "Danielle and a friend",
+  "alt4": "Danielle with her hand on a guy’s chest",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "tv for teens",
+    "new on nestflix"
+  ],
+  "logoWidth": "220"
+}
