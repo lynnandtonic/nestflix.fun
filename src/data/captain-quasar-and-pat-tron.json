@@ -1,0 +1,27 @@
+{
+  "slug": "captain-quasar-and-pat-tron",
+  "title": "Captain Quasar & Pat-Tron",
+  "description": "Captain Quasar is negotiating a treaty with the leader of the Saladrian Empire when something goes horribly wrong. He must travel with Pat-Tron to his home planet, Tron-Tron, and meet his family.",
+  "quote": "I’m not like you machines! I’m not meant for this cold metal world.",
+  "parent": "The Patrick Star Show",
+  "parentYear": "2021-Present",
+  "parentIMDB": "12915960",
+  "rating": "PG",
+  "runtime": "1h 42m",
+  "labels": [
+    "sci-fi"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Captain Quasar, a shark, and Pat-Tron, a robot",
+  "alt1": "Captain Quasar negotiating with the leader of the Saladrian Empire, a bowl of salad",
+  "alt2": "Captain Quasar looking out the window sadly as parts of a ship float by in space",
+  "alt3": "Captain Quasar and Pat-Tron at his childhood home, his parents opening the door",
+  "alt4": "Captain Quasar pouring a bag of space rice into a small pool",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ]
+}
