@@ -1,0 +1,33 @@
+{
+  "slug": "smittys-streets",
+  "title": "Smitty's Streets",
+  "description": "Ride along with Officer Quigley Smitty of LAPD Mid-Wilshire as he serves and protects.",
+  "quote": "When water falls from the sky here, the City of Angels becomes a city of demons. But not today.",
+  "parent": "The Rookie: Feds",
+  "parentYear": "2022-2023",
+  "parentIMDB": "18076310",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "starring": [
+    "Quigley Smitty"
+  ],
+  "labels": [
+    "pilot",
+    "reality",
+    "crime"
+  ],
+  "credit": "ABC",
+  "altHero": "Officer Quigley Smitty",
+  "alt1": "cop car crashing into the back of a truck",
+  "alt2": "Smitty filming along a quiet road",
+  "alt3": "Smitty next to an open locker full of cosmetic product",
+  "alt4": "cat in a cop car",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv"
+  ],
+  "logoWidth": "240"
+}
