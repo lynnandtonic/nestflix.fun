@@ -1,0 +1,28 @@
+{
+  "slug": "captain-freedoms-workout",
+  "title": "Captain Freedom’s Workout",
+  "description": "Are you ready for pain? Are you ready for suffering? If the answer is yes, then you’re ready for Captain Freedom’s workout.",
+  "quote": "That’s the ticket. No pain, no gain",
+  "parent": "The Running Man",
+  "parentYear": "1987",
+  "parentIMDB": "0093894",
+  "rating": "Unrated",
+  "runtime": "3h",
+  "labels": [
+    "fitness"
+  ],
+  "credit": "TriStar Pictures",
+  "altHero": "Captain Freedom, mustached man in gym spandex, pointing at the camera",
+  "alt1": "Captain Freedom flexing with women exercising behind him",
+  "alt2": "Captain Freedom with his arms up",
+  "alt3": "women exercising",
+  "alt4": "Captain Freedom pointing again",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "fitness"
+  ],
+  "logoWidth": "360"
+}
