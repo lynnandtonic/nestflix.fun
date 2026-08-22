@@ -1,0 +1,29 @@
+{
+  "slug": "americanos",
+  "title": "Americanos",
+  "description": "Follow the chaotic, but luxurious life of a wealthy, high-profile family in California.",
+  "quote": "Your feet smell like dead mice.",
+  "parent": "The Running Man",
+  "parentYear": "2025",
+  "parentIMDB": "14107334",
+  "rating": "TV-14",
+  "runtime": "6 seasons",
+  "studio": "the Network",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "glamorous photos of the family",
+  "alt1": "the mother with chic bob haircut and big sunglasses",
+  "alt2": "an adult daughter with long black hair, neat bangs and sunglasses",
+  "alt3": "another daughter with top bun, a relaxed Black man stands behind her",
+  "alt4": "closeup of second daughter wearing dazzly sunglasses and big earrings",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
