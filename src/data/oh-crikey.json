@@ -1,0 +1,29 @@
+{
+  "slug": "oh-crikey",
+  "title": "Oh, Crikey!",
+  "description": "In his small English town, a man keeps winding up in tricky situations.",
+  "quote": "Oh, crikey!",
+  "parent": "The Young Ones",
+  "parentYear": "1982-1984",
+  "parentIMDB": "0083505",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "BBC2",
+  "altHero": "mustached man looking embarrassed",
+  "alt1": "man and woman laughing on a couch",
+  "alt2": "man without his pants, unsure what to do",
+  "alt3": "woman with a vicar",
+  "alt4": "pantsless man sitting on the floor next to the dog",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "british tv",
+    "sitcoms"
+  ],
+  "logoWidth": ""
+}
