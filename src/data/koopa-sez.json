@@ -1,0 +1,25 @@
+{
+  "slug": "koopa-sez",
+  "title": "Koopa Sez",
+  "description": "Join King Koopa to move your body with Koopa-robics.",
+  "quote": "Koopa sez cluck like a chickadactyl!",
+  "parent": "Super Mario World",
+  "parentYear": "1991",
+  "parentIMDB": "0167552",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "King Koopa"
+  ],
+  "labels": [
+    "fitness"
+  ],
+  "credit": "Nintendo of America",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "fitness"
+  ]
+}
