@@ -1,0 +1,34 @@
+{
+  "slug": "becoming-lexi-i-am-me",
+  "title": "Becoming Lexi: I Am Me",
+  "description": "A reality show about Lexi Haddad-DeFabrizio’s life, being transgender, her journey of self-discovery, and the hot friends who support her.",
+  "quote": "I got to be myself, and tomorrow I get to do it all over again.",
+  "parent": "Saved by the Bell",
+  "parentYear": "2020-2021",
+  "parentIMDB": "11032396",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Lexi Haddad-DeFabrizio"
+  ],
+  "studio": "E! Entertainment Television",
+  "labels": [
+    "reality",
+    "teens"
+  ],
+  "credit": "Peacock",
+  "altHero": "Lexi in a red dress with gold necklace",
+  "alt1": "Lexi smiling in the mirror",
+  "alt2": "Lexi talking to the camera",
+  "alt3": "Lexi walking into school",
+  "alt4": "Lexi chatting on her computer",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "tv for teens"
+  ],
+  "logoWidth": "220"
+}
