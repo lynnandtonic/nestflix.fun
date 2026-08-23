@@ -1,0 +1,30 @@
+{
+  "slug": "the-amazing-colossal-colossus",
+  "title": "The Amazing Colossal Colossus",
+  "description": "What made the Amazing Colossal Colossus grow at such a rapidly fast rate of growth? Stay tuned to find out.",
+  "quote": "If we dilute the detergents attached to his body we might be able to save him.",
+  "parent": "The Angry Beavers",
+  "parentYear": "1997-2001",
+  "parentIMDB": "0131664",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "studio": "",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "giant monster man above the city",
+  "alt1": "two scientists talking",
+  "alt2": "one scientist thinking",
+  "alt3": "closeup of the monster man",
+  "alt4": "the scientists spraying a water solution",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ],
+  "logoWidth": ""
+}
