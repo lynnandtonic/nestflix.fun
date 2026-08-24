@@ -1,0 +1,35 @@
+{
+  "slug": "a-thirst-for-blood",
+  "title": "A Thirst for Blood",
+  "description": "The debut film for ’60s scream queen, Stella Harris. A town is plagued by a 300-year-old nobleman who can only drink the blood of female virgins.",
+  "quote": "Such a pretty young thing.",
+  "parent": "Midsomer Murders",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118401",
+  "rating": "PG-13",
+  "runtime": "1h 31m",
+  "starring": [
+    "Stella Harris"
+  ],
+  "producer": "Cy Davenport",
+  "labels": [
+    "horror",
+    "monster",
+    "vampires"
+  ],
+  "credit": "ITV",
+  "altHero": "old man glowing green and smiling with sharp vampire teeth",
+  "alt1": "horse-drawn carriage on a foggy night",
+  "alt2": "young woman stands by an open carriage door",
+  "alt3": "young woman has two bite marks on her neck",
+  "alt4": "close-up of glowing green smile with vampire teeth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ],
+  "logoWidth": "400"
+}
