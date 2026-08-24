@@ -1,0 +1,30 @@
+{
+  "slug": "the-too-much",
+  "title": "The Too Much",
+  "description": "Being a modern single woman can be tough when you have bad luck in romance.",
+  "quote": "I am a simple time cop who has come from the year 2145 and I rode a time machine here.",
+  "parent": "Animaniacs",
+  "parentYear": "2020-2023",
+  "parentIMDB": "6951546",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "studio": "Webpix",
+  "labels": [
+    "drama",
+    "k-drama"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Korean woman looking up longingly at a man in an elevator",
+  "alt1": "woman is dejected as her boss drops a stack of papers on her desk",
+  "alt2": "woman waves at the man from the elevator who is outside cleaning the window",
+  "alt3": "the man opens a jewelry box to reveal a glowing jade hairpin",
+  "alt4": "the woman is leaning on the man’s chest and her eyes are wide with surprise",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas"
+  ],
+  "logoWidth": "200"
+}
