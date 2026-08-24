@@ -1,0 +1,34 @@
+{
+  "slug": "pinch-me-kiss-me-kill-me-the-duckman-story",
+  "title": "Pinch Me, Kiss Me, Kill Me: The Duckman Story",
+  "description": "Private investigator, Duckman, must use his cunning and mastery of Jinkatsu to save the U.S. President.",
+  "quote": "What is heroism? What is courage? Now, I don’t know if I can define them, but I do know them when I see them, and I see them both every time I look in the mirror.",
+  "parent": "Duckman: Private Dick/Family Man",
+  "parentYear": "1994-1997",
+  "parentIMDB": "0108755",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "director": [
+    "Duckman"
+  ],
+  "labels": [
+    "drama",
+    "biography",
+    "espionage"
+  ],
+  "credit": "Paramount Television",
+  "altHero": "live-action, human Duckman: a white man in a tuxedo",
+  "alt1": "human Duckman sitting at a desk with two women in pink bikinis",
+  "alt2": "man in a trench entering the office, behind reeded glass window is a woman pointing a gun at him",
+  "alt3": "woman is tied up to a chair as human Duckman tries to free her, out the window is the Washington Monument",
+  "alt4": "human Duckman and woman looking at each other",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramatic biopics",
+    "spy movies"
+  ],
+  "logoWidth": "400"
+}
