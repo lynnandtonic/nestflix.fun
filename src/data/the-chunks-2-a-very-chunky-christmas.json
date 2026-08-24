@@ -1,0 +1,32 @@
+{
+  "slug": "the-chunks-2-a-very-chunky-christmas",
+  "title": "The Chunks 2: A Very Chunky Christmas",
+  "description": "Merry Christmas from the Chunks! Tracy Jordan is back in a holiday sequel to the comedy classic.",
+  "quote": "Somebody needs to clean this table up. It’s disgusting!",
+  "parent": "30 Rock",
+  "parentYear": "2006-2013",
+  "parentIMDB": "0496424",
+  "rating": "PG-13",
+  "runtime": "1h 7m",
+  "starring": [
+    "Tracy Jordan"
+  ],
+  "labels": [
+    "comedy"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "Tracy Jordan as Grandpa Chunk at the Christmas dinner table",
+  "alt1": "Tracy Jordan as Grandma Chunk",
+  "alt2": "Grandma and Grandpa Chunk at the table with little Chunk",
+  "alt3": "Grandpa Chunk laying on the floor at the bottom of the stairs",
+  "alt4": "Grandpa Chunk barfing at the dinner table",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "for the holidays",
+    "new on nestflix"
+  ]
+}
