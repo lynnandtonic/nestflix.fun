@@ -1,0 +1,30 @@
+{
+  "slug": "next-teen-star",
+  "title": "Next Teen Star",
+  "description": "The search continues for the best teenage singers and musicians who will compete for a chance to be a star.",
+  "parent": "Degrassi: The Next Generation",
+  "parentYear": "2001-2015",
+  "parentIMDB": "0288937",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality competition",
+    "singing",
+    "teens"
+  ],
+  "credit": "Entertainment One",
+  "altHero": "host of the show",
+  "alt1": "blonde teen singing and playing guitar",
+  "alt2": "host holds up a card as two teen girl contestants face off",
+  "alt3": "teen boy contestant cheering",
+  "alt4": "blonde teen girl contestant waving",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "tv for teens"
+  ],
+  "logoWidth": "300"
+}
