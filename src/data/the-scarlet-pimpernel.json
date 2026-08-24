@@ -1,0 +1,33 @@
+{
+  "slug": "the-scarlet-pimpernel",
+  "title": "The Scarlet Pimpernel",
+  "description": "An adaptation of Baroness Orczy’s classic literary hero, Sir Percy Blakeney, as a typical mindless fop of the British aristocracy. However, it is all a facade to hide his true identity, that of the French Revolution’s mysterious savior: the Scarlet Pimpernel.",
+  "parent": "Midsomer Murders",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118401",
+  "rating": "R",
+  "runtime": "2h 3m",
+  "director": [
+    "Nick Cheyney",
+    "Jack Braxton"
+  ],
+  "producer": "Jack Braxton",
+  "studio": "Pimpernel Productions",
+  "labels": [
+    "historical drama"
+  ],
+  "credit": "ITV",
+  "altHero": "man in a prison cell",
+  "alt1": "French villagers",
+  "alt2": "woman crying",
+  "alt3": "man being put in a bloody guillotine",
+  "alt4": "executioner",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas"
+  ],
+  "logoWidth": ""
+}
