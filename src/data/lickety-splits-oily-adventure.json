@@ -1,0 +1,32 @@
+{
+  "slug": "lickety-splits-oily-adventure",
+  "title": "Lickety Split’s Oily Adventure",
+  "description": "A kid and a special marlin team up to stop an oil dump by an evil corporation.",
+  "quote": "I told you he could do it!",
+  "parent": "Duckman: Private Dick/Family Man",
+  "parentYear": "1994-1997",
+  "parentIMDB": "0108755",
+  "rating": "G",
+  "runtime": "1h 36m",
+  "starring": [
+    "Cathy Malkasian",
+    "Bob Gooden",
+    "Pete Avanzino"
+  ],
+  "labels": [
+    "family"
+  ],
+  "credit": "Paramount Television",
+  "altHero": "girl hugging marlin at the edge of a dock",
+  "alt1": "girl yelling",
+  "alt2": "marilin jumping over a fire on the ocean water",
+  "alt3": "girl and her parents cheering next to a guy from Big Oil",
+  "alt4": "girl talks to the Big Oil guy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "kids and family films"
+  ]
+}
