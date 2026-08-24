@@ -1,0 +1,31 @@
+{
+  "slug": "geofredo",
+  "title": "Geofredo",
+  "description": "Geofredo exposes the truth with hard-hitting interviews and a tough, opinionated approach with guests.",
+  "quote": "Well, maybe it’s not hip and maybe it’s not popular, but I think drug-pushers and wife-beaters, and child-molesters and mother-killers and World Trade Center terrorists should be locked up for life.",
+  "parent": "Duckman: Private Dick/Family Man",
+  "parentYear": "1994-1997",
+  "parentIMDB": "0108755",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "starring": [
+    "Geofredo"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Paramount Television",
+  "altHero": "Geofredo, mustached host",
+  "alt1": "Geofredo in spotlight",
+  "alt2": "Geofredo talking with Duckman",
+  "alt3": "Geofredo",
+  "alt4": "Geofredo speaking from the audience",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": "260"
+}
