@@ -1,0 +1,31 @@
+{
+  "slug": "the-terror-of-amenotep",
+  "title": "The Terror of Amenotep",
+  "description": "A monster has awakened and it feels the hunger of a thousand years.",
+  "quote": "No, foul beast! Away! Away!",
+  "parent": "Midsomer Murders",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118401",
+  "rating": "Unrated",
+  "runtime": "1h 23m",
+  "studio": "Candlestick Films",
+  "labels": [
+    "horror",
+    "monster",
+    "silent"
+  ],
+  "credit": "ITV",
+  "altHero": "mummy approaching a woman praying at a gravestone",
+  "alt1": "woman praying at a gravestone",
+  "alt2": "mummy lifting itself up on a gravestone",
+  "alt3": "mummy in a graveyard",
+  "alt4": "woman screaming with her hand up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ],
+  "logoWidth": "230"
+}
