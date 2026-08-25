@@ -1,0 +1,35 @@
+{
+  "slug": "death-and-the-diva",
+  "title": "Death and the Diva",
+  "description": "From his hideout beneath a theatre in 19th century England, a brooding monster schemes to get closer to a beautiful ingénue.",
+  "parent": "Midsomer Murders",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118401",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "starring": [
+    "Stella Harris",
+    "Douglas John",
+    "Mavis Heir",
+    "Peter Duffield",
+    "Cy Davenport"
+  ],
+  "producer": "Cy Davenport",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "ITV",
+  "altHero": "blonde woman sees a creepy hand on the back of her date",
+  "alt1": "creepy monster face",
+  "alt2": "blonde woman with a man",
+  "alt3": "the monster with a sword in its back",
+  "alt4": "woman and man look over the balcony",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
