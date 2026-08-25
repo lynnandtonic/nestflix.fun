@@ -1,0 +1,34 @@
+{
+  "slug": "torment",
+  "title": "Torment",
+  "description": "Stella Harris in a dual role as twin sisters. When a woman is possessed by the devil, her twin must avoid being the target of its murderous intent.",
+  "quote": "Groovy.",
+  "parent": "Midsomer Murders",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118401",
+  "rating": "PG-13",
+  "runtime": "1h 36m",
+  "starring": [
+    "Stella Harris"
+  ],
+  "producer": "Cy Davenport",
+  "studio": "Scream Pictures",
+  "labels": [
+    "horror",
+    "thriller"
+  ],
+  "credit": "ITV",
+  "altHero": "Stella Harris driving a red convertible",
+  "alt1": "Stella’s eye in the rear view mirror",
+  "alt2": "wide shot of the red convertible",
+  "alt3": "a hand on the stick shift",
+  "alt4": "Stella with her hands in front of her face, about to crash",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers"
+  ],
+  "logoWidth": "240"
+}
