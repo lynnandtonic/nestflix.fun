@@ -1,0 +1,31 @@
+{
+  "slug": "the-mummy-rises",
+  "title": "The Mummy Rises",
+  "description": "Her archaeologist father desecrates a sacred mummy’s tomb and, years later, she has to pay the price… in blood.",
+  "parent": "Midsomer Murders",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118401",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "starring": [
+    "Stella Harris"
+  ],
+  "producer": "Cy Davenport",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "ITV",
+  "altHero": "a wrapped mummy coming to life",
+  "alt1": "an Egyptian tomb",
+  "alt2": "blonde woman being taken prisoner",
+  "alt3": "Egyptian queen",
+  "alt4": "scared blonde woman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
