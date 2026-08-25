@@ -1,0 +1,31 @@
+{
+  "slug": "the-fall-of-the-house-of-usher",
+  "title": "The Fall of the House of Usher",
+  "description": "Adapted from the Edgar Allen Poe classic. Roderick Usher, a mad aristocrat, attempts to bury his sister alive in the family vault.",
+  "quote": "Your tomb awaits, dear sister.",
+  "parent": "Midsomer Murders",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118401",
+  "rating": "PG-13",
+  "runtime": "1h 30m",
+  "starring": [
+    "Diana Harris"
+  ],
+  "producer": "Cy Davenport",
+  "labels": [
+    "horror"
+  ],
+  "credit": "ITV",
+  "altHero": "Roderick and his sister enter a dark room with stained glass windows",
+  "alt1": "the room is dark and dusty",
+  "alt2": "Roderick against colorful stained glass windows",
+  "alt3": "an open stone tomb",
+  "alt4": "Roderick looking crazy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
