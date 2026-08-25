@@ -1,0 +1,28 @@
+{
+  "slug": "attack-of-the-flying-saucers",
+  "title": "Attack of the Flying Saucers",
+  "description": "The human race is caught unprepared when alien spacecrafts arrive on Earth.",
+  "parent": "Midsomer Murders",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118401",
+  "rating": "Unrated",
+  "runtime": "46m",
+  "studio": "Triglobal Movies",
+  "labels": [
+    "sci-fi",
+    "aliens"
+  ],
+  "credit": "ITV",
+  "altHero": "UFO hovering above some tall grass",
+  "alt1": "three UFOs coming to Earth",
+  "alt2": "beams of light on the city from the sky",
+  "alt3": "outdoor warning sirens with text “Warning!”",
+  "alt4": "outdoor apartment stairs with text “Take cover!”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "aliens!"
+  ]
+}
