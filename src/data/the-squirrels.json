@@ -1,0 +1,28 @@
+{
+  "slug": "the-squirrels",
+  "title": "The Squirrels",
+  "description": "A coastal town suddenly experiences unexplained violent squirrel attacks as the critters take over the city.",
+  "quote": "Oh, look, honey, what an adorable little squirrel!",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "PG-13",
+  "runtime": "1h 35m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "PBS",
+  "altHero": "squirrels swarming a porch post",
+  "alt1": "squirrel in a tree",
+  "alt2": "two people having a picnic" ,
+  "alt3": "woman pointing at the squirrel in the tree",
+  "alt4": "squirrels are all over houses, the grass, trees, powerlines, and a bridge in the distance",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ],
+  "logoWidth": "300"
+}
