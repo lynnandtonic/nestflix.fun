@@ -1,0 +1,28 @@
+{
+  "slug": "alien-pickles",
+  "title": "Alien Pickles",
+  "description": "Something peculiar is happening as people begin to go missing and a briny smell blankets the town.",
+  "quote": "Weird, strange, odd, wacky and bizarre all mean something is out of the ordinary or isn’t normal.",
+  "parent": "Martha Speaks",
+  "parentYear": "2008-2014",
+  "parentIMDB": "1043776",
+  "rating": "PG",
+  "runtime": "1h 23m",
+  "labels": [
+    "horror",
+    "aliens"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "basement full of giant pickles with faces",
+  "alt1": "creepy, boarded up house",
+  "alt2": "man walking down basement stairs with a flashlight",
+  "alt3": "man holding a dictionary with a woman",
+  "alt4": "man and woman walking down abandoned street littered with pickle carcasses",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "aliens!"
+  ]
+}
