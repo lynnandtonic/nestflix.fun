@@ -1,0 +1,27 @@
+{
+  "slug": "silly-squirrels",
+  "title": "Silly Squirrels",
+  "description": "Education should be silly! With the Silly Squirrels, kids have fun learning to be kind, practicing the alphabet, and counting to ten.",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "G",
+  "runtime": "4h",
+  "labels": [
+    "kids",
+    "educational"
+  ],
+  "credit": "PBS",
+  "altHero": "bunnies in squirrel costumes prancing through a field of hearts",
+  "alt1": "squirrel with a 1 on its chest waving in front of a rainbow",
+  "alt2": "#1 and 0 squirrels",
+  "alt3": "squirrels dancing",
+  "alt4": "two squirrels with acorns on their heads",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "educational videos"
+  ]
+}
