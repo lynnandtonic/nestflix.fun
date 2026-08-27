@@ -1,0 +1,29 @@
+{
+  "slug": "the-trials-of-master-pfreim",
+  "title": "The Trials of Master Pfreim",
+  "description": "1979 film by German director Rainer Wolz about the misfortune and trials of Master Pfreim.",
+  "parent": "Documentary Now!",
+  "parentYear": "2015-2022",
+  "parentIMDB": "4677934",
+  "rating": "R",
+  "runtime": "3h",
+  "director": [
+    "Rainer Wolz"
+  ],
+  "labels": [
+    "drama"
+  ],
+  "credit": "Broadway Video",
+  "altHero": "a man, Master Pfreim, standing near a noose",
+  "alt1": "wide shot of two men at a desk, a man begging on his knees near a gallows and an executioner",
+  "alt2": "one of the men at the desk pointing",
+  "alt3": "Master Pfreim",
+  "alt4": "the executioner preparing Master Pfreim under the noose",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}
