@@ -1,0 +1,40 @@
+{
+  "slug": "bachelor-nanny",
+  "title": "Bachelor Nanny",
+  "description": "The story of a single guy who, after agreeing to take in his sister’s twin newborns, has to juggle babies and babes.",
+  "quote": "Am I going crazy or are those two babies?",
+  "parent": "Documentary Now!",
+  "parentYear": "2015-2022",
+  "parentIMDB": "4677934",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Dieter Dalmer",
+    "Kevin Butterman",
+    "Masho",
+    "Lavetrious Kennedy",
+    "Nanct",
+    "Danct"
+  ],
+  "director": [
+    "Rainer Wolz"
+  ],
+  "producer": "Alan Yaffa",
+  "studio": "CBS",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Broadway Video",
+  "altHero": "Dieter Dalmer in a tan suit and scraggly blonde hair, next to two non-toddler kids dressed as babies in a crib",
+  "alt1": "Dieter Dalmer smiling",
+  "alt2": "Lavetrious Kennedy in a colorful 80s sweater and pointing",
+  "alt3": "Dieter Dalmer in a robe, opening the door for a woman in a robe",
+  "alt4": "Masho and Kevin Butterman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
