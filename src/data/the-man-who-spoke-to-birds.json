@@ -1,0 +1,35 @@
+{
+  "slug": "the-man-who-spoke-to-birds",
+  "title": "The Man Who Spoke to Birds",
+  "description": "Talking transcends species. The now controversial story of Horace Muntanay, an elderly bird enthusiast who spent his life writing a bird-to-human dictionary.",
+  "quote": "Did you hear that? They’re saying it may rain soon.",
+  "parent": "Documentary Now!",
+  "parentYear": "2015-2022",
+  "parentIMDB": "4677934",
+  "rating": "G",
+  "runtime": "1h 54m",
+  "starring": [
+    "Horace Muntanay"
+  ],
+  "director": [
+    "Benjamin Clay"
+  ],
+  "labels": [
+    "documentary",
+    "animals"
+  ],
+  "credit": "Broadway Video",
+  "altHero": "Horace Muntanay looking up in awe",
+  "alt1": "book of birds",
+  "alt2": "Horace walking through the woods",
+  "alt3": "Horace looking up through binoculars",
+  "alt4": "chalkboard writing translating squawks and chirps into English phrases",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "new on nestflix"
+  ]
+}
