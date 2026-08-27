@@ -1,0 +1,28 @@
+{
+  "slug": "time-for-meany",
+  "title": "Time for Meany!",
+  "description": "The classic show that brought you comedy gold from puppets Meany and Treacle, and introduced the world to Big Ears and Noodle Noggin.",
+  "quote": "Eat smoke, you dirty lamprey!",
+  "parent": "Animaniacs",
+  "parentYear": "1993-1998",
+  "parentIMDB": "0105941",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "puppets"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Meany and Treacle, one is a little boy puppet and the other is a demon puppet with a board in his mouth",
+  "alt1": "Treacle hitting Meany on the head with board",
+  "alt2": "Meany and Treacle with mice: Big Ears and Noodle Noggin",
+  "alt3": "Treacle hitting Noodle Noggin on the head with a board",
+  "alt4": "Meany and Treacle with Big Ears and Noodle Noggin",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
