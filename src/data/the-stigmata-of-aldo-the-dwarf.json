@@ -1,0 +1,29 @@
+{
+  "slug": "the-stigmata-of-aldo-the-dwarf",
+  "title": "The Stigmata of Aldo the Dwarf",
+  "description": "The true story of Aldo Vacci of Sicily, a dwarf who experienced the stigmata in the 14th century, and was eventually imprisoned just because.",
+  "quote": "Father, these wounds are not from the reigns of my carriage or the handles of my buckets.",
+  "parent": "Documentary Now!",
+  "parentYear": "2015-2022",
+  "parentIMDB": "4677934",
+  "rating": "R",
+  "runtime": "2h 34m",
+  "starring": [
+    "Dieter Dalmer"
+  ],
+  "director": [
+    "Rainer Wolz"
+  ],
+  "labels": [
+    "historical drama"
+  ],
+  "credit": "Broadway Video",
+  "altHero": "in an old candle-lit church, Aldo Vacci is a dwarf talking to a taller man",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas",
+    "religious programming"
+  ]
+}
