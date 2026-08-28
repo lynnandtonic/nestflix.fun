@@ -1,0 +1,36 @@
+{
+  "slug": "blondes-blondes-blondes-and-a-millionaire",
+  "title": "Blondes, Blondes, Blondes and a Millionaire",
+  "description": "Based on <em>She Cried for Justice</em>, the 1966 novel by Edna Bach, which tells the story of a Jewish girl who escapes the Holocaust and later discovers her former Nazi guard living nearby.",
+  "quote": "That man was Gestapo. And I know because I am a Jewish refugee.",
+  "parent": "Documentary Now!",
+  "parentYear": "2015-2022",
+  "parentIMDB": "4677934",
+  "rating": "R",
+  "runtime": "2h 16m",
+  "starring": [
+    "Bridget Bailey",
+    "Enzo Entolini"
+  ],
+  "producer": "Jerry Wallach",
+  "studio": "Pinnacle Pictures",
+  "labels": [
+    "war drama",
+    "history"
+  ],
+  "credit": "Broadway Video",
+  "altHero": "Bridget Bailey and Enzo Entolini embrace",
+  "alt1": "a U.S. General speaks to the courtroom",
+  "alt2": "a judge",
+  "alt3": "Bridget Bailey points from the witness stand",
+  "alt4": "Enzo Entolini smoking a cigarette",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas",
+    "new on nestflix"
+  ],
+  "logoWidth": "210"
+}
