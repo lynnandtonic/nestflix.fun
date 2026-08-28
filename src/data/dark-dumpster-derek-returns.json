@@ -1,0 +1,33 @@
+{
+  "slug": "dark-dumpster-derek-returns",
+  "title": "Dark Dumpster Derek Returns",
+  "description": "Dark Dumpster Derek must stop the worm burglar before she can get away with a small fortune.",
+  "quote": "Your puns are trash and not in a yummy way.",
+  "parent": "Tuttle Twins",
+  "parentYear": "2021-Present",
+  "parentIMDB": "14330440",
+  "rating": "Unrated",
+  "runtime": "1h 15m",
+  "director": [
+    "Ethan Tuttle"
+  ],
+  "producer": "Emily Tuttle",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Angel Studios",
+  "altHero": "Dark Dumpster Derek holding his trash blaster",
+  "alt1": "a worm parachuting onto the roof of an art museum on a rainy night",
+  "alt2": "the worm in the shadow of Dark Dumpster Derek",
+  "alt3": "the worm has Dark Dumpster Derek captured in its tail",
+  "alt4": "the worm offering a cab driver a gold bar",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "kids and family films"
+  ]
+}
