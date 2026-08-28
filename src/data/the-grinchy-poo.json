@@ -1,0 +1,32 @@
+{
+  "slug": "the-grinchy-poo",
+  "title": "The Grinchy Poo",
+  "description": "Old Grinchy Poo plans to steal Christmas from all the Poos in Pooville, but has a change of heart after being befriended by Cindy Lou Poo.",
+  "quote": "Why are you taking our Christmas tree, why?",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0121955",
+  "rating": "TV-G",
+  "runtime": "43m",
+  "starring": [
+    "Mr. Hankey"
+  ],
+  "labels": [
+    "family",
+    "holiday"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "Grinchy Poo trying to get a Christmas tree up the chimney",
+  "alt1": "Cindy Lou Poo holding a Christmas ornament",
+  "alt2": "Grinchy Poo thinking",
+  "alt3": "the Poos in Pooville dancing in a circle",
+  "alt4": "Grinchy Poo cutting a Christmas roast next to two kid Poos",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV special",
+    "for the holidays",
+    "new on nestflix"
+  ]
+}
