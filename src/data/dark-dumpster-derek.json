@@ -1,0 +1,34 @@
+{
+  "slug": "dark-dumpster-derek",
+  "title": "Dark Dumpster Derek: The Raccoon Who Loved Me",
+  "description": "Dark Dumpster Derek fights crime with the power of garbage.",
+  "quote": "Time to take out the trash.",
+  "parent": "Tuttle Twins",
+  "parentYear": "2021-Present",
+  "parentIMDB": "14330440",
+  "rating": "Unrated",
+  "runtime": "1h 21m",
+  "director": [
+    "Ethan Tuttle"
+  ],
+  "producer": "Emily Tuttle",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Angel Studios",
+  "altHero": "Dark Dumpster Derek, a superhero raccoon on a dumpster",
+  "alt1": "Dark Dumpster Derek holding up two stinky trash cans",
+  "alt2": "two bank robbers scared in Dark Dumpster Derek’s shadow",
+  "alt3": "Dark Dumpster Derek holding a trash blaster",
+  "alt4": "Dark Dumpster Derek holding the face of a girl wearing a raccoon costume",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "kids and family films",
+    "new on nestflix"
+  ]
+}
