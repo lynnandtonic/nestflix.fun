@@ -1,0 +1,31 @@
+{
+  "slug": "me-and-mr-hankey",
+  "title": "Me and Mr. Hankey",
+  "description": "Called “the next <em>Free Willy</em>”, <em>Me and Mr. Hankey</em> tells the story of two friends who must find a solution to a life and death problem.",
+  "quote": "We started this together, and we’re gonna finish it together.",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0121955",
+  "rating": "PG-13",
+  "runtime": "1h 56m",
+  "starring": [
+    "Tom Hanks"
+  ],
+  "labels": [
+    "drama"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "Tom Hanks, sick in a hospital bed, hugging a monkey",
+  "alt1": "Hanks sad in the hospital bed",
+  "alt2": "monkey hanging on the curtain",
+  "alt3": "Hanks talking to the monkey",
+  "alt4": "human and monkey holding hands",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ],
+  "logoWidth": "320"
+}
