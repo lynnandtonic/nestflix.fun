@@ -1,0 +1,23 @@
+{
+  "slug": "alien show",
+  "title": "The Alien Show",
+  "description": "Meh Meh Meh",
+  "parent": "Comedy",
+  "parentYear": "2020",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "labels": [
+    "animation",
+    "aliens",
+    "music"
+  ],
+  "credit": " Warner Bros. Television",
+  "altHero": "Aliens Rule",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "comedy",
+    "new on nestflix"
+  ]
+}
