@@ -1,0 +1,38 @@
+{
+  "slug": "les-fanineants-philosophiques",
+  "title": "Les Faninéants Philosophiques",
+  "seo": "The Philosphical Layabouts",
+  "description": "The 1967 new wave classic that examines relationships, society, and power structures within them.",
+  "quote": "The system oppresses because that is what the oppressive system was meant to do.",
+  "parent": "Documentary Now!",
+  "parentYear": "2015-2022",
+  "parentIMDB": "4677934",
+  "rating": "PG-13",
+  "runtime": "1h 38m",
+  "starring": [
+    "Pierre Mouland",
+    "Ida Leos"
+  ],
+  "director": [
+    "Pierre Mouland"
+  ],
+  "studio": "Les Films Du Mouland",
+  "labels": [
+    "drama",
+    "arthouse"
+  ],
+  "credit": "Broadway Video",
+  "altHero": "chic man and woman leaning against a counter in a bank",
+  "alt1": "hand holding a cigarette",
+  "alt2": "two serious men",
+  "alt3": "man and woman dancing in the bank teller line",
+  "alt4": "man and woman running through the street",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
