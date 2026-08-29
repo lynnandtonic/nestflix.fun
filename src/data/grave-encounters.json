@@ -1,0 +1,34 @@
+{
+  "slug": "grave-encounters",
+  "title": "Grave Encounters",
+  "description": "Before their disappearance, Lance Preston and his team of skilled paranormal investigators dared to venture into some of the most haunted locations known to man, spent the night, and captured everything on camera.",
+  "parent": "Grave Encounters",
+  "parentYear": "2011",
+  "parentIMDB": "1703199",
+  "rating": "TV-MA",
+  "runtime": "6 episodes",
+  "starring": [
+    "Lance Preston",
+    "Sasha Parker",
+    "Matt White"
+  ],
+  "labels": [
+    "reality",
+    "paranormal"
+  ],
+  "credit": "Tribeca Film",
+  "altHero": "Grave Encounters team: Lance, Sasha, and Matt",
+  "alt1": "night vision of Lance taking a photo",
+  "alt2": "a ghost in a graveyard",
+  "alt3": "the team talks to the camera in a dark place",
+  "alt4": "night vision of the team sleeping on the floor of an asylum",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "paranormal investigation",
+    "new on nestflix"
+  ],
+  "logoWidth": "340"
+}
