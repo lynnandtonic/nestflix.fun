@@ -1,0 +1,38 @@
+{
+  "slug": "dearly-be-blooded",
+  "title": "Dearly Be-Blooded",
+  "description": "A married couple takes a holiday at their lake cabin, but three fugitives on the run have different plans for them.",
+  "quote": "What the hell do you want from us?",
+  "parent": "Over Your Dead Body",
+  "parentYear": "2026",
+  "parentIMDB": "34685692",
+  "rating": "R",
+  "runtime": "1h 43m",
+  "starring": [
+    "Kumail Nanjiani",
+    "Lisa Burton"
+  ],
+  "director": [
+    "Dan Burton"
+  ],
+  "labels": [
+    "action",
+    "thriller",
+    "comedy"
+  ],
+  "credit": "Independent Film",
+  "altHero": "Kumail Nanjiani, shirtless, and Lisa Burton in fighting poses",
+  "alt1": "three home invaders in the neon-lit basement",
+  "alt2": "woman intruder stands before Lisa, who is tied to a chair",
+  "alt3": "Kumail bent over a pool table",
+  "alt4": "Kumail, buff and shirtless",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ],
+  "logoWidth": "240"
+}
