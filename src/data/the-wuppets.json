@@ -1,0 +1,29 @@
+{
+  "slug": "the-wuppets",
+  "title": "The Wuppets",
+  "description": "The Wuppets entertain and teach kids through slapstick sketch comedy, musical performances, and life lessons.",
+  "quote": "When there’s more than one, playing is fun when you share!",
+  "parent": "Martha Speaks",
+  "parentYear": "2008-2014",
+  "parentIMDB": "1043776",
+  "rating": "TV-Y",
+  "runtime": "17 seasons",
+  "labels": [
+    "kids",
+    "variety show"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "a green and a blue wuppet",
+  "alt1": "two wuppets fighting over a ball",
+  "alt2": "red-haired human girl comes to talk to the wuppets",
+  "alt3": "red-haired girl shrugging",
+  "alt4": "girl sits with the wuppets who are now sharing the ball",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows"
+  ],
+  "logoWidth": "280"
+}
