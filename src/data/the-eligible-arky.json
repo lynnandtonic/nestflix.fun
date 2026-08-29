@@ -1,0 +1,32 @@
+{
+  "slug": "the-eligible-arky",
+  "title": "The Eligible Arky",
+  "description": "A reality dating show where a single archaeologist looks for love.",
+  "quote": "Shall we set a carbon date, my dear?",
+  "parent": "Digman!",
+  "parentYear": "2023-Present",
+  "parentIMDB": "22059768",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "starring": [
+    "Quail Eegan"
+  ],
+  "labels": [
+    "reality competition",
+    "dating"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "Quail Eegan with archaeologist Rip Digman during the golden shovel ceremony",
+  "alt1": "archaeologist in a hot tub with a woman in a lava-filled crater",
+  "alt2": "bulldozer dropping women off at the house",
+  "alt3": "Rip Digman kneeling in and covered in mud as women stand around him",
+  "alt4": "Rip Digman giving his former wife the golden shovel",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows",
+    "new on nestflix"
+  ]
+}
