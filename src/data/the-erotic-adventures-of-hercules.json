@@ -1,0 +1,27 @@
+{
+  "slug": "the-erotic-adventures-of-hercules",
+  "title": "The Erotic Adventures of Hercules",
+  "description": "The exhilarating escapades of mythic Roman hero, Hercules.",
+  "quote": "Hercules! The Cyclops tore off my clothes.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "43m",
+  "starring": [
+    "Troy McClure",
+    "Norman Fell"
+  ],
+  "labels": [
+    "adult film",
+    "erotic"
+  ],
+  "credit": "20th Television",
+  "altHero": "Troy McClure as Hercules, surrounded by women",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "adults 18+"
+  ]
+}
