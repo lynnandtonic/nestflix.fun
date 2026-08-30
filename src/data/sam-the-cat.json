@@ -1,0 +1,35 @@
+{
+  "slug": "sam-the-cat",
+  "title": "Sam the Cat",
+  "description": "For 26 minutes, all Sam the Cat does is sleep. How can anyone not love this?",
+  "quote": "Arf arf! I am the stupid dog. I annoy cats.",
+  "parent": "Garfield and Friends",
+  "parentYear": "1988-1994",
+  "parentIMDB": "0094469",
+  "rating": "TV-G",
+  "runtime": "1 episode",
+  "director": [
+    "Garfield Cat"
+  ],
+  "producer": "Garfield Cat",
+  "studio": "Garfield Productions",
+  "labels": [
+    "sitcom",
+    "pilot",
+    "animation"
+  ],
+  "credit": "CBS",
+  "altHero": "roughly drawn Sam the Cat (looks like Garfield) sleeping in his bed",
+  "alt1": "John the human standing by Sam the Cat’s bed",
+  "alt2": "John thinking",
+  "alt3": "Odie the dog drooling on the floor",
+  "alt4": "little grey cat",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "160"
+}
