@@ -1,0 +1,27 @@
+{
+  "slug": "tina-the-dinosaur",
+  "title": "Tina the Dinosaur",
+  "description": "Join Tina the Dinosaur for a fun time with her friends Kayvon, Charlie-Ann, Timmy the Frog, and Yogurt Cup Kid.",
+  "quote": "But what is going on? Where is Tina?",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "parentIMDB": "14596212",
+  "rating": "TV-Y7",
+  "runtime": "1 season",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "four kids in front of a barn: an apple, a yogurt cup, a strawberry, and a frog",
+  "alt1": "the kids looking shocked",
+  "alt2": "the kids peeking over a bush at the barn",
+  "alt3": "Tina the dinosaur, a realistic T-Rex, slamming through the barn door",
+  "alt4": "Timmy running away as Tina destroys the barn",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
