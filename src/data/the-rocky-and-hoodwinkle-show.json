@@ -1,0 +1,28 @@
+{
+  "slug": "the-rocky-and-hoodwinkle-show",
+  "title": "The Rocky and Hoodwinkle Show",
+  "description": "The adventures of Hoodwinkle, a none-too-bright moose, and his pal Rocky, a none-too-bright boxer.",
+  "quote": "Hey Rocky! Have you beat that bag into powder yet?",
+  "parent": "Mighty Mouse: The New Adventures",
+  "parentYear": "1987-1988",
+  "parentIMDB": "0161170",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Bakshi Animation",
+  "altHero": "Hoodwinkle, a moose scientist, doing an experiment",
+  "alt1": "a little house",
+  "alt2": "Hoodwinkle’s experiment has gone awry and he now has three eyes and a snake tongue",
+  "alt3": "Rocky Balboa punching a punching bag",
+  "alt4": "Hoodwinkle and Rocky",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "230"
+}
