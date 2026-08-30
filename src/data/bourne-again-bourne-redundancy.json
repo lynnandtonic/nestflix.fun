@@ -1,0 +1,30 @@
+{
+  "slug": "bourne-again-bourne-redundancy",
+  "title": "Bourne Again: Bourne Redundancy",
+  "description": "Jason Bourne is back and it’s more than you bourgained for.",
+  "quote": "Bourne. Bourne. Bourne! Bourne!",
+  "parent": "Inside Job",
+  "parentYear": "2021-2022",
+  "parentIMDB": "10231312",
+  "rating": "PG-13",
+  "runtime": "1h 59m",
+  "starring": [
+    "Matt Damon"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Netflix",
+  "altHero": "two Jason Bournes, each holding a gun",
+  "alt1": "Jason Bourne looking around suspiciously",
+  "alt2": "two Jason Bournes starting to point their guns at each other",
+  "alt3": "left Jason Bourne pointing his gun",
+  "alt4": "right Jason Bourne pointing his gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
