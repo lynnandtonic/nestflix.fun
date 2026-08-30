@@ -1,0 +1,32 @@
+{
+  "slug": "painting-for-fun-with-raven",
+  "title": "Painting for Fun with Raven",
+  "description": "Learn to paint dynamic and interesting scenes with Raven.",
+  "quote": "Now, add some mountains. Some shrubs. How about some cheery little birds?",
+  "parent": "Teen Titans Go!",
+  "parentYear": "2013-Present",
+  "parentIMDB": "2771780",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Raven"
+  ],
+  "labels": [
+    "reality",
+    "art",
+    "diy"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Raven with a short curly hairstyle, painting at an easel",
+  "alt1": "Raven with a blank canvas",
+  "alt2": "paintbrush painting some grass",
+  "alt3": "Raven thinking about what to paint next",
+  "alt4": "paintbrush painting a scary lion creature",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home, diy, and art"
+  ]
+}
