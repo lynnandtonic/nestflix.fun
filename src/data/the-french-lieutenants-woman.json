@@ -1,0 +1,30 @@
+{
+  "slug": "the-french-lieutenants-woman",
+  "title": "The French Lieutenant’s Woman",
+  "description": "Based on the novel by John Fowles. In the mid-19th century, disgraced woman Sarah Woodruff lives in the coastal town of Lyme Regis and begins a secret affair with a gentleman, Charles Smithson.",
+  "parent": "The French Lieutenant’s Woman",
+  "parentYear": "1981",
+  "parentIMDB": "0082416",
+  "rating": "R",
+  "runtime": "1h 56m",
+  "director": [
+    "K.Q. Rogers"
+  ],
+  "labels": [
+    "romantic drama"
+  ],
+  "credit": "United Artists",
+  "altHero": "Sarah Woodruff with an intense stare from under a hooded shawl in the dark mist of the ocean",
+  "alt1": "Charles Smithson on the edge of the sea",
+  "alt2": "Miss Ernestina Freeman",
+  "alt3": "Sarah and Charles sit in the forest and talk",
+  "alt4": "Sarah writing in candlelight, looking into a mirror on her table",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas",
+    "new on nestflix"
+  ]
+}
