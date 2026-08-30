@@ -1,0 +1,31 @@
+{
+  "slug": "neighborhood-predator",
+  "title": "Neighborhood Predator",
+  "description": "Alicia Harding and her team are finding sexual predators in your city, caught on tape.",
+  "quote": "What are you doing here? You’re a father, a husband, and school teacher.",
+  "parent": "Law & Order: Special Victims Unit",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0203259",
+  "rating": "TV-MA",
+  "runtime": "5 seasons",
+  "starring": [
+    "Alicia Harding"
+  ],
+  "labels": [
+    "real crime"
+  ],
+  "credit": "NBC",
+  "altHero": "Alicia Harding",
+  "alt1": "teen girl answering the door for an older man",
+  "alt2": "Alicia Harding and a cameraman talking to a suspect",
+  "alt3": "video recording of a man sitting on the couch with a young girl",
+  "alt4": "responders at a snowy crime scene",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv"
+  ],
+  "logoWidth": "180"
+}
