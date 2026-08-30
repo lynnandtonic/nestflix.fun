@@ -1,0 +1,25 @@
+{
+  "slug": "the-salad-of-the-christ",
+  "title": "The Salad of the Christ",
+  "description": "Christian Carrot Theater presents biblical stories for children, including the arrest, trial and crucifixion of Jesus Christ.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG",
+  "runtime": "1h",
+  "director": [
+    "Mel Gibson"
+  ],
+  "labels": [
+    "kids",
+    "religion"
+  ],
+  "credit": "20th Television",
+  "altHero": "tomato Christ carrying the cross with carrot Roman soldiers",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "religious programming"
+  ]
+}
