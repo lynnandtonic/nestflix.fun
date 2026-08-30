@@ -1,0 +1,28 @@
+{
+  "slug": "joseph-a-bananas-afterschool-stories",
+  "title": "Joseph A. Banana's Afterschool Stories",
+  "description": "Joseph A. Banana fills your child’s afternoon with comedy and hijinks.",
+  "quote": "Son, we’re splitting up.",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "parentIMDB": "14596212",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "comedy"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "mom, dad, and baby banana dancing",
+  "alt1": "baby banana looking sad",
+  "alt2": "mom and dad banana looking worried",
+  "alt3": "mom, dad, and baby banana dancing from behind",
+  "alt4": "mom, dad, and baby banana with their bums revealed",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
