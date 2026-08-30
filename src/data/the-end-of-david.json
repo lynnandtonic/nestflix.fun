@@ -1,0 +1,26 @@
+{
+  "slug": "the-end-of-david",
+  "title": "The End of David",
+  "description": "The underdog story of David, a young shepherd, who fights the giant, Goliath.",
+  "parent": "Oedipus",
+  "parentYear": "2011",
+  "parentIMDB": "2437652",
+  "rating": "PG",
+  "runtime": "34m",
+  "labels": [
+    "religion"
+  ],
+  "credit": "National Film Board of Canada",
+  "altHero": "squiggly hand-drawn small David with a slingshot and giant Goliath with a club",
+  "alt1": "Goliath clubbing David",
+  "alt2": "Goliath’s teeth all falling out",
+  "alt3": "David slinging a rock at Goliath",
+  "alt4": "different angle of David and Goliath",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "religious programming"
+  ]
+}
