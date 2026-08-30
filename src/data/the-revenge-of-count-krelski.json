@@ -1,0 +1,30 @@
+{
+  "slug": "the-revenge-of-count-krelski",
+  "title": "The Revenge of Count Krelski",
+  "description": "Count Krelski has returned and lures Maria to his castle lair. With her entranced, Victor is running out of time to save her.",
+  "quote": "Prepare to meet your doom!",
+  "parent": "Mom’s Got a Date with a Vampire",
+  "parentYear": "2000",
+  "parentIMDB": "0250593",
+  "rating": "PG-13",
+  "runtime": "1h 35m",
+  "labels": [
+    "horror",
+    "monster",
+    "vampires"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Count Krelski showing his vampire teeth",
+  "alt1": "Count Krelski arrives with Maria in horse carriage as Victor stands on the steps of his castle",
+  "alt2": "Maria, in a trance",
+  "alt3": "Maria and Victor embracing",
+  "alt4": "Count Krelski",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ]
+}
