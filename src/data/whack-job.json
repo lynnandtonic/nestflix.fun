@@ -1,0 +1,32 @@
+{
+  "slug": "whack-job",
+  "title": "Whack Job",
+  "description": "Unfortunately, it’s your time to meet The Butcher… and he loves his work.",
+  "quote": "Time to kiss your sweet ass goodbye, cupcake.",
+  "parent": "Six Feet Under",
+  "parentYear": "2001-2005",
+  "parentIMDB": "0248654",
+  "rating": "R",
+  "runtime": "1h 37m",
+  "starring": [
+    "Rebecca Leah Milford",
+    "Brody Farrell"
+  ],
+  "labels": [
+    "horror",
+    "slasher"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "hand holding a butcher knife next to a bloody apron",
+  "alt1": "lighting a candle next to a blurry photo of a man",
+  "alt2": "The Butcher, a man in a mask and bloody apron, standing outside a glass front door at night",
+  "alt3": "young blonde woman screaming",
+  "alt4": "closeup of The Butcher’s mask made of stitched-together skin",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks"
+  ]
+}
