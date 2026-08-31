@@ -1,0 +1,33 @@
+{
+  "slug": "riverdale-grandstand",
+  "title": "Riverdale Grandstand",
+  "description": "Popular teenage dance show out of Riverdale, playing the day’s top music hits and cutting a rug.",
+  "parent": "Riverdale",
+  "parentYear": "2017-2023",
+  "parentIMDB": "5420376",
+  "rating": "TV-G",
+  "runtime": "60 episodes",
+  "starring": [
+    "Alice Cooper",
+    "Hal Cooper"
+  ],
+  "labels": [
+    "variety show",
+    "music"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "teens in 50s garb dancing on set",
+  "alt1": "teens slow dancing",
+  "alt2": "teens dancing",
+  "alt3": "hosts Hal and Alice Cooper",
+  "alt4": "Betty Cooper dancing with teens watching",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows",
+    "music variety",
+    "new on nestflix"
+  ]
+}
