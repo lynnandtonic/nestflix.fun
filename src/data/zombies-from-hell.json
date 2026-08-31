@@ -1,0 +1,28 @@
+{
+  "slug": "zombies-from-hell",
+  "title": "Zombies From Hell",
+  "description": "The true stories of real people who come face to face with the reanimated corpses of their loved ones.",
+  "parent": "Shaun of the Dead",
+  "parentYear": "2004",
+  "parentIMDB": "0365748",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "labels": [
+    "documentary",
+    "zombies"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "zombies on a hill in the distance",
+  "alt1": "a young boy pointing a gun",
+  "alt2": "fuzzy sillhouette of a person’s head and hand pressed against a glass door",
+  "alt3": "SWAT entering a building",
+  "alt4": "a zombie man",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series",
+    "new on nestflix"
+  ]
+}
