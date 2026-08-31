@@ -1,0 +1,32 @@
+{
+  "slug": "steinberg-and-son",
+  "title": "Steinberg and Son",
+  "description": "The misadventures of a grouchy old father, his dumb son, the ugly sister-in-law, and the stupid, bumbling friend.",
+  "quote": "You watch it, you bagel-eyed lox!",
+  "parent": "Sanford and Son",
+  "parentYear": "1972-1977",
+  "parentIMDB": "0068128",
+  "rating": "TV-PG",
+  "runtime": "14 episodes",
+  "producer": "Bernie Taub",
+  "studio": "NBC",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "NBC",
+  "altHero": "father and son Steinberg",
+  "alt1": "father being dramatic",
+  "alt2": "son answering the door for the neighbor",
+  "alt3": "aunt is angry as son blocks her from his father",
+  "alt4": "father laughing while reading the paper",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ],
+  "logoWidth": "300"
+}
