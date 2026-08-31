@@ -57,3 +57,38 @@
     p
       font-weight: $font-weight-normal
       text-wrap: pretty
+
+  .hero + .banner > a
+    min-height: 40px
+    margin-top: calc(var(--body-padding)*-1.5)
+    display: grid
+    grid-template-columns: auto 100px
+    justify-content: center
+    align-items: center
+    gap: 1rem
+    background-color: darken($body-bg,20)
+    color: white
+    
+    @media screen and (max-width: $bp-md)
+      grid-template-columns: auto 85px
+    
+    &:hover
+      text-decoration: none
+      background-color: $pink-med
+      
+      strong
+        color: $gold
+
+      img
+        rotate: -4deg
+
+    strong
+      color: $pink
+
+    img
+      width: 100%
+      margin: -1rem 0
+      filter: drop-shadow(3px 3px 3px rgba(0,0,0,.3));
+      rotate: 4deg
+      transition: rotate 50ms ease-in-out
+    
