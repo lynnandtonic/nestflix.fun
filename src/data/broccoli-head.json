@@ -1,0 +1,28 @@
+{
+  "slug": "broccoli-head",
+  "title": "Broccoli Head",
+  "description": "The worktime adventures of Broccoli Head who delivers packages and really struggles with names.",
+  "quote": "Gabodoglophordia. How many times I gotta tell ya? Gabodoglophordia!",
+  "parent": "Scooby Doo! Mystery Incorporated",
+  "parentYear": "2010-2013",
+  "parentIMDB": "1660055",
+  "rating": "TV-Y7",
+  "runtime": "1 season",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Broccoli Head, a guy who is a piece of broccoli, giving a salute",
+  "alt1": "Broccoli Head saluting his boss, Mr. Gabodoglophordia, who is a radish with a mustache",
+  "alt2": "Mr. Gabodoglophordia holding some packages",
+  "alt3": "Mr. Gabodoglophordia yelling at Broccoli Head",
+  "alt4": "Broccoli Head, outside, saluting his boss who is surprised",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "200"
+}
