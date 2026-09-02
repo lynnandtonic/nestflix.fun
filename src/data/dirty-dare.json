@@ -1,0 +1,24 @@
+{
+  "slug": "dirty-dare",
+  "title": "Dirty Dare",
+  "description": "Kids compete in physical challenges in hopes of winning a $25 savings bond and candy prize! Can they survive being covered in meat and thrown in the Pit o’ Wild Dogs?",
+  "quote": "Sound easy? Well, it won’t be… wearing these high heels!",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "game show",
+    "kids"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "host with two kids wearing helmets",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!"
+  ],
+  "logoWidth": "280"
+}
