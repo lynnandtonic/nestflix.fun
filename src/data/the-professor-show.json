@@ -1,0 +1,24 @@
+{
+  "slug": "the-professor-show",
+  "title": "The Professor Show",
+  "description": "Two professors teach science and mathematics in a way that is totally relatable to the average viewer.",
+  "quote": "All conic sections can be expressed as second-power or quadratic equations. Ha ha ha!",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "science",
+    "educational",
+    "comedy"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "two dinosaur professors in front of a blackboard",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids science shows"
+  ]
+}
