@@ -1,0 +1,26 @@
+{
+  "slug": "damn-hot-topic",
+  "title": "Damn Hot Topic",
+  "description": "A talk show where expert guests debate hot and controversial topics.",
+  "parent": "Tomorrow and I",
+  "parentYear": "2024",
+  "parentIMDB": "31158590",
+  "rating": "TV-MA",
+  "runtime": "2 seasons",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Netflix",
+  "altHero": "host who is an Asian man in a bright ’70s yellow suit and black-rimmed glasses, with a bowl cut",
+  "alt1": "host with two women guests: a younger, stylish woman and an older more buttoned-up one",
+  "alt2": "the younger woman speaks to the camera",
+  "alt3": "host with a musical guest: a young man with long hair in short shorts and tall boots",
+  "alt4": "host talking to the same man but without his jacket on",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "political talk shows"
+  ]
+}
