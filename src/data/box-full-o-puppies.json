@@ -1,0 +1,28 @@
+{
+  "slug": "box-full-o-puppies",
+  "title": "Box Full O’ Puppies",
+  "description": "Relationships can be hard, but how do they fare when a box full of puppies is thrown into the mix?",
+  "quote": "They’re so adorable!",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "cardboard box full of golden retriever puppies",
+  "alt1": "man dinosaur walking in with a cardboard box with a ribbon on it",
+  "alt2": "woman greets the man with a kiss",
+  "alt3": "both of them holding a puppy",
+  "alt4": "puppy being pet by a dinosaur hand",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "210"
+}
