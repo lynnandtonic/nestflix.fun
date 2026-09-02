@@ -1,0 +1,29 @@
+{
+  "slug": "50-foot-vegetable-theater",
+  "title": "50-Foot Vegetable Theater",
+  "description": "Something has gone horribly wrong in Dr. Fiend’s laboratory, and the vegetables are growing out of control. A movie that examines the consequences of scientists meddling in things they don’t understand.",
+  "quote": "They said I was mad! But now I, and I alone, have given life to a squash!",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "PG-13",
+  "runtime": "2h 34m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "Dr. Fiend, Igor, and a giant squash with arms and a mouth",
+  "alt1": "Dr. Fiend, a mad scientist",
+  "alt2": "Dr. Fiend and Igor",
+  "alt3": "Dr. Fiend and Igor next to a table with a blue blanket over something on a table",
+  "alt4": "Dr. Fiend and Igor with a giant mushroom",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ],
+  "logoWidth": "190"
+}
