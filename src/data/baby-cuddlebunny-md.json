@@ -1,0 +1,24 @@
+{
+  "slug": "baby-cuddlebunny-md",
+  "title": "Baby Cuddlebunny, M.D.",
+  "description": "A comedy spinoff of <em>Dr. Kirk Marcus, M.D.</em>, featuring the medical misadventures of fan favorite, Baby Cuddlebunny, M.D.",
+  "quote": "Not the pajamas! Not the pajamas!",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "sitcom",
+    "medical"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "baby doctor next to an adult doctor",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "170"
+}
