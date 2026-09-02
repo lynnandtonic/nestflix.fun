@@ -1,0 +1,33 @@
+{
+  "slug": "frankenstein-meets-mary-poppins",
+  "title": "Frankenstein Meets Mary Poppins",
+  "description": "A horror mystery set in the English countryside that is so captivating, you won’t be able to look away.",
+  "parent": "Green Acres",
+  "parentYear": "1965-1971",
+  "parentIMDB": "0058808",
+  "rating": "PG-13",
+  "runtime": "1h 45m",
+  "starring": [
+    "Dame Mae Fishman "
+  ],
+  "studio": "Dunbar Pictures",
+  "labels": [
+    "horror",
+    "monster",
+    "mystery"
+  ],
+  "credit": "CBS",
+  "altHero": "a ghost against a black backdrop",
+  "alt1": "Frankenstein monster walking through the woods",
+  "alt2": "skeleton hand",
+  "alt3": "a gun shooting around a corner, through a metal grate",
+  "alt4": "silhoutte of a man in a dark basement",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ],
+  "logoWidth": "260"
+}
