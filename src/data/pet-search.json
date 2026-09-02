@@ -1,0 +1,30 @@
+{
+  "slug": "pet-search",
+  "title": "Pet Search",
+  "description": "The competition that says, “No matter how insignificant you are, your pet may be a star!” As chosen by the audience, the most talented pet wins $1,000.",
+  "quote": "It can’t be easy teaching pigeons to tap dance.",
+  "parent": "Garfield Goes Hollywood",
+  "parentYear": "1987",
+  "parentIMDB": "0166203",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "studio": "WBOR",
+  "labels": [
+    "reality competition",
+    "animals"
+  ],
+  "credit": "CBS",
+  "altHero": "host with a grumpy looking man with a grumpy little dog",
+  "alt1": "host with a man in a green sweater with a similarly green bird hanging from his arm",
+  "alt2": "man with glasses reveals five pigeons wearing shoes and top hats",
+  "alt3": "a one-man-band dog playing multiple musical instruments",
+  "alt4": "a man dressed as Elvis with a dancing cat and dog",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv"
+  ],
+  "logoWidth": "230"
+}
