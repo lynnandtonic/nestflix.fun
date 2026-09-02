@@ -1,0 +1,22 @@
+{
+  "slug": "man-vs-dumpster",
+  "title": "Man vs. Dumpster",
+  "description": "Dumpster Jack (and in later seasons, Dumpster AI) digs through the garbage and eats the food he finds there.",
+  "parent": "Stuck In The Middle",
+  "parentYear": "2016-2018",
+  "parentIMDB": "4488724",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality",
+    "food"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
