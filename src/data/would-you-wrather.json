@@ -1,0 +1,32 @@
+{
+  "slug": "would-you-wrather",
+  "title": "Would You Wrather?",
+  "description": "Siblings Cooper and Cami Wrather livestream from their home and crowd-solve problems with the help of their little brother, Ollie, and their best friend, Fred.",
+  "quote": "Ok Wrather Heads! Today we’re debating an age old question.",
+  "parent": "Coop & Cami Ask The World",
+  "parentYear": "2018-2020",
+  "parentIMDB": "8381724",
+  "rating": "Unrated",
+  "runtime": "2 seasons",
+  "starring": [
+    "Cooper Wrather",
+    "Cami Wrather"
+  ],
+  "labels": [
+    "kids",
+    "comedy"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Cooper and Cami, tween brother and sister",
+  "alt1": "Cooper and Cami",
+  "alt2": "Cooper and Cami with a question on screen: “Would you rather eat mix of leftovers or take a bath in it?”",
+  "alt3": "their little brother, Ollie, in the sink filled with the leftovers",
+  "alt4": "Cooper, Cami, Ollie, and Fred",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "web shows"
+  ]
+}
