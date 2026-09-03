@@ -1,0 +1,33 @@
+{
+  "slug": "horror-movie",
+  "title": "Horror Movie",
+  "description": "A comedy parody film that mocks slasher movies and skewers the horror genre, with plenty of celebrity cameos and fart gags.",
+  "quote": "What’s your favorite scary movie?",
+  "parent": "Scary Movie",
+  "parentYear": "2026",
+  "parentIMDB": "32093575",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "starring": [
+    "Teyana Taylor",
+    "Carmen Electra"
+  ],
+  "labels": [
+    "comedy",
+    "horror"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "Teyana Taylor on the phone in a dark alley and Ghostface is standing behind her",
+  "alt1": "Teyana Taylor on the phone at a bar",
+  "alt2": "Carmen Electra as a bartender",
+  "alt3": "Teyana Taylor with a gang of tough dudes behind her in an alley",
+  "alt4": "Ghostface holding a knife that’s been crunched into a zigzag shape",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ]
+}
