@@ -1,0 +1,30 @@
+{
+  "slug": "vindicators-crystal-war",
+  "title": "Vindicators: Crystal War",
+  "description": "Magnesium Man and the Vindicators finally face off with Chinnos who is trying to get his hands on the Doomsday app.",
+  "quote": "I can restart this planet in flames, as a utopia.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG-13",
+  "runtime": "2h 12m",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "20th Television",
+  "altHero": "Chinnos, a blue villain, flying in the air and holding a smartphone",
+  "alt1": "shark hero jumping toward Chinnos who is in a pink safety bubble in the air",
+  "alt2": "Chinnos ready to restart the Doomsday app as the Vindicators look on",
+  "alt3": "blue lightning attacks the Vindicators",
+  "alt4": "Magnesium Man turning into crystals",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "action movies",
+    "new on nestflix"
+  ]
+}
