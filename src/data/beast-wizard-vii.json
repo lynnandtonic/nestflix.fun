@@ -1,0 +1,35 @@
+{
+  "slug": "beast-wizard-vii",
+  "title": "Beast Wizard VII",
+  "description": "A late chapter in the <em>Beast Wizard</em> franchise, the low-budget, direct-to-video fantasy series starring the now infamous George Laszlo.",
+  "quote": "Beast Wizard, the Kingdom of Thule will never be yours.",
+  "parent": "Terminator: Sarah Connor Chronicles",
+  "parentYear": "2008-2009",
+  "parentIMDB": "0851851",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "starring": [
+    "George Laszlo"
+  ],
+  "director": [
+    "McG"
+  ],
+  "labels": [
+    "action",
+    "fantasy"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Beast Wizard, a buff shirtless hero holding a sword, and a blonde scantily-clad woman",
+  "alt1": "Beast Wizard holding a sword",
+  "alt2": "woman tied up to a tree",
+  "alt3": "Beast Wizard and the woman tied up behind him",
+  "alt4": "villain in armor and holding two weapons",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ]
+}
