@@ -1,0 +1,29 @@
+{
+  "slug": "treasure-caravan",
+  "title": "Treasure Caravan",
+  "description": "People bring in family heirlooms and garage sale finds to have them evaluated and appraised. Because remember, every treasure has a story.",
+  "quote": "I bought it for ten dollars at a yard sale.",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-G",
+  "runtime": "8 seasons",
+  "labels": [
+    "reality",
+    "art",
+    "antiques"
+  ],
+  "credit": "PBS",
+  "altHero": "host of Treasure Caravan inspecting a necklace with a magnifying glass",
+  "alt1": "host with a man and an armchair on its side",
+  "alt2": "a hand showing claw marks on the leg of the chair",
+  "alt3": "host speaks with a young girl",
+  "alt4": "hand showing a Native American art object",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home, diy, and art"
+  ]
+}
