@@ -1,0 +1,23 @@
+{
+  "slug": "the-yuk-yuk-hour-with-krusto",
+  "title": "The Yuk-Yuk Hour With Krusto!",
+  "description": "A local favorite for the kids in Kingfield. Join Krusto for an hour of stories and laughs.",
+  "quote": "Hey, hey! Thanks for the big hand.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "variety show"
+  ],
+  "credit": "20th Television",
+  "altHero": "Krusto the Clown holding up a big fake hand",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows"
+  ]
+}
