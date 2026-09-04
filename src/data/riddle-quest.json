@@ -1,0 +1,33 @@
+{
+  "slug": "riddle-quest",
+  "title": "Riddle Quest",
+  "description": "A really cool game show where kids answer riddles and win big prizes!",
+  "quote": "I am a kind of band that does not make music. What am I?",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-Y7",
+  "runtime": "5 seasons",
+  "starring": [
+    "Alex Lebeck"
+  ],
+  "labels": [
+    "game show",
+    "kids",
+    "trivia"
+  ],
+  "credit": "PBS",
+  "altHero": "host Alex Lebeck, a man with a mustache",
+  "alt1": "set of the show with two kids at podiums",
+  "alt2": "young girl contestant celebrating",
+  "alt3": "a wizard",
+  "alt4": "Alex Lebeck with a young boy contestant",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ],
+  "logoWidth": "200"
+}
