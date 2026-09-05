@@ -1,0 +1,33 @@
+{
+  "slug": "the-carter-hawkins-show",
+  "title": "The Carter Hawkins Show",
+  "description": "Welcome to the Hawk! Host Carter Hawkins discusses political topics with guests.",
+  "quote": "And yet, their secret agendas continue!",
+  "parent": "Frisky Dingo",
+  "parentYear": "2006-2008",
+  "parentIMDB": "0865409",
+  "rating": "TV-MA",
+  "runtime": "5 seasons",
+  "starring": [
+    "Carter Hawkins",
+    "Harper Ellis",
+    "Grace Ryan"
+  ],
+  "labels": [
+    "talk show",
+    "politics"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Carter Hawkins",
+  "alt1": "Carter Hawkins at his desk with Harper Ellis and Grace Ryan",
+  "alt2": "Grace Ryan looking concerned",
+  "alt3": "Carter Hawkins and Harper Ellis",
+  "alt4": "Carter Hawkins speaking remotely with a congressman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "political talk shows"
+  ]
+}
