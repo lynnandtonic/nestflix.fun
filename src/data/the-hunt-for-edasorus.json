@@ -1,0 +1,31 @@
+{
+  "slug": "the-hunt-for-edasorus",
+  "title": "The Hunt for Edasorus",
+  "description": "An amateur film by The Eds, a group of childhood friends, about the elusive, prehistoric creature known as Edasorus.",
+  "parent": "Ed, Edd n Eddy",
+  "parentYear": "1999-2009",
+  "parentIMDB": "0184111",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "director": [
+    "Eddy"
+  ],
+  "labels": [
+    "drama",
+    "amateur",
+    "silent"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Edasorus, a boy in his underwear wearing a paper bag dinosaur mask",
+  "alt1": "Edasorus creeping around their backyard jungle",
+  "alt2": "a caveman with a club walking",
+  "alt3": "caveman raising the club at a cavewoman",
+  "alt4": "Edasorus sitting down",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
