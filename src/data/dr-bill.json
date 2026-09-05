@@ -1,0 +1,31 @@
+{
+  "slug": "dr-bill",
+  "title": "Dr. Bill",
+  "description": "On his own talk show, host Dr. Bill gives guests blunt advice and helps them through personal crises.",
+  "quote": "Y’all should hightail it out of there quicker than a boll weevil in a cyber-cat convention!",
+  "parent": "Cyberchase",
+  "parentYear": "2002-Present",
+  "parentIMDB": "0309141",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": [
+    "Dr. Bill"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "Dr. Bill, a man wearing a bolo tie and a cowboy hat",
+  "alt1": "Dr. Bill looking shocked",
+  "alt2": "studio audience",
+  "alt3": "Dr. Bill with two guests",
+  "alt4": "a guest crying",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": "160"
+}
