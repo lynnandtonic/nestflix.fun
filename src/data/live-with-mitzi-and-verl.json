@@ -1,0 +1,26 @@
+{
+  "slug": "live-with-mitzi-and-verl",
+  "title": "Live With Mitzi And Verl",
+  "description": "Popular daily talk show with hosts Mitzi and Verl who discuss news and culture with special guests.",
+  "parent": "Frisky Dingo",
+  "parentYear": "2006-2008",
+  "parentIMDB": "0865409",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Mitzi and Verl with a guest",
+  "alt1": "Mitzi",
+  "alt2": "Mitzi and Verl",
+  "alt3": "Mitzi and Verl with a guest",
+  "alt4": "Verl and guest",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
