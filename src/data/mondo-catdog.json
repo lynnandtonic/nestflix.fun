@@ -1,0 +1,32 @@
+{
+  "slug": "mondo-catdog",
+  "title": "Mondo Catdog",
+  "description": "Behold the creature called CatDog. Half cat, half dog. All beast, all wild, and all weird.",
+  "quote": "Heigh-ho, diggity!",
+  "parent": "CatDog",
+  "parentYear": "1998-2005",
+  "parentIMDB": "0154061",
+  "rating": "PG",
+  "runtime": "1h 23m",
+  "director": [
+    "Lola Caricola"
+  ],
+  "producer": "Mr. Bottomleaner",
+  "labels": [
+    "documentary",
+    "animals"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "silhouette of CatDog against a full moon",
+  "alt1": "CatDog with big chameleon eyes, stalking prey on a branch",
+  "alt2": "CatDog drinking from a watering hole with cardboard flamingos and giraffe nearby",
+  "alt3": "CatDog lying facedown on the grass near another CatDog-like creature (two other animals tied together in the middle)",
+  "alt4": "CatDog displaying peacock feathers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries"
+  ]
+}
