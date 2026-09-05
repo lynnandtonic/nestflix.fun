@@ -1,0 +1,23 @@
+{
+  "slug": "the-glippo-show",
+  "title": "The Glippo Show",
+  "description": "Classic cartoon shorts featuring Glippo, who gets into musical adventures and silly situations.",
+  "parent": "Ed, Edd n Eddy",
+  "parentYear": "1999-2009",
+  "parentIMDB": "0184111",
+  "rating": "TV-Y",
+  "runtime": "45 episodes",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Glippo, a cartoon rabbit, playing a guitar next to a trunk",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "250"
+}
