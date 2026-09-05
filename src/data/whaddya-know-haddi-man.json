@@ -1,0 +1,32 @@
+{
+  "slug": "whaddya-know-haddi-man",
+  "title": "Whaddya Know Haddi-Man?",
+  "description": "Adventures with Homsar as we learn the letters of the alphabet.",
+  "quote": "I’m not gonna lie to ya, that’s a healthy piece of real estate.",
+  "parent": "Homestar Runner: Strong Bad Email",
+  "parentYear": "1996-Present",
+  "parentIMDB": "2349968",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "starring": [
+    "Homsar"
+  ],
+  "labels": [
+    "kids",
+    "educational"
+  ],
+  "credit": "The Brothers Chaps",
+  "altHero": "Homsar",
+  "alt1": "Homsar gasping at the letter G",
+  "alt2": "paper cutout version of Homsar in a boat with t-shirt that says, “if you lived here, you’d be home”",
+  "alt3": "paper cutout faces of three kids, and an orange with the letters “abc” on it",
+  "alt4": "illustration of guy with a guitar and text “stave it OFF 123 and now you can count to THREE”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "300"
+}
