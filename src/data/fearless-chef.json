@@ -1,0 +1,31 @@
+{
+  "slug": "fearless-chef",
+  "title": "Fearless Chef",
+  "description": "Top chefs from around cyberspace compete by cooking fantastic cuisine in perilous places!",
+  "parent": "Cyberchase",
+  "parentYear": "2002-Present",
+  "parentIMDB": "0309141",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Chairman Delicacy"
+  ],
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "chef Chairman Delicacy holding a golden chef hat",
+  "alt1": "a chef cooking a meal on the wing of a jet",
+  "alt2": "a chef cooking a meal in a cage with lions",
+  "alt3": "a chef cooking a meal on a tightrope",
+  "alt4": "Chairman Delicacy with two teams about to compete",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
