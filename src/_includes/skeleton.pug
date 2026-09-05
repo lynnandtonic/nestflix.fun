@@ -56,11 +56,12 @@ html(lang='en')
                 a.nav-home(href='/')
                     img(src='/img/_logos/logo-nestflix.svg' alt='Nestflix')
                 a(href='/#categories') Browse
-                a(href='/search') Search
                 a(href='/contribute') Contribute
                 a(href='/merch') Merch
-                a.nav-user(href='/user')
-                    img(src='/img/_icons/icon-user.svg' alt='user icon')
+                div
+                    a(href='/search') Search
+                    a.nav-user(href='/user')
+                        img(src='/img/_icons/icon-user.svg' alt='user icon')
 
         main
             block content

@@ -48,22 +48,28 @@ header
   nav
     display: flex
     align-items: center
-    gap: 1.2em
+    gap: clamp(.5em, 3vw, 1.5em)
     font-size: 90%
 
     @media screen and (max-width: 420px)
-      gap: .75em
+      // gap: .75em
       font-size: 80%
 
     a
       color: white
 
+    & > div
+      margin-left: auto
+      display: flex
+      align-items: center
+      gap: clamp(.5em, 3vw, 1.5em)
+
   .nav-user
-    margin-left: auto
     display: flex
     align-items: center
 
     img
+      width: clamp(15px, 5vw, 27px)
       filter: drop-shadow(0 2px 2px black(.4))
 
   .nav-home
