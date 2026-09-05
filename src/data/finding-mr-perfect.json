@@ -1,0 +1,29 @@
+{
+  "slug": "finding-mr-perfect",
+  "title": "Finding Mr. Perfect",
+  "description": "A single lady looking for love must choose between three eligible suitors.",
+  "quote": "What makes you the perfect partner for me?",
+  "parent": "Cyberchase",
+  "parentYear": "2002-Present",
+  "parentIMDB": "0309141",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "dating"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "three robot suitors",
+  "alt1": "robot suitors separated by a wall from a single witch woman",
+  "alt2": "closeup of the witch",
+  "alt3": "robot",
+  "alt4": "a basheful robot",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows"
+  ],
+  "logoWidth": "270"
+}
