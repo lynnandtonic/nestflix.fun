@@ -1,0 +1,27 @@
+{
+  "slug": "quiz-master",
+  "title": "Quiz Master",
+  "description": "Contestants from the studio audience play games to win prizes. Who will be the daily grand prize winner?",
+  "quote": "I’m going for it!",
+  "parent": "Inspector Gadget",
+  "parentYear": "1983-1985",
+  "parentIMDB": "0085033",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "labels": [
+    "game show"
+  ],
+  "credit": "WildBrain",
+  "altHero": "host, a fancy man with bowtie and white gloves",
+  "alt1": "host with a contestant in a hot dog costume",
+  "alt2": "hot dog man is presented with three doors",
+  "alt3": "a sparkling toaster prize",
+  "alt4": "Inspector Gadget sits in a chair and talks with the host",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
