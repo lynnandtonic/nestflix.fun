@@ -1,0 +1,29 @@
+{
+  "slug": "monty-and-moo-moo",
+  "title": "Monty & Moo-Moo",
+  "description": "Join best buds Monty and Moo-Moo on the farm for everyday life lessons.",
+  "quote": "Drugs are bad, right Monty?",
+  "parent": "How I Met Your Mother",
+  "parentYear": "2005-2014",
+  "parentIMDB": "0460649",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "puppets"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "red barn puppet stage with Monty and Moo-Moo, farmer and cow sock puppets",
+  "alt1": "Monty singing and Moo-Moo waving an American flag",
+  "alt2": "Moo-Moo",
+  "alt3": "Monty and Moo-Moo",
+  "alt4": "Monty",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "240"
+}
