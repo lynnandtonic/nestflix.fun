@@ -1,0 +1,30 @@
+{
+  "slug": "intestines-of-war",
+  "title": "Intestines of War",
+  "description": "An alien scourge visits Earth and plans to bring the human race to its knees—via their intestines.",
+  "quote": "Right! We’ll destroy them with pepper!",
+  "parent": "Invader Zim",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235923",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "labels": [
+    "sci-fi",
+    "action",
+    "aliens"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "big bug-like aliens walking through a desert",
+  "alt1": "alien ships targeting a city",
+  "alt2": "scientists discuss plans around a table",
+  "alt3": "scientist pointing at a blackboard with the word “Germs”",
+  "alt4": "soldiers walking through fiery wreckage",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "aliens!"
+  ],
+  "logoWidth": "240"
+}
