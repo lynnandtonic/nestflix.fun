@@ -1,0 +1,41 @@
+{
+  "slug": "dangeresque-1-dangeresque-too",
+  "title": "Dangeresque 1: Dangeresque, Too?",
+  "description": "The digitally remastered director’s cut. Dangeresque and his new partner, Dangeresque Too, must find Perducci, who has stolen a special anti-kidnapping serum.",
+  "quote": "Let’s get one thing straight, meatball face butt: I work alone.",
+  "parent": "Homestar Runner: Strong Bad Email",
+  "parentYear": "1996-Present",
+  "parentIMDB": "2349968",
+  "rating": "Unrated",
+  "runtime": "34m",
+  "starring": [
+    "Strong Bad",
+    "Homestar Runner",
+    "Coach Z",
+    "King of Town",
+    "Marzipan",
+    "Killingyouguy",
+    "El Dumpo",
+    "The Cheat"
+  ],
+  "director": [
+    "Strong Bad"
+  ],
+  "labels": [
+    "thriller",
+    "amateur"
+  ],
+  "credit": "The Brothers Chaps",
+  "altHero": "Strong Bad with aviator sunglases, a gun with nunchucks taped to it, and a Reesy Cup shake",
+  "alt1": "Strong Bad in a car talking on a VCR phone",
+  "alt2": "Coach Z holding a newspaper that says “Perducci is the bad guy”",
+  "alt3": "Strong Bad and Homestar Runner climbing up a hand-drawn building",
+  "alt4": "Killingyouguy with post-it note scars on his face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
