@@ -1,0 +1,31 @@
+{
+  "slug": "good-day-sunshine",
+  "title": "Good Day, Sunshine!",
+  "description": "Bug, Mush, and all their pals ask kids to open their hearts and say, “Good Day!”",
+  "quote": "Be good! Be kind! Be brave! Be different!",
+  "parent": "Eric",
+  "parentYear": "2024",
+  "parentIMDB": "16283824",
+  "rating": "TV-Y",
+  "runtime": "15 seasons",
+  "creator": "Vincent Anderson, Lennie Wilson",
+  "labels": [
+    "kids",
+    "puppets"
+  ],
+  "credit": "Netflix",
+  "altHero": "puppet pals Bug and Mush",
+  "alt1": "Bug and Mush who is holding a tiered birthday cake",
+  "alt2": "Bug singing",
+  "alt3": "dancing hot dogs",
+  "alt4": "Eric the monster puppet",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids puppet shows",
+    "new on nestflix"
+  ],
+  "logoWidth": "270"
+}
