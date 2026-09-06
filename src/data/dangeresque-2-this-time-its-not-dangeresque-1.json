@@ -1,0 +1,41 @@
+{
+  "slug": "dangeresque-2-this-time-its-not-dangeresque-1",
+  "title": "Dangeresque II: This Time It’s Not Dangeresque 1",
+  "description": "Dangeresque is on the case to find a missing VHS tape. If anyone can find it, Dangeresque can.",
+  "quote": "I’m going to have to jump!",
+  "parent": "Homestar Runner: Strong Bad Email",
+  "parentYear": "1996-Present",
+  "parentIMDB": "2349968",
+  "rating": "Unrated",
+  "runtime": "34m",
+  "starring": [
+    "Strong Bad",
+    "Coach Z",
+    "Marzipan",
+    "Killingyouguy",
+    "Hot Tub",
+    "The Cheat"
+  ],
+  "director": [
+    "Strong Bad"
+  ],
+  "labels": [
+    "thriller",
+    "amateur"
+  ],
+  "credit": "The Brothers Chaps",
+  "altHero": "Strong Bad at a lamp-lit desk, reading a newspaper",
+  "alt1": "Strong Bad leaving a kiddie pool labeled “Shark pond",
+  "alt2": "Killingyouguy punching Hot Tub with a Strong Bad face mask on his head",
+  "alt3": "man and animal",
+  "alt4": "Strong Bad with Marzipan",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ],
+  "logoWidth": ""
+}
