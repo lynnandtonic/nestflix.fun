@@ -1,0 +1,26 @@
+{
+  "slug": "capn-splatters-fun-boat",
+  "title": "Cap’n Splatter’s Fun Boat!",
+  "description": "Climb aboard and join the trip! Have a riot with a pirate! We'll go down with the ship on Cap’n Splatter’s fun boat!",
+  "parent": "The Replacements",
+  "parentYear": "2006-2009",
+  "parentIMDB": "0816401",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Cap’n Splatter, a pirate with a red beard and big blue hat",
+  "alt1": "three smiling kids sticking out of cannons",
+  "alt2": "three kids tied up with rope walking the plank",
+  "alt3": "three kids sitting in chum buckets",
+  "alt4": "Cap’n Splatter upside down holding a cork plug",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
