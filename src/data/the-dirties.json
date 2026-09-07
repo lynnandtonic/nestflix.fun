@@ -1,0 +1,33 @@
+{
+  "slug": "the-dirties",
+  "title": "The Dirties",
+  "description": "In a suburban school on the edge of town, two students decided they would take down the gang that ran their school.",
+  "quote": "The f**king Dirties are running this school, you stupid motherf**ker.",
+  "parent": "The Dirties",
+  "parentYear": "2013",
+  "parentIMDB": "2334896",
+  "rating": "Unrated",
+  "runtime": "36m",
+  "director": [
+    "Matt Johnson",
+    "Owen Williams"
+  ],
+  "labels": [
+    "amateur",
+    "crime"
+  ],
+  "credit": "Phase 4 Films",
+  "altHero": "Matt and Owen wearing ties under red lighting",
+  "alt1": "Matt looking through binoculars",
+  "alt2": "zoomed in shot of The Dirties gang",
+  "alt3": "Owen looking into the scope of a gun",
+  "alt4": "Owen and Matt pointing guns",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
