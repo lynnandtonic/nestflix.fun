@@ -1,0 +1,29 @@
+{
+  "slug": "the-last-angry-moose",
+  "title": "The Last Angry Moose",
+  "description": "Comedian and actor Crag Antler’s only film. A sensational laugh hit!",
+  "parent": "The Adventures of Rocky and Bullwinkle and Friends",
+  "parentYear": "1959-1963",
+  "parentIMDB": "0052507",
+  "rating": "PG",
+  "runtime": "43m",
+  "starring": [
+    "Crag Antler"
+  ],
+  "director": [
+    "Alfred Hitchhike"
+  ],
+  "labels": [
+    "comedy",
+    "action"
+  ],
+  "credit": "Jay Ward Productions",
+  "altHero": "a moose flying an airplane",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ],
+  "logoWidth": "320"
+}
