@@ -1,0 +1,28 @@
+{
+  "slug": "the-majestic-horse",
+  "title": "The Majestic Horse",
+  "description": "A movie about Thunderbolt the horse and his unique relationship with a very special girl.",
+  "quote": "This is it, boy. The big jump. I believe in you!",
+  "parent": "The Replacements",
+  "parentYear": "2006-2009",
+  "parentIMDB": "0816401",
+  "rating": "G",
+  "runtime": "1h 23m",
+  "labels": [
+    "family",
+    "animals"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Thunderbolt, a black horse running on grass",
+  "alt1": "Thunderbolt jumping over a fence",
+  "alt2": "Thunderbolt befriending a girl on a farm",
+  "alt3": "the girl is happy with fireworks in the sky",
+  "alt4": "the girl is riding Thunderbolt as an old man falls into a trough of water",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "kids and family films"
+  ]
+}
