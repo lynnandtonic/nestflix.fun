@@ -1,0 +1,23 @@
+{
+  "slug": "humorbot-50-stand-up-special",
+  "title": "Humorbot 5.0 Stand-up Special",
+  "description": "A new comedy special from Humorbot 5.0 that is definitely not for the PC crowd.",
+  "quote": "What is the deal with non-binary robots?",
+  "parent": "Futurama",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0149460",
+  "rating": "TV-14",
+  "runtime": "2h",
+  "studio": "Fulu",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "Humorbot on stage with a microphone",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV special",
+    "comedy tv"
+  ]
+}
