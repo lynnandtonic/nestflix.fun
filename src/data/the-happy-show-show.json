@@ -1,0 +1,25 @@
+{
+  "slug": "the-happy-show-show",
+  "title": "The Happy Show Show",
+  "description": "Grandma Taters will make sure you have a good day. No more sadness, no more fears. No more badness, no more tears. Just happy, happy, happy, happy, happy all the day!",
+  "quote": "Every time I see you, there’s a rainbow in my heart!",
+  "parent": "The Adventures of Jimmy Neutron: Boy Genius",
+  "parentYear": "2002-2006",
+  "parentIMDB": "0320808",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Grandma Taters"
+  ],
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Grandma Taters surrounded by colorful flowers and smiley faces",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
