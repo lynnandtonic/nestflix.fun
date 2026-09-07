@@ -1,0 +1,23 @@
+{
+  "slug": "night-of-the-robot",
+  "title": "Night of the Robot",
+  "description": "It started with a small “beep boop” in the night, and soon became a whole town’s nightmare.",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "PG",
+  "runtime": "1h 23m",
+  "labels": [
+    "horror",
+    "robots"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ],
+  "logoWidth": "180"
+}
