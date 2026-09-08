@@ -1,0 +1,32 @@
+{
+  "slug": "lauras-video-hotpix",
+  "title": "Laura’s Video Hotpix",
+  "description": "Every weeknight, from 7th Heaven Studio, Laura Charles shares her personal choices for music video hotpix of the week.",
+  "parent": "The Last Dragon",
+  "parentYear": "1985",
+  "parentIMDB": "0089461",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Laura Charles"
+  ],
+  "labels": [
+    "variety",
+    "music"
+  ],
+  "credit": "Tri-Star Pictures",
+  "altHero": "Laura Charles",
+  "alt1": "Laura Charles smiling with a microphone",
+  "alt2": "the studio audience under red light",
+  "alt3": "people dancing with a music video playing on a giant screen",
+  "alt4": "Laura Charles dancing on stage, her face big on the screen behind her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows",
+    "music variety",
+    "new on nestflix"
+  ]
+}
