@@ -1,0 +1,29 @@
+{
+  "slug": "it-came-from-the-haunted-volcano",
+  "title": "It Came from the Haunted Volcano",
+  "description": "The greatest 3-D movie about a haunted volcano ever made!",
+  "quote": "Oh no! Look! It’s the haunted volcano! In 3-D!",
+  "parent": "The Fairly OddParents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "PG-13",
+  "runtime": "1h 32m",
+  "labels": [
+    "horror",
+    "3D"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "flaming volcano with a face and big bat wings",
+  "alt1": "officer pointing a laser gun at the volcano",
+  "alt2": "people running away",
+  "alt3": "man holding up three fingers",
+  "alt4": "old woman holding up her cat",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ],
+  "logoWidth": "270"
+}
