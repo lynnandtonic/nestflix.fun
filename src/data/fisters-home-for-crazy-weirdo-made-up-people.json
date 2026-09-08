@@ -1,0 +1,24 @@
+{
+  "slug": "fisters-home-for-crazy-weirdo-made-up-people",
+  "title": "Fister’s Home for Crazy Weirdo Made-Up People",
+  "description": "Follows the misadventures of abandoned imaginary friends in their shared home.",
+  "parent": "The Grim Adventures of Billy & Mandy",
+  "parentYear": "2003-2007",
+  "parentIMDB": "0292800",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "comedy",
+    "animation"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "a young boy surrounded by all kinds of fantasy creatures and friends",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "210"
+}
