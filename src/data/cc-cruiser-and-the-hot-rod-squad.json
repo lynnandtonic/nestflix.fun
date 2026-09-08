@@ -1,0 +1,28 @@
+{
+  "slug": "cc-cruiser-and-the-hot-rod-squad",
+  "title": "C.C. Cruiser! and the Hot Rod Squad",
+  "description": "A show filled with sporty, racy action about a hot guy loner who solves crime with his cool talking car named Rodd and the hot yet smart scientist, Dr. Tina Tune-up, who fights for equality in a male-dominated world.",
+  "quote": "It’s time to rock ’n’ road.",
+  "parent": "The Fairly OddParents",
+  "parentYear": "2001-2006",
+  "parentIMDB": "0235918",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "studio": "Dimmstar Productions",
+  "labels": [
+    "action"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "C.C. Cruiser, a cool guy with a mustache driving a car",
+  "alt1": "car flying through the air with an explosion behind",
+  "alt2": "C.C. Cruiser running toward a pack of lit dynamite",
+  "alt3": "Tina Tune-up holding a monkey in a fez",
+  "alt4": "truck driver with nasty teeth and an eye patch",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv"
+  ]
+}
