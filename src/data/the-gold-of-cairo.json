@@ -1,0 +1,34 @@
+{
+  "slug": "the-gold-of-cairo",
+  "title": "The Gold of Cairo",
+  "description": "Originally created as a cover for a crime, Aldo Vanucci’s one and only film has been called an honest, brilliant work of art.",
+  "parent": "After the Fox",
+  "parentYear": "1966",
+  "parentIMDB": "0060200",
+  "rating": "Unrated",
+  "runtime": "43m",
+  "starring": [
+    "Tony Powell",
+    "Gina Romantica"
+  ],
+  "director": [
+    "Aldo Vanucci"
+  ],
+  "labels": [
+    "drama"
+  ],
+  "credit": "United Artists",
+  "altHero": "black and white shot of director Aldo Vanucci, at an angle",
+  "alt1": "man in a hat",
+  "alt2": "man in a chair with a woman nearby on a pier",
+  "alt3": "woman with flipped out hair",
+  "alt4": "man smoking a cigarette",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ]
+}
