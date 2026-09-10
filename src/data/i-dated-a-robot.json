@@ -1,0 +1,28 @@
+{
+  "slug": "i-dated-a-robot",
+  "title": "I Dated a Robot!",
+  "description": "Ordinary human dating. It’s enjoyable and it serves an important purpose. But when a human dates an artificial mate, there is no purpose, only enjoyment. And that leads to tragedy.",
+  "quote": "They’re trapped! Trapped in a soft, vice-like grip of robot lips.",
+  "parent": "Futurama",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0149460",
+  "rating": "Unrated",
+  "runtime": "23m",
+  "labels": [
+    "educational"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "man in a suit speaking to the camera as a young man makes out with a Marilyn Monroe robot on a bed",
+  "alt1": "young man excited, sitting in a cafe booth, in front of him is a computer and a Marilyn Monroe robot",
+  "alt2": "man making out with Marilyn Monroe robot while his parents and ex-girlfriend look worried",
+  "alt3": "split screen of a man making out with a woman robot and an old woman making out with a man robot",
+  "alt4": "man kissing robot while the word “Technology” crumbles",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video",
+    "educational videos"
+  ],
+  "logoWidth": "220"
+}
