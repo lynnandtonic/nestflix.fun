@@ -1,0 +1,29 @@
+{
+  "slug": "tinymon",
+  "title": "Tiny’mon",
+  "description": "Young boy named Blast Ketchup is on a journey to become a Tiny’mon Master.",
+  "quote": "Look! A bad kid who will want to battle me ‘cause that is what our show is about.",
+  "parent": "Johnny Test",
+  "parentYear": "2005-2014",
+  "parentIMDB": "0454349",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Blast Ketchup and friend pointing",
+  "alt1": "holding a Tiny’mon cube",
+  "alt2": "another kid",
+  "alt3": "a blue Tiny’mon flying through the air",
+  "alt4": "Blast Ketchup and friend celebrating",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ],
+  "logoWidth": "270"
+}
