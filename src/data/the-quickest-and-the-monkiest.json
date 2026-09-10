@@ -1,0 +1,30 @@
+{
+  "slug": "the-quickest-and-the-monkiest",
+  "title": "The Quickest and the Monkiest",
+  "description": "Speed McCool plays a career criminal who—with his monkey—must outrun the authorities who want to put him away.",
+  "quote": "I think this chase is over monkey. As in… over that big bridge.",
+  "parent": "Johnny Test",
+  "parentYear": "2005-2014",
+  "parentIMDB": "0454349",
+  "rating": "R",
+  "runtime": "1h 37m",
+  "starring": [
+    "Speed McCool"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Speed McCool driving in a car with a monkey in the passenger seat",
+  "alt1": "car doing a jump on a city street",
+  "alt2": "Speed in a hotel room, a blonde woman standing in the doorway",
+  "alt3": "Speed McCool smiles with monkey in the passenger seat",
+  "alt4": "car being chased by many cop cars approaching a desert cliff",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
