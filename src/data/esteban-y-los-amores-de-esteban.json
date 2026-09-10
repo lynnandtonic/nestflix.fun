@@ -1,0 +1,28 @@
+{
+  "slug": "esteban-y-los-amores-de-esteban",
+  "title": "Esteban y los Amores de Esteban",
+  "description": "The long-running drama about Esteban, his misadventures, and his many romantic endeavors.",
+  "quote": "¿La bruja es tu mama?",
+  "parent": "The Cleveland Show",
+  "parentYear": "2009-2013",
+  "parentIMDB": "1195935",
+  "rating": "TV-14",
+  "runtime": "17 seasons",
+  "labels": [
+    "telenovela"
+  ],
+  "credit": "20th Television",
+  "altHero": "Esteban riding a horse",
+  "alt1": "Esteban greets a woman",
+  "alt2": "the woman looks angry",
+  "alt3": "a witch stirring a cauldron",
+  "alt4": "the woman slaps Esteban",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "telenovelas"
+  ],
+  "logoWidth": "400"
+}
