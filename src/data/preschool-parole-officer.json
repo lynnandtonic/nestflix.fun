@@ -1,0 +1,30 @@
+{
+  "slug": "preschool-parole-officer",
+  "title": "Preschool Parole Officer",
+  "description": "Funniest, most exciting thrill ride of the year as Speed McCool takes on ninjas, a rogue cop bent on revenge, and a mob of turbo toddlers.",
+  "quote": "Stop right there! And finish those snacks!",
+  "parent": "Johnny Test",
+  "parentYear": "2005-2014",
+  "parentIMDB": "0454349",
+  "rating": "PG",
+  "runtime": "1h 28m",
+  "starring": [
+    "Speed McCool"
+  ],
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Speed McCool in a school hallway",
+  "alt1": "four kids eating veggies in the hallway",
+  "alt2": "Speed holding up a book with ninja stars stuck in it",
+  "alt3": "bald cop hanging on monkey bars with “love” and “mom!” knuckle tattoos",
+  "alt4": "kids chasing Speed out of the school",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}
