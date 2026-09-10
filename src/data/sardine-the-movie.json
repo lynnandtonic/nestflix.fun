@@ -1,0 +1,29 @@
+{
+  "slug": "sardine-the-movie",
+  "title": "Sardine the Movie",
+  "description": "Sardines can be an acquired taste, and they’ve acquired the taste for human flesh.",
+  "quote": "Uh oh, looks like Brian became the late night snack.",
+  "parent": "Cloudy with a Chance of Meatballs",
+  "parentYear": "2017-2018",
+  "parentIMDB": "4123482",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "a cop being swarmed by sardines jumping out of the water",
+  "alt1": "woman being attacked by sardines out of a can",
+  "alt2": "tin of sardine juice overturned on the floor",
+  "alt3": "man looking into a fridge at an open can of sardines who are wide-eyed with sharp teeth",
+  "alt4": "boy and girl chest-deep in the ocean as a small fish fin swims by",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ],
+  "logoWidth": "230"
+}
