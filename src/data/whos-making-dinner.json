@@ -1,0 +1,33 @@
+{
+  "slug": "whos-making-dinner",
+  "title": "Who’s Making Dinner?",
+  "description": "The beloved and groundbreaking ’70s sitcom that explored gender roles and launched the comedy career of Deborah Vance.",
+  "quote": "Not even five minutes being a man, and already I’m forcing people against their will.",
+  "parent": "Hacks",
+  "parentYear": "2021-2026",
+  "parentIMDB": "11815682",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "starring": [
+    "Frank Vance",
+    "Deborah Vance"
+  ],
+  "creator": "Frank Vance",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "HBO",
+  "altHero": "Deborah, dressed like a man, with Frank at the door with Gino",
+  "alt1": "iconic living room with Frank standing at the table",
+  "alt2": "Frank standing by the table with a vase of flowers tipped over",
+  "alt3": "Deborah dressed as a man with a fake mustache",
+  "alt4": "Frank and Deborah talk with Gino",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}
