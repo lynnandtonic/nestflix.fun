@@ -1,0 +1,33 @@
+{
+  "slug": "the-littlest-roach",
+  "title": "The Littlest Roach",
+  "description": "The littlest roach travels with his mother looking for a new home and discovers life is much different in the big city.",
+  "quote": "Where did all the trees go, momma?",
+  "parent": "Jiminy Glick in Lalawood",
+  "parentYear": "2004",
+  "parentIMDB": "0347369",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "director": [
+    "Randall Bookerton"
+  ],
+  "labels": [
+    "comedy",
+    "animation"
+  ],
+  "credit": "20th Century Fox",
+  "altHero": "little roach with his mother against a graffiti-covered wall",
+  "alt1": "little roach with his mother, draggins suitcases through the grass",
+  "alt2": "little roach and his mother looking up as a person in green high heels and fishnet stockings stands above them",
+  "alt3": "little roach wearing chains and holding four guns",
+  "alt4": "a pink shoe steps on little roach and squishes him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ],
+  "logoWidth": "220"
+}
