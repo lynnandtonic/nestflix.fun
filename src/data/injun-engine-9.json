@@ -1,0 +1,33 @@
+{
+  "slug": "injun-engine-9",
+  "title": "Injun Engine #9",
+  "description": "The classic ’70s drama featuring Big Chief Apache leaving the reservation and joining a Chicago fire house in hopes of saving lives.",
+  "quote": "Great Spirit say let’s get rolling.",
+  "parent": "The Boys",
+  "parentYear": "2019-2026",
+  "parentIMDB": "1190634",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Big Chief Apache"
+  ],
+  "studio": "Vought Studios",
+  "labels": [
+    "crime drama",
+    "superheroes"
+  ],
+  "credit": "Amazon Studios",
+  "altHero": "Big Chief Apache, a white man wearing a Native American headdress and holding a tomahawk",
+  "alt1": "fire chief speaking",
+  "alt2": "Big Chief Apache",
+  "alt3": "the fire chief and Big Chief Apache sitting across a desk from each otehr",
+  "alt4": "woman assistant looks worried",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "tv superheroes"
+  ]
+}
