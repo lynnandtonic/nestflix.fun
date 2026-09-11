@@ -1,0 +1,31 @@
+{
+  "slug": "rance-mcgrew",
+  "title": "Rance McGrew",
+  "description": "Rance McGrew plays a grizzled U.S. Marshal in the old west.",
+  "quote": "You don’t know that I know that you know Jesse James. You tell him I’m going to be here waiting.",
+  "parent": "The Twilight Zone",
+  "parentYear": "1959–1964",
+  "parentIMDB": "0052520",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Rance McGrew"
+  ],
+  "labels": [
+    "western"
+  ],
+  "credit": "CBS",
+  "altHero": "Rance McGrew as a U.S. Marshal, entering a saloon",
+  "alt1": "McGrew talking with men and a bartender",
+  "alt2": "man in black entering the saloon",
+  "alt3": "McGrew leaning against the bar with two other men",
+  "alt4": "McGrew standing on the bar, the man in black standing below",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "westerns"
+  ],
+  "logoWidth": "450"
+}
