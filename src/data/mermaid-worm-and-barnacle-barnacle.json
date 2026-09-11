@@ -1,0 +1,29 @@
+{
+  "slug": "mermaid-worm-and-barnacle-barnacle",
+  "title": "Mermaid Worm & Barnacle Barnacle Episode 6: The Bubble Blower’s Revenge: Part 2",
+  "description": "Your favorite superhero pets are back in a new adventure and they are racing the clock to protect the innocent and save the day.",
+  "quote": "Halt, evil doer, or face the wrath of Mermaid Worm!",
+  "parent": "The Patrick Star Show",
+  "parentYear": "2021-Present",
+  "parentIMDB": "12915960",
+  "rating": "PG",
+  "runtime": "1h 36m",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Mermaid Worm and Barnacle Barnacle",
+  "alt1": "multi-eyed and armed monster attacking a city",
+  "alt2": "Mermaid Worm and Barnacle Barnacle strapped to a table by a vampire",
+  "alt3": "Mermaid Worm and a lady",
+  "alt4": "a passionate Mermaid Worm making a fist",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes"
+  ],
+  "logoWidth": "400"
+}
