@@ -1,0 +1,36 @@
+{
+  "slug": "the-wood",
+  "title": "The Wood",
+  "description": "Welcome to The Wood. Hollywood. At this performing arts high school, Hollywood Arts, you can find good drama on the stage, but the best drama happens offstage.",
+  "quote": "Yeah, my girlfriend’s not gonna like that.",
+  "parent": "VicTORIous",
+  "parentYear": "2010-2013",
+  "parentIMDB": "1604099",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Tori Vega",
+    "Beck Oliver",
+    "Jade West",
+    "Andre Harris"
+  ],
+  "labels": [
+    "reality",
+    "teens"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Tori looking happy while talking on the phone",
+  "alt1": "Andre playing keyboard",
+  "alt2": "teens hanging out outside",
+  "alt3": "Jade and Beck hugging",
+  "alt4": "Beck talking on the phone",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "tv for teens"
+  ],
+  "logoWidth": "220"
+}
