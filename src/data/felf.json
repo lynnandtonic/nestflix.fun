@@ -1,0 +1,31 @@
+{
+  "slug": "felf",
+  "title": "F. Elf",
+  "description": "F. Elf Shmelfman is the king of embarrassing TV talk who specializes in “Oh, no, you di‘n‘t” moments.",
+  "quote": "Now for the bake test results. Is Joe right about the pie?",
+  "parent": "Yin Yang Yo!",
+  "parentYear": "2006-2009",
+  "parentIMDB": "0855673",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "starring": [
+    "F. Elf Shmelfman"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Disney XD",
+  "altHero": "F. Elf, a small elf talk show host",
+  "alt1": "the crowd of various animals cheering",
+  "alt2": "F. Elf getting hit by a chair",
+  "alt3": "woman holding a pie and sobbing while a smug man stands nearby",
+  "alt4": "F. Elf interviews two teens",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": "180"
+}
