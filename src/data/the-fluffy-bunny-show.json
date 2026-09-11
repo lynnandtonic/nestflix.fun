@@ -1,0 +1,24 @@
+{
+  "slug": "the-fluffy-bunny-show",
+  "title": "The Fluffy Bunny Show",
+  "description": "Join Sweet Little Granny and her fluffy bunnies who are bouncing in the wood and bouncing as they should!",
+  "quote": "Shall we sing our song?",
+  "parent": "The Secret Show",
+  "parentYear": "2006-2007",
+  "parentIMDB": "0887233",
+  "rating": "TV-Y",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Sweet Little Granny in a rocking chair with six fluffy pink bunnies",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ],
+  "logoWidth": "340"
+}
