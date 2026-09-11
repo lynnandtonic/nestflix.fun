@@ -1,0 +1,38 @@
+{
+  "slug": "socks-and-violins",
+  "title": "Socks & Violins",
+  "description": "Master violinist Mr. Bowman finds himself accused of murder.",
+  "quote": "Socks and violins don’t come cheap.",
+  "parent": "VicTORIous",
+  "parentYear": "2010-2013",
+  "parentIMDB": "1604099",
+  "rating": "Unrated",
+  "runtime": "14m",
+  "starring": [
+    "Robbie Shapiro",
+    "Tori Vega",
+    "Andre Harris",
+    "Jade West",
+    "Cat Valentine",
+    "Beck Oliver"
+  ],
+  "labels": [
+    "mystery",
+    "short film",
+    "amateur"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Mr. Bowman playing his violin",
+  "alt1": "Mrs. Bowman, a woman with an eyepatch, with two guests drinking cocktails",
+  "alt2": "two detectives entering the apartment",
+  "alt3": "Mr. Bowman looks guilty",
+  "alt4": "Mrs. Bowman glares at the detective",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ],
+  "logoWidth": "240"
+}
