@@ -1,0 +1,27 @@
+{
+  "slug": "relaxation-land",
+  "title": "Relaxation Land",
+  "description": "Lucky contestants win a weekend getaway to Relaxation Land, a premiere mountain spa resort. But in reality, they are on their way to a haunted hotel. Will they be the last man standing?",
+  "quote": "Enjoy your stay!",
+  "parent": "Uncle Grandpa",
+  "parentYear": "2013-2017",
+  "parentIMDB": "3042608",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality competition"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "spooky haunted hotel",
+  "alt1": "game show host greeting a lucky winner with confetti",
+  "alt2": "guest in a cauldron spa with two tentacles reaching out from the black water",
+  "alt3": "guest enters dunegon where hooded figure prepares a torture device",
+  "alt4": "hotel room with two open coffins intead of beds",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ]
+}
