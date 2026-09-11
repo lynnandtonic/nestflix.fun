@@ -1,0 +1,35 @@
+{
+  "slug": "monkey-time-bucket-balls",
+  "title": "Monkey-Time Bucket-Balls",
+  "description": "A film that asks the audience to experience what a soda feels “when it’s drunk by me.”",
+  "quote": "My goodness. I’m thirsty. So, so thirsty.",
+  "parent": "VicTORIous",
+  "parentYear": "2010-2013",
+  "parentIMDB": "1604099",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "starring": [
+    "Sinjin Van Cleef"
+  ],
+  "director": [
+    "Sinjin Van Cleef"
+  ],
+  "labels": [
+    "drama",
+    "short film",
+    "amateur"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Sinjin, a teen boy, standing in a white room with a window with green curtains",
+  "alt1": "Sinjin sees a soda can on a table",
+  "alt2": "Sinjin is curious",
+  "alt3": "his hand grabs the soda",
+  "alt4": "POV of the soda, looking at Sinjin’s open mouth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
