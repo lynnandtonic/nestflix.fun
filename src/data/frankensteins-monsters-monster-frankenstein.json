@@ -1,0 +1,35 @@
+{
+  "slug": "frankensteins-monsters-monster-frankenstein",
+  "title": "Frankenstein’s Monster”s Monster, Frankenstein",
+  "description": "A televised David Harbour Jr. play about a young scientist visiting Dr. Frankenstein and discovering all kinds of secret information.",
+  "quote": "Monster?! You’re the monster!",
+  "parent": "Frankenstein’s Monster’s Monster, Frankenstein",
+  "parentYear": "2019",
+  "parentIMDB": "10516390",
+  "rating": "Unrated",
+  "runtime": "1h 57m",
+  "starring": [
+    "David Harbour Jr.",
+    "Joey Vallejo",
+    "Monica Fulton",
+    "Aubrey Fields"
+  ],
+  "producer": "Nancy Erlich",
+  "labels": [
+    "drama"
+  ],
+  "credit": "Netflix",
+  "altHero": "David Harbour Jr. as Dr. Frankenstein",
+  "alt1": "a young man shoos a woman away from Dr. Frankenstein",
+  "alt2": "Dr. Frankenstein",
+  "alt3": "the young woman, with another man in the doorway behind her",
+  "alt4": "the young man speaks with another woman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ],
+  "logoWidth": "270"
+}
