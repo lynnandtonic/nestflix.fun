@@ -1,0 +1,30 @@
+{
+  "slug": "unsolvable-mysteries",
+  "title": "Unsolvable Mysteries",
+  "description": "Learn about enduring mysteries like the Loch Ness Monster and Abominable Snowman, and receive a reward for providing proof of their existence.",
+  "quote": "How can an animal be so elusive that it’s never been caught… alive or dead?",
+  "parent": "The Grim Adventures of Billy & Mandy",
+  "parentYear": "2003-2007",
+  "parentIMDB": "0292800",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "documentary",
+    "mystery",
+    "cryptids"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "host of the show: a man in a suit and overcoat",
+  "alt1": "people in hazmat suits analyizing big footprints in the snow",
+  "alt2": "host with big footpring with measurement labeled “yowza!”",
+  "alt3": "horror illustration of horned monster grabbing a person and a goat",
+  "alt4": "host with graphic showing $5,000 reward",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series"
+  ],
+  "logoWidth": "300"
+}
