@@ -1,0 +1,22 @@
+{
+  "slug": "chicago-shields",
+  "title": "Chicago Shields",
+  "description": "A crime drama that follows the personal and professional lives of detectives in the Chicago P.D.",
+  "quote": "Nice hair.",
+  "parent": "South Side",
+  "parentYear": "2019-2022",
+  "parentIMDB": "9272514",
+  "rating": "TV-14",
+  "runtime": "14 seasons",
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "two detectives in a car, a white man and a Black woman",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows"
+  ]
+}
