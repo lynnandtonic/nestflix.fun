@@ -1,0 +1,33 @@
+{
+  "slug": "charleyyy-and-friends",
+  "title": "Charleyyy & Friends",
+  "seo": "SML",
+  "description": "Everybody loves Charley! He likes to eat food and stuff. Charley is awesome!",
+  "quote": "Silly Charley, I’m always up to something.",
+  "parent": "SuperMarioLogan",
+  "parentYear": "2007-Present",
+  "parentIMDB": "15156682",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Lovell Stanton"
+  ],
+  "studio": "Laugh Box TV",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "SML",
+  "altHero": "Charley, a young Black man, pretending to eat cereal with a smile",
+  "alt1": "Charley standing in front of a closet",
+  "alt2": "Charley crying fully dressed in a bathtub",
+  "alt3": "Charley laughing with his hands up while on the toilet",
+  "alt4": "Charley in the shower holding up a bottle of Windex",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ]
+}
