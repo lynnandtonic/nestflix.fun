@@ -1,0 +1,28 @@
+{
+  "slug": "theres-always-tomorrow",
+  "title": "There’s Always Tomorrow",
+  "description": "A drama centered around Fuschia Monroe, a single woman navigating the professional world and finding romance in all the wrong places.",
+  "quote": "You and l we are like two lost travelers in a loveless, dark, frozen world.",
+  "parent": "Tales from the Crypt",
+  "parentYear": "1989-1996",
+  "parentIMDB": "0096708",
+  "rating": "TV-MA",
+  "runtime": "7 seasons",
+  "labels": [
+    "soap opera"
+  ],
+  "credit": "HBO",
+  "altHero": "Fuschia, a red-haired professional woman, talking with her boss, Evian, who is holding her wrists",
+  "alt1": "Fuschia entering Evian’s office",
+  "alt2": "Fuschia sitting on her desk seductively next to Quebec, a man who is sitting in a chair",
+  "alt3": "Fuschia visits Evian who is in a jail cell",
+  "alt4": "Evian holding a gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ],
+  "logoWidth": "350"
+}
