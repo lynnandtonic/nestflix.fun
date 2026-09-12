@@ -1,0 +1,29 @@
+{
+  "slug": "captain-crocodile",
+  "title": "Captain Crocodile",
+  "description": "Captain Crocodile entertains the kids with jokes, stories, and musical numbers.",
+  "quote": "Brrp! Brrp! Brrp! Ha ha! And that means it’s time for fun!",
+  "parent": "The Monkees",
+  "parentYear": "1965-1968",
+  "parentIMDB": "0060010",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "variety"
+  ],
+  "credit": "NBC",
+  "altHero": "Captain Crocodile, a man in a clown costume and white bowler hat",
+  "alt1": "Captain Crocodile making a silly face",
+  "alt2": "Captain Crocodile in front of The Monkees who have cream pies all over their faces",
+  "alt3": "The Monkees trapped under a fishing net",
+  "alt4": "Captain Crocodile with closed eyes and his fingers in his ears like he is expecting a loud noise",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows"
+  ],
+  "logoWidth": "350"
+}
