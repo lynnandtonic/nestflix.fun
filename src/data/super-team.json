@@ -1,0 +1,31 @@
+{
+  "slug": "super-team",
+  "title": "Super Team",
+  "description": "From the most distant corners of the cosmos, there are assembled the three greatest superheroes: Mace, Siren, and the Blue Flame. United in their quest to protect Earth from the forces of evil. They are the Super Team.",
+  "quote": "Super Team, unite!",
+  "parent": "Sanjay’s Super Team",
+  "parentYear": "2015",
+  "parentIMDB": "4661600",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "superheroes"
+  ],
+  "credit": "Pixar Animation Studios",
+  "altHero": "Mace, Siren, and the Blue Flame in pods",
+  "alt1": "Mace, Siren, and the Blue Flame",
+  "alt2": "black goo in a crsytal dome thing",
+  "alt3": "Blue Flame yelling",
+  "alt4": "purple monster",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "super team-ups",
+    "new on nestflix"
+  ],
+  "logoWidth": "350"
+}
