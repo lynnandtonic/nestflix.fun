@@ -1,0 +1,36 @@
+{
+  "slug": "the-foghorn-leghorn-story",
+  "title": "The Foghorn Leghorn Story",
+  "description": "A rags to riches tale of a poor rooster who grows up to become one of the world’s greatest entrepreneurs.",
+  "quote": "It ain’t the treasure, it’s the quest.",
+  "parent": "The Looney Tunes Show",
+  "parentYear": "2011-2013",
+  "parentIMDB": "1726839",
+  "rating": "PG",
+  "runtime": "34m",
+  "starring": [
+    "Daffy Duck"
+  ],
+  "director": [
+    "Foghorn Leghorn"
+  ],
+  "producer": "Foghorn Leghorn",
+  "labels": [
+    "drama",
+    "biography"
+  ],
+  "credit": "Warner Bros. Animation",
+  "altHero": "Daffy Duck as Foghorn Leghorn, wearing a costume featuring rooster comb, wattles, and tail",
+  "alt1": "Foghorn holding up a turtle figurine in an antiques store",
+  "alt2": "Daffy Duck dressed as Yosemite Sam",
+  "alt3": "hand throwing confetti",
+  "alt4": "Foghorn monologuing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramatic biopics"
+  ],
+  "logoWidth": "280"
+}
