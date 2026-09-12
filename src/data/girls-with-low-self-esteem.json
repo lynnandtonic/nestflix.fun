@@ -1,0 +1,30 @@
+{
+  "slug": "girls-with-low-self-esteem",
+  "title": "Girls with Low Self-Esteem",
+  "description": "Host Phillip Litt travels to vacation destinations to showcase girls with low self-esteem and who want to take their clothes off.",
+  "parent": "Arrested Development",
+  "parentYear": "2003-2019",
+  "parentIMDB": "0367279",
+  "rating": "TV-MA",
+  "runtime": "7h 43m",
+  "creator": "Phillip Litt",
+  "labels": [
+    "collection",
+    "adult"
+  ],
+  "studio": "Y.O.M. television",
+  "credit": "20th Television, Netflix",
+  "altHero": "Phillip Litt at Spring Break",
+  "submovies": 4,
+  "alt1": "Girls with Low Self-Esteem: Vegas Style",
+  "alt2": "Girls with Low Self-Esteem: Orlando, Florida",
+  "alt3": "Girls with Low Self-Esteem: They Sizzle in Santo Domingo",
+  "alt4": "Girls with Low Self-Esteem: La Vida Baja",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "video series",
+    "adults 18+"
+  ],
+  "logoWidth": "280"
+}
