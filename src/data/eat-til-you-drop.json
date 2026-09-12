@@ -1,0 +1,28 @@
+{
+  "slug": "eat-til-you-drop",
+  "title": "Eat ’Til You Drop",
+  "seo": "The Guys Who Died After Eating",
+  "description": "Host Kim Jun-hyun tours restaurants across Korea, feasting on culinary masterpieces that would knock down other men, and send them straight to heaven.",
+  "quote": "One bite!",
+  "parent": "Hotel del Luna",
+  "parentYear": "2019",
+  "parentIMDB": "10220588",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Kim Jun-hyun"
+  ],
+  "labels": [
+    "reality",
+    "food"
+  ],
+  "credit": "tvN",
+  "altHero": "Kim Joon-hyun shoving a spoon of octopus into his mouth",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ],
+  "logoWidth": "180"
+}
