@@ -1,0 +1,31 @@
+{
+  "slug": "name-that-fish",
+  "title": "Name That Fish",
+  "description": "TV’s hottest and wettest game show where contestants name that fish to win big prizes.",
+  "quote": "Name! That! Fish!",
+  "parent": "Garfield and Friends",
+  "parentYear": "1988-1994",
+  "parentIMDB": "0094469",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Binky the Clown"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "CBS",
+  "altHero": "Binky the Clown holding a dead fish",
+  "alt1": "Binky with a contestant, Garfield the cat, next to a board with different fish names on it",
+  "alt2": "woman holding a card that says “Watler”",
+  "alt3": "Gary the announcer with a photo of an old hotel",
+  "alt4": "Garfield holding his breath and submerged in a glass case filled with water and fish",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!"
+  ],
+  "logoWidth": "190"
+}
