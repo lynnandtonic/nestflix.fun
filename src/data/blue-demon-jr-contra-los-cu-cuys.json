@@ -1,0 +1,35 @@
+{
+  "slug": "blue-demon-jr-contra-los-cu-cuys",
+  "title": "Blue Demon Jr. Contra Los Cu-Cuys",
+  "description": "Blue Demon Jr. is Mexico’s most famous masked wrestler. He and Los Justice Enforcers must fight when Los Monstros enter the ring.",
+  "quote": "Hasta la vista, Frankie.",
+  "parent": "¡Mucha Lucha!",
+  "parentYear": "2002-2005",
+  "parentIMDB": "0353115",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "starring": [
+    "Blue Demon Jr.",
+    "Dr. Terrorifico",
+    "Cheetah Bonita"
+  ],
+  "labels": [
+    "action",
+    "superheroes",
+    "sports"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Blue Demon Jr., Cheetah Bonita, and Dr. Terrorifico holding their hands up in the ring",
+  "alt1": "announcer for TV Mexi-Can",
+  "alt2": "the monsters El Frankie Estein, the Crying Woman’s Ghost, and the Robot Aztec Mummy",
+  "alt3": "Cheetah Bonita fighting the Crying Woman’s Ghost",
+  "alt4": "Blue Demon Jr. drinking choco leche from a can",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes",
+    "fighters face off"
+  ]
+}
