@@ -1,0 +1,32 @@
+{
+  "slug": "aces-high",
+  "title": "Aces High",
+  "seo": "The Sam Rothstein Show",
+  "description": "From the Tangiers Hotel, Sam Rothstein, professional gambler and the best football handicapper in America, takes you inside the real 1970s Las Vegas as no one had ever done before.",
+  "parent": "Casino",
+  "parentYear": "1995",
+  "parentIMDB": "0112641",
+  "rating": "TV-14",
+  "runtime": "1 season",
+  "starring": [
+    "Sam Rothstein"
+  ],
+  "labels": [
+    "talk show",
+    "travel"
+  ],
+  "credit": "Universal Pictures",
+  "altHero": "Sam Rothstein, in a suit and smoking in front of a microphone",
+  "alt1": "woman announcer",
+  "alt2": "Rothstein dancers, in jewel tone dance outfits",
+  "alt3": "Rothstein",
+  "alt4": "a guest in a patterened shirt with wide collar and white suit",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
