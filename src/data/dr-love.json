@@ -1,0 +1,30 @@
+{
+  "slug": "dr-love",
+  "title": "Dr. Love",
+  "description": "Love is the greatest cure that we know and Dr. Love solves people’s love lives with heart transplants.",
+  "parent": "Dead End: Paranormal Park",
+  "parentYear": "2022",
+  "parentIMDB": "12642764",
+  "rating": "TV-14",
+  "runtime": "3 episodes",
+  "starring": [
+    "Pauline Phoenix"
+  ],
+  "labels": [
+    "medical drama",
+    "romance"
+  ],
+  "credit": "Netflix",
+  "altHero": "Pauline Phoenix as Dr. Love",
+  "alt1": "a hospital",
+  "alt2": "Dr. Love looking at an EKG that is showing a heartbeat in the shape of a heart",
+  "alt3": "Dr. Love and a cowboy patient who is eying her seductively",
+  "alt4": "Dr. Love putting a stethescope against an unconscious patient’s temple",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "medical dramas"
+  ]
+}
