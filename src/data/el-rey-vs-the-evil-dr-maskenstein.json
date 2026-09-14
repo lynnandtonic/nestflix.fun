@@ -1,0 +1,32 @@
+{
+  "slug": "el-rey-vs-the-evil-dr-maskenstein",
+  "title": "El Rey vs. the Evil Dr. Maskenstein",
+  "description": "El Rey fights crime, drives fast cars, and always gets the girl. This time he faces off with Dr. Maskenstein, whose legion of elite, bone-crushing Wrestle Bots is poised to take over the world.",
+  "quote": "¡Caliente!",
+  "parent": "¡Mucha Lucha!",
+  "parentYear": "2002-2005",
+  "parentIMDB": "0353115",
+  "rating": "PG",
+  "runtime": "1h 36m",
+  "starring": [
+    "El Rey"
+  ],
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "El Rey, a man in a shirt, tie, and luchador mask",
+  "alt1": "villain Dr. Maskenstein",
+  "alt2": "El Rey scared by a spinning blade",
+  "alt3": "El Rey fighting a Wrestle Bot",
+  "alt4": "El Rey with a hot nurse",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes"
+  ],
+  "logoWidth": ""
+}
