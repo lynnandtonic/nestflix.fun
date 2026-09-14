@@ -14,7 +14,7 @@
     "Coach Z",
     "King of Town",
     "Marzipan",
-    "Killingyouguy",
+    "Strong Mad",
     "El Dumpo",
     "The Cheat"
   ],
@@ -22,6 +22,7 @@
     "Strong Bad"
   ],
   "labels": [
+    "action",
     "thriller",
     "amateur"
   ],

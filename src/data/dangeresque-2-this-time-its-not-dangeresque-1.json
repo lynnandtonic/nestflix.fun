@@ -12,7 +12,7 @@
     "Strong Bad",
     "Coach Z",
     "Marzipan",
-    "Killingyouguy",
+    "Strong Mad",
     "Hot Tub",
     "The Cheat"
   ],
@@ -20,6 +20,7 @@
     "Strong Bad"
   ],
   "labels": [
+    "action",
     "thriller",
     "amateur"
   ],
