@@ -1,0 +1,23 @@
+{
+  "slug": "derry-childrens-hour",
+  "title": "Derry Children's Hour",
+  "description": "A local after school variety show in the town of Derry, Maine featuring educational sketches, songs, and stories.",
+  "parent": "It",
+  "parentYear": "2017",
+  "parentIMDB": "1396484",
+  "rating": "TV-Y",
+  "runtime": "7 seasons",
+  "labels": [
+    "kids",
+    "variety"
+  ],
+  "credit": "Warner Bros. Pictures",
+  "altHero": "woman host of the show surrounded by kids",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows"
+  ],
+  "logoWidth": "400"
+}
