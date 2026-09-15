@@ -1,0 +1,29 @@
+{
+  "slug": "the-squishy-bearz",
+  "title": "The Squishy Bearz Rainbow Enchanted Fun Minute",
+  "description": "They’re the Squishy Bearz and they’re right over there. They’re the squishiest bears you know! Join Kozy, Puffy, Wuz Wuz, and Pierre for enchanted fun.",
+  "quote": "Look guys, I’ve found something!",
+  "parent": "Eek! The Cat",
+  "parentYear": "1992-1997",
+  "parentIMDB": "0103408",
+  "rating": "TV-Y",
+  "runtime": "5 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Fox",
+  "altHero": "the four Squishy Bearz in a mouth, next to a giant uvula",
+  "alt1": "the Bearz walking through the woods with huge warning signs that say things like “Certain death awaits!”",
+  "alt2": "Pierre with his foot stuck in a giant bear trap",
+  "alt3": "the Bearz on a four-seat tandem bicycle",
+  "alt4": "Kozy speaking to the other Bearz who are playing cards",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ],
+  "logoWidth": "390"
+}
