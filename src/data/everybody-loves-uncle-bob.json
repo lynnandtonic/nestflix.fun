@@ -1,0 +1,29 @@
+{
+  "slug": "everybody-loves-uncle-bob",
+  "title": "Everybody Loves Uncle Bob",
+  "description": "Everybody needs a fun uncle! Join Uncle Bob and his sock puppet, Warren, for wholesome fun and education.",
+  "quote": "Good people use good manners, and everybody knows good manners make the world go ’round.",
+  "parent": "Evil Con Carne",
+  "parentYear": "2003-2004",
+  "parentIMDB": "0419322",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "puppets"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Uncle Bob, a man with a bowtie and a cowlick, a sock puppet on his hand",
+  "alt1": "Uncle Bob and Warren",
+  "alt2": "crowd of kids",
+  "alt3": "Warren",
+  "alt4": "a globe is spinning above Uncle Bob on set",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids puppet shows"
+  ],
+  "logoWidth": "210"
+}
