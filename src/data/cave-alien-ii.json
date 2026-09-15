@@ -1,0 +1,34 @@
+{
+  "slug": "cave-alien-ii",
+  "title": "Cave Alien II",
+  "description": "Caligula meets <em>Apple Dumpling Gang</em>. The deadly cave aliens have returned and mankind’s time is running out.",
+  "quote": "Cry me a river, toots!",
+  "parent": "My Name is Bruce",
+  "parentYear": "2007",
+  "parentIMDB": "0489235",
+  "rating": "R",
+  "runtime": "1h 38m",
+  "starring": [
+    "Bruce Campbell"
+  ],
+  "labels": [
+    "horror",
+    "monster",
+    "sci-fi"
+  ],
+  "credit": "Image Entertainment",
+  "altHero": "Bruce Campbell as Lt. Jack",
+  "alt1": "Lt. Jack talking with a blonde woman soldier",
+  "alt2": "a cave alien",
+  "alt3": "soldiers firing weapons",
+  "alt4": "Lt. Jack covered in alien goo",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ],
+  "logoWidth": "400"
+}
