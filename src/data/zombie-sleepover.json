@@ -1,0 +1,28 @@
+{
+  "slug": "zombie-sleepover",
+  "title": "Zombie Sleepover",
+  "description": "The <em>Too Scary to Watch</em> edition of the classic zombie horror film about a sleepover that’s basically a nightmare.",
+  "parent": "The ZhuZhus",
+  "parentYear": "2016-2017",
+  "parentIMDB": "6240606",
+  "rating": "PG-13",
+  "runtime": "1h 25m",
+  "labels": [
+    "horror",
+    "zombies"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "screaming girl and zombie zipped up into pink sleeping bags",
+  "alt1": "girl screaming as a zombie walks up",
+  "alt2": "girl looks apprehensive",
+  "alt3": "girl getting manicure from two zombies",
+  "alt4": "upset girl trying to sleep in sleeping bag",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ],
+  "logoWidth": ""
+}
