@@ -1,0 +1,28 @@
+{
+  "slug": "scramblin-man",
+  "title": "Scramblin’ Man",
+  "description": "Whoa, Nelly! It’s a Crocco-Toon. In this adventure, Crocco the Egg must find a way to opt out of an Easter cake recipe.",
+  "parent": "Out of Jimmy’s Head",
+  "parentYear": "2007-2008",
+  "parentIMDB": "1078463",
+  "rating": "G",
+  "runtime": "7m",
+  "labels": [
+    "kids",
+    "animated"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "egg with crocodile feet and tail running away from a bewildered chef",
+  "alt1": "chef stirring some batter",
+  "alt2": "chef cracking an egg into the batter",
+  "alt3": "Crocco the egg standing up, now Easter ecorated, in a bowl of egg dye",
+  "alt4": "the chef hugging Crocco the egg with hearts surrounding them",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts",
+    "kids and family films"
+  ]
+}
