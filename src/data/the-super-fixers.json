@@ -1,0 +1,23 @@
+{
+  "slug": "the-super-fixers",
+  "title": "The Super Fixers",
+  "description": "When you’re facing a broken pipe or a home rennovation, don’t you sometimes wish you had super powers? Well, you’re in luck! The Super Fixers can save the day.",
+  "quote": "All fixed, citizen!",
+  "parent": "Wow! Wow! Wubbzy!",
+  "parentYear": "2006-2010",
+  "parentIMDB": "0762067",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "diy"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "The Super Fixers, three masked people with hard hats and toolbelts",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "home, diy, and art"
+  ]
+}
