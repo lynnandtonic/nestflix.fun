@@ -1,0 +1,22 @@
+{
+  "slug": "botox-babies",
+  "title": "Botox Babies",
+  "description": "It’s tough to be a baby these days. Follow the lives of high-socity babies as they navigate botox, breastfeeding drama, potty training drama, and more.",
+  "parent": "Upload",
+  "parentYear": "2020-2025",
+  "parentIMDB": "7826376",
+  "rating": "TV-PG",
+  "runtime": "8 seasons",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Amazon Prime Video",
+  "altHero": "two babies in fancy outfits drinking cocktails",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
