@@ -1,0 +1,23 @@
+{
+  "slug": "hotbob-dogpants",
+  "title": "HotBob DogPants",
+  "description": "The adventures of a happy-go-lucky hot dog named HotBob and his best friend and life partner, Spudrick.",
+  "quote": "Now, more ketchup!",
+  "parent": "Life’s a Zoo",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1331751",
+  "rating": "TV-Y7",
+  "runtime": "8 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "SBS",
+  "altHero": "HotBob, a hot dog, and Spudrick, a bowl of potatoes. Spudrick is spraying HotBob with mustard.",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "240"
+}
