@@ -1,0 +1,30 @@
+{
+  "slug": "purple-space-cats-from-outer-space",
+  "title": "Purple Space Cats from Outer Space ",
+  "description": "Princess Whiskers’ kind are in an epic 3-dimensional war with the humans. She wants to be friends with one, and must convince her father, King Tummyrub Tum Tum, that humans aren’t so bad.",
+  "quote": "Why can’t humans and purple space cats just live in peace?",
+  "parent": "Johnny Test",
+  "parentYear": "2005-2014",
+  "parentIMDB": "0454349",
+  "rating": "PG-13",
+  "runtime": "2h 34m",
+  "labels": [
+    "sci-fi",
+    "adventure",
+    "3D"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Princess Whiskers, a purple space cat, and her friend who is a human disguised as one",
+  "alt1": "Princess Whiskers lamenting",
+  "alt2": "human friend sticking out his drooly tongue",
+  "alt3": "King Tummyrub Tum Tum and warrior purple space cats",
+  "alt4": "King Tummyrub Tum Tum holds up a shining ball of yarn",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films"
+  ],
+  "logoWidth": "320"
+}
