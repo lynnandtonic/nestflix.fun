@@ -1,0 +1,37 @@
+{
+  "slug": "nigel-thornberrys-wild-world",
+  "title": "Nigel Thornberry’s Wild World",
+  "description": "Zoologist and family man, Sir Nigel Archibald Thornberry, travels the world to observe animals in their natural habitats.",
+  "quote": "Smashing!",
+  "parent": "The Wild Thornberrys",
+  "parentYear": "1998-2004",
+  "parentIMDB": "0167743",
+  "rating": "TV-Y7",
+  "runtime": "7 seasons",
+  "starring": [
+    "Nigel Thornberry"
+  ],
+  "director": [
+    "Marianne Thornberry"
+  ],
+  "creator": "Nigel Thornberry",
+  "labels": [
+    "documentary",
+    "animals",
+    "nature"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Nigel Thornberry, man with short red hair and red mustache, in the plains of Africa",
+  "alt1": "Thornberry with giraffes",
+  "alt2": "Thornberry with frogs in a bog",
+  "alt3": "Thornberry in a jungle",
+  "alt4": "Thornberry with a mountain goat on a snowy mountain",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv",
+    "new on nestflix"
+  ]
+}
