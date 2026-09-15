@@ -1,0 +1,27 @@
+{
+  "slug": "pets-doing-funny-stuff",
+  "title": "Pets Doing Funny Stuff",
+  "description": "The best in funny pet videos! Viewers submit videos and vote for the very funniest clips, like classics Sleeping Parrot Falls into Lemonade and Turtle Gives a Fistbump.",
+  "parent": "The ZhuZhus",
+  "parentYear": "2016-2017",
+  "parentIMDB": "6240606",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality",
+    "animals"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "cat reading a newspaper",
+  "alt1": "dog chasing its tail",
+  "alt2": "parrot spitting a little waterfall of lemonade",
+  "alt3": "boy fistbumping a turtle",
+  "alt4": "a hamster has fallen in the mud",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv"
+  ]
+}
