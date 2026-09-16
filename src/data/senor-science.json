@@ -1,0 +1,29 @@
+{
+  "slug": "senor-science",
+  "title": "Señor Science",
+  "seo": "senor science",
+  "description": "His name is Señor Science and science is his name. He and Chiquita Beanita teach kids scientific facts and sell scientific kits.",
+  "quote": "Hola, chicos y chicas.",
+  "parent": "The Brak Show",
+  "parentYear": "2000-2007",
+  "parentIMDB": "0297512",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "science"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Señor Science, a green goblin-like guy, with big teeth and blue-rimmed glasses",
+  "alt1": "Señor Science",
+  "alt2": "Señor Science",
+  "alt3": "Señor Science scientific melting kit, only $19.99 (it’s a lighter)",
+  "alt4": "Señor Science with his body frozen into a block of ice, his head sticking out",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids science shows"
+  ]
+}
