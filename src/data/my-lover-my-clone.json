@@ -1,0 +1,23 @@
+{
+  "slug": "my-lover-my-clone",
+  "title": "My Lover, My Clone",
+  "description": "The long-running drama that asks how much you can love yourself. Life can be complicated when you have a clone, and that clone is also your lover.",
+  "quote": "Shut up and kiss me, me!",
+  "parent": "The Second Best Hospital in the Galaxy",
+  "parentYear": "2024-2025",
+  "parentIMDB": "11828386",
+  "rating": "TV-14",
+  "runtime": "213 seasons",
+  "labels": [
+    "soap opera",
+    "romance"
+  ],
+  "credit": "Amazon MGM Studios",
+  "altHero": "two identical purple aliens looking at each other",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ]
+}
