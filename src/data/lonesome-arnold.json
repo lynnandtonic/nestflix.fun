@@ -1,0 +1,32 @@
+{
+  "slug": "lonesome-arnold",
+  "title": "Lonesome Arnold",
+  "description": "Arnold is a lonely man without a friend in the world. He’s ready to move on, but maybe his decision has come too soon.",
+  "quote": "The cruel rope brought life and a friend, instead of death!",
+  "parent": "Stage Fright",
+  "parentYear": "1997",
+  "parentIMDB": "0120193",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "director": [
+    "Arnold Hugh"
+  ],
+  "labels": [
+    "drama",
+    "silent"
+  ],
+  "credit": "Aardman Animations",
+  "altHero": "Arnold with a noose around his neck, tied to a tree branch, but the rope is too long so he is standing on the ground unharmed",
+  "alt1": "Arnold hears a sound, a dog nearby",
+  "alt2": "Arnold and the dog see a woman stuck on a branch at the edge of a cliff",
+  "alt3": "the woman on the branch",
+  "alt4": "Arnold throwing the rope",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ],
+  "logoWidth": "180"
+}
