@@ -1,0 +1,26 @@
+{
+  "slug": "brother-jim-with-the-word",
+  "title": "Brother Jim with The Word",
+  "description": "Brother Jim brings a little bit of the good book into your living room each day.",
+  "quote": "You can’t be drinking from the devil’s cup all the time, you’re going to have to eat with Jesus to be well fed.",
+  "parent": "The Silence of the Lambs",
+  "parentYear": "1991",
+  "parentIMDB": "0102926",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": [
+    "Brother Jim"
+  ],
+  "labels": [
+    "talk show",
+    "religion"
+  ],
+  "credit": "Orion Pictures",
+  "altHero": "Brother Jim in a blues suit and sitting in an armchair on set in front of three colorful crosses",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "religious programming"
+  ]
+}
