@@ -1,0 +1,27 @@
+{
+  "slug": "the-mr-peabody-and-sherman-show",
+  "title": "The Mr. Peabody & Sherman Show",
+  "description": "Hector J. Peabody and his son Sherman host a talk and variety show from their Manhattan penthouse, featuring science experiments, musical acts, and guests from significant points in history.",
+  "parent": "The Mr. Peabody & Sherman Show",
+  "parentYear": "2015-2017",
+  "parentIMDB": "5021206",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "labels": [
+    "talk show",
+    "variety"
+  ],
+  "credit": "DreamWorks Animation Television",
+  "altHero": "Mr. Peabody, a dog, and his son Sherman, a human, in their apartment set",
+  "alt1": "Mr. Peabody and Sherman wearing tourist gear next to a screen of Egypt",
+  "alt2": "Mr. Peabody and Sherman with a historical guest on Halloween",
+  "alt3": "Mr. Peabody looks worried next to a display with knobs and buttons",
+  "alt4": "Sherman smiling and holding out his arms",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows"
+  ]
+}
