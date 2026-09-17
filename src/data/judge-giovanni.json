@@ -1,0 +1,29 @@
+{
+  "slug": "judge-giovanni",
+  "title": "Judge Giovanni",
+  "description": "Judge Giovanni presides over civil cases and delivers the sassy verdicts you’re looking for.",
+  "quote": "Where did you get your cosmetology license? At the dog pound? Because woof!",
+  "parent": "Raven’s Home",
+  "parentYear": "2017-2023",
+  "parentIMDB": "6311972",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "real crime",
+    "courtroom"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Judge Giovanni",
+  "alt1": "split screen of two people, a blonde and a brunette with wonky hair",
+  "alt2": "host of the show",
+  "alt3": "host speaking into a microphone in front of people in the court",
+  "alt4": "young boy speaking with Judge Giovanni",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv",
+    "new on nestflix"
+  ]
+}
