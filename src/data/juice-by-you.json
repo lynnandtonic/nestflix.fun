@@ -1,0 +1,32 @@
+{
+  "slug": "juice-by-you",
+  "title": "Juice By You",
+  "description": "Tappy Tibbons shares his life experience and instructs how to find the inner resources we each have within ourselves—something he calls “juice.”",
+  "quote": "When I turned my life around six years ago, I realized one thing: there’s no turning back.",
+  "parent": "Requiem for a Dream",
+  "parentYear": "2000",
+  "parentIMDB": "0180093",
+  "rating": "Unrated",
+  "runtime": "6h",
+  "starring": [
+    "Tappy Tibbons"
+  ],
+  "labels": [
+    "self-help"
+  ],
+  "credit": "Summit Entertainment",
+  "altHero": "Tappy Tibbons in a suit giving a talk in front of blue lights",
+  "alt1": "Tibbons talking on a city rooftop",
+  "alt2": "Tibbons giving a talk in front of a white board",
+  "alt3": "Tibbons talking on a city street",
+  "alt4": "Tibbons with his hands in the air",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "education and development",
+    "new on nestflix"
+  ],
+  "logoWidth": "210"
+}
