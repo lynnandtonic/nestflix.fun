@@ -1,0 +1,24 @@
+{
+  "slug": "running-of-the-monkeys",
+  "title": "Running of the Monkeys",
+  "description": "Welcome to Ape Island for the annual running of the monkeys.",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "parentIMDB": "0278866",
+  "rating": "TV-G",
+  "runtime": "3 episodes",
+  "studio": "Simian Channel",
+  "labels": [
+    "reality",
+    "animals"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "monkeys stampeding through a jungle village",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv"
+  ],
+  "logoWidth": "220"
+}
