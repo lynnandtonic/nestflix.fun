@@ -1,0 +1,26 @@
+{
+  "slug": "fuzzy-puppet-house-party-with-no-sicence",
+  "title": "Fuzzy Puppet House Party (With No Science)",
+  "description": "A fun puppet house party with absolutely no science, music, or dancing! It’s puppet-tastic!",
+  "quote": "We must destroy the giant worm!” “No, you mustn’t! That’s my father!",
+  "parent": "The Adventures of Jimmy Neutron: Boy Genius",
+  "parentYear": "2002-2006",
+  "parentIMDB": "0320808",
+  "rating": "TV-Y7",
+  "runtime": "1 season",
+  "creator": "Sheen Estévez",
+  "labels": [
+    "kids",
+    "puppets",
+    "comedy"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "two homemade sock puppets",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids puppet shows"
+  ],
+  "logoWidth": "290"
+}
