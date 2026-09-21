@@ -1,0 +1,27 @@
+{
+  "slug": "the-adventures-of-scamper-and-bitey",
+  "title": "The Adventures of Scamper and Bitey",
+  "description": "A cartoon classic you may not have know existed until now, about the friendly rivalry between cat and mouse.",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "parentIMDB": "0278866",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "Scamper, a cat in a top hat, plugging his ears as Bitey, a mouse, lights a stick of dynamite",
+  "alt1": "Bitey swinging a hammer at Scamper",
+  "alt2": "Scamper running, holding a fork and knife",
+  "alt3": "Scamper holding Bitey",
+  "alt4": "Bitey escaping Scamper’s mouth",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
