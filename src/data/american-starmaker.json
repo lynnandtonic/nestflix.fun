@@ -1,0 +1,29 @@
+{
+  "slug": "american-starmaker",
+  "title": "American Starmaker",
+  "description": "A singing competition show with a judge so rude and mean it’ll make your skin crawl. That’s what’s great about it: the skin crawliness.",
+  "quote": "Next up, a young lady with a voice that could melt flesh.",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "parentIMDB": "0278866",
+  "rating": "TV-PG",
+  "runtime": "14 seasons",
+  "labels": [
+    "reality competition",
+    "singing"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "woman contestant singing into a microphone",
+  "alt1": "mean judge with crowd behind",
+  "alt2": "Black man contestant looking sad",
+  "alt3": "mean judge with a contestant, Dr. Drakken",
+  "alt4": "mean judge doing air quotes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "music competition"
+  ]
+}
