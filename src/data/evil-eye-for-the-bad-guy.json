@@ -1,0 +1,22 @@
+{
+  "slug": "evil-eye-for-the-bad-guy",
+  "title": "Evil Eye for the Bad Guy",
+  "description": "Hopeless bad guys get a villainous makeover from the Traitorous Trio.",
+  "quote": "You call this a villain’s lair? Talk about a work in progress.",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "parentIMDB": "0278866",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "three men in caped costumes",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
