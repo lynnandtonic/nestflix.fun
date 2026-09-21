@@ -1,0 +1,28 @@
+{
+  "slug": "the-jetstones",
+  "title": "The JetStones",
+  "description": "Here come the Jetstones, you’re second favorite cartoon.",
+  "quote": "Thelmaaaaa!",
+  "parent": "Mighty Mouse: The New Adventures",
+  "parentYear": "1987-1988",
+  "parentIMDB": "0161170",
+  "rating": "TV-Y7",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids",
+    "animation"
+  ],
+  "credit": "Bakshi Animation",
+  "altHero": "futuristic man running with a stone personal spaceship around his waist",
+  "alt1": "red-haired woman holding a big turkey leg in a pan, running out of a stone house",
+  "alt2": "young blonde boy sitting on a bench",
+  "alt3": "another woman running away from a guy on a rudimentary treadmill",
+  "alt4": "futuristic guy trapped in a huge amoeba type thing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
