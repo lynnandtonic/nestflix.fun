@@ -1,0 +1,29 @@
+{
+  "slug": "the-woman-with-the-golden-face",
+  "title": "The Woman with the Golden Face",
+  "description": "She must contend with the horrors of war as her lover prepares to leave for the battlefield.",
+  "quote": "You are all I have in this world, and you are all I’ve ever wanted.",
+  "parent": "Agent Carter",
+  "parentYear": "2015-2016",
+  "parentIMDB": "3475734",
+  "rating": "PG-13",
+  "runtime": "1h 36m",
+  "starring": [
+    "Whitney Frost"
+  ],
+  "director": [
+    "Kenneth Z."
+  ],
+  "labels": [
+    "war drama",
+    "romance"
+  ],
+  "credit": "Marvel Television",
+  "altHero": "Whitney Frost speaks to her character’s lover, a soldier whose face she holds in her hands",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "war and historical dramas"
+  ]
+}
