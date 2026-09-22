@@ -1,0 +1,24 @@
+{
+  "slug": "polka-jamboree",
+  "title": "Polka Jamboree",
+  "description": "It’s like a Slavic <em>Soul Trail</em> that is really funny, but isn’t supposed to be.",
+  "quote": "Thank you, all my wonderful friends out in polka-land!",
+  "parent": "ALF",
+  "parentYear": "1986-1990",
+  "parentIMDB": "0090390",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "variety",
+    "music"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "man with an accordion with a man in lederhosen and a woman in traditional dress",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "music variety"
+  ],
+  "logoWidth": "220"
+}
