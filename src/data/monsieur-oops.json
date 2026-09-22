@@ -1,0 +1,25 @@
+{
+  "slug": "monsieur-oops",
+  "title": "Monsieur Oops",
+  "description": "Classic French comedy about a guy who just can’t catch a break.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "PG",
+  "runtime": "1h 23m",
+  "starring": [
+    "Glenn Quagmire"
+  ],
+  "labels": [
+    "comedy"
+  ],
+  "credit": "20th Television",
+  "altHero": "Glenn Quagmire, with glasses and big buck teeth, as a waiter getting his nose clamped by a lobster",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ],
+  "logoWidth": "330"
+}
