@@ -1,0 +1,29 @@
+{
+  "slug": "sex-farm",
+  "title": "Sex Farm",
+  "description": "The hot new reality dating show where contestants conceal their identities by dressing as farm animals in hopes of finding love. The herd decides who stays and who gets put out to pasture.",
+  "quote": "Let’s get to know these filthy animals.",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality competition",
+    "dating"
+  ],
+  "credit": "20th Television",
+  "altHero": "cowboy host in front of a bunch of people in animal costumes",
+  "alt1": "person dressed as a cat",
+  "alt2": "person dressed as a pig seducing someone dressed as a donkey",
+  "alt3": "pig and chicken watching a musical act while the host speaks in the foreground",
+  "alt4": "the host reading results to the cast",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows",
+    "new on nestflix"
+  ]
+}
