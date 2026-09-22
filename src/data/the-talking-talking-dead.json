@@ -1,0 +1,24 @@
+{
+  "slug": "the-talking-talking-dead",
+  "title": "The Talking Talking Dead",
+  "description": "The show that talks about the show that talks about <em>The Walking Dead</em>.",
+  "quote": "It was so great how they thought that other show was so great!",
+  "parent": "Family Guy",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0182576",
+  "rating": "TV-14",
+  "runtime": "11 seasons",
+  "labels": [
+    "talk show",
+    "entertainment"
+  ],
+  "credit": "20th Television",
+  "altHero": "four people sitting on a set talking",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "entertainment commentary"
+  ],
+  "logoWidth": "240"
+}
