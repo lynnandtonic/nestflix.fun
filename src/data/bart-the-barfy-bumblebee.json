@@ -1,0 +1,24 @@
+{
+  "slug": "bart-the-barfy-bumblebee",
+  "title": "Bart the Barfy Bumblebee",
+  "description": "Bart the Barfy Bumblebee teaches important lessons. Now that is what we call educational TV!",
+  "quote": "I don’t feel so good.",
+  "parent": "Adventures of Sonic the Hedgehog",
+  "parentYear": "1993",
+  "parentIMDB": "0222518",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "educational"
+  ],
+  "credit": "Sega of America",
+  "altHero": "bee leaning against a wall, tongue out looking sick",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "240"
+}
