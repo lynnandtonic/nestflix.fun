@@ -1,0 +1,29 @@
+{
+  "slug": "edgar-eagle",
+  "title": "Edgar Eagle",
+  "description": "When someone’s in peril, that‘s a job for Edgar Eagle, champion of the skies.",
+  "quote": "It takes more than a few rocks to phase Edgar Eagle.",
+  "parent": "Adventures of Sonic the Hedgehog",
+  "parentYear": "1993",
+  "parentIMDB": "0222518",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Sega of America",
+  "altHero": "Edgar Eagle, wearing a red scarf, and protecting a woman eagle",
+  "alt1": "woman eagle calling out for help",
+  "alt2": "Edgar Eagle flying in the Eagle-copter",
+  "alt3": "Edgar Eagle punching a rock",
+  "alt4": "Edgar Eagle surrounded by fire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ],
+  "logoWidth": "220"
+}
