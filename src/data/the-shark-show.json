@@ -1,0 +1,26 @@
+{
+  "slug": "the-shark-show",
+  "title": "The Shark Show",
+  "description": "Welcome to The Shark Show, where Shark interviews friends and special guests.",
+  "quote": "Tonight is gonna be really fun.",
+  "parent": "12 oz. Mouse",
+  "parentYear": "2005-2020",
+  "parentIMDB": "0465774",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Shark"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Shark at a desk with a nameplate that says “Prez”",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": "230"
+}
