@@ -1,0 +1,28 @@
+{
+  "slug": "kid-colt",
+  "title": "Kid Colt",
+  "description": "The story of the real life outlaw that inspired the popular comic book hero.",
+  "quote": "Tough talk, Sherrif. Now… draw!",
+  "parent": "Agent Carter",
+  "parentYear": "2015-2016",
+  "parentIMDB": "3475734",
+  "rating": "PG",
+  "runtime": "1h 36m",
+  "director": [
+    "Howard Stark"
+  ],
+  "studio": "Stark Pictures",
+  "labels": [
+    "western",
+    "historical drama"
+  ],
+  "credit": "Marvel Television",
+  "altHero": "Kid Colt, a cowboy in a red shirt, cow-patterned vest, yellow gloves, and yellow bandana covering his face",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "westerns"
+  ],
+  "logoWidth": "280"
+}
