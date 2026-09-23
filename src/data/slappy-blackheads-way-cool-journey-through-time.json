@@ -1,0 +1,27 @@
+{
+  "slug": "slappy-blackheads-way-cool-journey-through-time",
+  "title": "Slappy Blackhead’s Way Cool Journey Through Time",
+  "description": "With his bicycle and some microwaved uranium he got from science class, Slappy Blackhead travels back in time to change history.",
+  "quote": "Dude, would Slappy Blackhead steer you wrong?",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "PG",
+  "runtime": "1h 54m",
+  "labels": [
+    "sci-fi"
+  ],
+  "credit": "PBS",
+  "altHero": "Slappy Blackhead, a teen on a bicycle with an alarm clock attached",
+  "alt1": "Slappy’s friend, also with a bike helmet on",
+  "alt2": "the friend looking at a plate of uranium in the microwave",
+  "alt3": "glowing uranium being scooped into the alarm clock on the bike",
+  "alt4": "feet pedaling a bike",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ]
+}
