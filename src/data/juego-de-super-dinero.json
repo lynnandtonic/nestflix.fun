@@ -1,0 +1,27 @@
+{
+  "slug": "juego-de-super-dinero",
+  "title": "Juego de Super Dinero",
+  "description": "Contestants guess the price of various goods in hopes of taking them home.",
+  "quote": "Your bid for this kilogram of maize is 317 million Venezuelan bolivars. Retail Price… 400 million Venezuelan bolivars!",
+  "parent": "Animaniacs",
+  "parentYear": "2020-2023",
+  "parentIMDB": "6951546",
+  "rating": "Unrated",
+  "runtime": "1 season",
+  "labels": [
+    "game show"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "dictator-looking host",
+  "alt1": "host and contestants",
+  "alt2": "contestant looks confident in his guess",
+  "alt3": "a hand swaps the card the host is holding",
+  "alt4": "contestants angrily pursuing the host as he runs away",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
