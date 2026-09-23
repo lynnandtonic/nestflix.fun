@@ -1,0 +1,24 @@
+{
+  "slug": "dunce-patrol",
+  "title": "Dunce Patrol",
+  "description": "For the teens in the Dunce Patrol, there’s nothing quite as hard as surviving high school.",
+  "quote": "Well, duh.",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "sitcom",
+    "teens"
+  ],
+  "credit": "PBS",
+  "altHero": "three teens",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens"
+  ],
+  "logoWidth": "220"
+}
