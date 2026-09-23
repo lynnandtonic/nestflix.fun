@@ -1,0 +1,30 @@
+{
+  "slug": "terrific-turbo-trooper-toy-t-bot-team",
+  "title": "Terrific Turbo-Trooper Toy T-Bot Team",
+  "description": "The Terrific Turbo-Trooper Toy T-Bot Team defends all the universe from those who would do wrong.",
+  "quote": "Head action, now!",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-Y7",
+  "runtime": "3 sesasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "PBS",
+  "altHero": "the turbo-trooper t-bots, one green and one red, flying through space",
+  "alt1": "red t-bot with his fist in the air",
+  "alt2": "t-bots on the moon",
+  "alt3": "t-bots flying toward a giant whale and narwhal that are heading toward the city",
+  "alt4": "green t-bot flying and about to punch",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "super team-ups"
+  ]
+}
