@@ -1,0 +1,34 @@
+{
+  "slug": "caged-wisdom",
+  "title": "Caged Wisdom",
+  "description": "While incarcerated at Orange County Prison, real estate mogul George Bluth embraces Judaism while teaching inmates about the wisdom of God.",
+  "quote": "Caged Wisdom changed my life.",
+  "parent": "Arrested Development",
+  "parentYear": "2003-2019",
+  "parentIMDB": "0367279",
+  "rating": "Unrated",
+  "runtime": "5h",
+  "starring": [
+    "George Bluth"
+  ],
+  "labels": [
+    "self-help",
+    "religion"
+  ],
+  "credit": "20th Television, Netflix",
+  "altHero": "George Bluth wearing a Jewish prayer shawl and yarmulke",
+  "alt1": "George Bluth in prison",
+  "alt2": "George Bluth",
+  "alt3": "prisoner giving an interview",
+  "alt4": "George Bluth waving in front of a table of videos",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "self-improvement",
+    "religious programming",
+    "new on nestflix"
+  ],
+  "logoWidth": "320"
+}
