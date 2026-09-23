@@ -1,0 +1,30 @@
+{
+  "slug": "junior-island",
+  "title": "Junior Island",
+  "description": "Thirty kids on their way to summer camp get marooned on a mysterious island. They’re supposed to be in seventh grade, but now they must survive.",
+  "quote": "Not pie like cherry pie. Pi, the mathematical constant.",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "labels": [
+    "sci-fi",
+    "teens"
+  ],
+  "credit": "PBS",
+  "altHero": "three teens on a beach looking out at a crashed ship",
+  "alt1": "three teens on the beach next to a life raft",
+  "alt2": "two teens talk with jungle in the background",
+  "alt3": "two teens are on a computer in a laboratory",
+  "alt4": "two teens running through the laboratory",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "tv for teens",
+    "new on nestflix"
+  ]
+}
