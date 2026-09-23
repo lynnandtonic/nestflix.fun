@@ -1,0 +1,30 @@
+{
+  "slug": "straightbait",
+  "title": "Straightbait",
+  "description": "The first in the 9-part <em>Straightbait</em> series starring DeBrie Bardeaux who sleeps with men, but only after they sleep with another man to prove they’re not gay.",
+  "quote": "I’ll show you how not gay I am.",
+  "parent": "Arrested Development",
+  "parentYear": "2003-2019",
+  "parentIMDB": "0367279",
+  "rating": "Unrated",
+  "runtime": "1h 20m",
+  "starring": [
+    "DeBrie Bardeaux"
+  ],
+  "labels": [
+    "adult"
+  ],
+  "credit": "20th Television, Netflix",
+  "altHero": "two men leaning in to kiss each other, DeBrie Bardeaux also making a kissing face behind them",
+  "alt1": "man in leather jacket sitting on a bed",
+  "alt2": "DeBrie Bardeaux brings in another man to talk to the first one",
+  "alt3": "leather jacket guy removing his jacket",
+  "alt4": "the three of them in an embrace falling on the bed",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "adults 18+"
+  ]
+}
