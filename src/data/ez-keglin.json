@@ -1,0 +1,24 @@
+{
+  "slug": "ez-keglin",
+  "title": "EZ Keglin’",
+  "description": "Strengthen your pelvic floor with kegel exercises, led by Joyce Keglin.",
+  "parent": "Arrested Development",
+  "parentYear": "2003-2019",
+  "parentIMDB": "0367279",
+  "rating": "Unrated",
+  "runtime": "2h",
+  "starring": [
+    "Joyce Keglin"
+  ],
+  "labels": [
+    "fitness"
+  ],
+  "credit": "20th Television, Netflix",
+  "altHero": "Joyce Keglin sitting in an armchair",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "video series",
+    "fitness"
+  ]
+}
