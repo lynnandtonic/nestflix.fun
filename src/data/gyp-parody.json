@@ -1,0 +1,31 @@
+{
+  "slug": "gyp-parody",
+  "title": "Gyp-Parody!",
+  "description": "Contestants test their knowledge and answer questions to win cash prizes.",
+  "parent": "Animaniacs",
+  "parentYear": "1993-1998",
+  "parentIMDB": "0105941",
+  "rating": "TV-G",
+  "runtime": "16 seasons",
+  "starring": [
+    "Alec Quebec"
+  ],
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "host Alec Quebec",
+  "alt1": "Alec Quebec reading from a card",
+  "alt2": "contestant",
+  "alt3": "the board of categories in dollar amounts",
+  "alt4": "contestant who is a man with a rat head",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ],
+  "logoWidth": "320"
+}
