@@ -1,0 +1,28 @@
+{
+  "slug": "captain-whackem",
+  "title": "Captain Whackem",
+  "description": "Kids love Captain Whackem, who is always ready to whack ’em with a pie.",
+  "quote": "I bet you know what’s coming!",
+  "parent": "Atomic Betty",
+  "parentYear": "2004-2008",
+  "parentIMDB": "0424603",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "comedy"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Captain Whackem, a burly sailor with mutton chops",
+  "alt1": "Captain Whackem throwing a pie",
+  "alt2": "Captain Whackem’s hand reaching for a pie",
+  "alt3": "Captain Whackem holding a pie next to a kid guest",
+  "alt4": "Captain Whackem with a pie smashed into his face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
