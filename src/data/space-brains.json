@@ -1,0 +1,29 @@
+{
+  "slug": "space-brains",
+  "title": "Space Brains",
+  "description": "Contestants compete in a notoriously difficult show, first with an impossible to do stunt, then a gross out competition, and finally a trivia round. The last contestant standing wins a grand prize.",
+  "parent": "Atomic Betty",
+  "parentYear": "2004-2008",
+  "parentIMDB": "0424603",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Captain Chuck"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "host Captain Chuck, a man in a purple suit and with big poofy black hair",
+  "alt1": "Captain Chuck and two contestants",
+  "alt2": "two contestants racing in space",
+  "alt3": "Captain Chuck filling up a tub full of bugs",
+  "alt4": "Captain Chuck asking trivia questions to a contestant",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!"
+  ]
+}
