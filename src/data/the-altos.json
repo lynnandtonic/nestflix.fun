@@ -1,0 +1,29 @@
+{
+  "slug": "the-altos",
+  "title": "The Altos",
+  "description": "The award-winning TV show about the family life of a gangster.",
+  "quote": "I’d like to give that pastry chef a taste of his own cannoli.",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-MA",
+  "runtime": "5 seasons",
+  "labels": [
+    "drama",
+    "mobsters"
+  ],
+  "credit": "PBS",
+  "altHero": "gangster filing his nails at a dinner table of an Italian restaurant",
+  "alt1": "three gangsters having dinner",
+  "alt2": "closeup of gangster with slicked back hair, cleaning his mouth with a napkin",
+  "alt3": "gangsters talking",
+  "alt4": "gangsters at the table from another angle",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas"
+  ],
+  "logoWidth": "240"
+}
