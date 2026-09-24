@@ -1,0 +1,24 @@
+{
+  "slug": "alien-plasma-7",
+  "title": "Alien Plasma 7",
+  "description": "The seventh installment in the horrifying <em>Alien Plasma</em> series. You’ve never seen anything this scary!",
+  "parent": "Atomic Betty",
+  "parentYear": "2004-2008",
+  "parentIMDB": "0424603",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror",
+    "aliens"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "swamp monster alien holding a screaming woman",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "aliens!",
+    "monster movies"
+  ],
+  "logoWidth": "290"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "bionic-janitor",
+  "title": "Bionic Janitor",
+  "description": "When it comes to dirt and grime, no one cleans quite like Bionic Janitor.",
+  "quote": "The school superintendant is coming in two minutes. This place needs to spic and span.",
+  "parent": "Back at The Barnyard",
+  "parentYear": "2007-2011",
+  "parentIMDB": "0857277",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Brad Hammer"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Bionic Janitor with Moppy, a mop with a red button on the handle",
+  "alt1": "teacher talking with Bionic Janitor as he mops a hallway",
+  "alt2": "Bionic Janitor mopping super fast",
+  "alt3": "Bionic Janitor dramatically wiping up a speck of dust",
+  "alt4": "Bionic Janitor flying through the sky with cleaning products",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv"
+  ],
+  "logoWidth": "220"
+}
