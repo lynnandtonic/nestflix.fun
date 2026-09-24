@@ -1,0 +1,31 @@
+{
+  "slug": "prankd",
+  "title": "Prank’d",
+  "description": "The hidden camera comedy show where Anthropix plays pranks on unsuspecting victims. Your favorite kind of exploitative humor that’s one step above cartoons.",
+  "quote": "You’ve just been prank’d!",
+  "parent": "Atomic Betty",
+  "parentYear": "2004-2008",
+  "parentIMDB": "0424603",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Anthropix"
+  ],
+  "labels": [
+    "reality",
+    "pranks"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Anthropix, an alien host",
+  "alt1": "Anthropix dressed as a waiter, bringing a milkshake to a guy at a table",
+  "alt2": "guy is covered in milkshake, angry at Anthropix",
+  "alt3": "guy being sprayed with a huge blast of water",
+  "alt4": "Anthropix laughing and pointing at the guy, dripping wet",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
