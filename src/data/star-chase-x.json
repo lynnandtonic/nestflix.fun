@@ -1,0 +1,32 @@
+{
+  "slug": "star-chase-x",
+  "title": "Star Chase X",
+  "description": "Malevolent aliens have infiltrated our galaxy seeking to destroy it and time is running out.",
+  "quote": "Leave this planet immediately or I’ll have to get tough on you!",
+  "parent": "Atomic Betty",
+  "parentYear": "2004-2008",
+  "parentIMDB": "0424603",
+  "rating": "PG",
+  "runtime": "1h 43m",
+  "starring": [
+    "Delta Aurora"
+  ],
+  "labels": [
+    "sci-fi",
+    "action",
+    "aliens"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Delta Aurora, a beautiful woman with big red hair",
+  "alt1": "Aurora posing",
+  "alt2": "Aurora fighting a big blue alien",
+  "alt3": "Aurora and little sidekick on a desert planet",
+  "alt4": "Aurora jumpkicking a two-headed alien",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films"
+  ]
+}
