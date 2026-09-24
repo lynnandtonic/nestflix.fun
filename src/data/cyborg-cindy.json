@@ -1,0 +1,30 @@
+{
+  "slug": "cyborg-cindy",
+  "title": "Cyborg Cindy",
+  "description": "The hit spinoff of <em>Bionic Bunny</em> about Cindy, a teenage girl who’s secretly part robot.",
+  "quote": "Professor Entropy, it’s time for you to be schooled.",
+  "parent": "Arthur",
+  "parentYear": "1996-2022",
+  "parentIMDB": "0169414",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "PBS",
+  "altHero": "Cindy, a girl bunny in robot armor and flying in the sky",
+  "alt1": "Cindy in the sky with blast boots",
+  "alt2": "superhero landing in the street",
+  "alt3": "Cindy facing off with a robot cowboy",
+  "alt4": "Cindy extending her robot arm",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "tv superheroes"
+  ]
+}
