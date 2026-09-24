@@ -1,0 +1,34 @@
+{
+  "slug": "radioactive-party-panthers-from-fort-lauderdale",
+  "title": "Radioactive Party Panthers from Fort Lauderdale",
+  "description": "The first and only film by Ron Bergman about radioactive panthers terrorizing partygoers in Florida.",
+  "quote": "By my calculations, we have seven hours until the panthers merge into one giant mega-panther.",
+  "parent": "Bones",
+  "parentYear": "2005-2017",
+  "parentIMDB": "0460627",
+  "rating": "R",
+  "runtime": "1h 21m",
+  "starring": [
+    "David Faustino"
+  ],
+  "director": [
+    "Ron Bergman"
+  ],
+  "labels": [
+    "horror",
+    "sci-fi"
+  ],
+  "credit": "20th Television",
+  "altHero": "person in yellow panther costume",
+  "alt1": "David Faustino with one huge arm, holding a gun on a jetski",
+  "alt2": "colorful panthers chasing women around a pool",
+  "alt3": "woman scientist",
+  "alt4": "woman scientist in a bikini under her labcoat",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
