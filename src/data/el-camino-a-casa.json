@@ -1,0 +1,33 @@
+{
+  "slug": "el-camino-a-casa",
+  "title": "El Camino a Casa",
+  "description": "Ernesto de la Cruz stars in a classic tale of two friends who chase a musical dream, facing hardships, difficult decisions, and betrayal.",
+  "quote": "I would move heaven and earth for you, mi amigo!",
+  "parent": "Coco",
+  "parentYear": "2017",
+  "parentIMDB": "2380307",
+  "rating": "G",
+  "runtime": "1h 45m",
+  "starring": [
+    "Ernesto de la Cruz"
+  ],
+  "labels": [
+    "musical",
+    "drama"
+  ],
+  "credit": "Pixar Animation Studios",
+  "altHero": "de la Cruz with his friend Don Hidalgo toasting",
+  "alt1": "Don Hidalgo toasting",
+  "alt2": "two hands toasting glasses",
+  "alt3": "de la Cruz spitting out the drink",
+  "alt4": "de la Cruz about to punch Don Hidalgo",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals",
+    "westerns",
+    "new on nestflix"
+  ]
+}
