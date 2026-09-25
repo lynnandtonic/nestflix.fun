@@ -1,0 +1,25 @@
+{
+  "slug": "doctor-time-space-and-the-continuums",
+  "title": "Doctor Time Space and the Continuums",
+  "description": "The Doctor travels through time and space to solve crimes and protect Earth from foes.",
+  "quote": "I have defeated you with science!",
+  "parent": "Codename: Kids Next Door",
+  "parentYear": "2002-2008",
+  "parentIMDB": "0312109",
+  "rating": "TV-G",
+  "runtime": "6 seasons",
+  "labels": [
+    "sci-fi",
+    "kids"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "The Doctor, in a coat and scarf, struggling with big chains next to a robot",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv",
+    "kids tv"
+  ],
+  "logoWidth": "230"
+}
