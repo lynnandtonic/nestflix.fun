@@ -1,0 +1,32 @@
+{
+  "slug": "americas-stupidest-home-videos",
+  "title": "America’s Stupidest Home Videos",
+  "description": "The stupidest home videos you’ve ever seen! Submit your own to be in the running for a $10,000 prize.",
+  "quote": "Boy, looks like this kid needs some therapy.",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0121955",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Bob Saget"
+  ],
+  "labels": [
+    "reality",
+    "home movies"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "Bob Saget",
+  "alt1": "Bob Saget on a set that looks like a living room",
+  "alt2": "home video of a young boy having a tea party with stuffed animals",
+  "alt3": "audience laughing",
+  "alt4": "home video of a dog putting a hat on a guy watering his lawn",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "funny videos and home movies"
+  ],
+  "logoWidth": "210"
+}
