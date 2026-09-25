@@ -1,0 +1,21 @@
+{
+  "slug": "bitty-blobbies",
+  "title": "Bitty Blobbies",
+  "description": "You’re in for a happy, silly, bitty afternoon when you hang with the Bitty Blobbies!",
+  "parent": "Captain Flamingo",
+  "parentYear": "2006-2010",
+  "parentIMDB": "0470105",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "YTV",
+  "altHero": "little freckled guy in a red bodysuit with flower extending from their head",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
