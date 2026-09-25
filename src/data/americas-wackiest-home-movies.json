@@ -1,0 +1,23 @@
+{
+  "slug": "americas-wackiest-home-movies",
+  "title": "America’s Wackiest Home Movies",
+  "description": "Viewers submit their funny and wacky home videos to win a $10,000 grand prize.",
+  "parent": "Rugrats",
+  "parentYear": "1991-2005",
+  "parentIMDB": "0101188",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality",
+    "home movies"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "host of the show with an insert shot of a baby playing in mud",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "funny videos and home movies"
+  ],
+  "logoWidth": "220"
+}
