@@ -1,0 +1,30 @@
+{
+  "slug": "quantum-vigilante",
+  "title": "Quantum Vigilante",
+  "description": "For Quantum Vigilante, the life of a superhero is full of adventure—on Earth and in space.",
+  "parent": "Captain Flamingo",
+  "parentYear": "2006-2010",
+  "parentIMDB": "0470105",
+  "rating": "TV-Y7",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "YTV",
+  "altHero": "Quantum Vigilante, a superhero flying through space",
+  "alt1": "alien shooting a ray gun",
+  "alt2": "Quantum Vigilante dodging the ray",
+  "alt3": "Earth full of holes",
+  "alt4": "Quantum Vigilante standing next to an alien robot thing that is screaming",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes",
+    "kids action shows",
+    "new on nestflix"
+  ]
+}
