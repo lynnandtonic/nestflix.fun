@@ -1,0 +1,22 @@
+{
+  "slug": "the-happy-colors-show",
+  "title": "The Happy Colors Show",
+  "description": "It’s the Happy Colors Show. It’s the happiest show we know. With red and green and aquamarine and blue like the sky above.",
+  "quote": "Our favorite color is love.",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "a grid of nine colors",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
