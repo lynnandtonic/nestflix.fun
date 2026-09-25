@@ -1,0 +1,24 @@
+{
+  "slug": "pangaeas-funniest-home-injuries",
+  "title": "Pangaea’s Funniest Home Injuries",
+  "description": "The most hilarious viewer-submitted videos showing dinosaurs getting hurt in all kinds of creative ways.",
+  "quote": "And now here’s a father and son playing catch a little too near an active volcano and giving new meaning to the expression, go deep.",
+  "parent": "Dinosaurs",
+  "parentYear": "1991-1994",
+  "parentIMDB": "0101081",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality",
+    "comedy"
+  ],
+  "credit": "Buena Vista Television",
+  "altHero": "host of the show next to a TV monitor showing a guy by a gurgling volcano",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ],
+  "logoWidth": ""
+}
