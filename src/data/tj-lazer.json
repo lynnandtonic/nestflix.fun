@@ -1,0 +1,30 @@
+{
+  "slug": "tj-lazer",
+  "title": "T.J. Lazer",
+  "SEO": "TJ Lazer",
+  "description": "In the near future, gunspinning cop T.J. Lazer takes to the streets to clean up his city.",
+  "parent": "RoboCop",
+  "parentYear": "1987",
+  "parentIMDB": "0093870",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "crime drama",
+    "action"
+  ],
+  "credit": "Orion Pictures",
+  "altHero": "T.J. Lazer, a futuristic cop",
+  "alt1": "Lazer facing down a bad guy",
+  "alt2": "Lazer shooting a laser gun at the bad guy",
+  "alt3": "bad guy’s back glowing red",
+  "alt4": "Lazer holstering his gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "new on nestflix"
+  ],
+  "logoWidth": "290"
+}
