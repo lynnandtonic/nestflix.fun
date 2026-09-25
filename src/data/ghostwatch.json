@@ -1,0 +1,26 @@
+{
+  "slug": "ghostwatch",
+  "title": "Ghostwatch",
+  "description": "Great Britain’s most in-depth investigative reporting on ghosts and other paranormal happenings.",
+  "quote": "On today’s Ghostwatch, claims that some of the ghosts are starting to talk, and there seems to be a regular formation gathering around Westminster Bridge.",
+  "parent": "Doctor Who",
+  "parentYear": "2005-2022",
+  "parentIMDB": "0436992",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Alistair Appleton"
+  ],
+  "labels": [
+    "talk show",
+    "paranormal"
+  ],
+  "credit": "BBC One",
+  "altHero": "host of Ghostwatch",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "paranormal investigation"
+  ]
+}
