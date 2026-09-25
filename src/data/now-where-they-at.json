@@ -1,0 +1,29 @@
+{
+  "slug": "now-where-they-at",
+  "title": "Now Where They At?",
+  "description": "Learn the true stories behind the scenes about your favorite actors, musicians, and sports heroes. Find out what they’re up to now, years after fading from the limelight.",
+  "quote": "Today, these one-hit nobodies are on the “no one cares” train to Nowheresville.",
+  "parent": "Drawn Together",
+  "parentYear": "2004-2007",
+  "parentIMDB": "0386180",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "documentary",
+    "entertainment"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "black and white shot of the music group, The Foxxy 5, fighting each other",
+  "alt1": "The Foxxy 5 on stage performing",
+  "alt2": "reporter talking in front of a crime scene at Club Foot",
+  "alt3": "Foxxy Love crawling out of car with broken windshield, a snake around her neck",
+  "alt4": "The Foxxy 5’s mutilated bodies merged with their tour van",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series"
+  ],
+  "logoWidth": "190"
+}
