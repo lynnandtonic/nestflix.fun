@@ -1,0 +1,30 @@
+{
+  "slug": "to-be-black-in-todays-america",
+  "title": "To Be Black in Today’s America",
+  "description": "A six-part series hosted by Jim Jeffords investigating the experiences of Black people in  Pennsylvania and the greater U.S.",
+  "quote": "I witnessed firsthand the silent scourge of racism.",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "parentIMDB": "4326894",
+  "rating": "TV-14",
+  "runtime": "6 episodes",
+  "starring": [
+    "Jim Jeffords"
+  ],
+  "labels": [
+    "documentary"
+  ],
+  "credit": "Netflix",
+  "altHero": "host Jim Jeffords",
+  "alt1": "Black man wearing a fancy hat and holding a gasoline can in front of a purple car",
+  "alt2": "Black man waving",
+  "alt3": "Black man standing by the open window of a car with a white man and boy in the car, avoiding eye contact",
+  "alt4": "black and white, inverted freeze frame of the white people in the car with text overlay that says, “the face of racism in America”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series"
+  ]
+}
