@@ -1,0 +1,27 @@
+{
+  "slug": "inventican-hero",
+  "title": "Inventican Hero",
+  "description": "The hit show where inventors present their latest inventions to a panel of judges in hopes of receiving a manufactoring deal.",
+  "parent": "Eagleheart",
+  "parentYear": "2011-2014",
+  "parentIMDB": "1728860",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality competition"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "panel of judges",
+  "alt1": "Martin Bunju presenting his board game invention, Scribblers 8",
+  "alt2": "judge looking confused and angry",
+  "alt3": "Andrew Weinberg presenting his bazooka-like invention, The Pocket Humiliator",
+  "alt4": "judges laughing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ],
+  "logoWidth": "280"
+}
