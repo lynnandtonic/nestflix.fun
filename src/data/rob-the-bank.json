@@ -1,0 +1,23 @@
+{
+  "slug": "rob-the-bank",
+  "title": "Rob the Bank!",
+  "description": "The game show where people play against the biggest moneymaker of all: their bank.",
+  "quote": "Total retail price of your grand prize: $314.16!",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "parentIMDB": "4326894",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "game show"
+  ],
+  "credit": "Netflix",
+  "altHero": "host and contestant on game show set",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ],
+  "logoWidth": "210"
+}
