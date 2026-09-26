@@ -1,0 +1,31 @@
+{
+  "slug": "the-happy-stupid-kid-show",
+  "title": "The Happy Stupid Kid Show",
+  "description": "Unfortunately canceled due to parental controversy, Wooldoor Sockbat welcomes kids of all races and creeds, sisters and brothers, and every personality.",
+  "quote": "With tolerance and love, we’re all free to be!",
+  "parent": "Drawn Together",
+  "parentYear": "2004-2007",
+  "parentIMDB": "0386180",
+  "rating": "TV-Y",
+  "runtime": "1 episode",
+  "starring": [
+    "Wooldoor Sockbat"
+  ],
+  "labels": [
+    "kids"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "Wooldoor Sockbat with a white boy, Black girl, and Asian boy in a wheelchair",
+  "alt1": "Sockbat scrunching the cheeks of the girl",
+  "alt2": "Sockbat pushing the boy in his wheelchair",
+  "alt3": "Sockbat and the kids dancing",
+  "alt4": "Sockbat opening a door",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "230"
+}
