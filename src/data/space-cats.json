@@ -1,0 +1,29 @@
+{
+  "slug": "space-cats",
+  "title": "Space Cats",
+  "description": "As the space cats descend on Earth to kill all humans, a plucky group of friends faces off to take them down.",
+  "quote": "Guys? Seriously. Attack the space cats!",
+  "parent": "Eddsworld",
+  "parentYear": "2004-Present",
+  "parentIMDB": "2204916",
+  "rating": "Unrated",
+  "runtime": "4h 32m",
+  "labels": [
+    "amateur",
+    "sci-fi"
+  ],
+  "credit": "@Eddsworld",
+  "altHero": "Edd dancing with a cat in a space helmet",
+  "alt1": "Matt in an army uniform holding a bag of trash",
+  "alt2": "Edd next to Laurel as she makes a crazy face",
+  "alt3": "Laurel as a surgeon getting attacked by a cat",
+  "alt4": "the President is a shoe with a tie and glasses",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers",
+    "new on nestflix"
+  ]
+}
