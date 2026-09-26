@@ -1,0 +1,22 @@
+{
+  "slug": "the-nickel-and-pickle-show",
+  "title": "The Nickel and Pickle Show",
+  "description": "The wholesome adventures of best friends Nickel and Pickle.",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "parentIMDB": "4326894",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Netflix",
+  "altHero": "a smiling pickle running while holding a flower",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "210"
+}
