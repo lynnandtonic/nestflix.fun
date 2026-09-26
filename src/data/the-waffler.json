@@ -1,0 +1,28 @@
+{
+  "slug": "the-waffler",
+  "title": "The Waffler",
+  "description": "According to urban legend, on the creepy house on the hill, lives The Waffler, a monster who eats people as part of a balanced breakfast.",
+  "quote": "I waffle your head!",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "parentIMDB": "4326894",
+  "rating": "R",
+  "runtime": "1h 27m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "Netflix",
+  "altHero": "the Waffler, a green monster man, about to eat a man whose face has been waffled",
+  "alt1": "a couple terrified as the the Waffler approaches them",
+  "alt2": "the Waffler",
+  "alt3": "man whose face has been waffled",
+  "alt4": "the Waffler pouring syrup on the guy’s face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
