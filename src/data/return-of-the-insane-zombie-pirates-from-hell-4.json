@@ -1,0 +1,28 @@
+{
+  "slug": "return-of-the-insane-zombie-pirates-from-hell-4",
+  "title": "Return of the Insane Zombie Pirates from Hell 4",
+  "description": "The fourth installment in the <em>Insane Zombie Pirates</em> franchise. The zombie pirates are back and they’re more insane than ever.",
+  "quote": "Yar! Brains!",
+  "parent": "Eddsworld",
+  "parentYear": "2004-Present",
+  "parentIMDB": "2204916",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror",
+    "zombies"
+  ],
+  "credit": "@Eddsworld",
+  "altHero": "zombie in an eye patch screaming",
+  "alt1": "pirate hook",
+  "alt2": "man and woman having a candlelit dinner on an old pirate ship",
+  "alt3": "waiter is serving a zombie pirate head on a platter",
+  "alt4": "zombie pirate head attacks the woman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "zombies"
+  ]
+}
