@@ -1,0 +1,32 @@
+{
+  "slug": "what-it-is",
+  "title": "What It Is?",
+  "description": "Jim Jeffords speaks with Black leaders about today’s issues facing today’s Black community.",
+  "quote": "So how do you people feel about these election results?",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "parentIMDB": "4326894",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Jim Jeffords"
+  ],
+  "labels": [
+    "talk show",
+    "politics" 
+  ],
+  "credit": "Netflix",
+  "altHero": "Jim Jeffords in a purple suit, grinning like a dork, next to a Black revolutionary",
+  "alt1": "Jim Jeffords",
+  "alt2": "Black man speaking",
+  "alt3": "Jim Jeffords with three Black leaders",
+  "alt4": "Jim Jeffords",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "political talk shows",
+    "new on nestflix"
+  ]
+}
