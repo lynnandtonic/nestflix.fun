@@ -1,0 +1,24 @@
+{
+  "slug": "the-driftwood-channel",
+  "title": "The Driftwood Channel",
+  "description": "Enjoy 24/7 live streaming of the riveting Driftwood Channel. The only channel you’ll ever need.",
+  "parent": "Eek! The Cat",
+  "parentYear": "1992-1997",
+  "parentIMDB": "0103408",
+  "rating": "TV-G",
+  "runtime": "24h",
+  "studio": "The Driftwood Channel",
+  "labels": [
+    "reality",
+    "nature"
+  ],
+  "credit": "Fox",
+  "altHero": "a piece of driftwood on the beach",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ],
+  "logoWidth": ""
+}
