@@ -1,0 +1,28 @@
+{
+  "slug": "bald-men-and-bouquets",
+  "title": "Bald Men & Bouquets",
+  "description": "Mr. Steve, Mr. Mike, and Rick love flowers and build beautiful bouqets in their floral shop.",
+  "quote": "I think it’s pretty when they are lumped together liked this.",
+  "parent": "Greener Grass",
+  "parentYear": "2019",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "IFC Midnight",
+  "altHero": "Mr. Steve and Mr. Mike, two bald men in blue turtlenecks, holding flowers",
+  "alt1": "hands holding two big bouquets with bows on them",
+  "alt2": "Mr. Steve looking disapprovingly at Rick",
+  "alt3": "Rick smiling and holding a flower, Mr. Steve and Mr. Mike looking at each other disgusted",
+  "alt4": "Mr. Mike making a kissy face at a fake bird",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ],
+  "logoWidth": "220"
+}
