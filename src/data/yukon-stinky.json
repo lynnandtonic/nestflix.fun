@@ -1,0 +1,24 @@
+{
+  "slug": "yukon-stinky",
+  "title": "Yukon Stinky",
+  "description": "The adventures of a warm-hearted Canadian Mountie and his geriatric dog, Stinky.",
+  "quote": "Well Stinky, I guess this case is closed.",
+  "parent": "Garfield Gets a Life",
+  "parentYear": "1991",
+  "parentIMDB": "0292520",
+  "rating": "TV-Y",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "comedy"
+  ],
+  "credit": "CBS",
+  "altHero": "a Mountie saluting and holding an old, sickly dog",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "220"
+}
