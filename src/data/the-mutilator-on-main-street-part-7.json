@@ -1,0 +1,23 @@
+{
+  "slug": "the-mutilator-on-main-street-part-7",
+  "title": "The Mutilator on Main Street Part 7",
+  "description": "On Main Street, never leave your window open. Never leave your lights off. And never order out for pizza. Because… he’s back.",
+  "parent": "Goof Troop",
+  "parentYear": "1992-1993",
+  "parentIMDB": "0103428",
+  "rating": "PG-13",
+  "runtime": "1h 40m",
+  "labels": [
+    "horror",
+    "slasher"
+  ],
+  "credit": "Walt Disney Television",
+  "altHero": "man in a hockey mask with a chainsaw",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks"
+  ],
+  "logoWidth": "240"
+}
