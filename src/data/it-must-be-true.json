@@ -1,0 +1,33 @@
+{
+  "slug": "it-must-be-true",
+  "title": "It Must Be True",
+  "description": "The show that tells you all sorts of incredible things, which, since they’re on television, must be true.",
+  "quote": "There’s no such place as Wyoming. Think about it. Have you ever met anyone from Wyoming?",
+  "parent": "Garfield and Friends",
+  "parentYear": "1988-1994",
+  "parentIMDB": "0094469",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Garfield Cat"
+  ],
+  "studio": "WBOR",
+  "labels": [
+    "talk show",
+    "educational"
+  ],
+  "credit": "CBS",
+  "altHero": "host Garfield Cat",
+  "alt1": "man pointing at a board filled with random states",
+  "alt2": "two cows chatting",
+  "alt3": "Garfield with two lamps pointed at two bowling balls",
+  "alt4": "Garfield taking an x-ray of Odie the dog",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows"
+  ],
+  "logoWidth": "220"
+}
