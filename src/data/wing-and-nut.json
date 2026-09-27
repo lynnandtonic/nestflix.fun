@@ -1,0 +1,23 @@
+{
+  "slug": "wing-and-nut",
+  "title": "Wing and Nut",
+  "description": "One is named Wing and the other is named Nut, and they’re just hardware in a rut.",
+  "quote": "We’ve gotta fix our house in a hurry. So scurry!",
+  "parent": "Handy Manny",
+  "parentYear": "2006-2013",
+  "parentIMDB": "0451460",
+  "rating": "G",
+  "runtime": "1h 12m",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Disney Junior",
+  "altHero": "two screws with eyes, one blue and one pink",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "kids and family films"
+  ],
+  "logoWidth": ""
+}
