@@ -1,0 +1,25 @@
+{
+  "slug": "judge-dread",
+  "title": "Judge Dread",
+  "description": "It’s payback time. Reality show judges go live in a mansion where they are tormented by horror pranks.",
+  "parent": "Girls5Eva",
+  "parentYear": "2021-2024",
+  "parentIMDB": "11650492",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Jenny McCarthy"
+  ],
+  "labels": [
+    "reality",
+    "pranks"
+  ],
+  "credit": "Peacock",
+  "altHero": "night vision show of the Ring girl with long black hair standing next to a person asleep in bed",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "prank shows"
+  ]
+}
