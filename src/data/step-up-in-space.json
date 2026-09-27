@@ -1,0 +1,27 @@
+{
+  "slug": "step-up-in-space",
+  "title": "Step Up in Space",
+  "description": "Your favorite dance competition, now in space. <em>Step Up</em> is searching for the best dancer in the universe.",
+  "quote": "Your move, Mars.",
+  "parent": "Girls5Eva",
+  "parentYear": "2021-2024",
+  "parentIMDB": "11650492",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Torque"
+  ],
+  "labels": [
+    "reality competition",
+    "dancing"
+  ],
+  "credit": "Peacock",
+  "altHero": "Torque in a futuristic midriff outfit dancing on another planet",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "new on nestflix"
+  ]
+}
