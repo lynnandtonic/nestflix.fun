@@ -1,0 +1,32 @@
+{
+  "slug": "a-bing-crosby-family-christmas",
+  "title": "A Bing Crosby Family Christmas",
+  "description": "A classic holiday special with Bing Crosby and his two sons. With very special guests Rich Little and Colt Luger’s Reid Harrison.",
+  "quote": "Sometimes a snowman’s gotta do what a snowman does.",
+  "parent": "F Is for Family",
+  "parentYear": "2015-2021",
+  "parentIMDB": "4326894",
+  "rating": "TV-G",
+  "runtime": "1h 22m",
+  "starring": [
+    "Bing Crosby",
+    "Rich Little",
+    "Reid Harrison"
+  ],
+  "labels": [
+    "holiday"
+  ],
+  "credit": "Netflix",
+  "altHero": "Bing Crosby dressed as a nutcracker, banging two drums on his two young sons’ heads",
+  "alt1": "Reid Harrison dressed as a snowman",
+  "alt2": "Rich Little, dressed as a reindeer, faces off with Harrison",
+  "alt3": "Rich Little sneering",
+  "alt4": "Harrison frowning, holding a tree branch like a gun",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV special",
+    "for the holidays"
+  ]
+}
