@@ -1,0 +1,29 @@
+{
+  "slug": "robo-shogun",
+  "title": "Robo-Shogun",
+  "description": "Manga hero Robo-Shogun takes down villains and gets the girl. He’s a little old fashioned, but does really cool action stuff.",
+  "quote": "Fear is a disease the female mind suffers!",
+  "parent": "gen:Lock",
+  "parentYear": "2019-2021",
+  "parentIMDB": "7945066",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "HBO",
+  "altHero": "Robo-Shogun, a mecha warrior",
+  "alt1": "a woman gasping",
+  "alt2": "evil robot approaching the woman whose skirt is flying up in the wind",
+  "alt3": "Robo-Shogun",
+  "alt4": "Robo-Shogun holding a sword",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "new on nestflix"
+  ]
+}
