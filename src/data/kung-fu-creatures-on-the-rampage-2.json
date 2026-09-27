@@ -1,0 +1,24 @@
+{
+  "slug": "kung-fu-creatures-on-the-rampage-2",
+  "title": "Kung Fu Creatures On The Rampage 2",
+  "description": "They’re back! And these kung fu creatures are on another rampage!",
+  "quote": "You! You’re not Sylvia. You’re one of the kung fu creatures on a rampage… two!",
+  "parent": "Garfield and Friends",
+  "parentYear": "1988-1994",
+  "parentIMDB": "0094469",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "CBS",
+  "altHero": "scared man hugging a woman who has a monster face with multiple eyes, sharp teeth, and an elephant trunk",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ],
+  "logoWidth": "220"
+}
