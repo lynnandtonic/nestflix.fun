@@ -1,0 +1,31 @@
+{
+  "slug": "tea-with-titans",
+  "title": "Tea With Titans",
+  "description": "Morbo the Annihilator sits down to a delightful tea in a fake living room set with leaders, presidents, and titans of industry.",
+  "parent": "Futurama: Bender’s Game",
+  "parentYear": "2008",
+  "parentIMDB": "1054486",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Morbo the Annihilator"
+  ],
+  "studio": "Channel √2",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "Morbo holding a tea cup",
+  "alt1": "Morbo with Mom",
+  "alt2": "Morbo with Richard Nixon’s head",
+  "alt3": "Morbo with Zapp Brannigan",
+  "alt4": "Morbo with the Space Pope",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ]
+}
