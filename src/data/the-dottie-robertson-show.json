@@ -1,0 +1,25 @@
+{
+  "slug": "the-dottie-robertson-show",
+  "title": "The Dottie Robertson Show",
+  "description": "Host Dottie Robertson interviews interesting folks from all walks of life: authors, scientists, celebrities, and more.",
+  "parent": "Freaky Friday",
+  "parentYear": "2003",
+  "parentIMDB": "0322330",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": [
+    "Dottie Robertson"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Walt Disney Pictures",
+  "altHero": "Dottie Robertson on set with author Dr. Tess Coleman",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": "300"
+}
