@@ -1,0 +1,24 @@
+{
+  "slug": "sidney-the-pink-dinosaur-show",
+  "title": "Sidney The Pink Dinosaur Show",
+  "description": "Before his sci-fi career, Sidney the dinosaur hosted a kids show that featured educational songs, life lessons, and all-around fun.",
+  "quote": "Good is better than bad. Happy’s better than sad. My advice is just be nice ’cause good is better than bad.",
+  "parent": "Garfield and Friends",
+  "parentYear": "1988-1994",
+  "parentIMDB": "0094469",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "variety"
+  ],
+  "credit": "CBS",
+  "altHero": "Sidney, a pink dinosaur wearing tuxedo top and boater hat, dancing on a set decorated with big alphabet blocks",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids variety shows"
+  ],
+  "logoWidth": "220"
+}
