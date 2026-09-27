@@ -1,0 +1,29 @@
+{
+  "slug": "the-buddy-bears",
+  "title": "The Buddy Bears",
+  "description": "They are the Buddy Bears! They never have a fight. Anyone who disagrees is never, ever right. If you have a point of view, then keep it out of sight!",
+  "quote": "We’re going to teach you how to be sweet and nice and always agree with everyone.",
+  "parent": "Garfield and Friends",
+  "parentYear": "1988-1994",
+  "parentIMDB": "0094469",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "studio": "WBOR",
+  "labels": [
+    "kids"
+  ],
+  "credit": "CBS",
+  "altHero": "the Buddy Bears, three bears in bowties and hats",
+  "alt1": "the Buddy Bears dancing",
+  "alt2": "a Buddy Bear with an abacus",
+  "alt3": "a Buddy Bear letting birds fly out of a woven basket",
+  "alt4": "another Buddy Bear with a bird on his finger",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "190"
+}
