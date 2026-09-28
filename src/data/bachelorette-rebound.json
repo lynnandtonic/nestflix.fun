@@ -1,0 +1,28 @@
+{
+  "slug": "bachelorette-rebound",
+  "title": "Bachelorette Rebound",
+  "description": "A recently single bachelorette will decide which of several lucky contestants she’ll sleep with for two weeks, and then ghost because she still has feelings for her ex.",
+  "parent": "Hot Date",
+  "parentYear": "2017-2019",
+  "parentIMDB": "7603386",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality competition",
+    "dating"
+  ],
+  "credit": "Pop",
+  "altHero": "Amy, blonde woman in a red dress at a rose ceremony with the host and three men",
+  "alt1": "Amy with the host",
+  "alt2": "three contestants, one is holding a rose",
+  "alt3": "Amy with a rose",
+  "alt4": "Amy hugging two of the men with the host in the foreground",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows"
+  ],
+  "logoWidth": "300"
+}
