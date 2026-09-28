@@ -1,0 +1,27 @@
+{
+  "slug": "detective-unisquirm",
+  "title": "Detective Unisquirm!",
+  "description": "Officer Ostrich and Detective Unisquirm are on the case! Follow along as they discover clues and unravel each mystery.",
+  "quote": "Who stole the rare Jurassic Jewel?",
+  "parent": "Hobbykids Adventures",
+  "parentYear": "2019-2020",
+  "parentIMDB": "10139982",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "PocketWatch, Inc.",
+  "altHero": "Detective Unisquirm, a worm with a unicorn horn, at a press podium",
+  "alt1": "Officer Ostrich reading off a card",
+  "alt2": "press reporters",
+  "alt3": "two cops taking Officer Ostrich and Detective Unisquirm away",
+  "alt4": "Officer Ostrich and Detective Unisquirm in a jail cell",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows"
+  ]
+}
