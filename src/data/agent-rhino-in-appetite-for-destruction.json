@@ -1,0 +1,29 @@
+{
+  "slug": "agent-rhino-in-appetite-for-destruction",
+  "title": "Agent R.H.I.N.O in Appetite for Destruction",
+  "seo": "Agent Rhino",
+  "description": "Evil Genius is plotting to take over the world and Agent R.H.I.N.O is the only one who can stop him.",
+  "quote": "With this machine, nothing can stop me, Evil Genius!",
+  "parent": "Hey Duggee",
+  "parentYear": "2014-Present",
+  "parentIMDB": "4291050",
+  "rating": "PG",
+  "runtime": "1h 48m",
+  "labels": [
+    "action"
+  ],
+  "credit": "CBeebies",
+  "altHero": "Agent R.H.I.N.O flying through the sky as an explosion happens behind him",
+  "alt1": "Evil Genius in a robot ship above the Earth",
+  "alt2": "Agent R.H.I.N.O talking to a military officer",
+  "alt3": "Agent R.H.I.N.O kicking through a door",
+  "alt4": "Agent R.H.I.N.O avoiding a laser",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ],
+  "logoWidth": "300"
+}
