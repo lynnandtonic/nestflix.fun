@@ -1,0 +1,30 @@
+{
+  "slug": "aztec-man",
+  "title": "Aztec Man",
+  "description": "Johnny Depp is Aztec Man, a warrior who fights to protect Tenochtitlan from Spanish conquistadors.",
+  "quote": "Over my burning feet!",
+  "parent": "Instructions Not Included",
+  "parentYear": "2013",
+  "parentIMDB": "2378281",
+  "rating": "PG",
+  "runtime": "2h 12m",
+  "starring": [
+    "Johnny Depp"
+  ],
+  "director": [
+    "Cara Riggani"
+  ],
+  "labels": [
+    "action",
+    "adventure",
+    "comedy"
+  ],
+  "credit": "Pantelion Films",
+  "altHero": "a man in colorful Aztec clothing, tied down by Spanish conquistadors",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "action adventure movies"
+  ]
+}
