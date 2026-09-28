@@ -1,0 +1,31 @@
+{
+  "slug": "million-dollar-trivia-master",
+  "title": "Million Dollar Trivia Master",
+  "description": "Answer progressively harder trivia questions to win money. You can walk away any time or work toward the $1,000,000 Trivia Master question.",
+  "parent": "Hardcastle and McCormick",
+  "parentYear": "1983-1986",
+  "parentIMDB": "0085029",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Bryce Benson"
+  ],
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "ABC",
+  "altHero": "host Bryce Benson",
+  "alt1": "contestant Mark McCormick at a podium",
+  "alt2": "category: race car driving",
+  "alt3": "Bryce Benson reading a question",
+  "alt4": "Benson with contestant McCormick who has his arms around two women assistants",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ],
+  "logoWidth": "190"
+}
