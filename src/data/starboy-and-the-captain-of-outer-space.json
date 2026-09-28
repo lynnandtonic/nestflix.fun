@@ -1,0 +1,36 @@
+{
+  "slug": "starboy-and-the-captain-of-outer-space",
+  "title": "Starboy and the Captain of Outer Space",
+  "description": "Starboy and his brother, Captain of Outer Space, are faced with a big challenge where they fight historical figures who want to end the human race.",
+  "quote": "Nobody can beat us, Starboy. Not even our forefathers. Or our foremothers.",
+  "parent": "Home Movies",
+  "parentYear": "1999-2004",
+  "parentIMDB": "0197159",
+  "rating": "Unrated",
+  "runtime": "47m",
+  "starring": [
+    "Brendon Small",
+    "Jason Penopolis",
+    "Melissa Robbins",
+    "Junior Addleburg"
+
+  ],
+  "labels": [
+    "sci-fi",
+    "amateur"
+  ],
+  "credit": "Adult Swim",
+  "altHero": "Starboy and the Captain of Outer Space",
+  "alt1": "Starboy and the Captain of Outer Space",
+  "alt2": "George Washington, Picasso, and Annie Oakley",
+  "alt3": "captured people hanging from a clothesline",
+  "alt4": "Starboy and the Captain of Outer Space looking into an evilness monitor",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ],
+  "logoWidth": "250"
+}
