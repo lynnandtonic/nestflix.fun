@@ -1,0 +1,27 @@
+{
+  "slug": "just-say-it-already",
+  "title": "Just Say it Already!",
+  "description": "A film to warm the heart. Two writers, normally brilliant with words, can’t find the right ones when it really counts.",
+  "quote": "Oh, uh… sorry, um.",
+  "parent": "Hey Duggee",
+  "parentYear": "2014-Present",
+  "parentIMDB": "4291050",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "labels": [
+    "romantic comedy"
+  ],
+  "credit": "CBeebies",
+  "altHero": "a hippo and cheetah in workout clothes in the park standing awkwardly",
+  "alt1": "hippo and cheetah through windows, both working on typewriters in two separate buildings",
+  "alt2": "two hands reaching for the same book on a shelf",
+  "alt3": "hippo and cheetah standing awkwardly at a subway door",
+  "alt4": "hippo and cheetah awkwardly paddling two separate boats on a lake",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic comedies"
+  ]
+}
