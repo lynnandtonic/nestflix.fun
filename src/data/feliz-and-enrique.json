@@ -1,0 +1,27 @@
+{
+  "slug": "feliz-and-enrique",
+  "title": "Feliz and Enrique",
+  "description": "When the knock at your door turns out to be your best friend, the laughter never stops.",
+  "parent": "Hey Duggee",
+  "parentYear": "2014-Present",
+  "parentIMDB": "4291050",
+  "rating": "G",
+  "runtime": "1h 41m",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "CBeebies",
+  "altHero": "Feliz and Enrique, two alligators, driving in the car on a sunny day",
+  "alt1": "Feliz and Enrique greeting each other at the door",
+  "alt2": "Feliz and Enrique having ice cream",
+  "alt3": "Feliz and Enrique trying on costumes",
+  "alt4": "Feliz and Enrique making hot dogs at a picnic",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ],
+  "logoWidth": "200"
+}
