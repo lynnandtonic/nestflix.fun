@@ -1,0 +1,24 @@
+{
+  "slug": "gainsborough-gardens",
+  "title": "Gainsborough Gardens",
+  "description": "At Gainsborough Gardens, Lord Davenforth begins an affair with Anna, the scullery maid.",
+  "quote": "Miss Covington does not govern the lady of the house. If you’ll have me as your husband, that is what you shall be.",
+  "parent": "It’s Always Sunny in Philadelphia",
+  "parentYear": "2005-Present",
+  "parentIMDB": "0472954",
+  "rating": "TV-14",
+  "runtime": "6 seasons",
+  "labels": [
+    "period drama",
+    "british tv"
+  ],
+  "credit": "20th Television",
+  "altHero": "old timey desk with a man writing a letter with a quill and ink",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "british tv"
+  ],
+  "logoWidth": "400"
+}
