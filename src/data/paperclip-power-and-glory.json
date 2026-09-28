@@ -1,0 +1,28 @@
+{
+  "slug": "paperclip-power-and-glory",
+  "title": "Paperclip: Power & Glory",
+  "description": "The epic story of one of the greatest inventions ever. When gravity is your enemy and chaos is just around the corner, one hero will go to any lengths in the pursuit of… paperclip!",
+  "quote": "The state of the country depends on me keeping these papers together.",
+  "parent": "Hey Duggee",
+  "parentYear": "2014-Present",
+  "parentIMDB": "4291050",
+  "rating": "PG",
+  "runtime": "1h 46m",
+  "labels": [
+    "thriller"
+  ],
+  "credit": "CBeebies",
+  "altHero": "hand holding up a glowing paperclip",
+  "alt1": "woman walking across a bridge as the papers she is holding are blowing away in the wind",
+  "alt2": "woman crushing the stack of paper with a big weight",
+  "alt3": "woman pushing the stack of paper with a giant hand that is attached to a Rube Goldberg-like machine",
+  "alt4": "woman reaching up trying to catch all the falling papers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers"
+  ],
+  "logoWidth": "340"
+}
