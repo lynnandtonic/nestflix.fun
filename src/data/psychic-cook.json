@@ -1,0 +1,30 @@
+{
+  "slug": "psychic-cook",
+  "title": "Psychic Cook",
+  "description": "It’s the wackiest show on TV! Step into the paranormal pantry with special guest ghosts and prepare meals from beyond the grave. Spooky sauces to ghostly goulashes, it’s a whole lot of fun!",
+  "parent": "Highlander II: The Quickening",
+  "parentYear": "1991",
+  "parentIMDB": "0102034",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "cooking",
+    "paranormal"
+  ],
+  "credit": "InterStar",
+  "altHero": "the Psychic Cook, in a bowtie and apron",
+  "alt1": "the Psychic Cook presenting a lady ghost",
+  "alt2": "skeleton hand dipping into a bowl of sauce",
+  "alt3": "ghost tasting the sauce",
+  "alt4": "man ghost strangling the woman ghost",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking",
+    "paranormal investigation",
+    "new on nestflix"
+  ]
+}
