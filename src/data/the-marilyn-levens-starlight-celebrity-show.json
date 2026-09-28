@@ -1,0 +1,32 @@
+{
+  "slug": "the-marilyn-levens-starlight-celebrity-show",
+  "title": "The Marilyn Levens Starlight Celebrity Show",
+  "description": "From Hollywood, California, Marilyn Levens discusses celebrity rumors and breaks the latest entertainment gossip.",
+  "quote": "Marilyn Levens is going to be watching. And she will be reporting to you everything she finds out.",
+  "parent": "Inland Empire",
+  "parentYear": "2006",
+  "parentIMDB": "0460829",
+  "rating": "TV-14",
+  "runtime": "6 seasons",
+  "starring": [
+    "Marilyn Levens"
+  ],
+  "labels": [
+    "talk show",
+    "entertainment"
+  ],
+  "credit": "518 Media",
+  "altHero": "Marilyn Levens grinning",
+  "alt1": "Devon Berk",
+  "alt2": "Nikki Grace",
+  "alt3": "Marilyn smirking",
+  "alt4": "show announcer",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": "310"
+}
