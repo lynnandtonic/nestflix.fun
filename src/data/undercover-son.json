@@ -1,0 +1,27 @@
+{
+  "slug": "undercover-son",
+  "title": "Undercover Son",
+  "description": "Sons go undercover to experience life as their fathers, with hopes they don’t get recognized.",
+  "quote": "You don’t look familiar. Who are you?",
+  "parent": "Harvey Beaks",
+  "parentYear": "2015-2017",
+  "parentIMDB": "3219170",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "son wolf in a suit and with a mustache",
+  "alt1": "a dad looking suspiciously at the son",
+  "alt2": "dad is incredulous",
+  "alt3": "son smiling, removing his fake mustache",
+  "alt4": "dad screaming with hands on his cheeks",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ]
+}
