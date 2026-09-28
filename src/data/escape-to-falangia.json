@@ -1,0 +1,29 @@
+{
+  "slug": "escape-to-falangia",
+  "title": "Escape To Falangia",
+  "description": "A knight of the kingdom sets out on a dangerous quest to find the long lost city of Falangia.",
+  "quote": "This will be a test like no other!",
+  "parent": "Hey Duggee",
+  "parentYear": "2014-Present",
+  "parentIMDB": "4291050",
+  "rating": "PG",
+  "runtime": "2h 12m",
+  "labels": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "credit": "CBeebies",
+  "altHero": "bear knight holding a sword on a horse as a crowd watches",
+  "alt1": "knight flying toward a double headed dragon",
+  "alt2": "knight blocking fire breath with his shield",
+  "alt3": "sea monsters trying to bite at the knight in the air",
+  "alt4": "knight meeting a wizard atop a snowy hill",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action adventure movies"
+  ]
+}
