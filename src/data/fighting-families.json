@@ -1,0 +1,29 @@
+{
+  "slug": "fighting-families",
+  "title": "Fighting Families",
+  "description": "The incredibly popular game show that asks families to perform crazy physical competitions while answering challenging trivia questions.",
+  "quote": "Okay, families. Let’s start fighting.",
+  "parent": "Hey Arnold!",
+  "parentYear": "1996-2004",
+  "parentIMDB": "0115200",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "family celebrating",
+  "alt1": "set of Fighting Families",
+  "alt2": "family sliding down a slide into a pool of green goo",
+  "alt3": "referee host putting on a viking helmet",
+  "alt4": "a competing family",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family game shows"
+  ],
+  "logoWidth": "350"
+}
