@@ -1,0 +1,29 @@
+{
+  "slug": "dance-and-sing-3-the-oral-hygiene-years",
+  "title": "Dance & Sing 3: The Oral Hygiene Years",
+  "description": "When all you want do is dance and sing, what do you do when the music stops?",
+  "quote": "I wanna dance and I wanna sing!",
+  "parent": "Hey Duggee",
+  "parentYear": "2014-Present",
+  "parentIMDB": "4291050",
+  "rating": "G",
+  "runtime": "1h 43m",
+  "labels": [
+    "family",
+    "musical"
+  ],
+  "credit": "CBeebies",
+  "altHero": "young girl smiling big with braces",
+  "alt1": "girl at school at her locker",
+  "alt2": "girl singing in the lunchroom",
+  "alt3": "girl playing goalie, singing and dancing, while the ball is going into the net",
+  "alt4": "girl mouth open at the orthodontist",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "musicals"
+  ],
+  "logoWidth": "350"
+}
