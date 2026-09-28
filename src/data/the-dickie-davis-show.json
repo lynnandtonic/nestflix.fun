@@ -1,0 +1,24 @@
+{
+  "slug": "the-dickie-davis-show",
+  "title": "The Dickie Davis Show",
+  "description": "Tune in for four hours each day as Dickie Davis welcomes inventors and creators to demonstrate and sell their products.",
+  "parent": "I Love Lucy ",
+  "parentYear": "1951-1957",
+  "parentIMDB": "0043208",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Dickie Davis"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "CBS",
+  "altHero": "Dickie Davis at his desk",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
