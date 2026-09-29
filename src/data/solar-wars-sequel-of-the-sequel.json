@@ -1,0 +1,22 @@
+{
+  "slug": "solar-wars-sequel-of-the-sequel",
+  "title": "Solar Wars: Sequel of the Sequel",
+  "description": "The third installment in the <em>Solar Wars</em> saga with even more sci-fi action and absolutely no kissing.",
+  "parent": "Johnny Test",
+  "parentYear": "2005-2014",
+  "parentIMDB": "0454349",
+  "rating": "PG",
+  "runtime": "2h 23m",
+  "labels": [
+    "sci-fi"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "aliens with upside down faces riding big wooly mammoths on an ice planet",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ],
+  "logoWidth": ""
+}
