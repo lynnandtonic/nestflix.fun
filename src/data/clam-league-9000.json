@@ -1,0 +1,29 @@
+{
+  "slug": "clam-league-9000",
+  "title": "Clam League 9000",
+  "description": "The popular kids’ toys come to life! It’s clam vs. clam in one epic battle after another.",
+  "quote": "Your clam is weak and silly, where mine is strong!",
+  "parent": "Johnny Bravo",
+  "parentYear": "1997-2004",
+  "parentIMDB": "0118360",
+  "rating": "TV-Y7",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "anime-style kid with spiky black hair and holding a glowing clam",
+  "alt1": "green anime-style kid shaking his fist",
+  "alt2": "first kid throwing his clam",
+  "alt3": "clam opening up to send out a pig",
+  "alt4": "another clam opening up to send out a penguin",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ],
+  "logoWidth": "180"
+}
