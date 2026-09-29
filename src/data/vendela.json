@@ -1,0 +1,27 @@
+{
+  "slug": "vendela",
+  "title": "Vendela",
+  "description": "Vendela speaks with special guests and experts about weekly news stories, health and wellness, and women’s issues.",
+  "quote": "What’s the deal?",
+  "parent": "Johnny Bravo",
+  "parentYear": "1997-2004",
+  "parentIMDB": "0118360",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Vendela, a blonde woman host",
+  "alt1": "Vendela with Johnny Bravo sitting on a chair on set",
+  "alt2": "an angry feminist holding a book",
+  "alt3": "Johnny Bravo covered in trash thrown from the audience",
+  "alt4": "Vendela interviewing Johnny Bravo who is tied up in her microphone wire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
