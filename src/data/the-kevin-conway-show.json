@@ -1,0 +1,29 @@
+{
+  "slug": "the-kevin-conway-show",
+  "title": "The Kevin Conway Show",
+  "description": "Kevin Conway hosts his controversial talk show, featuring dysfunctional families, quarreling partners, and people who claim extraordinary abilities.",
+  "parent": "Kenan & Kel",
+  "parentYear": "1996-2001",
+  "parentIMDB": "0115231",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Kevin Conway"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "host Kevin Conway",
+  "alt1": "Kevin Conway speaking to the audience",
+  "alt2": "Kevin Conway",
+  "alt3": "guest Ezekiel who is “full of problems”",
+  "alt4": "guest Kenan who is “best friend of psychic”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
