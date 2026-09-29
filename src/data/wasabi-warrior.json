@@ -1,0 +1,33 @@
+{
+  "slug": "wasabi-warrior",
+  "title": "Wasabi Warrior",
+  "description": "Five karate students living together in a world where they must outplay, outfight, and outwit one another. They’ll be playing for a brand-new Kamasaki water rider.",
+  "quote": "You’re about to enter a world of mental and physical challenges where you should always expect the unexpected.",
+  "parent": "Kickin’ It",
+  "parentYear": "2011-2015",
+  "parentIMDB": "1765622",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Bobby Wasabi",
+    "Rudy Gillespie"
+  ],
+  "labels": [
+    "reality competition",
+    "martial arts"
+  ],
+  "credit": "Disney XD",
+  "altHero": "Sensei Rudy and five karate kids up on a high ledge",
+  "alt1": "Sensei Bobby Wasabi",
+  "alt2": "two karate kids on platforms across from each other, connected by a bridge of a pool of mud",
+  "alt3": "karate kid clinging to a beam as heavy bags swing around him",
+  "alt4": "chef lifts cloche to reveal a bowl of worms, and a karate girl is terrified",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "fighters face off"
+  ]
+}
