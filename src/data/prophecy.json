@@ -1,0 +1,34 @@
+{
+  "slug": "prophecy",
+  "title": "Prophecy",
+  "description": "Minos, the king of Crete, makes a deal with Poseidon, granting Minos immortality so long as he fathers an heir. After his wife, Pas, gives birth to twins, Minos realizes his own prophecy is now a problem.",
+  "quote": "Oh, yes, yes. Very f**king vero.",
+  "parent": "Kaos",
+  "parentYear": "2024",
+  "parentIMDB": "8550732",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "starring": [
+    "Minos",
+    "Poseidon",
+    "Pas",
+    "Daedalus"
+  ],
+  "studio": "Furies Productions",
+  "labels": [
+    "drama"
+  ],
+  "credit": "Netflix",
+  "altHero": "Poseidon speaks with Minos",
+  "alt1": "Poseidonm, with his feet up on a desk, points finger guns at Minos",
+  "alt2": "Minos looks scared",
+  "alt3": "in a nursery, Pas kneels to speak with her baby twins; Minos stands nearby",
+  "alt4": "Minos hands his baby son over to Daedalus",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv dramas"
+  ]
+}
