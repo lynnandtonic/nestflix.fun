@@ -1,0 +1,28 @@
+{
+  "slug": "oh-that-lewis",
+  "title": "Oh That Lewis!",
+  "description": "Lewis is just your average kid, except trouble seems to follow him around everywhere.",
+  "quote": "Oh, that Lewis!",
+  "parent": "Kevin Spencer",
+  "parentYear": "1998-2005",
+  "parentIMDB": "0250876",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "The Comedy Network",
+  "altHero": "mom and dad hugging Lewis",
+  "alt1": "dad tripping on a roller skate in the living room",
+  "alt2": "mom carrying a tray of lemonades and is about to get kicked",
+  "alt3": "Lewis holding the roller skate",
+  "alt4": "dad dripping with lemonade, smoking a pipe",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ]
+}
