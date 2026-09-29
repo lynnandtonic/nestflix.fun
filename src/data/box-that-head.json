@@ -1,0 +1,28 @@
+{
+  "slug": "box-that-head",
+  "title": "Box That Head",
+  "description": "Contestants choose one of three boxes to be placed on their head. Two boxes contain pleasant things, and one, not so pleasant. If they survive four rounds of boxes, they win $50,000.",
+  "quote": "This is going “2” hurt.",
+  "parent": "Kickin’ It",
+  "parentYear": "2011-2015",
+  "parentIMDB": "1765622",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "game show"
+  ],
+  "credit": "Disney XD",
+  "altHero": "two women helpers holding a box labeled 2 over the head of a teen boy",
+  "alt1": "contestant talking to the host and looking at 3 numbered boxes",
+  "alt2": "host looking at what’s inside box #3",
+  "alt3": "box 2 being removed from contestant’s head and his face is covered in welts",
+  "alt4": "host making an “ew, gross” face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!"
+  ],
+  "logoWidth": "150"
+}
