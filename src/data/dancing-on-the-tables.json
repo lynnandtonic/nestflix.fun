@@ -1,0 +1,33 @@
+{
+  "slug": "dancing-on-the-tables",
+  "title": "Dancing on the Tables",
+  "description": "Table Town’s number one reality dance show! Includes the very special episode featuring the students of Table Town School telling the story of an underground dance-off.",
+  "quote": "Dance like all of Table Town’s watching.",
+  "parent": "Kiff",
+  "parentYear": "2023-Present",
+  "parentIMDB": "14877120",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Roy Fox"
+  ],
+  "studio": "Foxhole Productions",
+  "labels": [
+    "reality competition",
+    "dancing"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "kids standing amongst fog on stage",
+  "alt1": "kids dancing like Westside Story Jets",
+  "alt2": "kids peeking around a column in spotlight",
+  "alt3": "kids dressed like their principal",
+  "alt4": "kids holding hands and singing on a pile of garbage",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ],
+  "logoWidth": "250"
+}
