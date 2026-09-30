@@ -1,0 +1,25 @@
+{
+  "slug": "go-green-with-morreski",
+  "title": "Go Green with Morreski",
+  "description": "Morreski shows you how to make green power and green vodka from household waste.",
+  "quote": "All you need, 2 pound sugar, yeast, and garbage power furnace.",
+  "parent": "Life’s a Zoo",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1331751",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "starring": [
+    "Morreski"
+  ],
+  "labels": [
+    "science"
+  ],
+  "credit": "SBS",
+  "altHero": "Morreski the bear in a makeshift lab with a cauldron",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids science shows"
+  ]
+}
