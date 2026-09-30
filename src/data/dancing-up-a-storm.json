@@ -1,0 +1,31 @@
+{
+  "slug": "dancing-up-a-storm",
+  "title": "Dancing Up a Storm",
+  "description": "A dancing show hosted by the most sexy, beautiful, talented, and famous reality star in all of Saskatchewan.",
+  "parent": "Life’s a Zoo",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1331751",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "starring": [
+    "Rico"
+  ],
+  "labels": [
+    "reality competition",
+    "dancing"
+  ],
+  "credit": "SBS",
+  "altHero": "Rico the crocodile wearing a bowtie and holding a microphone",
+  "alt1": "Rico dancing under a disco ball",
+  "alt2": "Rico dancing, turning his head around toward the camera",
+  "alt3": "Rico dancing",
+  "alt4": "Rico holding Morreski who is holding a sign with a 10 score",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ],
+  "logoWidth": "290"
+}
