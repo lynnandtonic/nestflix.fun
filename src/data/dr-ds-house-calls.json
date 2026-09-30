@@ -1,0 +1,26 @@
+{
+  "slug": "dr-ds-house-calls",
+  "title": "Dr. D’s House Calls",
+  "description": "The doctor is in the house. Tune in for Dr. D spinning your favorite tunes.",
+  "quote": "Feeling sick? I got just the medicine to ease your disease with some beats to please.",
+  "parent": "Life’s a Zoo",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1331751",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "starring": [
+    "Dr. D"
+  ],
+  "labels": [
+    "variety",
+    "music"
+  ],
+  "credit": "SBS",
+  "altHero": "Dr. D, a penguin in sunglasses, spinning records",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "music variety"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "beautifully-challenged",
+  "title": "Beautifully Challenged",
+  "description": "Minou’s makeover show that attemps to transform even the most visually challenged into something, well, slightly closer to her.",
+  "quote": "Jesus, where do I begin?",
+  "parent": "Life’s a Zoo",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1331751",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "starring": [
+    "Minou"
+  ],
+  "labels": [
+    "reality",
+    "makeover"
+  ],
+  "credit": "SBS",
+  "altHero": "Minou, a chic black panther with a bob haircut",
+  "alt1": "Minou with pig Jake Oswald in a beauty chair",
+  "alt2": "smothering produc on Jake’s face",
+  "alt3": "Minou with Chi Chi the panda under a hair dryer",
+  "alt4": "Chi Chi now has a blonde bob haircut with bangs",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
