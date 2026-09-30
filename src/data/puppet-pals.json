@@ -1,0 +1,28 @@
+{
+  "slug": "puppet-pals",
+  "title": "Puppet Pals",
+  "description": "Join the happy Puppet Pals on the farm and learn about colors, numbers, and new words.",
+  "quote": "Hi kids! Today we are looking for something blue.",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "parentIMDB": "0278866",
+  "rating": "TV-Y",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "colorful Puppet Pals popping out of a barn and trees",
+  "alt1": "colorful Puppet Pals",
+  "alt2": "giant Puppet Pal, Mr. Sit Down, sitting near the farm, tiny Puppet Pals standing nearby",
+  "alt3": "Puppet Pals",
+  "alt4": "Mr. Sit Down",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "280"
+}
