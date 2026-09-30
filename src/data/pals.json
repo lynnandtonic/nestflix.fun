@@ -1,0 +1,28 @@
+{
+  "slug": "pals",
+  "title": "Pals",
+  "description": "A group of pals navigating life and love together in the city, with regular hangs at their favorite coffee shop.",
+  "quote": "That’s the spirit. Pretend you forgot all about him. Oh, um, unless you’ve really forgotten him already, that would be, like, a reason to see your doctor.",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "parentIMDB": "0278866",
+  "rating": "TV-PG",
+  "runtime": "8 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "three of the pals, a blonde woman, a brunette woman, and a brunette man",
+  "alt1": "brunette man posing in the doorway of the coffee shop",
+  "alt2": "brunette man and woman",
+  "alt3": "blonde woman looking unimpressed",
+  "alt4": "brunette man with a black eye",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": ""
+}
