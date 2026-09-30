@@ -1,0 +1,28 @@
+{
+  "slug": "space-passage",
+  "title": "Space Passage",
+  "description": "Commander Kane leads a starship team as they explore the galaxy in pursuit of new discoveries.",
+  "quote": "I need pod pilots. Let’s see… Dr. Nilock, Major Knacker, Mr. Fufafifii. And you, you’re expendable.",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "parentIMDB": "0278866",
+  "rating": "TV-PG",
+  "runtime": "7 seasons",
+  "labels": [
+    "sci-fi",
+    "space"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "Commander Kane and a member of the space crew",
+  "alt1": "Commander Kane smiling",
+  "alt2": "spaceship firing lasers in space",
+  "alt3": "Commander Kane worried as an alarm goes off",
+  "alt4": "the crew losing their balance as the ship tilts",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ]
+}
