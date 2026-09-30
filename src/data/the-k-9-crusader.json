@@ -1,0 +1,32 @@
+{
+  "slug": "the-k-9-crusader",
+  "title": "The K-9 Crusader",
+  "description": "The K-9 Crusader is a masked vigilante who uses his detective skills and cool gadgets to take down villains.",
+  "quote": "Sorry, I work alone.",
+  "parent": "Krypto the Superdog",
+  "parentYear": "2005-2006",
+  "parentIMDB": "0437018",
+  "rating": "G",
+  "runtime": "1h 34m",
+  "starring": [
+    "Thundermutt"
+  ],
+  "labels": [
+    "action",
+    "superhero"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "superhero, the K-9 Crusader, a dog wearing a mask and cape",
+  "alt1": "boomerang on a rope flying through the air",
+  "alt2": "villain is tied up and falling down, the K-9 Crusader in the background",
+  "alt3": "the K-9 Crusader talking with a young puppy",
+  "alt4": "the puppy trying to convince the K-9 Crusader to take him along",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes"
+  ],
+  "logoWidth": "350"
+}
