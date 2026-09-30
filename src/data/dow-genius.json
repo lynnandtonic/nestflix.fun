@@ -1,0 +1,30 @@
+{
+  "slug": "dow-genius",
+  "title": "Dow Genius",
+  "description": "Tune in to the Dow Genius, who teaches viewers about the stock market and predicts—often unsuccessfully—which stocks are the best investments.",
+  "quote": "So, we had a down day in the market. Do we get scared? No! We go to Brazil where they are cornering the bird flu vaccine market.",
+  "parent": "King of the Hill",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0118375",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "labels": [
+    "talk show",
+    "finance"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "the Dow Genius in his chaoticly decorated studio",
+  "alt1": "Dow Genius cutting a big banner of a crying emoji face with giant scissors",
+  "alt2": "Dow Genius hitting his head with a big mallet",
+  "alt3": "Dow Genius on a call with Bill from Texas",
+  "alt4": "Dow Genius hitting buttons to make colored spotlights show up",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows",
+    "new on nestflix"
+  ],
+  "logoWidth": "230"
+}
