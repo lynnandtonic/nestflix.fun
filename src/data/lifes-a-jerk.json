@@ -1,0 +1,36 @@
+{
+  "slug": "lifes-a-jerk",
+  "title": "Life’s a Jerk",
+  "description": "For a working class suburban dad, life can sometimes be a real jerk.",
+  "quote": "Who's your daddy?",
+  "parent": "Life’s a Zoo",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1331751",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "starring": [
+    "Jake Oswald",
+    "Ray",
+    "Morreski",
+    "Rico",
+    "Minou",
+    "Chi Chi"
+  ],
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "SBS",
+  "altHero": "Jake the pig wearing a blonde wig and reading the newspaper",
+  "alt1": "Jake at the kitchen table with Chi Chi who has just made a birthday cake",
+  "alt2": "Rico walking in the door carrying lots of shopping bags",
+  "alt3": "Morreski holding some paper and an alcohol bottle",
+  "alt4": "Minou wearing a long wig and looking in the fridge",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "230"
+}
