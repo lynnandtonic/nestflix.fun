@@ -1,0 +1,27 @@
+{
+  "slug": "chewing-the-fat-with-chi-chi",
+  "title": "Chewing the Fat with Chi Chi",
+  "description": "Learn to cook large dishes with Chi Chi because soup can serve twelve, or one if you’re hungry like her.",
+  "quote": "Tastes awesome, Chi Chi!",
+  "parent": "Life’s a Zoo",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1331751",
+  "rating": "Unrated",
+  "runtime": "1 episode",
+  "starring": [
+    "Chi Chi"
+  ],
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "SBS",
+  "altHero": "Chi Chi, a panda, in her kitchen",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
