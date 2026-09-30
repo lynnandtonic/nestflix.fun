@@ -1,0 +1,21 @@
+{
+  "slug": "the-ghost-car",
+  "title": "The Ghost Car",
+  "description": "This used to be Judy’s car, and what a swell car it was. Down right nifty for going to sock hops and soda parlors. But that was all before Judy’s keen little coupe became… The Ghost Car!",
+  "parent": "Kim Possible",
+  "parentYear": "2002-2007",
+  "parentIMDB": "0278866",
+  "rating": "PG-13",
+  "runtime": "1h 48m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "Disney–ABC Domestic Television",
+  "altHero": "car is totally crumpled and destroyed",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
