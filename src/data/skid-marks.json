@@ -1,0 +1,32 @@
+{
+  "slug": "skid-marks",
+  "title": "Skid Marks",
+  "description": "A raucous romp with big bikes and beautiful babes.",
+  "quote": "You're nothing but a skid mark on the underpants of life!",
+  "parent": "Love and Death on Long Island",
+  "parentYear": "1997",
+  "parentIMDB": "0119574",
+  "rating": "PG-13",
+  "runtime": "1h 37m",
+  "starring": [
+    "Ronnie Bostock"
+  ],
+  "labels": [
+    "action",
+    "comedy"
+  ],
+  "credit": "Lions Gate Films",
+  "altHero": "guy riding a motorcycle on a dirt road",
+  "alt1": "two teens waiting, one is looking through a telescope",
+  "alt2": "guy flying off his motorcycle",
+  "alt3": "biker guy covered in dirt and manure",
+  "alt4": "teens taunting the biker",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ],
+  "logoWidth": "240"
+}
