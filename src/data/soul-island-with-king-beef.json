@@ -1,0 +1,28 @@
+{
+  "slug": "soul-island-with-king-beef",
+  "title": "Soul Island with King Beef",
+  "description": "King Beef visits Soul Island, where he plans to rock (musically, and with the ladies). But first, he must dance!",
+  "quote": "Go King Beef!",
+  "parent": "Martin",
+  "parentYear": "1992-1997",
+  "parentIMDB": "0103488",
+  "rating": "R",
+  "runtime": "1h 43m",
+  "starring": [
+    "King Beef"
+  ],
+  "labels": [
+    "comedy",
+    "blaxploitation"
+  ],
+  "credit": "Fox",
+  "altHero": "King Beef dancing with a handful of ladies",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ],
+  "logoWidth": "180"
+}
