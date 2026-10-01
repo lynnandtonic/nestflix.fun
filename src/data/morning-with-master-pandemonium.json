@@ -1,0 +1,27 @@
+{
+  "slug": "morning-with-master-pandemonium",
+  "title": "Morning with Master Pandemonium",
+  "SEO": "Modok",
+  "description": "Spend your mornings with Master Pandemonium as he interviews special guests and shares his thoughts of the day.",
+  "quote": "Shut up! It’s fine. It’s a demon!",
+  "parent": "M.O.D.O.K.",
+  "parentYear": "2021",
+  "parentIMDB": "9811118",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Master Pandemonium"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Marvel Television",
+  "altHero": "Master Pandemonium, a man wearing a mask with horns, who has two demon hands",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": "220"
+}
