@@ -1,0 +1,35 @@
+{
+  "slug": "war-of-the-wasps",
+  "title": "War of the Wasps",
+  "description": "Garth Marenghi’s allegorical rendering of a potential future war with the Dutch.",
+  "quote": "This is for every time I’ve tried to drink a can of cider in the park.",
+  "parent": "Man to Man With Dean Learner",
+  "parentYear": "2006",
+  "parentIMDB": "0476614",
+  "rating": "R",
+  "runtime": "1h 53m",
+  "starring": [
+    "Garth Marenghi",
+    "Dean Learner"
+  ],
+  "labels": [
+    "sci-fi",
+    "action",
+    "war"
+  ],
+  "credit": "Channel 4",
+  "altHero": "giant wasp",
+  "alt1": "Bug Killah! missile",
+  "alt2": "pilot screaming as wasps attack inside his cockpit",
+  "alt3": "Dean Learner as military general",
+  "alt4": "Garh Marenghi as pilot with black goo on his face",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films",
+    "new on nestflix"
+  ],
+  "logoWidth": "220"
+}
