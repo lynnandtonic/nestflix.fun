@@ -1,0 +1,31 @@
+{
+  "slug": "the-glowing-minds-of-dennis-de-guim",
+  "title": "The Glowing Minds of Dennis de Guim",
+  "description": "A story of love and friendship between a human, Jack, and a Botricon ship’s chief pleasure port, who join together in a quest for courage, wisdom and, above all, dignity.",
+  "quote": "Mourn not my passing, for we Botricons do not fear death.",
+  "parent": "Man to Man With Dean Learner",
+  "parentYear": "2006",
+  "parentIMDB": "0476614",
+  "rating": "PG-13",
+  "runtime": "2h 32m",
+  "starring": [
+    "Glynn Nimron"
+  ],
+  "labels": [
+    "sci-fi"
+  ],
+  "credit": "Channel 4",
+  "altHero": "Glynn Nimron, leaning in the grass, next to Jack; the sky is an orange red",
+  "alt1": "Nimron’s chin is expelling liquid into a glass",
+  "alt2": "Jack drinks the liquid",
+  "alt3": "Nimron has died",
+  "alt4": "Jack looks up at the heavens",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films",
+    "new on nestflix"
+  ]
+}
