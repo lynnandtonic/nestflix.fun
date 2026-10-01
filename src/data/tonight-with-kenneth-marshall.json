@@ -1,0 +1,31 @@
+{
+  "slug": "tonight-with-kenneth-marshall",
+  "title": "Tonight with Kenneth Marshall",
+  "description": "Commander Kenneth Marshall’s nightly broadcast delivering news and progress on the Niflheim project.",
+  "parent": "Mickey 17",
+  "parentYear": "2025",
+  "parentIMDB": "12299608",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "starring": [
+    "Kenneth Marshall"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "Warner Bros. Pictures",
+  "altHero": "Kenneth Marshall smiling with a microphone",
+  "alt1": "Marshall talking with scientists sitting nearby",
+  "alt2": "Marshall with a Niflheim rock",
+  "alt3": "Marshall singing",
+  "alt4": "Marshall singing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows",
+    "new on nestflix"
+  ],
+  "logoWidth": "180"
+}
