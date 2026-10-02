@@ -1,0 +1,24 @@
+{
+  "slug": "smarty-pants",
+  "title": "Smarty Pants",
+  "description": "Contestants compete in a trivia challenge to win big prizes and the title of Smarty Pants.",
+  "quote": "The correct answer is banana cream.",
+  "parent": "Modern Family",
+  "parentYear": "2009-2020",
+  "parentIMDB": "1442437",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "the set of Smarty Pants with the host and three contestants",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ],
+  "logoWidth": "200"
+}
