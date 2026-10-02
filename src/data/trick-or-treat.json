@@ -1,0 +1,28 @@
+{
+  "slug": "trick-or-treat",
+  "title": "Trick or Treat",
+  "description": "The most popular game show in America. Contestants take turns asking trick questions. If you manage to trick the host, you will be awarded a pumpkin point. The player with the most pumpkin points by the end of the game wins.",
+  "parent": "Mighty Morphin Power Rangers",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106064",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "game show",
+    "teens"
+  ],
+  "credit": "Fox",
+  "altHero": "host dressed as Dracula",
+  "alt1": "two teen contestants in Hallowen costumes, a boy in prisoner costume, and a girl in a princess costume",
+  "alt2": "girl screaming, strapped to a wheel and spinning around",
+  "alt3": "boy with Dracula host and a woman helper dressed as a witch",
+  "alt4": "boy climing a big rope spider web retrieving fake bugs",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ],
+  "logoWidth": "150"
+}
