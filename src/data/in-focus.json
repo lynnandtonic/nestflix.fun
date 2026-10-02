@@ -1,0 +1,30 @@
+{
+  "slug": "in-focus",
+  "title": "In Focus",
+  "description": "Reporting from San Francisco, an unfiltered look at the news, the people behind the news, and the stories behind the headlines.",
+  "parent": "Monk",
+  "parentYear": "2002-2009",
+  "parentIMDB": "0312172",
+  "rating": "TV-14",
+  "runtime": "4 seasons",
+  "starring": [
+    "James Novak"
+  ],
+  "labels": [
+    "documentary"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "host James Novak",
+  "alt1": "Novak on set with a screen behind showing an SFPD badge",
+  "alt2": "private detective, Adrian Monk",
+  "alt3": "Marci Maven",
+  "alt4": "Harold Krenshaw",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "documentary series"
+  ],
+  "logoWidth": "270"
+}
