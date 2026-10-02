@@ -1,0 +1,24 @@
+{
+  "slug": "milly-and-the-menninkainen",
+  "title": "Milly and the Menninkäinen",
+  "seo": "Menninkainen",
+  "description": "Milly’s adventures with a menninkäinen, a goblin of Finnish folklore, who loves treasure and riddles.",
+  "quote": "I’m gonna eat your soul!",
+  "parent": "Milo Murphy’s Law",
+  "parentYear": "2016-2019",
+  "parentIMDB": "5439480",
+  "rating": "TV-Y7",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Milly, a young girl, and Menninkäinen, a little goblin",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "320"
+}
