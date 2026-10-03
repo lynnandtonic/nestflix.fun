@@ -1,0 +1,32 @@
+{
+  "slug": "villains-always-win",
+  "title": "Villains Always Win!",
+  "description": "Villains compete in challenges for a coveted prize, including the best evil laugh, growing evil eyebrows, and singing a villain national anthem. So villainous!",
+  "quote": "Four thousand points to the best evil laugh!",
+  "parent": "Odd Squad",
+  "parentYear": "2014-2026",
+  "parentIMDB": "3900614",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Game Show Gary",
+    "Studio Audience"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "PBS Kids",
+  "altHero": "Game Show Gary",
+  "alt1": "the prize for the show: Super-Strength-Inator",
+  "alt2": "Game Show Gary and contestants",
+  "alt3": "The Utensiler growing evil eyebrows",
+  "alt4": "Olympia of Odd Squad looking confused",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ],
+  "logoWidth": "230"
+}
