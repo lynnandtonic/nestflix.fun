@@ -1,0 +1,30 @@
+{
+  "slug": "the-bennet-buccaneer-show",
+  "title": "The Bennet Buccaneer Show",
+  "description": "Buccaneers visit women to demonstrate the magic of Bennet cosmetics, available at drug stores and beauty salons everywhere.",
+  "quote": "Romantique will help you capture your buccaneer.",
+  "parent": "Perry Mason",
+  "parentYear": "1957-1966",
+  "parentIMDB": "0050051",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "producer": "Harlan Kean",
+  "labels": [
+    "reality",
+    "beauty"
+  ],
+  "credit": "CBS Television",
+  "altHero": "man dressed as a pirate",
+  "alt1": "pirate visiting a woman who is looking into a hand mirror",
+  "alt2": "woman looks distraught",
+  "alt3": "pirate man",
+  "alt4": "pirate touches the woman with his hook hand and she has a new haircut and a face full of makeup",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "beauty and makeover"
+  ],
+  "logoWidth": "340"
+}
