@@ -1,0 +1,28 @@
+{
+  "slug": "dancing-with-the-bears",
+  "title": "Dancing with the Bears",
+  "description": "Which bear and human partnership will create the best dance team? Tune in for amazing dance routines, exciting escape attempts, and occasional celebrity judge maulings.",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-Present",
+  "parentIMDB": "0852863",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "studio": "Ferb TV",
+  "labels": [
+    "reality competition",
+    "dancing"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "bear dancing with Vance Ward",
+  "alt1": "Vance Ward making a run for it",
+  "alt2": "bear pulling Vance back onto the dance floor",
+  "alt3": "Bob and Junebug, a man and bear, who are sitting out this round",
+  "alt4": "beat-up celebrity judge Sherman from the ’80s band, Love Händel",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ]
+}
