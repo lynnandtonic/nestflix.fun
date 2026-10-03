@@ -1,0 +1,31 @@
+{
+  "slug": "dr-feelbetter",
+  "title": "Dr. Feelbetter",
+  "description": "From the Super Secret Spy Network, host and evil scientist Dr. Feelbetter invites guests to work out their differences.",
+  "quote": "I’m so sorry I hurt you, when I wasn’t actually trying to hurt you.",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-Present",
+  "parentIMDB": "0852863",
+  "rating": "TV-14",
+  "runtime": "3 seasons",
+  "starring": [
+    "Dr. Feelbetter"
+  ],
+  "studio": "SSSN",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Dr. Feelbetter, a bald scientist with glasses, talking into a microphone in front of the studio audience",
+  "alt1": "Dr. Feelbetter",
+  "alt2": "Dr. Feelbetter kneeling to talk with Perry the platypus",
+  "alt3": "Dr. Doofenshmirtz grimacing, finding out that Peter the panda is backstage",
+  "alt4": "Peter lifting up a chair to throw it",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
