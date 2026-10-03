@@ -1,0 +1,31 @@
+{
+  "slug": "team-improbable",
+  "title": "Team Improbable",
+  "description": "The first film made with the PF 5000 Animatron. Team Improbable (Multi-Man, Ferb Guy, The Rainbow, Belch Man, and HanumanMan) take on Control Freak.",
+  "quote": "You’ll never get away with this! You are so busted!",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-Present",
+  "parentIMDB": "0852863",
+  "rating": "Unrated",
+  "runtime": "1h 23m",
+  "studio": "Phineas & Ferb Studios",
+  "labels": [
+    "action",
+    "superheroes",
+    "animation"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Team Improbable",
+  "alt1": "Team Improbable on the streets facing down a giant Control Freak",
+  "alt2": "Multi-Man, Ferb Guy, and HanumanMan",
+  "alt3": "Control Freak shooting fire out of her eyes",
+  "alt4": "Multi-Man and Ferb Guy burnt and on fire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "super team-ups"
+  ],
+  "logoWidth": "270"
+}
