@@ -1,0 +1,35 @@
+{
+  "slug": "the-swamp-monster-of-danville",
+  "title": "The Swamp Monster of Danville",
+  "description": "An amateur short film that found popularity as a viral internet meme.",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-2015",
+  "parentIMDB": "0852863",
+  "rating": "Unrated",
+  "runtime": "3m",
+  "starring": [
+    "Candace Flynn"
+  ],
+  "director": [
+    "Phineas Flynn",
+    "Ferb Fletcher"
+  ],
+  "labels": [
+    "amateur",
+    "comedy"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "shoe stomping on the model house",
+  "alt1": "model house and Godzilla figure",
+  "alt2": "Candace screaming",
+  "alt3": "globe hanging from a string",
+  "alt4": "globe exploding",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ],
+  "logoWidth": "230"
+}
