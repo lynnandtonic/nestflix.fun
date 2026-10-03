@@ -1,0 +1,30 @@
+{
+  "slug": "car-driving-trees-of-egstappa",
+  "title": "Car-driving Trees of Egstappa",
+  "description": "A small town is terrorized by car-driving trees. So scary you’ll want to hide in your popcorn bucket.",
+  "quote": "Wait a second. This is a picture of a young woman, and you are a a man-eating, car-driving tree!",
+  "parent": "Ned’s Newt",
+  "parentYear": "1997-1999",
+  "parentIMDB": "0163952",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "starring": [
+    "Flan Flannigan"
+  ],
+  "labels": [
+    "horror"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "tree with a sinister face driving a car",
+  "alt1": "cop looking at a photo with a flashlight",
+  "alt2": "cop looks shocked",
+  "alt3": "tree in the driver seat",
+  "alt4": "tree reaching out to grab the cop",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
