@@ -1,0 +1,28 @@
+{
+  "slug": "space-adventure",
+  "title": "Space Adventure",
+  "description": "Captain Dirk Mortenson and the crew of the U.S.S. Minotaur travel the galaxy in search of knowledge and to eliminate threats.",
+  "quote": "Execute the Galaxy-famous Mortenson Victory Flyby!’",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-Present",
+  "parentIMDB": "0852863",
+  "rating": "TV-PG",
+  "runtime": "7 seasons",
+  "labels": [
+    "sci-fi"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "spaceship U.S.S. Minotaur",
+  "alt1": "Captain Dirk Mortenson and Lieutenant Zarna",
+  "alt2": "green space filled with giant space bugs",
+  "alt3": "the crew in wolf costumes, stealing ship plans",
+  "alt4": "the crew scared as the ship takes on damage",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ],
+  "logoWidth": "270"
+}
