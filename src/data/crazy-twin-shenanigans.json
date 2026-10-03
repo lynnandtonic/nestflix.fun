@@ -1,0 +1,29 @@
+{
+  "slug": "crazy-twin-shenanigans",
+  "title": "Crazy Twin Shenanigans",
+  "description": "Where does one end and the other begin? Gina and Tina are getting into trouble near and far. The twins aren’t crazy, the shenanigans are!",
+  "quote": "You insulted Bryant when you were wearing my sweater!",
+  "parent": "Pepper Ann",
+  "parentYear": "1997-2000",
+  "parentIMDB": "0128890",
+  "rating": "TV-G",
+  "runtime": "8 seasons",
+  "labels": [
+    "sitcom",
+    "teens"
+  ],
+  "credit": "Walt Disney Television Animation",
+  "altHero": "Gina and Tina, two blonde teen twins, eating sandwiches",
+  "alt1": "Gina talking and pointing at Tina",
+  "alt2": "Tina looking sad, holding up a sweatshirt",
+  "alt3": "Gina and Tina sitting back to back in an attic",
+  "alt4": "Gina and Tina sitting on the bed, Tina is holding a cello",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "tv for teens"
+  ]
+}
