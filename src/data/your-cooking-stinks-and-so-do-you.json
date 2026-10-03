@@ -1,0 +1,34 @@
+{
+  "slug": "your-cooking-stinks-and-so-do-you",
+  "title": "Your Cooking Stinks & So Do You",
+  "description": "Buford Van Stomm, world renowned chef, winner of the coveted Palme de Mouton, and runner-up in the Tri-State chili cook-off critiques the culinary stylings of other master chefs.",
+  "quote": "Yeah, people need to be ‘avant-guarded‘ from your food!",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-Present",
+  "parentIMDB": "0852863",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Buford Van Stomm"
+  ],
+  "studio": "Ferb TV",
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Buford Van Stomm, a short chef with a mean face",
+  "alt1": "Van Stomm yelling about a sandwich in the kitchen with chef André Guilbaud",
+  "alt2": "Guilbaud crying in a chair",
+  "alt3": "Van Stomm pouring trash onto Guilbaud’s dish",
+  "alt4": "Van Stomm sweeping up a counter of food with a broom",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ],
+  "logoWidth": "170"
+}
