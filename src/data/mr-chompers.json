@@ -1,0 +1,23 @@
+{
+  "slug": "mr-chompers",
+  "title": "Mr. Chompers",
+  "description": "A sarcastic, milk-drinking alien crash lands in suburbia and moves in with a human, Brad, and his family.",
+  "parent": "Permanent Midnight",
+  "parentYear": "1998",
+  "parentIMDB": "0120788",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Artisan Entertainment",
+  "altHero": "Mr. Chompers holding a glass of milk in the Kitchen with Brad",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ],
+  "logoWidth": "350"
+}
