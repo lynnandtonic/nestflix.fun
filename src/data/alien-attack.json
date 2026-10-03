@@ -1,0 +1,22 @@
+{
+  "slug": "alien-attack",
+  "title": "Alien Attack!",
+  "description": "Aliens attack in this comedy based off a viral video meme.",
+  "quote": "Aha! Meesa bleep-blorp. Take me to your leader. Glip-glap. Ha ha! Blorp me up! Blorpity-blorp-blorp! Ha ha!",
+  "parent": "OK K.O.! Let’s Be Heroes",
+  "parentYear": "2017-2019",
+  "parentIMDB": "6965802",
+  "rating": "PG-13",
+  "runtime": "1h 23m",
+  "labels": [
+    "comedy"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "handsome alien in a spaceship window",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ]
+}
