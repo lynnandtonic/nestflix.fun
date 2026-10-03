@@ -1,0 +1,38 @@
+{
+  "slug": "were-about-to-fall-in-love-for-real",
+  "title": "We’re About to Fall in Love for Real",
+  "description": "High schoolers in the performing arts get to know each other, and in the end they either couple up or all stay single.",
+  "parent": "Oshi no Ko",
+  "parentYear": "2023-Present",
+  "parentIMDB": "21030032",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "starring": [
+    "Yuki Sumi",
+    "Akane Kurokawa",
+    "Nobuyuki",
+    "Kumano",
+    "Kengo Morimoto",
+    "Mem-Cho",
+    "Aqua Hoshino"
+  ],
+  "labels": [
+    "reality",
+    "dating",
+    "teens"
+  ],
+  "credit": "Doga Kobo",
+  "altHero": "the cast",
+  "alt1": "Mem-Cho and Aqua",
+  "alt2": "the cast talking to Yuki, who is sitting by the window",
+  "alt3": "Yuki and Nobuyuki talking on a rooftop",
+  "alt4": "Yuki, Nobuyuki, and Mem-Cho looking surprised",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows",
+    "tv for teens"
+  ]
+}
