@@ -1,0 +1,30 @@
+{
+  "slug": "super-pikachu",
+  "title": "Super Pikachu",
+  "seo": "pokemon",
+  "description": "Libre Pikachu and his ninja companions try to claim Pikachuland as his. Can the majesty of Super Pikachu’s unrelenting courage, along with the bravery of the townsfolk, save their home?",
+  "quote": "We do have the will to protect our town together! It’s called the power of unity!",
+  "parent": "Pokémon",
+  "parentYear": "1997–2023",
+  "parentIMDB": "0168366",
+  "rating": "G",
+  "runtime": "1h 43m",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "TV Tokyo",
+  "altHero": "Super Pikachu",
+  "alt1": "Libre Pikachu and his ninja companions in a pink convertible",
+  "alt2": "ninjas tying up townsfolk",
+  "alt3": "Super Pikachu confronting Libre Pikachu",
+  "alt4": "Super Pikachu jumping off a cliff with an explosion behind him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes"
+  ],
+  "logoWidth": "220"
+}
