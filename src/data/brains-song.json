@@ -1,0 +1,35 @@
+{
+  "slug": "brains-song",
+  "title": "Brain’s Song",
+  "description": "The tragic tale of Brain Piccadilly, a former arena football player suffering from a bad case of stomach cramps, as told by his longtime friend and teammate, Meadowlark Lemon.",
+  "quote": "I only hope nothing of tragic proportions befalls me whilst I play my beloved pastime: football.",
+  "parent": "Pinky and the Brain",
+  "parentYear": "1995-1998",
+  "parentIMDB": "0112123",
+  "rating": "PG",
+  "runtime": "1h 30m",
+  "starring": [
+    "Brain Piccadilly",
+    "Pinky Van Patten"
+  ],
+  "labels": [
+    "drama",
+    "biography",
+    "sports"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Brain Piccadilly, mouse with curly red hair, holding a lemon that looks like a football",
+  "alt1": "Brain talking with Meadowlark Lemon, a mouse on stilts",
+  "alt2": "Brain and Meadowlark eating pizza",
+  "alt3": "Brain with Coach Bare Bottoms",
+  "alt4": "Brain in bed sick",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sports films and series",
+    "dramatic biopics"
+  ],
+  "logoWidth": "230"
+}
