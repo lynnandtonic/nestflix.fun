@@ -1,0 +1,28 @@
+{
+  "slug": "thats-the-norm",
+  "title": "That’s the Norm",
+  "description": "Norm is a robot from space, Suzy Johnson is a little girl. They come from totally different worlds. If you think they’re worlds apart, you’re misinformed. Though it might seem unusual, that’s the Norm.",
+  "quote": "Space is cold and unforgiving, like my father!",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-Present",
+  "parentIMDB": "0852863",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "studio": "Ferb TV",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Norm the robot clutching his knee, Suzy looks on disapprovingly",
+  "alt1": "Norm and Suzy in a bedroom",
+  "alt2": "Suzy giving Norm a makeover",
+  "alt3": "Suzy by what looks like a body covered by a sheet, Norm is holding a pitcher of lemonade",
+  "alt4": "Norm hiding in the bushes, he and Suzy are winking and giving finger guns",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
