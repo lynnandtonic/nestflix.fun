@@ -1,0 +1,27 @@
+{
+  "slug": "gauntlet-of-humiliation",
+  "title": "Gauntlet of Humiliation",
+  "description": "The world’s favorite game show. Answer correctly or get slimed, or dropped into the mouth of a giant gorilla with delicious Australian sticky sauce in his mouth. Make it across the hot lake of cheese. Maybe the host will eat you.",
+  "quote": "What’s the most educational fart show on TV?",
+  "parent": "Pig Goat Banana Cricket",
+  "parentYear": "2015-2017",
+  "parentIMDB": "3218114",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "game show"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "fat host of the show",
+  "alt1": "contestant being covered in slime",
+  "alt2": "contestant hanging from a hook above a gorilla’s mouth full of sticky sauce",
+  "alt3": "contestant being smashed with a giant hammer",
+  "alt4": "contestants being presented the hot lake of cheese",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!"
+  ]
+}
