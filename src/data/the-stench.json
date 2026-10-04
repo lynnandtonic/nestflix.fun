@@ -1,0 +1,23 @@
+{
+  "slug": "the-stench",
+  "title": "The Stench",
+  "description": "A mysterious stench is blanketing the Earth, and whatever it is, it’s getting worse.",
+  "quote": "My nose is burning!",
+  "parent": "Popcorn",
+  "parentYear": "1991",
+  "parentIMDB": "0102690",
+  "rating": "PG-13",
+  "runtime": "1h 32m",
+  "labels": [
+    "horror",
+    "comedy"
+  ],
+  "credit": "Studio Three Film",
+  "altHero": "woman in lab coat pushing an “airlock off” button",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
