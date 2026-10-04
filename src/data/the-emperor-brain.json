@@ -1,0 +1,36 @@
+{
+  "slug": "the-emperor-brain",
+  "title": "The Emperor Brain",
+  "description": "They experimented on him, but they could not destory him.",
+  "quote": "I shall rule the world!",
+  "parent": "Pinky and the Brain",
+  "parentYear": "1995-1998",
+  "parentIMDB": "0112123",
+  "rating": "PG",
+  "runtime": "10h",
+  "starring": [
+    "Brain"
+  ],
+  "director": [
+    "Brain"
+  ],
+  "studio": "Brain Studios",
+  "labels": [
+    "drama",
+    "silent"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Brain, a mouse in a cage, with his arms raised",
+  "alt1": "a hand reaching for Brain who looks scared",
+  "alt2": "Brain attached to an electric testing chair",
+  "alt3": "Brain on a camel approaching a tent with a woman lounging on a couch",
+  "alt4": "Brain with his hand raised and eyes closed",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age"
+  ],
+  "logoWidth": "200"
+}
