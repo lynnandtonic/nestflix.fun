@@ -1,0 +1,27 @@
+{
+  "slug": "katt-karr",
+  "title": "Katt Karr",
+  "description": "The inexplicable story of a man whose car, for some reason looks a lot like a cat. Roger Doofenshmirtz, a politician of above-average attractiveness is on a never-ending crusade against the sinister, evil, cheesy smelling, and for some reason, dressed like a mouse, Professor Nibbles.",
+  "quote": "Saucer of milk? Okay, I don’t see how that’s gonna help, but you’re the car.",
+  "parent": "Phineas and Ferb",
+  "parentYear": "2007-Present",
+  "parentIMDB": "0852863",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "labels": [
+    "action"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "black car that looks like a cat",
+  "alt1": "Roger Doofenshmirtz kicking in a door",
+  "alt2": "two buttons in the car: saucer of milk and puss ’n’ boots",
+  "alt3": "Katt Karr jumping off a ramp",
+  "alt4": "Katt Karr chasing Professor Nibbles on a motorcycle",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv"
+  ]
+}
