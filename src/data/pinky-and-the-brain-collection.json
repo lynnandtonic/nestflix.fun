@@ -1,0 +1,36 @@
+{
+  "slug": "pinky-and-the-brain-collection",
+  "title": "Pinky and the Brain Collection",
+  "description": "Six classic movies from the drama and comedy duo, Pinky and the Brain, from Hollywood’s silent film era.",
+  "parent": "Pinky and the Brain",
+  "parentYear": "1995-1998",
+  "parentIMDB": "0112123",
+  "rating": "PG",
+  "runtime": "8h 23m",
+  "starring": [
+    "Pinky",
+    "Brain"
+  ],
+  "producer": "Hal Slug",
+  "labels": [
+    "collection",
+    "drama",
+    "comedy",
+    "silent"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Pinky and the Brain",
+  "alt1": "Pinky and the Brain in Gone Fishin’",
+  "alt2": "Pinky and the Brain Get Squished",
+  "alt3": "Pinky and the Brain Meet Bigfoot",
+  "alt4": "Pinky and the Brain Get Squished Again",
+  "alt5": "Pinky and the Brain Explode!",
+  "alt6": "Pinky and the Brain in the Day the Clowns Cried",
+  "layout": "movie.pug",
+  "submovies": 6,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age"
+  ]
+}
