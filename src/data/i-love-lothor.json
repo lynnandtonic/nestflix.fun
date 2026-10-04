@@ -1,0 +1,34 @@
+{
+  "slug": "i-love-lothor",
+  "title": "I Love Lothor",
+  "description": "A sappy sitcom about Lothor and the women who love him. It’s so mesmerizing, you’ll fall in love with him too.",
+  "quote": "They grow up so quickly don’t they?",
+  "parent": "Power Rangers Ninja Storm",
+  "parentYear": "2003-2004",
+  "parentIMDB": "0312189",
+  "rating": "Unrated",
+  "runtime": "3 episodes",
+  "starring": [
+    "Lothor"
+  ],
+  "director": [
+    "Mr. Ratwell"
+  ],
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "ABC Kids",
+  "altHero": "black and white shot of Lothor smiling",
+  "alt1": "blonde woman looking scared",
+  "alt2": "blonde woman kissing Lothor on the cheek",
+  "alt3": "brunette woman in pearls sitting on a couch",
+  "alt4": "Lothor reading evil alien bedtime stories to the two women",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": ""
+}
