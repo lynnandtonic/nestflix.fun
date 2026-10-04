@@ -1,0 +1,33 @@
+{
+  "slug": "youre-the-one",
+  "title": "You’re The One",
+  "description": "A talent show where ordinary people compete for recording contracts, trips, and all sorts of really amazing prizes.",
+  "quote": "Simon says, ‘Next!’",
+  "parent": "Postman Pat: The Movie",
+  "parentYear": "2014",
+  "parentIMDB": "2062622",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": [
+    "Simon Cowbell"
+  ],
+  "labels": [
+    "reality competition",
+    "singing",
+    "dancing"
+  ],
+  "credit": "Icon Film Distribution",
+  "altHero": "judge Simon Cowbell",
+  "alt1": "blonde boy contestant singing",
+  "alt2": "brunette boy contestant dancing",
+  "alt3": "train conductor contestant DJing",
+  "alt4": "postman contestant singing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ],
+  "logoWidth": "300"
+}
