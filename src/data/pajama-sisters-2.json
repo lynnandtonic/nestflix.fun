@@ -1,0 +1,22 @@
+{
+  "slug": "pajama-sisters-2",
+  "title": "Pajama Sisters 2",
+  "description": "The sequel to the popular chick flick. The sisters are back and they’re just gonna sit around talking about their feelings, fully clothed.",
+  "quote": "Why doesn’t he like me?",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "PG",
+  "runtime": "1h 38m",
+  "labels": [
+    "drama"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "two women wearing pajama sets and having a pillow fight on a bed",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ]
+}
