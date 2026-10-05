@@ -1,0 +1,24 @@
+{
+  "slug": "destroy-destroy-destroy",
+  "title": "Destroy! Destroy! Destroy!",
+  "description": "The world’s gnarliest crash pits and explosions.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "action",
+    "sports",
+    "cars"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "car driving off a cliff and exploding",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv",
+    "sports films and series"
+  ]
+}
