@@ -1,0 +1,27 @@
+{
+  "slug": "fat-heat",
+  "title": "Fat Heat",
+  "description": "A man on the run has got something to prove, but the authorities are closing in.",
+  "quote": "He’s tried everything!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "PG-13",
+  "runtime": "1h 45m",
+  "labels": [
+    "action"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "protagonist, a fat man with scraggly beard, riding a motorcycle with a blonde woman on the back",
+  "alt1": "bellhop at a hotel",
+  "alt2": "protagonist talking with blonde woman in the hotel lobby",
+  "alt3": "protagonist running away from two guys with swords",
+  "alt4": "firemen walking toward a building that’s on fire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}

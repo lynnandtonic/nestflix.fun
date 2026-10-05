@@ -1,0 +1,28 @@
+{
+  "slug": "senor-fusion",
+  "title": "Señor Fusion",
+  "description": "Your favorite comic book hero in his first major motion picture. Señor Fusion stands for honesty and truth and fair play.",
+  "quote": "I know! I’ll use my converter gloves!",
+  "parent": "Recess",
+  "parentYear": "1997-2001",
+  "parentIMDB": "0126170",
+  "rating": "PG",
+  "runtime": "1h 56m",
+  "labels": [
+    "action",
+    "superheroes"
+  ],
+  "credit": "Walt Disney Television Animation",
+  "altHero": "Señor Fusion, a superhero dressed as a matador, flying in the air surrounded by rays of red light",
+  "alt1": "Señor Fusion flying",
+  "alt2": "Señor Fusion with explosions nearby",
+  "alt3": "Señor Fusion flying toward an electrified fence in the air",
+  "alt4": "Señor Fusion screaming when he reaches the electrified fence",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes"
+  ]
+}
