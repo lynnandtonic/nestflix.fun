@@ -1,0 +1,31 @@
+{
+  "slug": "hero-in-train-ing",
+  "title": "Hero in Train-ing",
+  "description": "Golly Gopher features in a nail-biting animated short about a train that might go off the rails.",
+  "quote": "What was the saying? Down to makey brake-y… up if we needy speedy?",
+  "parent": "Re-Animated",
+  "parentYear": "2006",
+  "parentIMDB": "0780126",
+  "rating": "G",
+  "runtime": "7m",
+  "studio": "Appleday Studios",
+  "labels": [
+    "kids",
+    "animated"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Golly Gopher tied to a train track",
+  "alt1": "train",
+  "alt2": "Golly Gopher tied to the tracks, a duck with a sinister mustache standing by her",
+  "alt3": "Crocco is the train engineer",
+  "alt4": "hedgehog chasing a pickle holding a bowl of soup",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "animated shorts",
+    "kids and family films",
+    "new on nestflix"
+  ]
+}
