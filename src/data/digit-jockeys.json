@@ -1,0 +1,27 @@
+{
+  "slug": "digit-jockeys",
+  "title": "Digit Jockeys",
+  "description": "A sitcom about fighter pilots with the best game in town.",
+  "quote": "Hey, ladies. Wanna hit the pool?",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "two guys in the cockpit of a fighter jet",
+  "alt1": "a hand about to push a red trigger button",
+  "alt2": "missile with “party” on the side flying through the air",
+  "alt3": "two somen in stuffy business attire",
+  "alt4": "women in bikinis partying on the beach with confetti falling",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
