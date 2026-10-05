@@ -1,0 +1,31 @@
+{
+  "slug": "the-zack-jackson-collection",
+  "title": "The Zack Jackson Collection",
+  "description": "As a teen star, Zack Jackson specialized in straight-to-DVD comedy films for kids and teens.",
+  "parent": "Reboot",
+  "parentYear": "2022",
+  "parentIMDB": "15180134",
+  "rating": "G",
+  "runtime": "5h 12m",
+  "starring": [
+    "Zack Jackson"
+  ],
+  "labels": [
+    "comedy",
+    "teens"
+  ],
+  "credit": "20th Television",
+  "altHero": "Zack Jackson",
+  "alt1": "Kid Congressman",
+  "alt2": "Teenstronaut",
+  "alt3": "The Hunchback of Notre Dame High",
+  "layout": "movie.pug",
+  "submovies": 3,
+  "tags": [
+    "entry",
+    "movie",
+    "kids and family films",
+    "comedies"
+  ],
+  "logoWidth": "320"
+}
