@@ -1,0 +1,32 @@
+{
+  "slug": "teriyaki-shakedown",
+  "title": "Teriyaki Shakedown",
+  "description": "A young man discovers trouble when he takes over his neighborhood teriyaki stand.",
+  "quote": "Where’s our free grub, noodle man?",
+  "parent": "Rise of the Teenage Mutant Ninja Turtles",
+  "parentYear": "2018-2020",
+  "parentIMDB": "6601082",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "starring": [
+    "Lou Jitsu"
+  ],
+  "labels": [
+    "action",
+    "martial arts"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Lou Jitsu",
+  "alt1": "a big bad guy",
+  "alt2": "a small bad guy breaking a board with his face",
+  "alt3": "Lou Jitsu in profile",
+  "alt4": "two bad guys freaked out, being grabbed at the neck",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ],
+  "logoWidth": "300"
+}
