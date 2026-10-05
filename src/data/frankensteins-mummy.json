@@ -1,0 +1,28 @@
+{
+  "slug": "frankensteins-mummy",
+  "title": "Frankenstein’s Mummy",
+  "description": "A mad scientist, tucked away in his lab, finally has a breakthrough in his experimentation.",
+  "quote": "At last, I have perfected the equipment that will allow me to transform my creation into human form! And it’s all right here in my secret laboratory!",
+  "parent": "Return of the Killer Tomatoes!",
+  "parentYear": "1988",
+  "parentIMDB": "0095989",
+  "rating": "PG-13",
+  "runtime": "1h 37m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "New World Pictures",
+  "altHero": "Dr. Frankenstein, a mad scientist, next to a woman on an experiment table",
+  "alt1": "Dr. Frankenstein laughing",
+  "alt2": "the woman making a face, tongue out",
+  "alt3": "Dr. Frankenstein",
+  "alt4": "Dr. Frankenstein shrugging",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies"
+  ]
+}
