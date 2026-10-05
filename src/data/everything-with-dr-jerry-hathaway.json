@@ -1,0 +1,27 @@
+{
+  "slug": "everything-with-dr-jerry-hathaway",
+  "title": "Everything with Dr. Jerry Hathaway",
+  "description": "Pacific Tech University professor, Dr. Jerry Hathaway, teaches physics and other scientific concepts.",
+  "parent": "Real Genius",
+  "parentYear": "1985",
+  "parentIMDB": "0089886",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Jerry Hathaway"
+  ],
+  "labels": [
+    "talk show",
+    "educational",
+    "science"
+  ],
+  "credit": "Tri-Star Pictures",
+  "altHero": "Jerry Hathaway in front of a periodic table",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows"
+  ],
+  "logoWidth": ""
+}
