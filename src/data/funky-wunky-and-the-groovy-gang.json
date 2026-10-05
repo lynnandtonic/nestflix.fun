@@ -1,0 +1,29 @@
+{
+  "slug": "funky-wunky-and-the-groovy-gang",
+  "title": "Funky Wunky and the Groovy Gang",
+  "description": "A groovy gang of friends solve local mysteries with the help of their dog, Funky Wunky.",
+  "quote": "Oh, Wunky!",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-Y7",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids",
+    "mystery"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "the Groovy Gang on a pirate ship with a ghost caught in a net",
+  "alt1": "the Gang is shocked",
+  "alt2": "it’s actually a man in the net",
+  "alt3": "a football team: the 1976 starting lineup of the Oklahoma Mud Pigeons",
+  "alt4": "Funky Wunky running",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ],
+  "logoWidth": "290"
+}
