@@ -1,0 +1,24 @@
+{
+  "slug": "ghosts-are-totally-real-and-theyre-coming-for-you",
+  "title": "Ghosts Are Totally Real and They’re Coming for You!",
+  "description": "We all know ghosts are totally real and they’re coming for you!",
+  "quote": "They feed off the fear of the unfortunate space-fairing souls who cross their paths.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "labels": [
+    "documentary",
+    "paranormal"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "a ghost grabbing a scared guy who is walking his dog",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "paranormal investigation"
+  ],
+  "logoWidth": "220"
+}
