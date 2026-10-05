@@ -1,0 +1,29 @@
+{
+  "slug": "crime-city-detective-cops-ii",
+  "title": "Crime City Detective Cops II",
+  "description": "The Crime City detective cops prove you only need one thing to get a girl’s number. A sweet ride.",
+  "quote": "Did you happen to catch our license plate? It’s missing some numbers. Your numbers.",
+  "parent": "Regular Show",
+  "parentYear": "2010-2017",
+  "parentIMDB": "1710308",
+  "rating": "PG-13",
+  "runtime": "1h 47m",
+  "labels": [
+    "comedy",
+    "action"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "two plainclothes cops with mutton chops in a convertible",
+  "alt1": "cops pull up their car to two women on the sidewalk",
+  "alt2": "two women giggling",
+  "alt3": "handing the cop a piece of paper",
+  "alt4": "everyone is laughing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies"
+  ],
+  "logoWidth": "400"
+}
