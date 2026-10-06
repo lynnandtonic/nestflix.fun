@@ -1,0 +1,22 @@
+{
+  "slug": "evil-slayer-7",
+  "title": "Evil Slayer 7",
+  "description": "The seventh installment in the <em>Evil Slayer</em> horror franchise with the most gruesome murders yet.",
+  "parent": "The Trouble with Terkel",
+  "parentYear": "2010",
+  "parentIMDB": "1560987",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror",
+    "slasher"
+  ],
+  "credit": "Nordisk Film",
+  "altHero": "guy in a hockey mask slicing another guy in half with a chainsaw",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "slasher flicks"
+  ]
+}
