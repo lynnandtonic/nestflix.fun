@@ -1,0 +1,32 @@
+{
+  "slug": "without-warning",
+  "title": "Without Warning",
+  "description": "A secret affair, a scorned husband, and a mysterious fortune are a deadly combination.",
+  "parent": "Without Warning",
+  "parentYear": "1994",
+  "parentIMDB": "0111735",
+  "rating": "R",
+  "runtime": "1h 48m",
+  "starring": [
+    "Loni Anderson"
+  ],
+  "labels": [
+    "thriller",
+    "mystery"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "a man’s arm pointing a gun at a woman and man in bed together",
+  "alt1": "shadow of a man with a gun walking up the stairs",
+  "alt2": "woman and man in bed, a lit candle and glasses of wine on the nightstand",
+  "alt3": "woman and man in bed",
+  "alt4": "man in a tuxedo reflected in a hallway mirror",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "new on nestflix"
+  ],
+  "logoWidth": "320"
+}
