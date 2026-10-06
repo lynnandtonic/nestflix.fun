@@ -1,0 +1,28 @@
+{
+  "slug": "all-about-insects",
+  "title": "All About Insects",
+  "description": "Insects are everywhere! Learn about these crawling creatures and peek into their little lives.",
+  "quote": "That’s kooky!",
+  "parent": "Wow! Wow! Wubbzy!",
+  "parentYear": "2006-2010",
+  "parentIMDB": "0762067",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "documentary",
+    "animals"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "ant carrying an apple",
+  "alt1": "two funky bugs on leaves",
+  "alt2": "ant carrying a sandwich",
+  "alt3": "ant carrying a pie",
+  "alt4": "ant carrying Kooky Kid",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "animals on tv"
+  ]
+}
