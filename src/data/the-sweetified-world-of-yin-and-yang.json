@@ -1,0 +1,33 @@
+{
+  "slug": "the-sweetified-world-of-yin-and-yang",
+  "title": "The Sweetified World of Yin and Yang",
+  "description": "A dumb sitcom that plays by dumb sitcom rules. Yin and Yang must take care of the dojo, especially from Carl the Evil Cockroach Landlord.",
+  "quote": "Talk to the paw, ’cause the bear ain’t listening!",
+  "parent": "Yin Yang Yo!",
+  "parentYear": "2006-2009",
+  "parentIMDB": "0855673",
+  "rating": "Unrated",
+  "runtime": "2 episodes",
+  "starring": [
+    "Yin",
+    "Yang",
+    "Master Yo",
+    "Ned McFinley"
+  ],
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Disney XD",
+  "altHero": "Yin, Yang, and Old Grumpy Pants at the dojo front desk",
+  "alt1": "Carl the Evil Cockroach Landlord",
+  "alt2": "Yin conjuring a ball of light",
+  "alt3": "wacky neighbor Corky standing next to Yin and Yang, who are upside down on the floor",
+  "alt4": "Yin and Yang holding a remote",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
