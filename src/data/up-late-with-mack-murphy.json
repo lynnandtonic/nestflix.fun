@@ -1,0 +1,25 @@
+{
+  "slug": "up-late-with-mack-murphy",
+  "title": "Up Late with Mack Murphy",
+  "description": "From Hollywood, California, comedian Mack Murphy speaks with guests from the television, film, and music industries.",
+  "parent": "VicTORIous",
+  "parentYear": "2010-2013",
+  "parentIMDB": "1604099",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Mack Murphy"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Mack Murphy at his desk",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows"
+  ],
+  "logoWidth": "200"
+}
