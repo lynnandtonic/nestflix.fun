@@ -1,0 +1,29 @@
+{
+  "slug": "human-fist",
+  "title": "Human Fist",
+  "description": "Human Fist protects his city and takes down villains with a single punch.",
+  "quote": "Hey, sucka!",
+  "parent": "Robotboy",
+  "parentYear": "2005-2008",
+  "parentIMDB": "0482870",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "superheroes"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Human Fist, a Black superhero with one ginormous fist",
+  "alt1": "green creature with tentacles and one giant human foot",
+  "alt2": "creature climbing buildings in a city",
+  "alt3": "Human Fist flying through the air",
+  "alt4": "Human Fist stuck to the ground by a sticky substance",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes",
+    "kids action shows"
+  ]
+}
