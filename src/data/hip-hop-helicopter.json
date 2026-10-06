@@ -1,0 +1,36 @@
+{
+  "slug": "hip-hop-helicopter",
+  "title": "Hip Hop Helicopter",
+  "description": "Big Boy and Shaun Robinson host a competition where hip hop dancers show off their moves.",
+  "quote": "Make some noise!",
+  "parent": "The Proud Family",
+  "parentYear": "2001-2005",
+  "parentIMDB": "0293737",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Big Boy",
+    "Shaun Robinson"
+  ],
+  "director": [
+    "Henry Chang"
+  ],
+  "labels": [
+    "reality competition",
+    "dancing"
+  ],
+  "credit": "Disney Channel",
+  "altHero": "Big Boy and Shaun Robinson",
+  "alt1": "stage with studio audience and fake crashed helicopter",
+  "alt2": "Big Boy and Shaun Robinson",
+  "alt3": "three young girls dancing",
+  "alt4": "four young girls dancing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows"
+  ],
+  "logoWidth": "330"
+}
