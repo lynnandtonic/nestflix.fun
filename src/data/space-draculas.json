@@ -1,0 +1,33 @@
+{
+  "slug": "space-draculas",
+  "title": "Space Draculas",
+  "description": "A five-part amateur film about Space Dracula and Commander Commando, who must fight alien armies to take over Saturn.",
+  "quote": "I want to suck your blood… in space!",
+  "parent": "Twelve Forever",
+  "parentYear": "2019",
+  "parentIMDB": "8009622",
+  "rating": "Unrated",
+  "runtime": "2h 35m",
+  "starring": [
+    "Reggie Abbott",
+    "Dustin Abbott"
+  ],
+  "labels": [
+    "amateur",
+    "sci-fi"
+  ],
+  "credit": "Netflix",
+  "altHero": "young Reggie and Dustin with vampire capes",
+  "alt1": "Dustin with vampire cape and teeth",
+  "alt2": "handmade cardboard spaceship, the S.S. Dracula",
+  "alt3": "toy spaceship with two action figures taped to it approaching a space field of garlic bulbs",
+  "alt4": "Reggie breaking a doll dressed as an alien while Dustin sprays fake blood (ketchup) on her",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ],
+  "logoWidth": ""
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "the-alien-mole-bots-who-ate-philadelphia-again-versus-nucleadon",
+  "title": "The Alien Mole Bots Who Ate Philadelphia Again Versus Nucleadon",
+  "description": "The alien mole bots are back in Philadelphia and they are hungry! This time there’s competition in the city and its name is Nucleadon.",
+  "parent": "Transformers: EarthSpark",
+  "parentYear": "2022-2025",
+  "parentIMDB": "14298658",
+  "rating": "PG-13",
+  "runtime": "2h 12m",
+  "labels": [
+    "horror",
+    "sci-fi",
+    "aliens"
+  ],
+  "credit": "Nickelodeon Animation Studio",
+  "altHero": "baby alien mole bot with glowing eyes and sharp teeth",
+  "alt1": "guy looking into a dumpster",
+  "alt2": "round guy with wings tucked in the dumpster",
+  "alt3": "hand on the little guy, now shoing his glowing eyes",
+  "alt4": "alien mole bot attacking the guy with mouth open",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "aliens!"
+  ]
+}
