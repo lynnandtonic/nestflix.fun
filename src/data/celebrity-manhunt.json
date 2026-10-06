@@ -1,0 +1,28 @@
+{
+  "slug": "celebrity-manhunt",
+  "title": "Celebrity Manhunt",
+  "description": "Celebrity gossip experts, Josh and Blainely, discuss celebrity sightings, relationship rumors, and awards season drama.",
+  "parent": "Total Drama",
+  "parentYear": "2007-2014",
+  "parentIMDB": "1173427",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "talk show",
+    "entertainment"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Josh and Blainely smiling with open mouths",
+  "alt1": "hand waving out a limo",
+  "alt2": "Josh and Blainely at a desk",
+  "alt3": "Josh cheering",
+  "alt4": "Blainely",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "entertainment commentary"
+  ],
+  "logoWidth": "320"
+}
