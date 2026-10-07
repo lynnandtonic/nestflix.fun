@@ -1,0 +1,25 @@
+{
+  "slug": "the-ted-gilbert-show",
+  "title": "The Ted Gilbert Show",
+  "description": "The landmark American television variety series featuring Ted Gilbert and a revolving door of entertainers and heroes.",
+  "parent": "The Fantastic Four: First Steps",
+  "parentYear": "2025",
+  "parentIMDB": "10676052",
+  "rating": "TV-G",
+  "runtime": "10 seasons",
+  "starring": [
+    "Ted Gilbert"
+  ],
+  "labels": [
+    "variety"
+  ],
+  "credit": "Marvel Studios",
+  "altHero": "Ted Gilbert in colorful spotlight",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows"
+  ],
+  "logoWidth": "300"
+}
