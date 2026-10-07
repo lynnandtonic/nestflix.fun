@@ -1,0 +1,23 @@
+{
+  "slug": "misery-date",
+  "title": "Misery Date",
+  "description": "Modern dating sure can be miserable and this is a show that captures that special feeling.",
+  "parent": "The Patrick Star Show",
+  "parentYear": "2021-Present",
+  "parentIMDB": "12915960",
+  "rating": "TV-14",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "dating"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "a line of guy fish with flowers for a lady fish who is angrily throwing one of the guys behind her",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "reality dating shows"
+  ],
+  "logoWidth": "200"
+}
