@@ -1,0 +1,34 @@
+{
+  "slug": "swipe-north-2-still-swiping",
+  "title": "Swipe North 2: Still Swiping",
+  "description": "Heather gets a job in Seattle, but a long distance relationship proves unmanageable. Can Santa find a new romance this Christmas?",
+  "quote": "I’m gonna swipe north on finding love again.",
+  "parent": "The Great North",
+  "parentYear": "2021-2025",
+  "parentIMDB": "9140632",
+  "rating": "PG-13",
+  "runtime": "1h 31m",
+  "starring": [
+    "Mark Ruffalo",
+    "Anne Hathaway"
+  ],
+  "labels": [
+    "holiday",
+    "romance"
+  ],
+  "credit": "20th Television",
+  "altHero": "Santa reclining and holding up his smart phone",
+  "alt1": "Santa and an elf in the north pole",
+  "alt2": "Santa with hearts in his eyes",
+  "alt3": "Santa holding his phone and talking with the elf in their workshop",
+  "alt4": "Santa and the elf dancing with big candy canes",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "for the holidays",
+    "romantic comedies",
+    "new on nestflix"
+  ]
+}
