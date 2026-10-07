@@ -1,0 +1,28 @@
+{
+  "slug": "bleeding-hearts",
+  "title": "Bleeding Hearts",
+  "description": "Witches, misplaced fortunes, and epic romance! Arabella must find her own way in the world, finding riches and love in the process.",
+  "quote": "Poor Arabella. I cry diamonds.",
+  "parent": "The Owl House",
+  "parentYear": "2020-2023",
+  "parentIMDB": "8050756",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "soap opera"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Arabella, a tentacle woman with one big eyeball, being serenaded by a rich witch man with pointed ears and purple hair",
+  "alt1": "Arabella with the rich witch and an egg-shaped stable boy as her mother dies in a hospital bed",
+  "alt2": "Arabella in shock, with her tentacles on her cheeks",
+  "alt3": "rich witch crying a shiny diamond",
+  "alt4": "stable boy crying a fried egg",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ],
+  "logoWidth": "300"
+}
