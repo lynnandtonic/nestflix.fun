@@ -1,0 +1,26 @@
+{
+  "slug": "schwim-team",
+  "title": "Schwim Team",
+  "description": "See what happens when one of America’s favorite Friends becomes Kalamazoo’s least favorite swimming coach.",
+  "quote": "I’m here against my will.",
+  "parent": "The Cleveland Show",
+  "parentYear": "2009-2013",
+  "parentIMDB": "1195935",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "David Schwimmer"
+  ],
+  "studio": "NBC",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "20th Television",
+  "altHero": "David Schwimmer at a pool wearing fins, inflatable tube, arm floaties, and a snorkel mask; he’s standing by a boy in a wheelchair and a girl with braces",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
