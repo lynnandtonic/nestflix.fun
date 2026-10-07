@@ -1,0 +1,30 @@
+{
+  "slug": "good-morning-dillydale",
+  "title": "Good Morning Dillydale",
+  "description": "Spend your mornings with Little Miss Sunshine and Mr. Happy to get the latest news, learn about new products, and hear from special guests.",
+  "parent": "The Mr. Men Show",
+  "parentYear": "2008-2009",
+  "parentIMDB": "1029211",
+  "rating": "TV-G",
+  "runtime": "8 seasons",
+  "starring": [
+    "Little Miss Sunshine",
+    "Mr. Happy"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Little Miss Sunshine and Mr. Happy smiling in front of a sun logo",
+  "alt1": "Little Miss Sunshine and Mr. Happy at a desk",
+  "alt2": "Mr. Happy wearing goggles next to a TV showing a clip of a woman driving her car into a lightpole",
+  "alt3": "Little Miss Sunshine pulling her pigtail braids and Mr. Happy looks unimpressed",
+  "alt4": "Little Miss Sunshine and Mr. Happy with a guest showing a person in a gaming chair",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
