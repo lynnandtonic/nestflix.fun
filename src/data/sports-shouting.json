@@ -5,6 +5,9 @@
   "parent": "30 Rock",
   "parentYear": "2006-2013",
   "parentIMDB": "0496424",
+  "parent2": "The Fall and Rise of Reggie Dinkins",
+  "parent2Year": "2026-Present",
+  "parentIMDB2": "36153709",
   "rating": "TV-PG",
   "runtime": "10 seasons",
   "producer": "Scottie Shofar",
@@ -14,11 +17,17 @@
   ],
   "credit": "NBCUniversal Television",
   "altHero": "a grid of four sports pundits passionately talking at the same time",
+  "alt1": "men and women of the show at a long table",
+  "alt2": "woman yelling and a man angrily grimacing and pointing",
+  "alt3": "Jerry Basmati kissing his finger guns",
+  "alt4": "host blasting an air horn",
   "layout": "movie.pug",
+  "stills": true,
   "tags": [
     "entry",
     "TV series",
     "sports",
     "sports talk"
-  ]
+  ],
+  "logoWidth": "300"
 }
