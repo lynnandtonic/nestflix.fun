@@ -1,0 +1,24 @@
+{
+  "slug": "iyf-in-your-face",
+  "title": "IYF: In your Face",
+  "description": "Gerri Poveri investigates mysterious and suspicious stories. The only TV show that asks, “What’s really going on here?”",
+  "parent": "The Magic School Bus",
+  "parentYear": "1994-1997",
+  "parentIMDB": "0108847",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "starring": [
+    "Gerri Poveri"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "PBS",
+  "altHero": "Gerri Poveri, a white woman with short hair and red glasses",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
