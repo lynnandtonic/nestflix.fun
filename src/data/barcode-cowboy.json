@@ -1,0 +1,26 @@
+{
+  "slug": "barcode-cowboy",
+  "title": "Barcode Cowboy",
+  "description": "The Barcode Cowboy is the master of his domain. Cleaning, scanning, delivery. It’s never been done better.",
+  "quote": "That’ll be $12.99.",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "parentIMDB": "14596212",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Laurence Needlemeyer"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Laurence working the checkout at a grocery store",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "action tv"
+  ],
+  "logoWidth": ""
+}
