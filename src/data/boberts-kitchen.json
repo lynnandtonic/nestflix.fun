@@ -1,0 +1,33 @@
+{
+  "slug": "boberts-kitchen",
+  "title": "Bobert’s Kitchen",
+  "description": "In the kitchen, Bobert communicates information on the process required to prepare fuel for a carbon-based life form.",
+  "quote": "Next, add the oil and cook for 6.72 seconds at 18,700° Centigrade.",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "parentIMDB": "14596212",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Bobert 6B",
+    "Felicity"
+  ],
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Bobert and Felicity in a home kitchen with foods on the counter",
+  "alt1": "Bobert with cutting boards of vegetables",
+  "alt2": "Felicity looking happy",
+  "alt3": "Bobert chopping the food with a laser field from his eye",
+  "alt4": "Bobert levitating the cubed food into a bowl",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
