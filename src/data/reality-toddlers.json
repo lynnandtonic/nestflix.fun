@@ -1,0 +1,35 @@
+{
+  "slug": "reality-toddlers",
+  "title": "Reality Toddlers",
+  "description": "This preschool isn’t all naps and playtime. It’s a tough job being a toddler.",
+  "quote": "I baby talk the talk, and I crawl the walk.",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "parentIMDB": "14596212",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Charlie-Ann",
+    "Kayvon",
+    "Timmy",
+    "Peggy"
+  ],
+  "labels": [
+    "reality",
+    "kids"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Charlie-Ann sobbing",
+  "alt1": "Charlie-Ann and Peggy fighting over a toy",
+  "alt2": "Timmy eating cake and it’s all over his face",
+  "alt3": "the kids napping on a baby monitor-type feed",
+  "alt4": "Kayvon with a rattle",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ],
+  "logoWidth": "230"
+}
