@@ -1,0 +1,32 @@
+{
+  "slug": "techno-power-teenage-warriors",
+  "title": "Techno Power Teenage Warriors",
+  "description": "When danger arrives, Troy and Carlton use their techno power to activate Techno Robot, Techno Dino, and even more of your favorite action toys.",
+  "quote": "Techno power, activate!",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "parentIMDB": "14596212",
+  "rating": "TV-Y7",
+  "runtime": "2 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes",
+    "mecha"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "Troy and Carlton on a football field, they are in action poses and wearing multiple sweaters",
+  "alt1": "giant monster on the football field with a lobster claw and its head is a giant set of teeth",
+  "alt2": "wrists crossed with techno power watches",
+  "alt3": "Troy and Carlton with Techno Dino and Techno Robot",
+  "alt4": "Troy and Carlton crossing arms",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "super team-ups"
+  ],
+  "logoWidth": "270"
+}
