@@ -1,0 +1,29 @@
+{
+  "slug": "die-again-tomorrow-forever",
+  "title": "Die Again Tomorrow Forever",
+  "description": "Jet Fusion is a gentleman spy who finds top secret information, takes down villains, and always gets the ladies.",
+  "quote": "I guess this is where I teach you your ABCs: agony, brutality, and crying.",
+  "parent": "The Adventures of Jimmy Neutron: Boy Genius",
+  "parentYear": "2002-2006",
+  "parentIMDB": "0320808",
+  "rating": "PG-13",
+  "runtime": "1h 56m",
+  "labels": [
+    "action",
+    "espionage"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Jet Fusion flying through the air",
+  "alt1": "ninjas in a helicopter looking at a treasure chest",
+  "alt2": "the ninjas square up",
+  "alt3": "Jet Fusion fighting a ninja",
+  "alt4": "Jet Fusion on a flying surfboard and carrying a woman",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "spy movies"
+  ],
+  "logoWidth": ""
+}
