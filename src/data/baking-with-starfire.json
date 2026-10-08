@@ -1,0 +1,32 @@
+{
+  "slug": "baking-with-starfire",
+  "title": "Baking with Starfire",
+  "description": "If you love a sweet treat, you’ll love Starfire’s new baking show where she prepares and tastes baked goods with special guests.",
+  "quote": "That is absolutely the correct!",
+  "parent": "Teen Titans Go!",
+  "parentYear": "2013-Present",
+  "parentIMDB": "2771780",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "starring": [
+    "Starfire"
+  ],
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Starfire with Cyborg in a kitchen set",
+  "alt1": "emoji cookies",
+  "alt2": "Starfire holding an emoji cookie",
+  "alt3": "Cyborg holding an emoji cookie",
+  "alt4": "Cyborg with a huge smile, trying to pull the tray of cookies away from a concerned Starfire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ]
+}
