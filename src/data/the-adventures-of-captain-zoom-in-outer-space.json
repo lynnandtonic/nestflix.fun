@@ -1,0 +1,34 @@
+{
+  "slug": "the-adventures-of-captain-zoom-in-outer-space",
+  "title": "The Adventures of Captain Zoom in Outer Space",
+  "description": "Captain Zoom’s destiny as Defender of the Universe was written in the stars. We can never rest in our continuing war against injustice and oppression. Together, we will be victorious!",
+  "quote": "Justice has been served.",
+  "parent": "The Adventures of Captain Zoom in Outer Space",
+  "parentYear": "1995",
+  "parentIMDB": "0112292",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "starring": [
+    "Ty Farrell"
+  ],
+  "studio": "The Dumont Network",
+  "labels": [
+    "kids",
+    "action",
+    "superheroes"
+  ],
+  "credit": "NBCUniversal",
+  "altHero": "Captain Zoom in superhero pose against the stars",
+  "alt1": "little spaceship",
+  "alt2": "Captain Zoom stopping a lizard man near an oven",
+  "alt3": "Captain Zoom addressing the audience",
+  "alt4": "Captain Zoom and his sidekick Happy",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv superheroes",
+    "kids action shows"
+  ]
+}
