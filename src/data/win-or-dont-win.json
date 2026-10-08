@@ -1,0 +1,27 @@
+{
+  "slug": "win-or-dont-win",
+  "title": "Win or Don’t Win",
+  "description": "The popular game show where you can win a cool prize like a microwave or speedboat or you can not win. You have to play to find out!",
+  "quote": "And he’s won!",
+  "parent": "The Amazing World of Gumball",
+  "parentYear": "2011-2019",
+  "parentIMDB": "14596212",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "game show"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "rainbow shooting star host",
+  "alt1": "contestant Gary, sweating",
+  "alt2": "Gary cheering as confetti falls",
+  "alt3": "another contestant, Richard, celebrating",
+  "alt4": "rainbow shooting star with contestant Gary and a word puzzle on the board",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ]
+}
