@@ -1,0 +1,29 @@
+{
+  "slug": "pearls-kitchen",
+  "title": "Pearl’s Kitchen",
+  "description": "Welcome to <em>Pearl’s Kitchen</em>, where you can learn to prepare dishes that will impress and nourish your friends and family at the dinner table.",
+  "quote": "Pour in about an inch of water or if it’s a particularly festive occasion, pour in a little wine.",
+  "parent": "Newhart",
+  "parentYear": "1982-1990",
+  "parentIMDB": "0083455",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "starring": [
+    "Pearl Reskoff"
+  ],
+  "studio": "WPIV",
+  "labels": [
+    "reality",
+    "food",
+    "cooking"
+  ],
+  "credit": "20th Television",
+  "altHero": "Pearl, an older woman wearing a ruffly apron, cooking in a cozy kitchen",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ],
+  "logoWidth": "240"
+}
