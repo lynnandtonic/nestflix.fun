@@ -1,0 +1,35 @@
+{
+  "slug": "charleyyy-and-friends-the-movie",
+  "title": "Charleyyy & Friends: The Movie",
+  "description": "Everybody loves Charley! Charley is awesome! This time, in a movie!",
+  "quote": "Looks like my car broke down. You know what that means when your car breaks down. You gotta hula hoop!",
+  "parent": "SuperMarioLogan",
+  "parentYear": "2007-Present",
+  "parentIMDB": "15156682",
+  "rating": "PG",
+  "runtime": "1h 37m",
+  "starring": [
+    "Lovell Stanton"
+  ],
+  "director": [
+    "Logan Thirtyacre"
+  ],
+  "labels": [
+    "comedy"
+  ],
+  "credit": "SML",
+  "altHero": "Charley waving from his bathtub where he was sleeping",
+  "alt1": "Charley outside thinking",
+  "alt2": "Charley wearing a Mario hat and driving a Mario Kart to a drive-thru",
+  "alt3": "Charley at the drive-thru window",
+  "alt4": "Charley at a gas station, pouring slurpee into his mouth directly from the machine",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "comedies",
+    "new on nestflix"
+  ],
+  "logoWidth": "210"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "no-milk",
+  "title": "No Milk",
+  "description": "In what is supposed to be the scariest movie ever, you’ll find out what happens when you run out of milk.",
+  "quote": "Cereal is a great late night snack.",
+  "parent": "SuperMarioLogan",
+  "parentYear": "2007-Present",
+  "parentIMDB": "15156682",
+  "rating": "R",
+  "runtime": "1h 21m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "SML",
+  "altHero": "man holding an empty milk jug upside down over a cereal bowl",
+  "alt1": "man pouring cereal into a bowl and it’s overflowing all over the table",
+  "alt2": "scared man hiding in the shower and on a cell phone",
+  "alt3": "a peek out of the shower and the empty milk jug is sitting on the toilet tank",
+  "alt4": "from the perspective of the milk jug approaching the pantry door",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
