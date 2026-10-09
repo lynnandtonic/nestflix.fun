@@ -1,0 +1,32 @@
+{
+  "slug": "z-is-for-zurfing",
+  "title": "Z is for Zurfing",
+  "description": "The story of Ezekiel “Big Z” Topanga, the legendary and award-winning surfer.",
+  "parent": "Surf’s Up",
+  "parentYear": "2007",
+  "parentIMDB": "0423294",
+  "rating": "G",
+  "runtime": "1h 34m",
+  "starring": [
+    "Ezekiel Topanga"
+  ],
+  "studio": "Reggie Belafonte Productions",
+  "labels": [
+    "documentary",
+    "sports"
+  ],
+  "credit": "Sony Pictures Animation",
+  "altHero": "Big Z, a surfing penguin",
+  "alt1": "surfer emerging from a ginormous wave",
+  "alt2": "penguins spectators cheering",
+  "alt3": "Big Z from behind, holding a surfboard and approaching a snowy beach spattered with penguins",
+  "alt4": "Big Z speaks with a kid penguin",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "documentaries",
+    "sports films and series"
+  ]
+}
