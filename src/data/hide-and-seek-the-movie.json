@@ -1,0 +1,27 @@
+{
+  "slug": "hide-and-seek-the-movie",
+  "title": "Hide and Seek: The Movie",
+  "description": "Based on a true story. You can run. You can hide. But you will be seeked.",
+  "quote": "I’m gonna count down from 50. Better hide!",
+  "parent": "SuperMarioLogan",
+  "parentYear": "2007-Present",
+  "parentIMDB": "15156682",
+  "rating": "R",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror"
+  ],
+  "credit": "SML",
+  "altHero": "guy trying to fit himself into a fridge",
+  "alt1": "silhouette of a person looking into the window of a front door at night",
+  "alt2": "hooded man holding a knife",
+  "alt3": "guy in the pantry screaming as he’s been seeked",
+  "alt4": "guy confused as he’s handed the knife",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies"
+  ]
+}
