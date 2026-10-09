@@ -1,0 +1,32 @@
+{
+  "slug": "vermont-tonight",
+  "title": "Vermont Tonight",
+  "description": "The short-lived talk show with Don Prince, the prince of late night, who turns his cutting humor toward sidekick Dick Loudon.",
+  "quote": "Well, if those bags under your eyes get any lower, you’re going to start to look like your wife.",
+  "parent": "Newhart",
+  "parentYear": "1982-1990",
+  "parentIMDB": "0083455",
+  "rating": "TV-14",
+  "runtime": "10 episodes",
+  "starring": [
+    "Don Prince",
+    "Dick Loudon"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "20th Television",
+  "altHero": "Don Prince laughing at his desk",
+  "alt1": "Don Prince on a tirade",
+  "alt2": "house band",
+  "alt3": "Prince with Dick Loudon and a sign that says “pick on Dick”",
+  "alt4": "Loudon with another guest",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows"
+  ],
+  "logoWidth": "260"
+}
