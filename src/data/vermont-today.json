@@ -1,0 +1,32 @@
+{
+  "slug": "vermont-today",
+  "title": "Vermont Today",
+  "description": "A classy show everyone in Vermont can be proud of. Every Sunday afternoon, Dick Loudon interviews distinguished guests, people living and working in Vermont who make a very special and important contribution to Vermont culture.",
+  "parent": "Newhart",
+  "parentYear": "1982-1990",
+  "parentIMDB": "0083455",
+  "rating": "TV-G",
+  "runtime": "6 seasons",
+  "starring": [
+    "Dick Loudon"
+  ],
+  "studio": "WPIV",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "20th Television",
+  "altHero": "Dick Loudon",
+  "alt1": "Dick Loudon on set with guests who have various sized horses",
+  "alt2": "Dick Loudon with guest Michael Harris",
+  "alt3": "Dick Loudon with another guest",
+  "alt4": "Dick Loudon with Giddy Goose",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "public-access talk shows",
+    "new on nestflix"
+  ],
+  "logoWidth": "375"
+}
