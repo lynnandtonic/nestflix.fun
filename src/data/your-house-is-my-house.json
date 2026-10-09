@@ -1,0 +1,33 @@
+{
+  "slug": "your-house-is-my-house",
+  "title": "Your House Is My House",
+  "description": "Real estate agent, Joanna Loudon, takes you through some of the fabulous homes that are on the market and takes questions from viewers. Early episodes feature soap opera star, Justin Witter.",
+  "quote": "That fireplace is making me hot, if you know what I mean.",
+  "parent": "Newhart",
+  "parentYear": "1982-1990",
+  "parentIMDB": "0083455",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "Joanna Loudon",
+    "Justin Witter"
+  ],
+  "studio": "WPIV",
+  "labels": [
+    "talk show",
+    "real estate"
+  ],
+  "credit": "20th Television",
+  "altHero": "Joanna Loudon holding up a photo of a house",
+  "alt1": "Joanna Loudon and Justin Witter smiling",
+  "alt2": "Joanna Loudon",
+  "alt3": "Justin Witter laying on Joanna Loudon’s shoulder",
+  "alt4": "Joanna Loudon taking calls from viewers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home, diy, and art"
+  ]
+}
