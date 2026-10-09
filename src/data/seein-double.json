@@ -1,0 +1,38 @@
+{
+  "slug": "seein-double",
+  "title": "Seein’ Double",
+  "description": "Look it’s Jody. No it’s Judy! Teenage identical twins are double duty! Jody’s a prankster, Judy’s a bookworm, and they’re both a handful for their father, Henry Bumpter.",
+  "quote": "We can’t just ignore this thing and hope it’ll disappear like Jimmy Hoffa, Amelia Earhart, Judge Crater, and the comedy team of Wayne and Shuster.",
+  "parent": "Newhart",
+  "parentYear": "1982-1990",
+  "parentIMDB": "0083455",
+  "rating": "TV-G",
+  "runtime": "1 episode",
+  "starring": [
+    "Stephanie Vanderkellen",
+    "Dick Loudon",
+    "Beatrice Lunt",
+    "Joanna Loudon "
+  ],
+  "producer": "Michael Harris",
+  "studio": "WPIV",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "20th Television",
+  "altHero": "Stephanie Vanderkellen as twins Jody and Judy, each in a sweater with their names on them",
+  "alt1": "Dick Loudon as Henry Bumpter, looking through a hole cut out of his newspaper",
+  "alt2": "Jody and Judy, who has her face covered with a big book",
+  "alt3": "Jody and Judy baking in the kitchen, Judy is facing away from the camera, and Jody is holding two similar boxes: one is flour and the other is detergent",
+  "alt4": "Henry hugging the twins, along with neighbors Smitty and Iron",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms",
+    "new on nestflix"
+  ],
+  "logoWidth": "320"
+}
