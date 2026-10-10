@@ -1,0 +1,31 @@
+{
+  "slug": "the-tonight-show-starring-pooby-fallon",
+  "title": "The Tonight Show Starring Pooby Fallon",
+  "description": "Join Pooby Fallon for comedy, music, and interviews with prominent people.",
+  "quote": "If my dog could paddle like that, he’d be on my pickleball team!",
+  "parent": "SuperMarioLogan",
+  "parentYear": "2007-Present",
+  "parentIMDB": "15156682",
+  "rating": "TV-14",
+  "runtime": "5 seasons",
+  "starring": [
+    "Pooby Fallon"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "SML",
+  "altHero": "Pooby Fallon and a video of a dog swimming",
+  "alt1": "Pooby Fallon laughing obnoxiously",
+  "alt2": "Pooby Fallon holding a Perfect Smile magazine",
+  "alt3": "puppet with backwards hat and sunglasses",
+  "alt4": "Pooby Fallon with the puppet",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows"
+  ],
+  "logoWidth": "180"
+}

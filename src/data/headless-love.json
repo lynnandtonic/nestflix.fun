@@ -1,0 +1,28 @@
+{
+  "slug": "headless-love",
+  "title": "Headless Love",
+  "description": "Love can make you lose your head. A romance like you’ve never seen before.",
+  "parent": "SuperMarioLogan",
+  "parentYear": "2007-Present",
+  "parentIMDB": "15156682",
+  "rating": "PG-13",
+  "runtime": "1h 45m",
+  "labels": [
+    "drama",
+    "romance"
+  ],
+  "credit": "SML",
+  "altHero": "mannequin head on the beach as a man runs away in the distance",
+  "alt1": "man writing “I love you” in the sand",
+  "alt2": "man pointing at mannequin head",
+  "alt3": "man making a kissy face",
+  "alt4": "mannequin head on its side on the sand",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "romantic dramas"
+  ],
+  "logoWidth": "350"
+}
