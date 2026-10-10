@@ -1,0 +1,25 @@
+{
+  "slug": "the-mckendricks",
+  "title": "The Mckendricks",
+  "description": "A family sitcom that captures the humor and irony in the repetition of everyday life.",
+  "quote": "If we refinance at 5.5, which is totally doable, our monthly payment’s going to go down considerably.",
+  "parent": "Sealab 2021",
+  "parentYear": "2000",
+  "parentIMDB": "0278877",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "studio": "Adult Swim",
+  "labels": [
+    "sitcom",
+    "family"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "The Mckendricks sitting at the table doing paperwork",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "family sitcoms"
+  ],
+  "logoWidth": "340"
+}
