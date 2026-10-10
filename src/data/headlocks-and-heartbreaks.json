@@ -1,0 +1,31 @@
+{
+  "slug": "headlocks-and-heartbreaks",
+  "title": "Headlocks & Heartbreaks",
+  "description": "Sardina Sardiña and Dwayne “The Puck” Orca in a complicated romance with high stakes both in and outside the ring.",
+  "quote": "Oh, Dwayne. The only thing I’ve ever loved… is a skull-cracking smackdown!",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "TV-14",
+  "runtime": "12 seasons",
+  "starring": [
+    "Sardina Sardiña",
+    "Dwayne Orca"
+  ],
+  "labels": [
+    "soap opera"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Dwayne Orca serenading Sardina Sardiña, who has big puffs of blonde hair",
+  "alt1": "Sardina lifting Dwayne above her head",
+  "alt2": "wide shot of Sardina lifting Dwayne in a fighting ring surrounded by an audience",
+  "alt3": "Sardina about to land on Dwayne",
+  "alt4": "Dwayne biting Sardina’s arm as a smaller fish throws flower petals in the air",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ]
+}
