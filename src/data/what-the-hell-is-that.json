@@ -1,0 +1,29 @@
+{
+  "slug": "what-the-hell-is-that",
+  "title": "What The Hell Is That?",
+  "description": "Contestants answer trivia questions to earn points and win a trip to a fabulous, surprise destination.",
+  "quote": "Fred tell ’em what they’ve won!",
+  "parent": "South Park",
+  "parentYear": "1997-Present",
+  "parentIMDB": "0121955",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "game show",
+    "trivia"
+  ],
+  "credit": "Comedy Central",
+  "altHero": "host Bob and female helper",
+  "alt1": "wide shot of the set of the show with the hosts, studio audience, and a couple at a podium",
+  "alt2": "Bob and helper talking with the contestants, Tom and Mary",
+  "alt3": "studio audience",
+  "alt4": "cowgirl showing a picture of South Park, Colorado",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows"
+  ],
+  "logoWidth": "230"
+}
