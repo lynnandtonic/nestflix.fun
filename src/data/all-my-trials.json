@@ -1,0 +1,28 @@
+{
+  "slug": "all-my-trials",
+  "title": "All My Trials",
+  "description": "",
+  "quote": "Now the oil refineries belong to me. Only me! And another thing. You’re all fired.",
+  "parent": "Soapdish",
+  "parentYear": "1991",
+  "parentIMDB": "0102951",
+  "rating": "TV-14",
+  "runtime": "8 seasons",
+  "labels": [
+    "soap opera"
+  ],
+  "credit": "Paramount Pictures",
+  "altHero": "woman protagonist smiling",
+  "alt1": "old men in suits around a conference table",
+  "alt2": "protagonist in a pink suit holding a folio",
+  "alt3": "Black man removing his glasses in shock",
+  "alt4": "protagonist is angry",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "soap operas"
+  ],
+  "logoWidth": "150"
+}
