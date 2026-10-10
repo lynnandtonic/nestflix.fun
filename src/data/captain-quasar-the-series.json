@@ -1,0 +1,29 @@
+{
+  "slug": "captain-quasar-the-series",
+  "title": "Captain Quasar: The Series",
+  "description": "Captain Quasar explores the galaxy with his trusty sidekick, Pat-Tron.",
+  "quote": "Sweet Neptune! What’s that behind you?",
+  "parent": "SpongeBob SquarePants",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0206512",
+  "rating": "G",
+  "runtime": "6 seasons",
+  "labels": [
+    "sci-fi",
+    "space"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Captain Quasar",
+  "alt1": "a crashed ship and Captain Quasar confronting a chicken man",
+  "alt2": "Pat-Tron tied up",
+  "alt3": "Captain Quasar pointing at the chicken man",
+  "alt4": "Captain Quasar tying the chicken’s shoelaces together",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sci-fi tv"
+  ],
+  "logoWidth": "330"
+}
