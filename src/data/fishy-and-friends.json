@@ -1,0 +1,23 @@
+{
+  "slug": "fishy-and-friends",
+  "title": "Fishy & Friends",
+  "description": "A hilarious sitcom filmed inside a real fishbowl.",
+  "parent": "SuperMarioLogan",
+  "parentYear": "2007-Present",
+  "parentIMDB": "15156682",
+  "rating": "TV-G",
+  "runtime": "1 season",
+  "studio": "Laugh Box TV",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "SML",
+  "altHero": "close-up of a fish bowl with a little castle and a goldfish",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "180"
+}
