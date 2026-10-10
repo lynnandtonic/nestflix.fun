@@ -1,0 +1,30 @@
+{
+  "slug": "sunny-bunnies-presents-little-red-riding-hood",
+  "title": "Sunny Bunnies Presents: Little Red Riding Hood",
+  "description": "The classic fairytale about a young girl traveling through the woods to visit her grandmother.",
+  "parent": "Sunny Bunnies",
+  "parentYear": "2015-Present",
+  "parentIMDB": "7264084",
+  "rating": "G",
+  "runtime": "1h 23m",
+  "director": [
+    "Turbo"
+  ],
+  "labels": [
+    "family"
+  ],
+  "credit": "Digital Light Animation Studios",
+  "altHero": "Little Red Riding Hood meets the wolf in the woods",
+  "alt1": "mom puts some food in Little Red Riding Hood’s basket",
+  "alt2": "the wolf approaches grandma in bed",
+  "alt3": "the wolf disguised as grandma",
+  "alt4": "Little Red Riding Hood arriving at grandma’s house",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "kids and family films"
+  ],
+  "logoWidth": "400"
+}
