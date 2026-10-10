@@ -1,0 +1,38 @@
+{
+  "slug": "the-old-mill",
+  "title": "The Old Mill",
+  "description": "A story of small town life, a quest for purity, and second chances.",
+  "quote": "The only second chance I know, chance to make the same mistake twice.",
+  "parent": "State and Main",
+  "parentYear": "2000",
+  "parentIMDB": "0120202",
+  "rating": "PG-13",
+  "runtime": "2h 12m",
+  "starring": [
+    "Bob Barrenger",
+    "Claire Wellesley"
+  ],
+  "director": [
+    "Walt Price"
+  ],
+  "producer": "Marty Rossen",
+  "labels": [
+    "drama",
+    "period drama"
+  ],
+  "credit": "New Line Cinema",
+  "altHero": "Bob Barrenger with a bandage on his forehead",
+  "alt1": "Barrenger with another man next to a firehouse",
+  "alt2": "Barrenger walking with a man in a top hat",
+  "alt3": "Claire Wellesley as a nun",
+  "alt4": "Barrenger and Wellesley talking",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas",
+    "new on nestflix"
+  ],
+  "logoWidth": "350"
+}
