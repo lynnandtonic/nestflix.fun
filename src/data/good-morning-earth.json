@@ -1,0 +1,32 @@
+{
+  "slug": "good-morning-earth",
+  "title": "Good Morning Earth",
+  "description": "Start your day with a cup of coffee and a chat with Morbo and Linda.",
+  "quote": "Pathetic humans, prepare to write down the recipe!",
+  "parent": "Futurama",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0149460",
+  "rating": "TV-G",
+  "runtime": "7 seasons",
+  "starring": [
+    "Morbo the Annihilator",
+    "Linda van Schoonhoven"
+  ],
+  "studio": "Channel √2",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "Morbo and Linda sitting by a fire",
+  "alt1": "Morbo and Linda in pajamas and holding coffee",
+  "alt2": "Morbo yelling at the camera",
+  "alt3": "Morbo with Elzar in the kitche; Morbo is opening a pot that is putting out a toxic cloud",
+  "alt4": "Morbo",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ]
+}
