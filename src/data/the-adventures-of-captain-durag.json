@@ -1,0 +1,29 @@
+{
+  "slug": "the-adventures-of-captain-durag",
+  "title": "The Adventures of Captain Durag",
+  "description": "Slime City is a hot mess. Good thing Captain Durag isn’t a crime fighter; he’s a grime fighter. He really knows how to take out the trash.",
+  "quote": "Looks like it’s time for me to make a clean sweep.",
+  "parent": "Hey, A.J.!",
+  "parentYear": "2026-Present",
+  "parentIMDB": "19872788",
+  "rating": "G",
+  "runtime": "1h 32m",
+  "labels": [
+    "kids",
+    "superheroes"
+  ],
+  "credit": "Disney Jr.",
+  "altHero": "Captain Durag, a Black superhero in purple",
+  "alt1": "a dumpster villain with green slime in his mouth",
+  "alt2": "the dumpster spewing green slime",
+  "alt3": "Captain Durag across a rooftop from the dumpster",
+  "alt4": "Captain Durag spinning a broom",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "mighty movie heroes"
+  ],
+  "logoWidth": ""
+}
