@@ -1,0 +1,30 @@
+{
+  "slug": "the-comedy-chimp-show",
+  "title": "The Comedy Chimp Show",
+  "description": "From Seaside Island, Comedy Chimp hosts a late night talk show with guest interviews, comedy sketches, and news commentary.",
+  "quote": "That’s just bananas!",
+  "parent": "Sonic Boom",
+  "parentYear": "2014-2017",
+  "parentIMDB": "3232262",
+  "rating": "TV-PG",
+  "runtime": "21 seasons",
+  "starring": [
+    "Comedy Chimp"
+  ],
+  "labels": [
+    "late night talk show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Comedy Chimp",
+  "alt1": "Comedy Chimp talking with Dr. Eggman",
+  "alt2": "Comedy Chimp talking",
+  "alt3": "Comedy Chimp talking with Tommy Thunder",
+  "alt4": "Comedy Chimp",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "late night talk shows"
+  ]
+}
