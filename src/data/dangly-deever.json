@@ -1,0 +1,24 @@
+{
+  "slug": "dangly-deever",
+  "title": "Dangly Deever",
+  "description": "Dangly Deever’s here to bring kids laughter and good cheer.",
+  "quote": "Hi-dee-ho, boys and girls!",
+  "parent": "The Adventures of Sam & Max: Freelance Police",
+  "parentYear": "1997-1998",
+  "parentIMDB": "0125646",
+  "rating": "TV-Y",
+  "runtime": "1 season",
+  "labels": [
+    "kids",
+    "puppets"
+  ],
+  "credit": "Fox Kids",
+  "altHero": "puppet Dangly Deever",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids puppet shows"
+  ],
+  "logoWidth": "220"
+}
