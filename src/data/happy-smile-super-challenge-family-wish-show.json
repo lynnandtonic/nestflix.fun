@@ -1,0 +1,30 @@
+{
+  "slug": "happy-smile-super-challenge-family-wish-show",
+  "title": "Happy Smile Super Challenge Family Wish Show",
+  "description": "A Japanese game show that doesn’t reward knowledge, but punishes ignorance! Each episode one lucky family makes a wish and tries to win their dreams.",
+  "quote": "You have fulfilled our dreams, and dreams of our ancestors.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "6 seasons",
+  "labels": [
+    "game show",
+    "family",
+    "trivia"
+  ],
+  "credit": "20th Television",
+  "altHero": "Japanese game show host",
+  "alt1": "Japanese family winning a golf cart with bull horns on the front",
+  "alt2": "contestant Homer Simpson getting a flame in the face",
+  "alt3": "contestant Lisa Simpson crossing a rope bridge over a volcano",
+  "alt4": "an American couple being covered in scorpions",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!"
+  ],
+  "logoWidth": "170"
+}
