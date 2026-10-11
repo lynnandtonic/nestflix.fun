@@ -1,0 +1,28 @@
+{
+  "slug": "toilet-wars",
+  "title": "Toilet Wars",
+  "description": "Inside the intense world of toilet installs and maintenance.",
+  "quote": "Where’s Pukeferd with the yank chain?!",
+  "parent": "Sam & Cat",
+  "parentYear": "2013-2014",
+  "parentIMDB": "2487090",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "Bill and Jeeter, two plumbers fixing a toilet",
+  "alt1": "Bill and Jeeter looking at each other with intensity",
+  "alt2": "Jeeter looking sad in a confessional with a photo of a toilet",
+  "alt3": "Bill frustrated",
+  "alt4": "dramatic shot of a toilet",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv",
+    "new on nestflix"
+  ]
+}
