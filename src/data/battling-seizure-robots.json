@@ -1,0 +1,30 @@
+{
+  "slug": "battling-seizure-robots",
+  "title": "Battling Seizure Robots",
+  "description": "⚠ Flashing lights warning. The popular Japanese children’s show about space-traveling, battling robots.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-Y7",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids",
+    "action",
+    "robots"
+  ],
+  "credit": "20th Television",
+  "altHero": "robot with flashing light coming out of its eyes",
+  "alt1": "robot flying through the air, eyes flashing",
+  "alt2": "robot eyes flashing",
+  "alt3": "robot with eyes flashing on an alien planet",
+  "alt4": "robot with eyes flashing, covering most of the screen with light",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows",
+    "new on nestflix"
+  ],
+  "logoWidth": ""
+}
