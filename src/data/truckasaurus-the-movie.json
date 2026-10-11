@@ -1,0 +1,25 @@
+{
+  "slug": "truckasaurus-the-movie",
+  "title": "Truckasaurus: The Movie",
+  "description": "John Truckasaurus is twenty tons and four stories of car-crunching, fire-breathing, prehistoric insanity.",
+  "quote": "You crazy car. I don’t know whether to eat you or kiss you.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG-13",
+  "runtime": "1h 32m",
+  "starring": [
+    "Marlon Brando (impersonated)"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "20th Television",
+  "altHero": "Truckasaurus, huge robot dinosaur chomping on a car and shooting flames from its nostrils",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
