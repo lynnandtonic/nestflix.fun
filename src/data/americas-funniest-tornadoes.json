@@ -1,0 +1,24 @@
+{
+  "slug": "americas-funniest-tornadoes",
+  "title": "America’s Funniest Tornadoes",
+  "description": "The funniest moments captured when the weather goes wild.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality",
+    "home movies",
+    "comedy"
+  ],
+  "credit": "20th Television",
+  "altHero": "farther getting hit in the nuts with a flying stop sign during a tornado",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "funny videos and home movies"
+  ],
+  "logoWidth": "230"
+}
