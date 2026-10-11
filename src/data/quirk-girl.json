@@ -1,0 +1,23 @@
+{
+  "slug": "quirk-girl",
+  "title": "Quirk Girl",
+  "description": "A show from the golden age of television: 2013. A story of a quirky girl who made it okay for cute girls to be pretty.",
+  "quote": "Sometimes a horndog gets bit by a real dog.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-14",
+  "runtime": "7 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "20th Television",
+  "altHero": "woman in a cute dress talking to a guy on the couch with a puppy",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "200"
+}
