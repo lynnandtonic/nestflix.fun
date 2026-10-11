@@ -1,0 +1,24 @@
+{
+  "slug": "the-great-masked-british-bake-off",
+  "title": "The Great Masked British Bake Off",
+  "description": "Famous people wear full-body costumes and compete against each other in a series of baking challenges.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality competition",
+    "food",
+    "cooking"
+  ],
+  "credit": "20th Television",
+  "altHero": "baking set in chaos with three contestants in a shark, samurai red panda, and toilet costumes",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "food and cooking"
+  ],
+  "logoWidth": "250"
+}
