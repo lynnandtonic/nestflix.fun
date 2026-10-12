@@ -1,0 +1,30 @@
+{
+  "slug": "diversity-tales",
+  "title": "Diversity Tales",
+  "description": "Diversity Tales are the stories of children in other cultures to promote tolerance in America.",
+  "quote": "You don’t need a headdress. Your most beautiful costume is your self-esteem.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "G",
+  "runtime": "4h",
+  "producer": "The National Film Board of Canada",
+  "studio": "PBS",
+  "labels": [
+    "kids",
+    "educational"
+  ],
+  "credit": "20th Television",
+  "altHero": "wide shot of big purple mountains and green landscape with two kids walking down a path",
+  "alt1": "two indigenous looking kids picking sugar cane",
+  "alt2": "boy with sugar cane",
+  "alt3": "goose in the air",
+  "alt4": "the kids and text: “pause here to discuss tolerance”",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video series",
+    "kids educational videos"
+  ]
+}
