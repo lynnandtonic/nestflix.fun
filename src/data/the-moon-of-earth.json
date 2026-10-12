@@ -1,0 +1,31 @@
+{
+  "slug": "the-moon-of-earth",
+  "title": "The Moon of Earth",
+  "description": "The moon. For several years, she has fascinated many. But will man ever walk on her fertile surface?",
+  "quote": "The moon belongs to America and anxiously awaits the arrival of our astro-men.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "12m",
+  "creator": "",
+  "studio": "Monotone Pictures",
+  "labels": [
+    "educational",
+    "space"
+  ],
+  "credit": "20th Television",
+  "altHero": "model of the moon on a string",
+  "alt1": "man in a press conference being interviewed and photographed",
+  "alt2": "space colony on the moon",
+  "alt3": "man fishing in a moon crater and has caught an alien woman",
+  "alt4": "American astro-men",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video",
+    "educational videos",
+    "kids educational videos"
+  ]
+}
