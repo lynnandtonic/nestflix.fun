@@ -31,7 +31,9 @@ block content
                     strong Not a film/show from a video game
                 li
                     strong Not the news
-        p If you have one to add, please #[a(href='https://github.com/lynnandtonic/nestflix.fun/issues') create an issue on GitHub] or fill out this handy form:
+        p If you have one to add, please #[a(href='https://github.com/lynnandtonic/nestflix.fun/issues') create a GitHub issue] or fill out this handy form:
+
+        p Note: I am a one-person operation here, so it may take a while for titles to show up on the site.
 
         form(name='Submissions' method='POST' netlify-honeypot='bot-field' data-netlify='true' action='/thanks')
 
@@ -56,7 +58,7 @@ block content
             label.required Film or show in which it appears:
             input(type='text' name='parent' required)
 
-            label Is the parent film/show streaming anywhere?
+            label Where can I stream this?
             input(type='text' name='streaming')
 
             label About when in the parent film/show does it appear?
