@@ -1,0 +1,34 @@
+{
+  "slug": "streaming-valor",
+  "title": "Streaming Valor",
+  "description": "Based on the extraordinary true story of Homer Simpson’s face-off with the FBI over movie piracy. His only crime was breaking the law.",
+  "quote": "When times seemed darkest, she was there. She gave me the strength and courage to fight for what I believe in.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG",
+  "runtime": "1h 49m",
+  "starring": [
+    "Channing Tatum",
+    "Paul Rudd",
+    "Seth Rogen"
+  ],
+  "labels": [
+    "drama",
+    "courtroom"
+  ],
+  "credit": "20th Television",
+  "altHero": "Channing Tatum as Homer Simpson kissing his wife Marge in court",
+  "alt1": "Homer giving a monologue in court",
+  "alt2": "Paul Rudd interrupting the judge",
+  "alt3": "the courtroom cheering",
+  "alt4": "Seth Rogen as a security guard",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dramas"
+  ],
+  "logoWidth": "270"
+}
