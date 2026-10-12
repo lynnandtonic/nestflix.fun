@@ -1,0 +1,32 @@
+{
+  "slug": "good-time-slim-uncle-doobie-and-the-great-frisco-freak-out",
+  "title": "Good-Time Slim, Uncle Doobie, and the Great “Frisco Freak-Out”",
+  "description": "Two hippies set out to refill their stash, but find themselves in more trouble than they anticipated.",
+  "quote": "There’s more than one way to get high, baby.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "R",
+  "runtime": "1h 37m",
+  "starring": [
+    "Troy McClure"
+  ],
+  "labels": [
+    "crime",
+    "action",
+    "stoner"
+  ],
+  "credit": "20th Television",
+  "altHero": "Good-Time Slim and Uncle Doobie driving in a hippie VW Bug",
+  "alt1": "cop cars on a chase",
+  "alt2": "hippie Bug driving down a San Francisco hill, Uncle Doobie looking out the window",
+  "alt3": "Doobie opens the bag and it’s diamonds",
+  "alt4": "Slim stepping on the gas",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "crime movies"
+  ]
+}
