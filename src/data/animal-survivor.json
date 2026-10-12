@@ -1,0 +1,33 @@
+{
+  "slug": "animal-survivor",
+  "title": "Animal Survivor",
+  "description": "In a new spinoff, a group of animals are isolated in a remote location and they must work together while completing challenges.",
+  "quote": "Rhino, you lost the tribe’s fishing equipment. And we saw a dramatic collapse in the lion/gazelle alliance.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "2 seasons",
+  "starring": [
+    "Jeff Probst"
+  ],
+  "labels": [
+    "reality competition",
+    "animals"
+  ],
+  "credit": "20th Television",
+  "altHero": "Jeff Probst at a campfire with a frog, rhino, giraffe, parrot, zebra and lion",
+  "alt1": "birdseye view of the campfire",
+  "alt2": "Jeff Probst",
+  "alt3": "Rhino talking",
+  "alt4": "a lion eating a gazelle",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality competition shows",
+    "animals on tv"
+  ],
+  "logoWidth": "220"
+}
