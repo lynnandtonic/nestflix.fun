@@ -1,0 +1,27 @@
+{
+  "slug": "japanese-friends",
+  "title": "Japanese Friends",
+  "description": "The iconic sitcom about six friends gets a reboot in Japan.",
+  "quote": "Could I be more Japanese?",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "6 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "20th Television",
+  "altHero": "a group of 6 Japanese friends sitting in a coffee shop",
+  "alt1": "3 friends dancing in a fountain",
+  "alt2": "2 more friends in the fountain laughing",
+  "alt3": "one friend has a shit that says “Reggae hairstyle rock n‘ roll” in English",
+  "alt4": "one of the women talking with a coffee cup on her lap",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ]
+}
