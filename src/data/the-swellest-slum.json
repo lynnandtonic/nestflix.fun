@@ -1,0 +1,26 @@
+{
+  "slug": "the-swellest-slum",
+  "title": "The Swellest Slum",
+  "description": "A musical romp of its time starring Debbie Reynolds as Rosie, the Puerto Rican seamstress.",
+  "quote": "Don’t tell me we have to walk through all the booze bags in the Irish district.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG",
+  "runtime": "2h 32m",
+  "starring": [
+    "Debbie Reynolds"
+  ],
+  "labels": [
+    "musical"
+  ],
+  "credit": "20th Television",
+  "altHero": "three women on the sidewalk, one of the women is extending knives to the other ones",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "movie",
+    "musicals"
+  ],
+  "logoWidth": "200"
+}

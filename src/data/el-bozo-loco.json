@@ -1,0 +1,32 @@
+{
+  "slug": "el-bozo-loco",
+  "title": "El Bozo Loco",
+  "description": "A sci-fi adventure comedy loosely based on the book <em>The Sands Of Space</em> by Jeremiah Hargrove. ",
+  "quote": "The love crystal is whole once more. The prophecy is fulfilled.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG-13",
+  "runtime": "2h 13m",
+  "starring": [
+    "Krusty the Clown"
+  ],
+  "studio": "Polystar Pictures",
+  "labels": [
+    "sci-fi",
+    "comedy"
+  ],
+  "credit": "20th Television",
+  "altHero": "Krusty, in a beat-up space suit, emerges from a crashed ship",
+  "alt1": "Krusty brings s crystal heart to a shrine of crystals",
+  "alt2": "the shrine is surrounded by rainbows",
+  "alt3": "four space warrior men",
+  "alt4": "Krusty kisses an alien woman while alien children stand around and cheer",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "sci-fi films"
+  ]
+}

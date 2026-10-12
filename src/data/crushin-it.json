@@ -1,0 +1,28 @@
+{
+  "slug": "crushin-it",
+  "title": "Crushin’ It",
+  "description": "Kirk Van Houten shares recipes and cooking tips and occasionally life updates and thoughts on world events.",
+  "quote": "Now, the secret to the ultimate rice sammy is to make sure the rice is really wet, like soaking.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "15 episodes",
+  "starring": [
+    "Kirk Van Houten"
+  ],
+  "labels": [
+    "talk show",
+    "food",
+    "cooking"
+  ],
+  "credit": "20th Television",
+  "altHero": "Kirk Van Houten in a kitchen with a loaf of bread and a rice cooker",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "web series",
+    "web shows"
+  ],
+  "logoWidth": "280"
+}
