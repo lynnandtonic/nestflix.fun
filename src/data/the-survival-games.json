@@ -1,0 +1,30 @@
+{
+  "slug": "the-survival-games",
+  "title": "The Survival Games",
+  "description": "Keendah Wildwill must enter the Struggle Dome and choose between Joshuel and Thayson. One is dangerous, but good looking. The other is strong, but super cute",
+  "quote": "We’ll never stop loving you. Even if you string us along forever.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG-13",
+  "runtime": "2h 18m",
+  "labels": [
+    "action",
+    "dystopia",
+    "teen drama",
+    "romance"
+  ],
+  "credit": "20th Television",
+  "altHero": "Keendah standing on a rock between Joshuel and Thayson",
+  "alt1": "Keendah talking to Joshuel and Thayson",
+  "alt2": "Keendah",
+  "alt3": "Keendah and Thayson",
+  "alt4": "Keendah and Joshuel",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "dystopian action movies"
+  ]
+}
