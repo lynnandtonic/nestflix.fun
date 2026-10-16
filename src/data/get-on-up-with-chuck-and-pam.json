@@ -1,0 +1,27 @@
+{
+  "slug": "get-on-up-with-chuck-and-pam",
+  "title": "Get On Up! with Chuck And Pam",
+  "description": "Spend your mornings with Chuck and Pam! The cutest couple on TV (if you like white people).",
+  "parent": "Bob’s Burgers",
+  "parentYear": "2011-Present",
+  "parentIMDB": "1561755",
+  "rating": "TV-G",
+  "runtime": "12 seasons",
+  "labels": [
+    "talk show"
+  ],
+  "credit": "Disney-ABC Domestic Television",
+  "altHero": "Chuck and Pam on their living room set",
+  "alt1": "Chuck and Pam",
+  "alt2": "Chuck and Pam with Bob Belcher and Beefsquatch",
+  "alt3": "two cute pandas",
+  "alt4": "Chuck and Pam, Pam looks upset",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": "240"
+}
