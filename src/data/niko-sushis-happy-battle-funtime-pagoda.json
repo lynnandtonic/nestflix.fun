@@ -1,0 +1,31 @@
+{
+  "slug": "niko-sushis-happy-battle-funtime-pagoda",
+  "title": "Niko Sushi’s Happy Battle Funtime Pagoda!",
+  "description": "The game you can never win. Try so hard. But they will fail!",
+  "quote": "Go go, Happy Battle!",
+  "parent": "¡Mucha Lucha!",
+  "parentYear": "2002-2005",
+  "parentIMDB": "0353115",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "starring": [
+    "Niko Sushi"
+  ],
+  "labels": [
+    "game show"
+  ],
+  "credit": "Cartoon Network",
+  "altHero": "Niko Sushi",
+  "alt1": "contestant skiing down a mountain of eggs while eating pancakes, an avalanche of eggs chasing him",
+  "alt2": "contestant being held up by wires, in pain, as something is being injected into his costume",
+  "alt3": "Niko Sushi shooting milk out of a giant baby bottle",
+  "alt4": "contestant driving a train car that looks like a giant fish",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "game shows with a bit of danger!"
+  ],
+  "logoWidth": "250"
+}
