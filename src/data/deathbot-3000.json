@@ -1,0 +1,30 @@
+{
+  "slug": "deathbot-3000",
+  "title": "Deathbot 3000",
+  "description": "As humanity’s best Deathbot 3000 players, Steve and Cheryl are our last hope to defeat Deathmotroid.",
+  "quote": "Kill all humans! Et cetera, et cetera, et cetera.",
+  "parent": "Futurama",
+  "parentYear": "1999-Present",
+  "parentIMDB": "0149460",
+  "rating": "PG-13",
+  "runtime": "2h 13m",
+  "labels": [
+    "sci-fi",
+    "action",
+    "robots"
+  ],
+  "credit": "20th Century Fox Television",
+  "altHero": "Deathmotroid, in the snow, pointing a laser out of his arm",
+  "alt1": "Deathbot 3000 video game",
+  "alt2": "Deathmotroid crashed into an arcade, threatening Steve and Cheryl",
+  "alt3": "Deathmotroid and robots surrounding Steve and Cheryl by the giant button",
+  "alt4": "Steve and Cheryl about to push the giant button",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action sci-fi films",
+    "new on nestflix"
+  ]
+}
