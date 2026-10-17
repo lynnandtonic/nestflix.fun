@@ -1,0 +1,34 @@
+{
+  "slug": "dance-off",
+  "title": "Dance Off!",
+  "description": "The early ’80s classic show with teens dancing down the hottest hits in the land, with one dancer voted “Groover of the Week.”",
+  "parent": "The Shards",
+  "parentYear": "2026-Present",
+  "parentIMDB": "27543562",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "starring": [
+    "Tony Cruz"
+  ],
+  "labels": [
+    "variety",
+    "music",
+    "dancing"
+  ],
+  "credit": "FX",
+  "altHero": "dancers in a birds nest platform",
+  "alt1": "brunette female teen dancing",
+  "alt2": "Tony Cruz sitting in the crowd of teens",
+  "alt3": "blonde female teen dancing",
+  "alt4": "male teen dancing",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows",
+    "music variety",
+    "new on nestflix"
+  ],
+  "logoWidth": "280"
+}
