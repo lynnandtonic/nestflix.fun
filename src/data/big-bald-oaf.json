@@ -1,0 +1,32 @@
+{
+  "slug": "big-bald-oaf",
+  "title": "Big Bald Oaf",
+  "description": "Big Bald Oaf is a simple man who enjoys the small pleasures in life and a nice, steaming bowl of chili.",
+  "quote": "Why do I like my chili so hot?",
+  "parent": "Kirby Buckets",
+  "parentYear": "2014-2017",
+  "parentIMDB": "3544772",
+  "rating": "TV-G",
+  "runtime": "4 seasons",
+  "creator": "Mac McAllister",
+  "labels": [
+    "kids",
+    "comedy",
+    "animation"
+  ],
+  "credit": "Disney XD",
+  "altHero": "bald oaf holding a steaming bowl of chili",
+  "alt1": "oaf with his chili on a mechanical bull",
+  "alt2": "bald oaf’s skull steaming after being covered in hot chili",
+  "alt3": "bald oaf opening his door to see a teen girl monster with braces",
+  "alt4": "family mourning big bald oaf at his funeral",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv",
+    "new on nestflix"
+  ],
+  "logoWidth": "220"
+}
