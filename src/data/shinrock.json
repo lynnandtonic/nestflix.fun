@@ -1,0 +1,34 @@
+{
+  "slug": "shinrock",
+  "title": "Shinrock",
+  "description": "Join Jimmy O’Neilstone for the latest tunes, including performances from top teen recording stars and new dance crazes.",
+  "quote": "Howdy-hi, Shinrockers and all you big ho-daddies.",
+  "parent": "The Flintstones",
+  "parentYear": "1960-1966",
+  "parentIMDB": "0053502",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "starring": [
+    "Jimmy O’Neilstone"
+  ],
+  "labels": [
+    "variety",
+    "music",
+    "dancing"
+  ],
+  "credit": "Hanna-Barbera Productions",
+  "altHero": "Jimmy O’Neilstone",
+  "alt1": "band of three guitar dudes",
+  "alt2": "four teens dancing",
+  "alt3": "band of five dudes with bowl cuts",
+  "alt4": "guy playing guitar with four gorillas behind him",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows",
+    "music variety"
+  ],
+  "logoWidth": "240"
+}
