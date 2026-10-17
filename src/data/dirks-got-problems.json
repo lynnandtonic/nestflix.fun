@@ -1,0 +1,28 @@
+{
+  "slug": "dirks-got-problems",
+  "title": "Dirk’s Got Problems",
+  "description": "Dirk is always finding himself in awkward situations, to the dismay of his roommate.",
+  "quote": "Shubunga!",
+  "parent": "Twelve Forever",
+  "parentYear": "2019",
+  "parentIMDB": "8009622",
+  "rating": "TV-PG",
+  "runtime": "4 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Netflix",
+  "altHero": "Dirk and his roommate sitting on the couch",
+  "alt1": "Dirk’s roommate talking at a cafe",
+  "alt2": "Dirk wearing sunglasses and shrugging",
+  "alt3": "Dirk’s roommate",
+  "alt4": "Dirk on the couch",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms"
+  ],
+  "logoWidth": "230"
+}
