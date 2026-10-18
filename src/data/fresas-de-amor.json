@@ -1,0 +1,33 @@
+{
+  "slug": "fresas-de-amor",
+  "title": "Fresas de Amor",
+  "description": "America’s number one telenovela featuring dramatic storylines of romance, betrayal, magic, and murder.",
+  "quote": "Esméralda, mi amor!",
+  "parent": "Hamster & Gretel",
+  "parentYear": "2022-2025",
+  "parentIMDB": "13330286",
+  "rating": "TV-14",
+  "runtime": "17 seasons",
+  "starring": [
+    "Raoul de la Fuerto",
+    "Irasema Lloyda"
+  ],
+  "producer": "Randy Esperanza",
+  "labels": [
+    "telenovela"
+  ],
+  "credit": "Disney Television Animation",
+  "altHero": "Raoul de la Fuerto on a horse in the desert",
+  "alt1": "woman in pearls holding a sea creature baby by a pier",
+  "alt2": "man looks concerned in a flowery courtyard",
+  "alt3": "a woman crying while talking to another woman in a courtyard",
+  "alt4": "nurse in heavy makeup taking a patient’s blood pressure",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "telenovelas"
+  ],
+  "logoWidth": "320"
+}
