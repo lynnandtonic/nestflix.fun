@@ -1,0 +1,33 @@
+{
+  "slug": "roll-train",
+  "title": "Roll Train",
+  "description": "DJ Train Trax is busting up crispy jams all night long. Join the party every night and don’t miss Tuba Tuesdays.",
+  "quote": "Cut loose and shake your caboose!",
+  "parent": "Go! Go! Cory Carson",
+  "parentYear": "2020-2021",
+  "parentIMDB": "8115702",
+  "rating": "TV-G",
+  "runtime": "5 seasons",
+  "starring": [
+    "DJ Train Trax",
+    "Loose Caboose"
+  ],
+  "labels": [
+    "variety",
+    "music"
+  ],
+  "credit": "Netflix",
+  "altHero": "DJ Train Trax",
+  "alt1": "DJ Train Trax on New Year’s Eve",
+  "alt2": "DJ Train Trax with Loose Caboose",
+  "alt3": "DJ Train Trax",
+  "alt4": "DJ Train Trax playing the tuba",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "variety shows",
+    "music variety"
+  ]
+}
