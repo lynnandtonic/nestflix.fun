@@ -1,0 +1,28 @@
+{
+  "slug": "horror-times",
+  "title": "Horror Times",
+  "description": "Host Ha-joon and the Horror Times Terror Squad investigated haunted locations around Korea, until the channel was abandoned after a failed livestream at Gonjiam Psychiatric Hospital.",
+  "parent": "Gonjiam: Haunted Asylum",
+  "parentYear": "2018",
+  "parentIMDB": "8119752",
+  "rating": "Unrated",
+  "runtime": "3 seasons",
+  "labels": [
+    "reality",
+    "paranormal"
+  ],
+  "credit": "Showbox",
+  "altHero": "Ha-joon",
+  "alt1": "artistic refleced shot of Ha-joon many times",
+  "alt2": "Korean newspaper clipping",
+  "alt3": "Ha-joon on webcam in a tent",
+  "alt4": "Horror Times Terror Squad",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "web series",
+    "paranormal investigation",
+    "new on nestflix"
+  ]
+}
