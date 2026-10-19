@@ -1,0 +1,29 @@
+{
+  "slug": "assisted-living-dracula",
+  "title": "Assisted Living Dracula",
+  "description": "A kinda slow, haunting film you need to see from the beginning.",
+  "parent": "Aqua Teen Hunger Force",
+  "parentYear": "2000-2015",
+  "parentIMDB": "0297494",
+  "rating": "PG-13",
+  "runtime": "1h 34m",
+  "labels": [
+    "horror",
+    "monster"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "very old man Dracula trying to push a nurse call button",
+  "alt1": "Dracula looking for the nurse",
+  "alt2": "Dracula being spoon fed",
+  "alt3": "Dracula looking helpless",
+  "alt4": "Dracula crossing his arms as his hospital bed lowers",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "monster movies",
+    "new on nestflix"
+  ],
+  "logoWidth": "220"
+}
