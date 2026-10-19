@@ -1,0 +1,32 @@
+{
+  "slug": "jurassic-green-book",
+  "title": "Jurassic Green Book",
+  "description": "A surprising jaunt, the first film in Tracy Jordan’s green screen dictionary series, written entirely by the Computer.",
+  "quote": "I am cool scientist Doctor Zucchini. Welcome to Jurassic Green Book.",
+  "parent": "30 Rock: A One-Time Special",
+  "parentYear": "2020",
+  "parentIMDB": "12532268",
+  "rating": "PG",
+  "runtime": "1h 54m",
+  "starring": [
+    "Tracy Jordan"
+  ],
+  "studio": "Universal Pictures",
+  "labels": [
+    "action",
+    "dinosaurs"
+  ],
+  "credit": "NBCUniversal Television",
+  "altHero": "Tracy Jordan with a Hawaiian shirt, and hat composited on him in front of a jungle green screen",
+  "alt1": "dinosaur",
+  "alt2": "helicopter",
+  "alt3": "Tracy Jordan",
+  "alt4": "Tracy Jordan superimposed over a jungle background",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies"
+  ]
+}
