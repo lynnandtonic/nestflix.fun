@@ -1,0 +1,29 @@
+{
+  "slug": "freaks-on-our-street",
+  "title": "Freaks on Our Street",
+  "description": "Suburban life gets a lot more colorful when two hippies move in down the street.",
+  "quote": "It’s a chrysanthemum, baby.",
+  "parent": "Mars Needs Moms",
+  "parentYear": "2011",
+  "parentIMDB": "1305591",
+  "rating": "TV-G",
+  "runtime": "3 seasons",
+  "labels": [
+    "sitcom"
+  ],
+  "credit": "Walt Disney Pictures",
+  "altHero": "two hippies lounging on the grass while two cops paint a VW van behind them",
+  "alt1": "two hippies painting a van",
+  "alt2": "cops approaching them",
+  "alt3": "the cop has a paintbrush in his hand",
+  "alt4": "cops painting flowers on the van",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "sitcoms",
+    "new on nestflix"
+  ],
+  "logoWidth": "170"
+}
