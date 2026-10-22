@@ -1,0 +1,37 @@
+{
+  "slug": "blood-on-the-blackboard",
+  "title": "Blood on the Blackboard: the Bart Simpson Story",
+  "description": "In this made-for-TV movie, Neil Patrick Harris plays young Bart Simpson, accused of mob ties and the disappearance of Principal Seymour Skinner.",
+  "quote": "Shut up!  Where do you want it, Skinner?",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-14",
+  "runtime": "1h 37m",
+  "starring": [
+    "Neil Patrick Harris",
+    "Richard Chamberlain",
+    "Joe Montegna",
+    "Jane Seymour"
+  ],
+  "labels": [
+    "drama",
+    "thriller",
+    "crime"
+  ],
+  "credit": "20th Television",
+  "altHero": "Neil Patrick Harris as Bart Simpson holding a gun",
+  "alt1": "Bart laughing at a hostage, another guy looks worried",
+  "alt2": "Bart slapping the guy",
+  "alt3": "Bart laughing holding the gun",
+  "alt4": "Bart wiping spit off his cheek",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers",
+    "dramatic biopics"
+  ],
+  "logoWidth": "230"
+}
