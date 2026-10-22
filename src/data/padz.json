@@ -1,0 +1,29 @@
+{
+  "slug": "padz",
+  "title": "Padz",
+  "description": "Go inside the mega mansions of Springfield’s hottest young celebrities.",
+  "quote": "This was today?!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "reality",
+    "real estate"
+  ],
+  "credit": "20th Television",
+  "altHero": "big mansion",
+  "alt1": "Kent Brockman in front of a nice house and sports car",
+  "alt2": "Drederick Tatum wearing a fur coat and drinking champagne in a nice bathtub",
+  "alt3": "Rainier Wolfcastle benchpressing a butler",
+  "alt4": "Krusty the Clown in a Speedo by the pool eating shrimp cocktail and yelling at a guy in a sweatsuit next to a monkey",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "home, diy, and art"
+  ],
+  "logoWidth": "230"
+}
