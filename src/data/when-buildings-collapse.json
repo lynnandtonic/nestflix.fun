@@ -1,0 +1,27 @@
+{
+  "slug": "when-buildings-collapse",
+  "title": "When Buildings Collapse",
+  "description": "Man has always loved his buildings. But what happens when the buildings say “No more?”",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-G",
+  "runtime": "2 seasons",
+  "labels": [
+    "reality"
+  ],
+  "credit": "20th Television",
+  "altHero": "Leaning Tower of Pizza restaurant",
+  "alt1": "Old printer’s home collapsing as an old man runs out",
+  "alt2": "Leaning Tower of Pizza collapsing",
+  "alt3": "Society of Structural Engineers building collapsing",
+  "alt4": "the House of Usher exploding",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "reality tv"
+  ],
+  "logoWidth": "230"
+}
