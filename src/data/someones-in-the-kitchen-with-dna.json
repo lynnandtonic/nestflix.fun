@@ -1,0 +1,33 @@
+{
+  "slug": "someones-in-the-kitchen-with-dna",
+  "title": "Someone’s In The Kitchen With DNA",
+  "description": "Have you ever wondered why fat parents have fat children or why Chinese parents have Chinese children? It’s no coincidence. It’s because of DNA.",
+  "quote": "DNA is God’s recipe for making you.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "Unrated",
+  "runtime": "19m",
+  "starring": [
+    "Troy McClure"
+  ],
+  "studio": "Med-Films",
+  "labels": [
+    "educational",
+    "science"
+  ],
+  "credit": "20th Television",
+  "altHero": "Troy McClure in a hazmat suit in a science lab",
+  "alt1": "fat woman with a new baby in the hospital, her husband is eating a caramel apple and the baby is eating some pizza",
+  "alt2": "Chinese couple with tons of Chinese kids",
+  "alt3": "Troy McClure with a kid in the lab",
+  "alt4": "Troy McClure with a chef hat that says “God”, mixing pink liquid in a beaker",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "video",
+    "educational videos",
+    "kids educational videos"
+  ]
+}

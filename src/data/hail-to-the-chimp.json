@@ -1,0 +1,28 @@
+{
+  "slug": "hail-to-the-chimp",
+  "title": "Hail to the Chimp",
+  "description": "For the first time in history, a chimpanzee is the President of the United States and there are many who want to take him down.",
+  "quote": "Get off me, Mr. President!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "PG-13",
+  "runtime": "1h 43m",
+  "labels": [
+    "drama",
+    "thriller"
+  ],
+  "credit": "20th Television",
+  "altHero": "a chimpanzee is the President",
+  "alt1": "the White House",
+  "alt2": "men showing a report to the chimp President",
+  "alt3": "chimp President attacking a man’s face",
+  "alt4": "chimp President jumping from Air Force One that is on fire",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "thrillers"
+  ]
+}
