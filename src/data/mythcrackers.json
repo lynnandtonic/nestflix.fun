@@ -1,0 +1,29 @@
+{
+  "slug": "mythcrackers",
+  "title": "MythCrackers",
+  "description": "Welcome to MythCrackers, where we debunk rumors, legends, and all religions (except the Jesus-based ones).",
+  "quote": "What was it we are trying to prove again?",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "5 seasons",
+  "labels": [
+    "reality",
+    "science"
+  ],
+  "credit": "20th Television",
+  "altHero": "hosts about to pour Mentos in a soda bottle",
+  "alt1": "hosts pointing a light at a series of mirrors, refracting the beam",
+  "alt2": "hosts in their workshop with a black cat",
+  "alt3": "hosts firing a cannon",
+  "alt4": "host in the desert with a scatter plot, next to a pile of bones",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "kids science shows",
+    "reality tv"
+  ]
+}
