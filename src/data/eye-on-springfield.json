@@ -1,0 +1,31 @@
+{
+  "slug": "eye-on-springfield",
+  "title": "Eye on Springfield",
+  "description": "Longtime anchor, Kent Brockman, hosts an info-tainment show featuring news, special interest stories, and interviews with the fine people of Springfield.",
+  "quote": "I, for one, welcome our new insect overlords.",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-G",
+  "runtime": "18 seasons",
+  "starring": [
+    "Kent Brockman"
+  ],
+  "labels": [
+    "talk show"
+  ],
+  "credit": "20th Television",
+  "altHero": "at an estate sale, Brockman interviews Rainier Wolfcastle who is holding a picture of his mother weilding a gun",
+  "alt1": "Brockman in front of a fire and a truck with a photo of a younger him in the same spot also in front of a fire",
+  "alt2": "Brockman covered in cement as a baseball team celebrates in their locker room",
+  "alt3": "Brockman looking up at a stage where Orthodox Jewish men are rapping",
+  "alt4": "Brockman getting a giant dragon tattoo on his back",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "talk shows"
+  ],
+  "logoWidth": ""
+}
