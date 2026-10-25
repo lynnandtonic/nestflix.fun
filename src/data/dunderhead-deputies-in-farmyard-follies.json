@@ -1,0 +1,30 @@
+{
+  "slug": "dunderhead-deputies-in-farmyard-follies",
+  "title": "Dunderhead Deputies in Farmyard Follies",
+  "description": "In a classic from yesteryear, Officer Joe and the Dunderhead Deputies are on the hunt for Italian Pete who has his hands in the chicken coop.",
+  "quote": "My! What juicy chickens!",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "G",
+  "runtime": "46m",
+  "labels": [
+    "comedy",
+    "silent"
+  ],
+  "credit": "20th Television",
+  "altHero": "Italian Pete, in a striped prisoner’s outfit, stuffing chickens into a big bag",
+  "alt1": "Officer Joe gasping at wanted poster of Italian Pete while standing next to him",
+  "alt2": "Police Patrol car full of officers",
+  "alt3": "Pete nailing up a wanted poster of Officer Joe",
+  "alt4": "Officer Joe in hell getting poked by demons",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "hollywood’s golden age",
+    "comedies"
+  ],
+  "logoWidth": "220"
+}
