@@ -1,0 +1,30 @@
+{
+  "slug": "the-cyborganizer",
+  "title": "The Cyborganizer",
+  "description": "A high-tech robocop who was created for one purpose only: to help the N.Y.P.D. tackle its tedious paperwork.",
+  "quote": "I can streamline any procedure. Except this thing you call ‘love.‘",
+  "parent": "The Simpsons",
+  "parentYear": "1989-Present",
+  "parentIMDB": "0096697",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "labels": [
+    "crime drama",
+    "robots"
+  ],
+  "credit": "20th Television",
+  "altHero": "Cyborganizer sorting paperwork",
+  "alt1": "Police chief talking to Cyborganizer",
+  "alt2": "Cyborganizer at the front desk of a modeling agency",
+  "alt3": "Cyborganizer at the desk",
+  "alt4": "baby robot with a teddy bear and a cowboy hat",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "dramatic crime shows"
+  ],
+  "logoWidth": "340"
+}
