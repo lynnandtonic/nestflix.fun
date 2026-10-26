@@ -1,0 +1,29 @@
+{
+  "slug": "real-life-police",
+  "title": "Real Life Police",
+  "description": "The real life police catching nasty men, sending them to jail so they can learn a really nice trade.",
+  "quote": "After a while you get so much experience that you can sense when a crime happens.",
+  "parent": "Freakazoid!",
+  "parentYear": "1995-1997",
+  "parentIMDB": "0111970",
+  "rating": "TV-MA",
+  "runtime": "4 seasons",
+  "labels": [
+    "reality",
+    "crime"
+  ],
+  "credit": "Warner Bros. Television",
+  "altHero": "cop standing in front of a house",
+  "alt1": "police chase from the driver seat of a cop car",
+  "alt2": "gun-wielding woman cop running into a backyard",
+  "alt3": "cops apprehending a shirtless suspect",
+  "alt4": "cop looking at a piece of paper next to a red-headed bearded man in a sewer",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "criminal justice reality tv"
+  ],
+  "logoWidth": "270"
+}
