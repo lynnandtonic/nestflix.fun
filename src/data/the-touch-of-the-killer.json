@@ -1,0 +1,30 @@
+{
+  "slug": "the-touch-of-the-killer",
+  "title": "The Touch of the Killer",
+  "description": "Inspector Jackson and his partner, Sam, chase down a murderder who is always a step ahead of them.",
+  "quote": "It seems the case is closed, Inspector.",
+  "parent": "Framed! A Sicilian Murder Mystery",
+  "parentYear": "2022-2023",
+  "parentIMDB": "16745502",
+  "rating": "TV-14",
+  "runtime": "8 seasons",
+  "labels": [
+    "crime drama"
+  ],
+  "credit": "Netflix",
+  "altHero": "Inspector Jackson and his partner, Sam",
+  "alt1": "Inspector Jackson and Sam",
+  "alt2": "Sam",
+  "alt3": "Inspector Jackson and Sam with cops who have a suspect in custody",
+  "alt4": "Inspector Jackson",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "crime shows",
+    "dramatic crime shows",
+    "new on nestflix"
+  ],
+  "logoWidth": "170"
+}
