@@ -1,0 +1,27 @@
+{
+  "slug": "edens-nova",
+  "title": "Eden’s Nova",
+  "description": "In accordance with the laws of Eden, Saruel takes on evil and ends their reign of terror.",
+  "quote": "Shiny blade!",
+  "parent": "Akane-banashi",
+  "parentYear": "2026-Present",
+  "parentIMDB": "38797595",
+  "rating": "TV-PG",
+  "runtime": "1 season",
+  "starring": [
+    "Hikaru Koragi"
+  ],
+  "labels": [
+    "kids",
+    "action"
+  ],
+  "credit": "Zexcs",
+  "altHero": "Saruel, girl with dark purple hair in a cloak in the sky",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids action shows"
+  ],
+  "logoWidth": "220"
+}
