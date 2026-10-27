@@ -1,0 +1,36 @@
+{
+  "slug": "asunder",
+  "title": "Asunder",
+  "description": "A video nasty cult classic by visionary director Frederick North, about a place like something from your nightmares.",
+  "quote": "He’s calling for me. The evil is contagious.",
+  "parent": "Censor",
+  "parentYear": "2021",
+  "parentIMDB": "10329614",
+  "rating": "R",
+  "runtime": "1h 48m",
+  "starring": [
+    "Alice Lee"
+  ],
+  "director": [
+    "Frederick North"
+  ],
+  "labels": [
+    "horror",
+    "exploitation"
+  ],
+  "credit": "Vertigo Films",
+  "altHero": "Alice Lee, a woman with red curly hair staring into the camera",
+  "alt1": "bearded man in a candlelit room",
+  "alt2": "man reading from books as woman stands nearby",
+  "alt3": "woman spinning around in fear",
+  "alt4": "man reading from an ancient book",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ],
+  "logoWidth": "220"
+}
