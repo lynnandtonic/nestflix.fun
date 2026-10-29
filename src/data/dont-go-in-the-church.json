@@ -1,0 +1,34 @@
+{
+  "slug": "dont-go-in-the-church",
+  "title": "Don’t Go in the Church",
+  "description": "A video nasty cult classic by visionary director Frederick North, about two sisters taken in by a mysterious force in the woods.",
+  "quote": "Let’s play a game.",
+  "parent": "Censor",
+  "parentYear": "2021",
+  "parentIMDB": "10329614",
+  "rating": "R",
+  "runtime": "1h 32m",
+  "director": [
+    "Frederick North"
+  ],
+  "studio": "Ident Investments",
+  "labels": [
+    "horror",
+    "exploitation"
+  ],
+  "credit": "Vertigo Films",
+  "altHero": "girl holding an axe in the doorway of a cabin",
+  "alt1": "girl in the woods making a menacing face",
+  "alt2": "girl watches her sister go into a cabin in the woods",
+  "alt3": "found object windchime",
+  "alt4": "young girl screaming in the dark",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "horror movies",
+    "new on nestflix"
+  ],
+  "logoWidth": "400"
+}
