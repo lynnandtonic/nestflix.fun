@@ -1,0 +1,29 @@
+{
+  "slug": "otters-11",
+  "title": "Otters 11",
+  "description": "Based on the popular comedy manga where otters try to make the world a better place.",
+  "parent": "Bakuman",
+  "parentYear": "2010-2013",
+  "parentIMDB": "1738419",
+  "rating": "TV-PG",
+  "runtime": "3 seasons",
+  "creator": "Hiramaru Kazuya",
+  "labels": [
+    "teens",
+    "comedy",
+    "animation"
+  ],
+  "credit": "Viz Media",
+  "altHero": "otter with a human body in a suit",
+  "alt1": "two schoolgirls talk with the otter man",
+  "alt2": "cowboy guy",
+  "alt3": "otter hand holding a shell locket",
+  "alt4": "otter kneeling in the desert in front of another man who has a long tail",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "TV series",
+    "tv for teens"
+  ]
+}
