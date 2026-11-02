@@ -1,0 +1,32 @@
+{
+  "slug": "danger-in-danger",
+  "title": "Dirk Danger presents: Danger in Danger starring Dirk Danger",
+  "description": "Epic stuntman, Dirk Danger, stars in a new action crime movie alongside his new sidekick and stunt contest winner.",
+  "parent": "Almost Naked Animals",
+  "parentYear": "2011-2013",
+  "parentIMDB": "1830924",
+  "rating": "PG",
+  "runtime": "1h 34m",
+  "starring": [
+    "Dirk Danger",
+    "Awesome Octo"
+  ],
+  "labels": [
+    "action"
+  ],
+  "credit": "9 Story Entertainment",
+  "altHero": "Dirk Danger and Awesome Octo as cops flying through the air",
+  "alt1": "two thieves on a rooftop",
+  "alt2": "Dirk and Octo running",
+  "alt3": "Dirk and Octo jumping in front of the moon",
+  "alt4": "Dirk and Octo falling beside a tall building, catching up to the thieves",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "action movies",
+    "new on nestflix"
+  ],
+  "logoWidth": "280"
+}
