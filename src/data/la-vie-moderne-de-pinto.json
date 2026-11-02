@@ -1,0 +1,37 @@
+{
+  "slug": "la-vie-moderne-de-pinto",
+  "title": "Le Vie Moderne de Pinto",
+  "description": "A portrait of a wallaby. A big hit in the avant-garde circles. Everyone who is wishing to look artistic will want to see it.",
+  "quote": "Naked. Naked.",
+  "parent": "Rocko’s Modern Life",
+  "parentYear": "1993-1996",
+  "parentIMDB": "0106115",
+  "rating": "Unrated",
+  "runtime": "23m",
+  "starring": [
+    "Rocko Rama"
+  ],
+  "director": [
+    "Chuck Chameleon",
+    "Leon Chameleon",
+    "Heffer Wolfe"
+  ],
+  "labels": [
+    "drama",
+    "amateur",
+    "arthouse"
+  ],
+  "credit": "MTV Networks",
+  "altHero": "upside down shot of Rocko in front of his house",
+  "alt1": "dog butt",
+  "alt2": "the word “regret”",
+  "alt3": "Rocko naked drinking milk from the fridge",
+  "alt4": "a stormy sky",
+  "layout": "movie.pug",
+  "stills": true,
+  "tags": [
+    "entry",
+    "movie",
+    "amateur filmmakers"
+  ]
+}
