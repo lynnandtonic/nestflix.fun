@@ -1,0 +1,21 @@
+{
+  "slug": "the-stetsons",
+  "title": "The Stetsons",
+  "description": "The iconic American cowboy hat meets a whimsical, high-tech space-age future.",
+  "parent": "Rugrats",
+  "parentYear": "1991-2005",
+  "parentIMDB": "0101188",
+  "rating": "TV-Y",
+  "runtime": "4 seasons",
+  "labels": [
+    "kids"
+  ],
+  "credit": "Nickelodeon",
+  "altHero": "two futuristic stetson hats flying through space",
+  "layout": "movie.pug",
+  "tags": [
+    "entry",
+    "TV series",
+    "kids tv"
+  ]
+}
